@@ -72,12 +72,12 @@
         "url": "https://www.acm.nl/nl/publicaties"
       },
       {
-        "title": "ACM – Tarieven en methodebesluiten netbeheerders",
-        "url": "https://www.acm.nl/nl/energie/elektriciteit-en-gas/tarieven"
+        "title": "ACM – Tarieven netbeheerders (netbeheerkosten)",
+        "url": "https://www.acm.nl/nl/energie/elektriciteit-en-gas/energietarieven/netbeheerkosten"
       },
       {
-        "title": "ACM – Codes (netcodes elektriciteit en gas)",
-        "url": "https://www.acm.nl/nl/energie/elektriciteit-en-gas/codes"
+        "title": "ACM – Codes energie (netcodes elektriciteit en gas)",
+        "url": "https://www.acm.nl/nl/energie/elektriciteit-en-gas/groothandelsmarkt-energie/codes-energie-wijzigen"
       }
     ],
     "date_from_page": true
@@ -121,7 +121,7 @@
       },
       {
         "title": "ACER – REMIT",
-        "url": "https://www.acer.europa.eu/remit"
+        "url": "https://www.acer.europa.eu/remit/about-remit"
       }
     ],
     "date_sitemap": "https://www.acer.europa.eu/sitemap.xml"
@@ -308,19 +308,15 @@
     "feeds": [],
     "links": [
       {
-        "title": "Energiewet (wetten.overheid.nl)",
-        "url": "https://wetten.overheid.nl/zoeken?titel=Energiewet"
+        "title": "Energiewet",
+        "url": "https://wetten.overheid.nl/BWBR0050714"
       },
       {
-        "title": "Elektriciteitswet 1998",
-        "url": "https://wetten.overheid.nl/BWBR0009755"
+        "title": "Wet collectieve warmte (grotendeels nog niet in werking)",
+        "url": "https://wetten.overheid.nl/BWBR0052212"
       },
       {
-        "title": "Gaswet",
-        "url": "https://wetten.overheid.nl/BWBR0011440"
-      },
-      {
-        "title": "Warmtewet",
+        "title": "Warmtewet (geldt tot de Wet collectieve warmte in werking treedt)",
         "url": "https://wetten.overheid.nl/BWBR0033729"
       },
       {
