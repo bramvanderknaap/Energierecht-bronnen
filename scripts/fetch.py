@@ -177,8 +177,9 @@ MONTHS = {
 MAX_DATE_LOOKUPS = 80
 
 
-def find_date(raw):
-    """Zoekt de publicatiedatum op de pagina van een artikel."""
+def find_date(raw, structured_only=False):
+    """Zoekt de publicatiedatum op de pagina van een artikel.
+    structured_only: alleen de datum die de website zelf als publicatiedatum opgeeft."""
     html = raw.decode("utf-8", errors="replace")
     meta = re.search(
         r'<meta[^>]+(?:property|name)="(?:article:published_time|dcterms\.(?:created|issued|date)|DC\.date|date|publication_date)"[^>]*content="([^"]+)"',
@@ -186,9 +187,11 @@ def find_date(raw):
         r'<meta[^>]+content="([^"]+)"[^>]*(?:property|name)="(?:article:published_time|dcterms\.(?:created|issued|date)|DC\.date|date|publication_date)"',
         html, re.I)
     for m in (meta, re.search(r'"datePublished"\s*:\s*"([^"]+)"', html),
-              re.search(r'<time[^>]+datetime="([^"]+)"', html, re.I)):
+              None if structured_only else re.search(r'<time[^>]+datetime="([^"]+)"', html, re.I)):
         if m and (d := parse_date(m[1][:25])):
             return d
+    if structured_only:
+        return None
     # Anders: de eerste geschreven datum in de hoofdtekst, bijv. "13 oktober 2026".
     start = max(html.find("<main"), html.find("<h1"), 0)
     text = strip_html(html[start:start + 20000]).lower()
@@ -212,12 +215,55 @@ def is_plausible(date):
     return date and datetime.fromisoformat(date) <= datetime.now(timezone.utc) + timedelta(days=1)
 
 
+def date_from_url(url):
+    """Sommige adressen bevatten de publicatiedatum, bijv. ...-2026-09-17_en of ddn-20260922-1."""
+    m = re.search(r"-(20\d\d)-(\d\d)-(\d\d)_[a-z]{2}$", url) or re.search(r"/ddn-(20\d\d)(\d\d)(\d\d)-", url)
+    try:
+        return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc).isoformat() if m else None
+    except ValueError:
+        return None
+
+
+def verify_date(item):
+    """De feed van de Europese Commissie geeft de datum van de laatste wijziging, niet van publicatie.
+    Lees daarom de publicatiedatum van de artikelpagina (of uit het adres)."""
+    url_date = date_from_url(item["url"])
+    reference = datetime.fromisoformat(url_date or item["date"])
+    try:
+        page_date = find_date(download(item["url"]), structured_only=True)
+    except Exception:
+        item["date_lookups"] = item.get("date_lookups", 0) + 1
+        if url_date:
+            item["date"] = url_date
+            item.pop("date_estimated", None)
+        if item["date_lookups"] >= 3:
+            item["date_checked"] = True
+        return False
+    # Een publicatiedatum ligt niet na de feeddatum en niet veel eerder; anders klopt de pagina niet.
+    if is_plausible(page_date) and reference - timedelta(days=60) <= datetime.fromisoformat(page_date) <= reference + timedelta(days=1):
+        date = page_date
+    else:
+        date = url_date
+    item["date_checked"] = True
+    item.pop("date_lookups", None)
+    if date:
+        changed = date[:10] != item["date"][:10]
+        item["date"] = date
+        item.pop("date_estimated", None)
+        return changed
+    return False
+
+
 def fill_dates(items, sources):
-    """Haalt voor items zonder datum de datum van de artikelpagina op."""
-    allowed = {s["id"] for s in sources if s.get("date_from_page")}
-    todo = [i for i in items if i.get("date_estimated") and i["source"] in allowed and i.get("date_lookups", 0) < 3]
+    """Haalt voor items zonder datum de datum van de artikelpagina op,
+    en controleert bij bronnen met "verify" of de datum uit de feed klopt."""
+    estimate = {s["id"] for s in sources if s.get("date_from_page") is True}
+    verify = {s["id"] for s in sources if s.get("date_from_page") == "verify"}
+    todo = [i for i in items if i.get("date_estimated") and i["source"] in estimate and i.get("date_lookups", 0) < 3]
+    check = [i for i in items if i["source"] in verify and not i.get("date_checked")]
+    budget = MAX_DATE_LOOKUPS
     found = 0
-    for item in todo[:MAX_DATE_LOOKUPS]:
+    for item in todo[:budget]:
         time.sleep(1)
         try:
             date = find_date(download(item["url"]))
@@ -230,7 +276,13 @@ def fill_dates(items, sources):
             found += 1
         else:
             item["date_lookups"] = item.get("date_lookups", 0) + 1
-    print(f"Publicatiedatum gevonden voor {found} van {min(len(todo), MAX_DATE_LOOKUPS)} artikelen")
+    print(f"Publicatiedatum gevonden voor {found} van {min(len(todo), budget)} artikelen")
+    budget -= min(len(todo), budget)
+    corrected = 0
+    for item in check[:budget]:
+        time.sleep(1)
+        corrected += verify_date(item)
+    print(f"Datum gecontroleerd voor {min(len(check), budget)} artikelen, {corrected} verbeterd")
 
 
 def sitemap_dates(url, limit=20):
@@ -293,6 +345,9 @@ def main():
             prev = old.get(item["url"], {})
             item["source"] = source["id"]
             item["first_seen"] = prev.get("first_seen", now)
+            if prev.get("date_checked"):  # eerder gecontroleerde datum niet overschrijven met de feeddatum
+                item["date"] = prev["date"]
+                item["date_checked"] = True
             if not item["date"]:
                 item["date"] = prev.get("date") or item["first_seen"]
                 item["date_estimated"] = prev.get("date_estimated", True)
