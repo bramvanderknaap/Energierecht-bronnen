@@ -1,22 +1,6 @@
 {
- "updated": "2026-10-13T17:47:43+00:00",
+ "updated": "2026-10-13T18:11:32+00:00",
  "items": [
-  {
-   "title": "Eurostat: EU oil imports value up by 56%, volume stable in Q2 2026",
-   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
-   "date": "2026-10-13T09:58:44+00:00",
-   "summary": "In the second quarter of 2026, the value of the EU’s petroleum oil imports rose sharply, by 55.8%, however their volume remained mostly stable compared with the monthly average in 2025, at 36.7 million tonnes (+1.2%).",
-   "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "Eurostat: Evolution of fuel prices in August 2026",
-   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250922-1",
-   "date": "2026-10-13T09:58:28+00:00",
-   "summary": "In August 2026, the price of fuels and lubricants for personal transport in the EU increased by 23.8% compared with August 2025. This followed year-on-year increases of 13.7% in June and 16.9% in July.",
-   "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
   {
    "title": "CBb: SDE-subsidie. Vaststelling van de correctiebedragen voor 2024 in strijd met artikel 14 van het Besluit SDE. Artikel 2 van de Regeling… (ECLI:NL:CBB:2026:445)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:445",
@@ -36,10 +20,11 @@
   {
    "title": "Methane emissions reporting templates – Commission launches call for feedback",
    "url": "https://energy.ec.europa.eu/news/methane-emissions-reporting-templates-commission-launches-call-feedback-2026-10-12_en",
-   "date": "2026-10-12T07:30:09+00:00",
+   "date": "2026-10-12T07:29:06+00:00",
    "summary": "The European Commission has published a draft implementing regulation adopting reporting templates for methane emissions in the energy sector and launched a 4-week call for feedback on the document.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Eerste klankbordgroep kostengebaseerde tariefregulering warmte",
@@ -68,10 +53,11 @@
   {
    "title": "EU gas system prepared for the winter despite lower storage levels",
    "url": "https://energy.ec.europa.eu/news/eu-gas-system-prepared-winter-despite-lower-storage-levels-2026-10-08_en",
-   "date": "2026-10-08T15:55:59+00:00",
+   "date": "2026-10-08T15:45:18+00:00",
    "summary": "The Gas Coordination Group has met again today to take stock of the current gas market situation in Europe.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Ontwerp codebesluit tijdsafhankelijke tarieven voor grote aansluitingen",
@@ -100,10 +86,11 @@
   {
    "title": "Energy Transition Investment Council - Call for applications",
    "url": "https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-06_en",
-   "date": "2026-10-06T15:54:04+00:00",
+   "date": "2026-10-06T15:34:18+00:00",
    "summary": "The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial Institution (IFI) Coordination sub-group.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 15-16 October 2026",
@@ -111,7 +98,8 @@
    "date": "2026-10-06T09:45:26+00:00",
    "summary": "Ahead of the October European Council, President von der Leyen debates with Members of the European Parliament how to tackle high energy costs for families and industry.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "G7 Leaders' Statement on global energy security and market stability",
@@ -119,7 +107,8 @@
    "date": "2026-10-05T07:30:04+00:00",
    "summary": "Today, we, the Leaders of the G7, convened a virtual meeting to address the deepening challenges to our energy security.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Energy Union Task Force meets to ensure coordination on diesel supplies and prices in Europe",
@@ -127,7 +116,8 @@
    "date": "2026-10-02T09:55:32+00:00",
    "summary": "The Energy Union Task Force - Security has met today to discuss the latest developments concerning the situation on the diesel market and impact on prices.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "CBb: Boete opgelegd aan exploitant van een biogasinstallatie, omdat deze niet voldeed aan de eisen van de registratie van de… (ECLI:NL:CBB:2026:111)",
@@ -138,20 +128,22 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
-   "title": "Commission grants CB RES status to three additional cross-border renewable energy projects",
-   "url": "https://cinea.ec.europa.eu/news-events/news/commission-grants-cb-res-status-three-additional-cross-border-renewable-energy-projects-2026-10-01_en",
-   "date": "2026-10-01T11:36:01+00:00",
-   "summary": "The European Commission has approved three new cross-border renewable energy projects under the fifth call for CB RES status: WIND, DEPLOY and ZEGA-LINNK. Following this update, and after the withdrawal of PONTIS from the list, the number of projects holding CB RES status now stands at 15.",
-   "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
    "title": "October infringements package: key decisions on energy",
    "url": "https://energy.ec.europa.eu/news/october-infringements-package-key-decisions-energy-2026-10-01_en",
    "date": "2026-10-01T10:21:16+00:00",
    "summary": "In the list of October infringements, there are 2 energy-related letters of formal notice and additional letters of formal notice, 5 reasoned opinions and 1 referral to the court of Justice.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Commission grants CB RES status to three additional cross-border renewable energy projects",
+   "url": "https://cinea.ec.europa.eu/news-events/news/commission-grants-cb-res-status-three-additional-cross-border-renewable-energy-projects-2026-10-01_en",
+   "date": "2026-10-01T06:33:11+00:00",
+   "summary": "The European Commission has approved three new cross-border renewable energy projects under the fifth call for CB RES status: WIND, DEPLOY and ZEGA-LINNK. Following this update, and after the withdrawal of PONTIS from the list, the number of projects holding CB RES status now stands at 15.",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Opening remarks by Commissioner Jørgensen at the press conference concluding the Informal Energy Council",
@@ -159,15 +151,8 @@
    "date": "2026-09-30T15:57:34+00:00",
    "summary": "Commissioner Dan Jørgensen: ‘Thank you, Minister, for hosting these important discussions here in Dublin. And thank you for putting energy affordability and security at the top of the agenda. Months after the start of the conflict in Iran, it is clear that we are still facing an energy price crisis'",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "EIB powers Europe’s solar future with €100 million for Romania’s 1.3 GWp Dama Solar",
-   "url": "https://www.eib.org/en/press/all/2026-324-eib-powers-europe-s-solar-future-with-eur100-million-for-romania-s-1-3-gwp-dama-solar",
-   "date": "2026-09-30T15:29:18+00:00",
-   "summary": "The European Investment Bank (EIB) is providing €100 million for Dama Solar, a new large-scale solar power plant being developed by Rezolv Energy in Arad County, western Romania.",
-   "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Regulators seek more time to decide on the amendment to the Core intraday capacity calculation methodology",
@@ -194,12 +179,22 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
+   "title": "EIB powers Europe’s solar future with €100 million for Romania’s 1.3 GWp Dama Solar",
+   "url": "https://www.eib.org/en/press/all/2026-324-eib-powers-europe-s-solar-future-with-eur100-million-for-romania-s-1-3-gwp-dama-solar",
+   "date": "2026-09-30T01:00:00+00:00",
+   "summary": "The European Investment Bank (EIB) is providing €100 million for Dama Solar, a new large-scale solar power plant being developed by Rezolv Energy in Arad County, western Romania.",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
+  },
+  {
    "title": "Oil Coordination Group: Continued concern about prices while supply remains stable",
    "url": "https://energy.ec.europa.eu/news/oil-coordination-group-continued-concern-about-prices-while-supply-remains-stable-2026-09-29_en",
-   "date": "2026-09-29T15:33:02+00:00",
+   "date": "2026-09-29T14:53:10+00:00",
    "summary": "The Oil Coordination Group met again today to take stock of the current oil market situation.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "ACER finds hydrogen network planning frameworks across the EU still incomplete",
@@ -220,10 +215,11 @@
   {
    "title": "Commission takes action to ensure complete and timely transposition of EU directives - key decisions on energy",
    "url": "https://energy.ec.europa.eu/news/commission-takes-action-ensure-complete-and-timely-transposition-eu-directives-key-decisions-energy-2026-09-25_en",
-   "date": "2026-09-28T07:51:28+00:00",
+   "date": "2026-09-25T10:45:34+00:00",
    "summary": "The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose EU Directives into their national laws.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Gas Coordination Group continues work on winter preparedness",
@@ -231,7 +227,8 @@
    "date": "2026-09-25T08:33:28+00:00",
    "summary": "The Gas Coordination Group met again yesterday to take stock of the current gas market situation.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "CEER President Pedro Verdelho elected Chair of the International Confederation of Energy Regulators",
@@ -239,14 +236,6 @@
    "date": "2026-09-24T11:06:14+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "In focus: EU international energy cooperation",
-   "url": "https://energy.ec.europa.eu/news/focus-eu-international-energy-cooperation-2026-09-17_en",
-   "date": "2026-09-23T13:36:43+00:00",
-   "summary": "Today, the global clean energy transition is firmly underway and has become an engine for competitiveness, resilience and prosperity.",
-   "source": "ec",
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
@@ -258,12 +247,22 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
+   "title": "Eurostat: EU oil imports value up by 56%, volume stable in Q2 2026",
+   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
+   "date": "2026-09-22T09:00:00+00:00",
+   "summary": "In the second quarter of 2026, the value of the EU’s petroleum oil imports rose sharply, by 55.8%, however their volume remained mostly stable compared with the monthly average in 2025, at 36.7 million tonnes (+1.2%).",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
+  },
+  {
    "title": "Commission enhances energy efficiency and sustainability of data centres in the EU",
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1667",
    "date": "2026-09-21T12:49:15+00:00",
    "summary": "The European Commission proposed today a common rating scheme for data centres aimed at increasing transparency on their energy use and supporting their sustainable integration into Europe's energy system.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Minimum performance standards for data centres in Europe - public consultation launched",
@@ -271,7 +270,8 @@
    "date": "2026-09-21T12:44:08+00:00",
    "summary": "The European Commission has launched a 12-week open public consultation and call for evidence on minimum performance standards for data centres in the EU.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Speech by Commissioner Jørgensen at the inauguration of the Greensand CCS project",
@@ -279,7 +279,8 @@
    "date": "2026-09-18T14:32:43+00:00",
    "summary": "Commissioner Dan Jørgensen at Greensand’s launch: ‘Carbon storage is now a reality.’ Europe’s first full-scale CO₂ storage project marks a milestone for climate action, proving that decarbonization and competitiveness go hand in hand.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Remarks by Executive Vice-President Ribera and Commissioners Hoekstra and Jørgensen at EU Emission Trading System review and Electrification Action Plan press conference",
@@ -287,23 +288,35 @@
    "date": "2026-09-18T14:30:21+00:00",
    "summary": "Commissioner Dan Jørgensen: ‘The age of fossil fuels is over.’ With the EU Emissions Trading System review and Electrification Action Plan, Europe chooses clean electrons over black molecules—cutting costs, boosting security, and leading the green transition.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Eurostat: 54% of EU’s electricity came from renewables in Q2 2026",
    "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
-   "date": "2026-09-18T09:42:21+00:00",
+   "date": "2026-09-18T09:00:00+00:00",
    "summary": "In the second quarter of 2026, 54.1% of the electricity generated in the EU came from renewable energy sources, a slight decrease from 54.3% in the same period of 2025.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "In focus: EU international energy cooperation",
+   "url": "https://energy.ec.europa.eu/news/focus-eu-international-energy-cooperation-2026-09-17_en",
+   "date": "2026-09-17T13:46:48+00:00",
+   "summary": "Today, the global clean energy transition is firmly underway and has become an engine for competitiveness, resilience and prosperity.",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Energy subsidies report highlights further reduction in 2024",
    "url": "https://energy.ec.europa.eu/news/energy-subsidies-report-highlights-further-reduction-2024-2026-09-17_en",
-   "date": "2026-09-17T12:33:35+00:00",
+   "date": "2026-09-17T11:59:55+00:00",
    "summary": "Total energy subsidies in the EU in 2024 amounted to €340 billion, 5% down on 2023 and significantly lower (-25%) than at the height of the crisis in 2022 (€ 457 billion), according to a new Report on energy subsidies in the EU by the Commission.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "CEER Views on the European Commission’s Legislative Proposal on Future-proofing Electricity Bills",
@@ -316,10 +329,11 @@
   {
    "title": "CEF Energy: EU invests €125.8 million in three cross-border renewable energy projects",
    "url": "https://cinea.ec.europa.eu/news-events/news/cef-energy-eu-invests-eur1258-million-three-cross-border-renewable-energy-projects-2026-09-17_en",
-   "date": "2026-09-17T09:38:46+00:00",
+   "date": "2026-09-17T09:01:44+00:00",
    "summary": "The European Commission has today approved grants worth €125.81 million to finance works actions on three Cross-Border Renewable Energy (CB RES) projects.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
@@ -346,14 +360,6 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
-   "title": "Commission launches Energy Regulation Academy to support public officials to implement EU energy measures",
-   "url": "https://energy.ec.europa.eu/news/commission-launches-energy-regulation-academy-support-public-officials-implement-eu-energy-measures-2026-09-15_en",
-   "date": "2026-09-16T08:11:15+00:00",
-   "summary": "The Commission and the European University Institute are launching the Energy Regulation Academy (EnRA), a new EU-funded initiative designed to help national authorities translate electricity market reforms into practical results across all members.",
-   "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
    "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
    "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
    "date": "2026-09-15T15:20:00+00:00",
@@ -362,20 +368,31 @@
    "first_seen": "2026-10-13T16:45:56+00:00"
   },
   {
-   "title": "EIB helps transform Lithuania’s port of Klaipėda into defence and clean-energy hub with €100 million in financing",
-   "url": "https://www.eib.org/en/press/all/2026-293-eib-helps-transform-lithuania-s-port-of-klaipeda-into-defence-and-clean-energy-hub-with-eur100-million-in-financing",
-   "date": "2026-09-15T11:12:47+00:00",
-   "summary": "The European Investment Bank (EIB) is providing a €100 million loan to help transform Lithuania’s largest seaport, Klaipėda, into a strategic gateway for defence, energy and trade in the Baltic region.",
+   "title": "Commission launches Energy Regulation Academy to support public officials to implement EU energy measures",
+   "url": "https://energy.ec.europa.eu/news/commission-launches-energy-regulation-academy-support-public-officials-implement-eu-energy-measures-2026-09-15_en",
+   "date": "2026-09-15T13:12:33+00:00",
+   "summary": "The Commission and the European University Institute are launching the Energy Regulation Academy (EnRA), a new EU-funded initiative designed to help national authorities translate electricity market reforms into practical results across all members.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing",
    "url": "https://www.eib.org/en/press/all/2026-294-eib-backs-finnish-nuclear-technology-company-steady-energy-with-eur40-million-financing",
-   "date": "2026-09-15T11:12:20+00:00",
+   "date": "2026-09-15T08:00:00+00:00",
    "summary": "The European Investment Bank (EIB) is investing up to €40 million in Finnish nuclear-technology company Steady Energy as part of a broader financing package involving institutional, strategic and retail investors.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "EIB helps transform Lithuania’s port of Klaipėda into defence and clean-energy hub with €100 million in financing",
+   "url": "https://www.eib.org/en/press/all/2026-293-eib-helps-transform-lithuania-s-port-of-klaipeda-into-defence-and-clean-energy-hub-with-eur100-million-in-financing",
+   "date": "2026-09-15T07:00:00+00:00",
+   "summary": "The European Investment Bank (EIB) is providing a €100 million loan to help transform Lithuania’s largest seaport, Klaipėda, into a strategic gateway for defence, energy and trade in the Baltic region.",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
@@ -391,7 +408,8 @@
    "date": "2026-09-14T12:33:15+00:00",
    "summary": "The Commission has opened a call for applications for cross-border energy infrastructure projects seeking to obtain Project of Common Interest (PCI) or Project of Mutual Interest (PMI) status under the TEN-E Regulation.",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "CBb: Proces-verbaal van de mondelinge uitspraak van 27 augustus 2026. Beroep ongegrond. De minister heeft de aanvraag terecht afgewezen, gezien… (ECLI:NL:CBB:2026:435)",
@@ -402,20 +420,22 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
-   "title": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
-   "url": "https://energy.ec.europa.eu/news/nuclear-medicine-new-eu-framework-secure-europes-supply-medical-radioisotopes-and-reduce-dependence-2026-09-10_en",
-   "date": "2026-09-10T15:12:10+00:00",
-   "summary": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
-   "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
    "title": "Consultation on proposed electricity market reforms in the Netherlands",
    "url": "https://energy.ec.europa.eu/news/consultation-proposed-electricity-market-reforms-netherlands-2026-09-10_en",
    "date": "2026-09-10T15:08:14+00:00",
    "summary": "The European Commission has opened a consultation on proposed electricity market reforms in the Netherlands",
    "source": "ec",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
+   "url": "https://energy.ec.europa.eu/news/nuclear-medicine-new-eu-framework-secure-europes-supply-medical-radioisotopes-and-reduce-dependence-2026-09-10_en",
+   "date": "2026-09-10T09:12:18+00:00",
+   "summary": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "Christof Lessenich to become the new ACER Director",
@@ -760,6 +780,15 @@
    "summary": "",
    "source": "ceer",
    "first_seen": "2026-10-13T16:43:21+00:00"
+  },
+  {
+   "title": "Eurostat: Evolution of fuel prices in August 2026",
+   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250922-1",
+   "date": "2025-09-22T00:00:00+00:00",
+   "summary": "In August 2026, the price of fuels and lubricants for personal transport in the EU increased by 23.8% compared with August 2025. This followed year-on-year increases of 13.7% in June and 16.9% in July.",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "ACER assessment of the EU wholesale electricity market design",
