@@ -276,14 +276,21 @@
       "netaansluiting",
       "aansluitplicht energie"
     ],
+    "whole_words": [
+      "sde",
+      "isde",
+      "tek"
+    ],
     "feeds": [
       {
         "type": "atom",
         "url": "https://data.rechtspraak.nl/uitspraken/zoeken?creator=http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven&max=300&sort=DESC&return=DOC",
+        "date_from_title": true,
         "title_from_summary": true,
         "title_prefix": "CBb"
       }
     ],
+    "date_from_page": "rechtspraak",
     "links": [
       {
         "title": "Uitspraken zoeken (rechtspraak.nl)",

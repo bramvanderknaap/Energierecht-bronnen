@@ -130,11 +130,32 @@ def parse_html(raw, base_url, include):
     return items
 
 
-def matches_keywords(item, keywords):
+def matches_keywords(item, keywords, whole_words=()):
+    """Een trefwoord telt als een woord ermee begint ("warmte" vindt ook "warmtenet").
+    Afkortingen in whole_words tellen alleen als heel woord ("tek" niet in "tekortkoming")."""
     if not keywords:
         return True
     text = f"{item['title']} {item['summary']}".lower()
-    return any(re.search(r"\b" + re.escape(k.lower()), text) for k in keywords)
+    for k in keywords:
+        end = r"\b" if k in whole_words else ""
+        if re.search(r"\b" + re.escape(k.lower()) + end, text):
+            return True
+    return False
+
+
+def date_from_title(item):
+    """De titel in de rechtspraak-feed bevat de datum van de uitspraak:
+    "ECLI:NL:CBB:2026:490, College van Beroep voor het bedrijfsleven, 13-10-2026, 23/1443".
+    De datum in de feed zelf is de datum van de laatste wijziging, dus die klopt niet."""
+    m = re.search(r",\s*(\d{2})-(\d{2})-(\d{4})\s*(?:,|$)", item["title"])
+    try:
+        date = datetime(int(m[3]), int(m[2]), int(m[1]), tzinfo=timezone.utc).isoformat() if m else None
+    except ValueError:
+        date = None
+    if date:
+        item["date"] = date
+        item["date_checked"] = True
+    return item
 
 
 def title_from_summary(item, prefix):
@@ -158,13 +179,15 @@ def collect(source):
                 items = parse_html(raw, feed["url"], feed["include"])
             else:
                 items = parse_feed(raw, feed["url"])
+                if feed.get("date_from_title"):
+                    items = [date_from_title(i) for i in items]
                 if feed.get("title_from_summary"):
                     items = [title_from_summary(i, feed.get("title_prefix", "")) for i in items]
             report.append(f"  OK   {len(items):4d}  {feed['url']}")
             found.extend(items)
         except Exception as e:  # een kapotte bron mag de rest niet stoppen
             report.append(f"  FOUT       {feed['url']}  ({type(e).__name__}: {e})")
-    kept = [i for i in found if matches_keywords(i, source.get("keywords"))]
+    kept = [i for i in found if matches_keywords(i, source.get("keywords"), source.get("whole_words", ()))]
     return kept, report
 
 
@@ -224,6 +247,33 @@ def date_from_url(url):
         return None
 
 
+RECHTSPRAAK_META = "https://data.rechtspraak.nl/uitspraken/content?id={}&return=META"
+
+
+def rechtspraak_date(item):
+    """Haalt de uitspraakdatum op uit de gegevens van rechtspraak.nl (op ECLI-nummer)."""
+    m = re.search(r"ECLI:[A-Z]{2}:[A-Z0-9]+:\d{4}:[A-Z0-9.]+", item["url"])
+    if not m:
+        item["date_checked"] = True
+        return False
+    try:
+        raw = download(RECHTSPRAAK_META.format(m[0])).decode("utf-8", errors="replace")
+    except Exception:
+        item["date_lookups"] = item.get("date_lookups", 0) + 1
+        if item["date_lookups"] >= 3:
+            item["date_checked"] = True
+        return False
+    found = re.search(r'<dcterms:date[^>]*Uitspraakdatum[^>]*>\s*(\d{4}-\d{2}-\d{2})', raw)
+    item["date_checked"] = True
+    item.pop("date_lookups", None)
+    if found and is_plausible(date := datetime.fromisoformat(found[1]).replace(tzinfo=timezone.utc).isoformat()):
+        changed = date[:10] != item["date"][:10]
+        item["date"] = date
+        item.pop("date_estimated", None)
+        return changed
+    return False
+
+
 def verify_date(item):
     """De feed van de Europese Commissie geeft de datum van de laatste wijziging, niet van publicatie.
     Lees daarom de publicatiedatum van de artikelpagina (of uit het adres)."""
@@ -259,8 +309,9 @@ def fill_dates(items, sources):
     en controleert bij bronnen met "verify" of de datum uit de feed klopt."""
     estimate = {s["id"] for s in sources if s.get("date_from_page") is True}
     verify = {s["id"] for s in sources if s.get("date_from_page") == "verify"}
+    rechtspraak = {s["id"] for s in sources if s.get("date_from_page") == "rechtspraak"}
     todo = [i for i in items if i.get("date_estimated") and i["source"] in estimate and i.get("date_lookups", 0) < 3]
-    check = [i for i in items if i["source"] in verify and not i.get("date_checked")]
+    check = [i for i in items if i["source"] in verify | rechtspraak and not i.get("date_checked")]
     budget = MAX_DATE_LOOKUPS
     found = 0
     for item in todo[:budget]:
@@ -281,7 +332,7 @@ def fill_dates(items, sources):
     corrected = 0
     for item in check[:budget]:
         time.sleep(1)
-        corrected += verify_date(item)
+        corrected += rechtspraak_date(item) if item["source"] in rechtspraak else verify_date(item)
     print(f"Datum gecontroleerd voor {min(len(check), budget)} artikelen, {corrected} verbeterd")
 
 
@@ -357,7 +408,7 @@ def main():
     by_id = {s["id"]: s for s in sources}
     for url, item in old.items():
         source = by_id.get(item.get("source"))
-        if url not in all_items and source and matches_keywords(item, source.get("keywords")):
+        if url not in all_items and source and matches_keywords(item, source.get("keywords"), source.get("whole_words", ())):
             all_items[url] = item
 
     apply_sitemap_dates(list(all_items.values()), sources)
