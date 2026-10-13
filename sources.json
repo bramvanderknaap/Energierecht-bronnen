@@ -37,36 +37,38 @@
       "salderen",
       "energiecontract",
       "stroom",
-      "aansluit",
       "groothandelsmarkt",
       "x-factor",
       "net op zee",
-      "netten"
+      "netten",
+      "aansluiting",
+      "zonoffensief",
+      "energietarie"
     ],
     "feeds": [
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/energie",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=0",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       },
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/publicaties",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=1",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       },
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/publicaties?page=1",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=2",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       },
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/publicaties?page=2",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=3",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       },
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/publicaties?page=3",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=4",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       }
     ],
@@ -100,7 +102,17 @@
       {
         "type": "html",
         "url": "https://www.acer.europa.eu/news-and-events/news",
-        "include": "^https://www\\.acer\\.europa\\.eu/news/[a-z0-9-]+$"
+        "include": "^https://www\\.acer\\.europa\\.eu/(news|events-and-engagement/news)/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
+        "url": "https://www.acer.europa.eu/news-and-events/news?page=1",
+        "include": "^https://www\\.acer\\.europa\\.eu/(news|events-and-engagement/news)/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
+        "url": "https://www.acer.europa.eu/news-and-events/news?page=2",
+        "include": "^https://www\\.acer\\.europa\\.eu/(news|events-and-engagement/news)/[a-z0-9-]+$"
       }
     ],
     "links": [
@@ -179,10 +191,10 @@
   {
     "id": "rijksoverheid",
     "name": "Rijksoverheid",
-    "full_name": "Rijksoverheid – Ministerie van Klimaat en Groene Groei",
+    "full_name": "Rijksoverheid – Ministerie van Economische Zaken en Klimaat",
     "region": "NL",
     "description": "Nieuws, Kamerbrieven en beleid van het kabinet over energie.",
-    "website": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei",
+    "website": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat",
     "keywords": [
       "energie",
       "elektriciteit",
@@ -206,33 +218,22 @@
     "feeds": [
       {
         "type": "html",
-        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws",
-        "include": "^https://www\\.rijksoverheid\\.nl/(actueel/nieuws|documenten/kamerstukken|ministeries/ministerie-van-klimaat-en-groene-groei/(nieuws|documenten/kamerstukken))/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
-      },
-      {
-        "type": "html",
-        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/documenten",
-        "include": "^https://www\\.rijksoverheid\\.nl/(actueel/nieuws|documenten/kamerstukken|ministeries/ministerie-van-klimaat-en-groene-groei/(nieuws|documenten/kamerstukken))/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
-      },
-      {
-        "type": "html",
-        "url": "https://www.rijksoverheid.nl/onderwerpen/energievoorziening/nieuws",
-        "include": "^https://www\\.rijksoverheid\\.nl/(actueel/nieuws|documenten/kamerstukken|ministeries/ministerie-van-klimaat-en-groene-groei/(nieuws|documenten/kamerstukken))/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
-      },
-      {
-        "type": "html",
-        "url": "https://www.rijksoverheid.nl/onderwerpen/energievoorziening/documenten",
-        "include": "^https://www\\.rijksoverheid\\.nl/(actueel/nieuws|documenten/kamerstukken|ministeries/ministerie-van-klimaat-en-groene-groei/(nieuws|documenten/kamerstukken))/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat",
+        "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
       }
     ],
     "links": [
       {
-        "title": "Rijksoverheid – Onderwerp energievoorziening",
-        "url": "https://www.rijksoverheid.nl/onderwerpen/energievoorziening"
+        "title": "Nieuws van het ministerie van EZK",
+        "url": "https://www.rijksoverheid.nl/actueel/nieuws?filters%5B0%5D%5Bfield%5D=ministry&filters%5B0%5D%5Bvalues%5D%5B0%5D=Ministerie%20van%20Economische%20Zaken%20en%20Klimaat&filters%5B0%5D%5Btype%5D=all"
       },
       {
-        "title": "Ministerie van Klimaat en Groene Groei",
-        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei"
+        "title": "Officiële stukken van EZK (open.overheid.nl)",
+        "url": "https://open.overheid.nl/zoeken?zoeken=&pagina=1&organisatie=ministerie+van+Economische+Zaken+en+Klimaat"
+      },
+      {
+        "title": "Thema klimaat, milieu en natuur (o.a. duurzame energie)",
+        "url": "https://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur"
       }
     ]
   },
@@ -246,7 +247,6 @@
     "keywords": [
       "energie",
       "elektriciteit",
-      "gas",
       "netbeheer",
       "warmte",
       "codebesluit",
@@ -269,12 +269,18 @@
       "isde",
       "tek",
       "netcode",
-      "aansluit",
       "windpark",
       "zonnepark",
       "biogas",
       "waterstof",
-      "gasopslag"
+      "gasopslag",
+      "aardgas",
+      "gasnet",
+      "gaslevering",
+      "groen gas",
+      "gastransport",
+      "netaansluiting",
+      "aansluitplicht energie"
     ],
     "feeds": [
       {

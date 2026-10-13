@@ -4,6 +4,7 @@ en schrijft ze naar data/items.json. Gebruikt alleen de standaardbibliotheek."""
 import json
 import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -106,7 +107,10 @@ class LinkParser(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag == "a" and self._href is not None:
-            self.links.append((self._href, " ".join("".join(self._text).split())))
+            # Een link bevat soms een kop plus een intro; neem dan alleen de kop.
+            parts = [" ".join(p.split()) for p in self._text if p.strip()]
+            title = next((p for p in parts if len(p) >= 15), " ".join(parts))
+            self.links.append((self._href, title))
             self._href = None
 
 
@@ -147,6 +151,7 @@ def title_from_summary(item, prefix):
 def collect(source):
     found, report = [], []
     for feed in source.get("feeds", []):
+        time.sleep(1)  # vriendelijk blijven voor de websites
         try:
             raw = download(feed["url"])
             if feed["type"] == "html":
