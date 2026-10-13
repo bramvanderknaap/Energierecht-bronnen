@@ -48,27 +48,17 @@
     "feeds": [
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=0",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&keyword=All&sort_by=created",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       },
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=1",
+        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&keyword=All&sort_by=created&page=1",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       },
       {
         "type": "html",
-        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=2",
-        "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
-      },
-      {
-        "type": "html",
-        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=3",
-        "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
-      },
-      {
-        "type": "html",
-        "url": "https://www.acm.nl/nl/zoeken?mixed_content_type%5Bpublication%5D=publication&sort_by=created&page=4",
+        "url": "https://www.acm.nl/nl/publicaties",
         "include": "^https://www\\.acm\\.nl/nl/publicaties/[a-z0-9-]+$"
       }
     ],

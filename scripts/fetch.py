@@ -151,7 +151,7 @@ def title_from_summary(item, prefix):
 def collect(source):
     found, report = [], []
     for feed in source.get("feeds", []):
-        time.sleep(1)  # vriendelijk blijven voor de websites
+        time.sleep(3)  # vriendelijk blijven voor de websites
         try:
             raw = download(feed["url"])
             if feed["type"] == "html":
