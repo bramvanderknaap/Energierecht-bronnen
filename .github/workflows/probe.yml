@@ -1,0 +1,13 @@
+name: Bronnen verkennen
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URL's, gescheiden door spaties"
+        required: true
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/probe.py ${{ inputs.urls }}
