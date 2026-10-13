@@ -7,7 +7,7 @@ import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
@@ -207,9 +207,15 @@ def find_date(raw):
     return None
 
 
-def fill_dates(items):
+def is_plausible(date):
+    """Een publicatiedatum ligt niet in de toekomst (dan is het bijv. een deadline)."""
+    return date and datetime.fromisoformat(date) <= datetime.now(timezone.utc) + timedelta(days=1)
+
+
+def fill_dates(items, sources):
     """Haalt voor items zonder datum de datum van de artikelpagina op."""
-    todo = [i for i in items if i.get("date_estimated") and i.get("date_lookups", 0) < 3]
+    allowed = {s["id"] for s in sources if s.get("date_from_page")}
+    todo = [i for i in items if i.get("date_estimated") and i["source"] in allowed and i.get("date_lookups", 0) < 3]
     found = 0
     for item in todo[:MAX_DATE_LOOKUPS]:
         time.sleep(1)
@@ -217,7 +223,7 @@ def fill_dates(items):
             date = find_date(download(item["url"]))
         except Exception:
             date = None
-        if date:
+        if is_plausible(date):
             item["date"] = date
             item.pop("date_estimated", None)
             item.pop("date_lookups", None)
@@ -225,6 +231,49 @@ def fill_dates(items):
         else:
             item["date_lookups"] = item.get("date_lookups", 0) + 1
     print(f"Publicatiedatum gevonden voor {found} van {min(len(todo), MAX_DATE_LOOKUPS)} artikelen")
+
+
+def sitemap_dates(url, limit=20):
+    """Leest de 'laatst gewijzigd'-datums uit een sitemap (ook als die over meerdere pagina's verdeeld is)."""
+    dates, queue, seen = {}, [url], set()
+    while queue and len(seen) < limit:
+        current = queue.pop(0)
+        if current in seen:
+            continue
+        seen.add(current)
+        try:
+            root = ET.fromstring(download(current))
+        except Exception as e:
+            print(f"  Sitemap niet gelezen: {current} ({type(e).__name__})")
+            continue
+        for el in root:
+            loc, lastmod = child_text(el, "loc"), child_text(el, "lastmod")
+            if local(el.tag) == "sitemap" and loc:
+                queue.append(loc)
+            elif loc and lastmod:
+                dates[loc.rstrip("/")] = parse_date(lastmod)
+    return dates
+
+
+def apply_sitemap_dates(items, sources):
+    """Voor bronnen zonder datum op de pagina: gebruik de datum uit de sitemap van de website."""
+    for source in sources:
+        if not source.get("date_sitemap"):
+            continue
+        dates = sitemap_dates(source["date_sitemap"])
+        found = 0
+        for item in items:
+            if item["source"] != source["id"]:
+                continue
+            date = dates.get(item["url"].rstrip("/"))
+            if is_plausible(date):
+                item["date"] = date
+                item.pop("date_estimated", None)
+                found += 1
+            else:
+                item["date"] = item["first_seen"]
+                item["date_estimated"] = True
+        print(f"{source['name']}: datum uit sitemap voor {found} artikelen ({len(dates)} pagina's in sitemap)")
 
 
 def main():
@@ -256,7 +305,8 @@ def main():
         if url not in all_items and source and matches_keywords(item, source.get("keywords")):
             all_items[url] = item
 
-    fill_dates(list(all_items.values()))
+    apply_sitemap_dates(list(all_items.values()), sources)
+    fill_dates(list(all_items.values()), sources)
 
     result = []
     for source in sources:

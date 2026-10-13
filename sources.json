@@ -79,7 +79,8 @@
         "title": "ACM – Codes (netcodes elektriciteit en gas)",
         "url": "https://www.acm.nl/nl/energie/elektriciteit-en-gas/codes"
       }
-    ]
+    ],
+    "date_from_page": true
   },
   {
     "id": "acer",
@@ -122,7 +123,8 @@
         "title": "ACER – REMIT",
         "url": "https://www.acer.europa.eu/remit"
       }
-    ]
+    ],
+    "date_sitemap": "https://www.acer.europa.eu/sitemap.xml"
   },
   {
     "id": "ec",
@@ -176,7 +178,8 @@
         "title": "CEER – Publicaties",
         "url": "https://www.ceer.eu/publications/"
       }
-    ]
+    ],
+    "date_from_page": true
   },
   {
     "id": "rijksoverheid",
