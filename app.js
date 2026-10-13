@@ -42,13 +42,36 @@
     shown = PAGE;
     render();
   });
+  $("alleenNL").addEventListener("change", () => { shown = PAGE; render(); });
   $("zoek").addEventListener("input", () => { shown = PAGE; render(); });
   $("more").addEventListener("click", () => { shown += PAGE; render(); });
 
+  // Geldt het voor Nederland? Nederlandse bronnen altijd; Europese berichten tenzij ze over een ander land gaan.
+  const woorden = (lijst) => new RegExp(
+    `(^|[^\\p{L}\\p{N}])(${lijst.map((w) => w.replace("*", "\\p{L}*")).join("|")})(?![\\p{L}\\p{N}])`, "iu");
+  const NEDERLAND = woorden(["netherlands", "dutch", "nederland*"]);
+  const ANDER_LAND = woorden([
+    "austria*", "oostenrijk*", "belgi*", "bulgaria*", "bulgarije", "croatia*", "kroatië", "cyprus", "cypriot",
+    "czech*", "tsjechië", "denmark", "danish", "denemarken", "estonia*", "finland", "finnish", "france", "french", "frankrijk",
+    "german*", "duitsland", "greece", "greek", "griekenland", "hungar*", "hongarije", "ireland", "irish", "ierland",
+    "italy", "italian", "italië", "latvia*", "letland", "lithuania*", "litouwen", "luxembourg*", "malta", "maltese", "poland", "polen",
+    "portug*", "romania*", "roemenië", "slovak*", "slowakije", "slovenia*", "slovenië", "spain", "spanish", "spanje",
+    "sweden", "swedish", "zweden", "norway", "norwegian", "noorwegen", "armenia*", "georgia*", "ukrain*", "oekraïne", "moldova*",
+    "türkiye", "turkey", "turkije", "azerbaijan*", "caucasus", "balkan*", "albania*", "serbia*", "montenegr*",
+  ]);
+  const geldtVoorNL = (item) => {
+    const s = byId[item.source];
+    if (s && s.region === "NL") return true;
+    const text = `${item.title} ${item.summary || ""}`;
+    return NEDERLAND.test(text) || !ANDER_LAND.test(text);
+  };
+
   function render() {
     const q = $("zoek").value.trim().toLowerCase();
+    const alleenNL = $("alleenNL").checked;
     const list = data.items.filter(
       (i) => (active === "alle" || i.source === active) &&
+        (!alleenNL || geldtVoorNL(i)) &&
         (!q || (i.title + " " + (i.summary || "")).toLowerCase().includes(q))
     );
     $("count").textContent = `${list.length} publicatie${list.length === 1 ? "" : "s"}`;
