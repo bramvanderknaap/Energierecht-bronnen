@@ -120,15 +120,28 @@ def parse_html(raw, base_url, include):
         if not pattern.search(url) or url in seen or len(text) < 15:
             continue
         seen.add(url)
-        items.append({"title": text, "url": url, "date": None, "summary": ""})
+        m = re.search(r"/(\d{4})/(\d{2})/(\d{2})/", url)
+        date = f"{m[1]}-{m[2]}-{m[3]}T00:00:00+00:00" if m else None
+        items.append({"title": text, "url": url, "date": date, "summary": ""})
     return items
 
 
 def matches_keywords(item, keywords):
     if not keywords:
         return True
-    text = f" {item['title']} {item['summary']} ".lower()
-    return any(k.lower() in text for k in keywords)
+    text = f"{item['title']} {item['summary']}".lower()
+    return any(re.search(r"\b" + re.escape(k.lower()), text) for k in keywords)
+
+
+def title_from_summary(item, prefix):
+    """Rechtspraak-titels zijn alleen een ECLI-nummer; maak er een leesbare titel van."""
+    first = item["summary"].rstrip(".;")
+    if len(first) > 140:
+        first = first[:140].rsplit(" ", 1)[0] + "…"
+    ecli = item["title"].split(",")[0]
+    if first:
+        item["title"] = f"{prefix}: {first} ({ecli})"
+    return item
 
 
 def collect(source):
@@ -140,6 +153,8 @@ def collect(source):
                 items = parse_html(raw, feed["url"], feed["include"])
             else:
                 items = parse_feed(raw, feed["url"])
+                if feed.get("title_from_summary"):
+                    items = [title_from_summary(i, feed.get("title_prefix", "")) for i in items]
             report.append(f"  OK   {len(items):4d}  {feed['url']}")
             found.extend(items)
         except Exception as e:  # een kapotte bron mag de rest niet stoppen
@@ -171,8 +186,10 @@ def main():
             all_items.setdefault(item["url"], item)
 
     # Oude items bewaren die nu niet meer in de feed staan.
+    by_id = {s["id"]: s for s in sources}
     for url, item in old.items():
-        if url not in all_items and any(s["id"] == item.get("source") for s in sources):
+        source = by_id.get(item.get("source"))
+        if url not in all_items and source and matches_keywords(item, source.get("keywords")):
             all_items[url] = item
 
     result = []
