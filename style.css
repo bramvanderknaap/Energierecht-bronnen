@@ -50,7 +50,10 @@ input[type="search"] {
   width: 100%; padding: 10px 12px; font: 1rem var(--sans); color: var(--ink);
   background: var(--surface); border: 1px solid var(--rule); border-radius: 3px;
 }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chips { display: grid; gap: 10px; }
+.filter { display: grid; grid-template-columns: 8.5rem 1fr; gap: 12px; align-items: start; }
+.filter-label { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding-top: 6px; }
+.chip-row { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
 .chip {
   border: 1px solid var(--rule); background: var(--surface); color: var(--ink);
   border-radius: 3px; padding: 4px 10px; font: 0.85rem var(--sans); cursor: pointer;
@@ -68,6 +71,8 @@ input[type="search"] {
 .items a.title:hover { color: var(--navy); text-decoration: underline; text-underline-offset: 3px; }
 .items .info { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.82rem; color: var(--muted); margin-top: 4px; }
 .items .summary { color: var(--muted); font-size: 0.9rem; margin: 6px 0 0; max-width: 70ch; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.tag { font-size: 0.75rem; color: var(--navy); background: var(--navy-soft); padding: 2px 8px; border-radius: 2px; }
 .badge { font: 600 0.68rem/1 var(--sans); letter-spacing: 0.08em; padding: 3px 5px; border: 1px solid currentColor; border-radius: 2px; }
 .badge.NL { color: var(--nl); }
 .badge.EU { color: var(--eu); }
@@ -88,5 +93,7 @@ input[type="search"] {
 
 @media (max-width: 560px) {
   .items li { grid-template-columns: 1fr; gap: 4px; }
+  .filter { grid-template-columns: 1fr; gap: 6px; }
+  .filter-label { padding-top: 0; }
   .items .date { padding-top: 0; }
 }

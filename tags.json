@@ -1,0 +1,257 @@
+{
+  "_uitleg": "Labels voor de filters. Een artikel krijgt een label als een trefwoord in de titel of samenvatting staat. Een trefwoord moet als heel woord voorkomen; met een * aan het eind mag het woord langer doorlopen (zonne* vindt ook zonnepark). Met \"sources\" krijgen alle artikelen van die bron het label automatisch.",
+  "groups": [
+    {
+      "id": "energie",
+      "label": "Energiebron",
+      "tags": [
+        {
+          "id": "elektriciteit",
+          "label": "Elektriciteit",
+          "keywords": [
+            "elektriciteit*",
+            "stroom*",
+            "electricity",
+            "electric",
+            "power",
+            "netcode*",
+            "network code*",
+            "balancing",
+            "balancering",
+            "redispatch*",
+            "intraday",
+            "day-ahead",
+            "capacity calculation",
+            "flow-based",
+            "frequency",
+            "tennet",
+            "transportcapaciteit",
+            "transportvermogen",
+            "netcongestie",
+            "congestie",
+            "grid*",
+            "elektriciteitsnet*",
+            "laadpa*",
+            "laadpunt*",
+            "aansluiting*",
+            "tijdsafhankelijke tarieven"
+          ]
+        },
+        {
+          "id": "gas",
+          "label": "Gas",
+          "keywords": [
+            "gas*",
+            "aardgas",
+            "lng",
+            "biogas*",
+            "groen gas",
+            "methane",
+            "methaan",
+            "gasunie"
+          ]
+        },
+        {
+          "id": "warmte",
+          "label": "Warmte",
+          "keywords": [
+            "warmte*",
+            "heat*",
+            "warmtepomp*",
+            "warmtenet*",
+            "district heating",
+            "koude"
+          ]
+        },
+        {
+          "id": "waterstof",
+          "label": "Waterstof",
+          "keywords": [
+            "waterstof*",
+            "hydrogen",
+            "h2"
+          ]
+        },
+        {
+          "id": "wind",
+          "label": "Wind",
+          "keywords": [
+            "wind",
+            "windpark*",
+            "windmolen*",
+            "windturbine*",
+            "wind op zee",
+            "offshore",
+            "wind energy",
+            "windenergie"
+          ]
+        },
+        {
+          "id": "zon",
+          "label": "Zon",
+          "keywords": [
+            "zon",
+            "zonne*",
+            "zonnepa*",
+            "zonoffensief",
+            "solar",
+            "pv"
+          ]
+        },
+        {
+          "id": "kernenergie",
+          "label": "Kernenergie",
+          "keywords": [
+            "kernenergie",
+            "kerncentrale*",
+            "nuclear",
+            "nucleair*",
+            "radioiso*"
+          ]
+        },
+        {
+          "id": "olie",
+          "label": "Olie en brandstoffen",
+          "keywords": [
+            "olie",
+            "oil",
+            "diesel",
+            "brandstof*",
+            "fuel*",
+            "petrol*",
+            "benzine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wet",
+      "label": "Wet of thema",
+      "tags": [
+        {
+          "id": "energiewet",
+          "label": "Energiewet / Elektriciteitswet",
+          "keywords": [
+            "energiewet",
+            "elektriciteitswet*",
+            "electricity market design",
+            "internal electricity market"
+          ]
+        },
+        {
+          "id": "gaswet",
+          "label": "Gaswet",
+          "keywords": [
+            "gaswet",
+            "gas market package",
+            "gas transmission tariffs"
+          ]
+        },
+        {
+          "id": "warmtewet",
+          "label": "Warmtewet / Wet collectieve warmte",
+          "keywords": [
+            "warmtewet",
+            "wet collectieve warmte",
+            "wcw",
+            "tariefregulering warmte",
+            "warmtenet*"
+          ]
+        },
+        {
+          "id": "netcodes",
+          "label": "Netcodes en methoden",
+          "keywords": [
+            "netcode*",
+            "network code*",
+            "codebesluit*",
+            "tarievencode",
+            "begrippencode",
+            "methodolog*",
+            "methode*",
+            "capacity calculation",
+            "balancing",
+            "implementation framework*",
+            "terms and conditions"
+          ]
+        },
+        {
+          "id": "tarieven",
+          "label": "Tarieven",
+          "keywords": [
+            "tarie*",
+            "tariff*",
+            "x-factor",
+            "methodebesluit*",
+            "network charges",
+            "nettarie*",
+            "tarievenbesluit*"
+          ]
+        },
+        {
+          "id": "remit",
+          "label": "Marktintegriteit (REMIT)",
+          "keywords": [
+            "remit",
+            "market integrity",
+            "marktmanipulatie",
+            "market manipulation",
+            "insider",
+            "algorithmic trading"
+          ]
+        },
+        {
+          "id": "subsidies",
+          "label": "Subsidies (SDE++, ISDE, TEK)",
+          "keywords": [
+            "sde*",
+            "isde",
+            "tek",
+            "subsidie*",
+            "subsid*",
+            "tegemoetkoming*",
+            "cef energy",
+            "grants"
+          ]
+        },
+        {
+          "id": "eu",
+          "label": "EU-wetgeving",
+          "keywords": [
+            "directive",
+            "richtlijn*",
+            "regulation",
+            "verordening*",
+            "legislative proposal*",
+            "wetgevingsvoorstel*",
+            "infringement*",
+            "inbreuk*",
+            "transposition",
+            "omzetting",
+            "delegated act*",
+            "implementing regulation",
+            "package"
+          ]
+        },
+        {
+          "id": "geschil",
+          "label": "Rechtspraak en handhaving",
+          "keywords": [
+            "geschil*",
+            "boete*",
+            "fine*",
+            "handhaving*",
+            "last onder dwangsom",
+            "beroep*",
+            "hoger beroep",
+            "appeal*",
+            "dispute*"
+          ],
+          "sources": [
+            "cbb"
+          ]
+        }
+      ]
+    }
+  ]
+}
