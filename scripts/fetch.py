@@ -168,6 +168,65 @@ def collect(source):
     return kept, report
 
 
+MONTHS = {
+    "januari": 1, "februari": 2, "maart": 3, "april": 4, "mei": 5, "juni": 6, "juli": 7,
+    "augustus": 8, "september": 9, "oktober": 10, "november": 11, "december": 12,
+    "january": 1, "february": 2, "march": 3, "may": 5, "june": 6, "july": 7,
+    "august": 8, "october": 10,
+}
+MAX_DATE_LOOKUPS = 80
+
+
+def find_date(raw):
+    """Zoekt de publicatiedatum op de pagina van een artikel."""
+    html = raw.decode("utf-8", errors="replace")
+    meta = re.search(
+        r'<meta[^>]+(?:property|name)="(?:article:published_time|dcterms\.(?:created|issued|date)|DC\.date|date|publication_date)"[^>]*content="([^"]+)"',
+        html, re.I) or re.search(
+        r'<meta[^>]+content="([^"]+)"[^>]*(?:property|name)="(?:article:published_time|dcterms\.(?:created|issued|date)|DC\.date|date|publication_date)"',
+        html, re.I)
+    for m in (meta, re.search(r'"datePublished"\s*:\s*"([^"]+)"', html),
+              re.search(r'<time[^>]+datetime="([^"]+)"', html, re.I)):
+        if m and (d := parse_date(m[1][:25])):
+            return d
+    # Anders: de eerste geschreven datum in de hoofdtekst, bijv. "13 oktober 2026".
+    start = max(html.find("<main"), html.find("<h1"), 0)
+    text = strip_html(html[start:start + 20000]).lower()
+    names = "|".join(MONTHS)
+    for m in re.finditer(rf"\b(\d{{1,2}}) ({names}) (20\d\d)\b|\b({names}) (\d{{1,2}}),? (20\d\d)\b|\b(\d{{1,2}})[-/.](\d{{1,2}})[-/.](20\d\d)\b", text):
+        try:
+            if m[1]:
+                d = datetime(int(m[3]), MONTHS[m[2]], int(m[1]))
+            elif m[4]:
+                d = datetime(int(m[6]), MONTHS[m[4]], int(m[5]))
+            else:
+                d = datetime(int(m[9]), int(m[8]), int(m[7]))
+        except ValueError:
+            continue
+        return d.replace(tzinfo=timezone.utc).isoformat()
+    return None
+
+
+def fill_dates(items):
+    """Haalt voor items zonder datum de datum van de artikelpagina op."""
+    todo = [i for i in items if i.get("date_estimated") and i.get("date_lookups", 0) < 3]
+    found = 0
+    for item in todo[:MAX_DATE_LOOKUPS]:
+        time.sleep(1)
+        try:
+            date = find_date(download(item["url"]))
+        except Exception:
+            date = None
+        if date:
+            item["date"] = date
+            item.pop("date_estimated", None)
+            item.pop("date_lookups", None)
+            found += 1
+        else:
+            item["date_lookups"] = item.get("date_lookups", 0) + 1
+    print(f"Publicatiedatum gevonden voor {found} van {min(len(todo), MAX_DATE_LOOKUPS)} artikelen")
+
+
 def main():
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))
     old = {}
@@ -196,6 +255,8 @@ def main():
         source = by_id.get(item.get("source"))
         if url not in all_items and source and matches_keywords(item, source.get("keywords")):
             all_items[url] = item
+
+    fill_dates(list(all_items.values()))
 
     result = []
     for source in sources:
