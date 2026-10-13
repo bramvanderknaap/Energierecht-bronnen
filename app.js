@@ -2,7 +2,7 @@
   const PAGE = 40;
   const $ = (id) => document.getElementById(id);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const fmtDate = (iso) => new Date(iso).toLocaleDateString("nl-NL", { day: "numeric", month: "long", year: "numeric" });
+  const fmtDate = (iso) => new Date(iso).toLocaleDateString("nl-NL", { day: "numeric", month: "short", year: "numeric" });
 
   let sources, data;
   if (window.EB_DATA) {
@@ -16,7 +16,7 @@
   const byId = Object.fromEntries(sources.map((s) => [s.id, s]));
   const badge = (s) => `<span class="badge ${esc(s.region.split("/")[0])}">${esc(s.region)}</span>`;
 
-  $("updated").textContent = data.updated ? `Laatst bijgewerkt: ${fmtDate(data.updated)}` : "";
+  $("updated").textContent = data.updated ? `Bijgewerkt op ${new Date(data.updated).toLocaleDateString("nl-NL", { day: "numeric", month: "long", year: "numeric" })}` : "";
 
   // Tabs
   document.querySelectorAll(".tabs button").forEach((btn) =>
@@ -55,11 +55,14 @@
     $("items").innerHTML = list.length
       ? list.slice(0, shown).map((i) => {
           const s = byId[i.source] || { name: i.source, region: "" };
-          const when = i.date_estimated ? `gevonden op ${fmtDate(i.date)}` : fmtDate(i.date);
+          const when = i.date_estimated ? `gevonden ${fmtDate(i.date)}` : fmtDate(i.date);
           return `<li>
-            <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
-            <div class="info">${badge(s)}<span>${esc(s.name)}</span><span>·</span><span>${esc(when)}</span></div>
-            ${i.summary ? `<p class="summary">${esc(i.summary.length > 220 ? i.summary.slice(0, 220) + "…" : i.summary)}</p>` : ""}
+            <div class="date">${esc(when)}</div>
+            <div class="body">
+              <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+              <div class="info">${badge(s)}<span>${esc(s.full_name || s.name)}</span></div>
+              ${i.summary ? `<p class="summary">${esc(i.summary.length > 220 ? i.summary.slice(0, 220) + "…" : i.summary)}</p>` : ""}
+            </div>
           </li>`;
         }).join("")
       : `<li class="empty">Geen publicaties gevonden.</li>`;
