@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Energierecht Bronnen</title>
+  <meta name="description" content="Dagelijks bijgewerkt overzicht van publicaties en rechtsbronnen over energierecht: ACM, ACER, Europese Commissie, CEER, Rijksoverheid en CBb.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Energierecht Bronnen</h1>
+      <p class="lead">Nieuwe publicaties en vaste rechtsbronnen over energierecht op één plek. Elke dag automatisch bijgewerkt.</p>
+      <p class="meta" id="updated"></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <nav class="tabs" role="tablist">
+      <button role="tab" aria-selected="true" data-tab="nieuw">Nieuwste publicaties</button>
+      <button role="tab" aria-selected="false" data-tab="bronnen">Bronnen &amp; vaste links</button>
+    </nav>
+
+    <section id="nieuw">
+      <div class="controls">
+        <input type="search" id="zoek" placeholder="Zoek in titels, bijv. ‘netcode’ of ‘tarief’" aria-label="Zoeken">
+        <div class="chips" id="chips"></div>
+      </div>
+      <p class="count" id="count"></p>
+      <ol class="items" id="items"></ol>
+      <button class="more" id="more" hidden>Meer tonen</button>
+    </section>
+
+    <section id="bronnen" hidden>
+      <div class="sources" id="sources"></div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    Automatisch verzameld uit openbare bronnen. Controleer altijd de originele publicatie.
+  </footer>
+
+  <script>window.EB_DATA = window.EB_DATA || null;</script>
+  <script src="app.js"></script>
+</body>
+</html>
