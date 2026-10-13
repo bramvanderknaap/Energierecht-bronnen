@@ -21,11 +21,13 @@
     --accent-soft: #1d3329;
     --nl: #fb923c;
     --eu: #7aa2ff;
+    color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #14171a; --surface: #1c2024; --text: #e8eaec; --muted: #9aa3ad;
   --line: #2d3339; --accent: #4cc496; --accent-soft: #1d3329; --nl: #fb923c; --eu: #7aa2ff;
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
