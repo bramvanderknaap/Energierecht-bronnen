@@ -323,7 +323,7 @@
     "full_name": "Hof van Justitie van de Europese Unie (Hof en Gerecht)",
     "region": "EU",
     "geldt_voor_nl": true,
-    "description": "Arresten van het Hof en het Gerecht over energie sinds 2019: ingedeeld onder het onderwerp Energie, met een verwijzing naar een Europese energierichtlijn of -verordening, of met energietermen in de titel.",
+    "description": "Arresten van het Hof en het Gerecht over energie sinds 2019: ingedeeld onder het onderwerp Energie, met een verwijzing naar een Europese energierichtlijn of -verordening, of met energietermen in de titel. Zaken die vooral over belastingen gaan, staan er niet in.",
     "website": "https://curia.europa.eu/",
     "feeds": [
       {
