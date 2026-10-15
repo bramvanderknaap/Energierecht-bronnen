@@ -359,8 +359,8 @@
         "title_words": [
           "elektriciteit",
           "aardgas",
-          "waterstof",
-          "Energie –",
+          " waterstof",
+          "(#|– )Energie –",
           "warmte-kracht",
           "hernieuwbare energie",
           "energie-efficiëntie",
@@ -376,7 +376,9 @@
           "2019/943",
           "714/2009",
           "715/2009"
-        ]
+        ],
+        "exclude_title": "(#|Prejudiciële verwijzing – |Niet-nakoming – |Hogere voorziening – )(Fiscale bepalingen|Accijns|Heffing van belasting|Belasting van energieproducten|Belasting over energieproducten|Gemeenschappelijk stelsel van belasting|Richtlijn 2003/96|Richtlijn 2008/118)",
+        "limit": 400
       }
     ],
     "links": [
