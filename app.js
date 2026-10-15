@@ -101,7 +101,7 @@
   ]);
   const geldtVoorNL = (item) => {
     const s = byId[item.source];
-    if (s && s.region === "NL") return true;
+    if (s && (s.region === "NL" || s.geldt_voor_nl)) return true;  // uitspraken van het Hof gelden in alle lidstaten
     const text = `${item.title} ${item.summary || ""}`;
     return NEDERLAND.test(text) || !ANDER_LAND.test(text);
   };

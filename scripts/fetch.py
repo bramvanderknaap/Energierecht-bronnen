@@ -12,7 +12,7 @@ from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urlencode, urljoin
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "sources.json"
@@ -174,6 +174,11 @@ def collect(source):
     for feed in source.get("feeds", []):
         time.sleep(3)  # vriendelijk blijven voor de websites
         try:
+            if feed["type"] == "hvj":
+                items = hvj_judgments(feed)
+                report.append(f"  OK   {len(items):4d}  {feed['url']}")
+                found.extend(items)
+                continue
             raw = download(feed["url"])
             if feed["type"] == "html":
                 items = parse_html(raw, feed["url"], feed["include"])
@@ -189,6 +194,58 @@ def collect(source):
             report.append(f"  FOUT       {feed['url']}  ({type(e).__name__}: {e})")
     kept = [i for i in found if matches_keywords(i, source.get("keywords"), source.get("whole_words", ()))]
     return kept, report
+
+
+HVJ_QUERY = """PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?celex (MIN(?d) AS ?date) (SAMPLE(?nl) AS ?title_nl) (SAMPLE(?en) AS ?title_en) WHERE {{
+  {{ ?w cdm:resource_legal_is_about_subject-matter <http://publications.europa.eu/resource/authority/subject-matter/ENER> }}
+  UNION {{ ?w cdm:work_cites_work ?act . ?act cdm:resource_legal_id_celex ?ac . FILTER(STR(?ac) IN ({acts})) }}
+  UNION {{ ?t cdm:expression_belongs_to_work ?w ; cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/NLD> ;
+             cdm:expression_title ?tt . FILTER(REGEX(?tt, "{words}", "i")) }}
+  ?w cdm:resource_legal_id_celex ?celex ; cdm:work_date_document ?d .
+  FILTER(REGEX(STR(?celex), "^6[0-9]{{4}}(CJ|TJ)[0-9]{{4}}$") && ?d >= "{since}"^^xsd:date)
+  OPTIONAL {{ ?e cdm:expression_belongs_to_work ?w ; cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/NLD> ; cdm:expression_title ?nl }}
+  OPTIONAL {{ ?f cdm:expression_belongs_to_work ?w ; cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/ENG> ; cdm:expression_title ?en }}
+}} GROUP BY ?celex ORDER BY DESC(?date) LIMIT {limit}"""
+
+
+def hvj_judgments(feed):
+    """Arresten van het Hof van Justitie en het Gerecht uit de databank van het Publicatiebureau (Cellar).
+    Relevant is een arrest als het Publicatiebureau het onder het onderwerp Energie indeelt, als het naar een
+    van de energierichtlijnen of -verordeningen in "acts" verwijst, of als de titel een van de "title_words" bevat.
+    Die laatste twee vangen ook nieuwe arresten, waarvoor het onderwerp vaak pas maanden later wordt ingevuld."""
+    query = HVJ_QUERY.format(
+        acts=",".join(f'"{a}"' for a in feed["acts"]),
+        words="|".join(feed["title_words"]),
+        since=feed["since"],
+        limit=feed.get("limit", 150),
+    )
+    url = feed["url"] + "?" + urlencode({"query": query, "format": "application/sparql-results+json"})
+    req = urllib.request.Request(url, headers={**HEADERS, "Accept": "application/sparql-results+json"})
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        rows = json.load(resp)["results"]["bindings"]
+    return [hvj_item(r) for r in rows]
+
+
+def hvj_item(row):
+    """De titel van een arrest bestaat uit delen gescheiden door '#': soort arrest en datum, partijen,
+    eventueel de verwijzende rechter, trefwoorden en het zaaknummer. Toon partijen en zaaknummer als titel."""
+    celex = row["celex"]["value"]
+    court = "C" if celex[5:7] == "CJ" else "T"
+    case = f"{court}-{int(celex[7:11])}/{celex[3:5]}"
+    full = (row.get("title_nl") or row.get("title_en") or {}).get("value", "")
+    parts = [p.strip() for p in full.split("#") if p.strip()]
+    parties = parts[1].rstrip(".") if len(parts) > 1 else "Arrest"
+    if len(parties) > 140:
+        parties = parties[:140].rsplit(" ", 1)[0] + "…"
+    rest = [p for p in parts[:1] + parts[2:] if not re.match(r"(Zaak|Zaken|Gevoegde zaken|Case|Joined cases)\b", p)]
+    return {
+        "title": f"{parties} ({case})",
+        "url": f"https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:{celex}",
+        "date": f"{row['date']['value'][:10]}T00:00:00+00:00",
+        "summary": " ".join(rest)[:600],
+    }
 
 
 MONTHS = {

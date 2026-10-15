@@ -1,7 +1,7 @@
 # Energierecht Bronnen
 
 Een website die publicaties en rechtsbronnen over energierecht op één plek verzamelt:
-ACM, ACER, de Europese Commissie (DG Energie), CEER, de Rijksoverheid en uitspraken van het CBb.
+ACM, ACER, de Europese Commissie (DG Energie), CEER, de Rijksoverheid, uitspraken van het CBb en arresten van het Hof van Justitie van de EU.
 
 ## Hoe werkt het?
 
@@ -10,6 +10,13 @@ ACM, ACER, de Europese Commissie (DG Energie), CEER, de Rijksoverheid en uitspra
 - `.github/workflows/update.yml` – laat GitHub dit script elke ochtend automatisch draaien.
 - `index.html`, `style.css`, `app.js` – de website zelf, gepubliceerd via GitHub Pages.
 - `assets/` – de tekeningen van de huisstijl: het landschap met zonnepark, windturbines en 380 kV-lijn (`landschap-breed.svg` voor brede schermen, `landschap-smal.svg` voor telefoons) en het logo.
+
+## Arresten van het Hof van Justitie
+
+De arresten komen uit de databank van het Publicatiebureau van de EU (de SPARQL-dienst van Cellar), niet van een nieuwsfeed.
+Een arrest van het Hof of het Gerecht sinds 2019 telt als relevant als het onder het onderwerp Energie is ingedeeld, als het verwijst
+naar een van de energierichtlijnen of -verordeningen in `acts`, of als de Nederlandse titel een van de `title_words` bevat.
+Die lijsten staan bij de bron `hvjeu` in `sources.json`.
 
 ## Huisstijl
 
