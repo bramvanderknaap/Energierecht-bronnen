@@ -212,7 +212,17 @@
     "feeds": [
       {
         "type": "html",
-        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws",
+        "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/documenten",
+        "include": "^https://www\\.rijksoverheid\\.nl/documenten/[a-z-]+/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat/nieuws",
         "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
       },
       {
@@ -221,16 +231,9 @@
         "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
       },
       {
-        "type": "rss",
-        "url": "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws.rss"
-      },
-      {
-        "type": "rss",
-        "url": "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/documenten.rss"
-      },
-      {
-        "type": "rss",
-        "url": "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken/nieuws.rss"
+        "type": "html",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat",
+        "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
       },
       {
         "type": "html",
