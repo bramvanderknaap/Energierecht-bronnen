@@ -185,10 +185,10 @@
   {
     "id": "rijksoverheid",
     "name": "Rijksoverheid",
-    "full_name": "Rijksoverheid – Ministerie van Economische Zaken en Klimaat",
+    "full_name": "Rijksoverheid – ministeries van Klimaat en Groene Groei en van Economische Zaken",
     "region": "NL",
-    "description": "Nieuws, Kamerbrieven en beleid van het kabinet over energie.",
-    "website": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat",
+    "description": "Nieuws en beleid van het kabinet over energie.",
+    "website": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei",
     "keywords": [
       "energie",
       "elektriciteit",
@@ -212,11 +212,30 @@
     "feeds": [
       {
         "type": "html",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei",
+        "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws",
+        "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
         "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat",
+        "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
+      },
+      {
+        "type": "html",
+        "url": "https://www.rijksoverheid.nl/onderwerpen/energie-thuis",
         "include": "^https://www\\.rijksoverheid\\.nl/actueel/nieuws/\\d{4}/\\d{2}/\\d{2}/[a-z0-9-]+$"
       }
     ],
     "links": [
+      {
+        "title": "Nieuws van het ministerie van Klimaat en Groene Groei",
+        "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws"
+      },
       {
         "title": "Nieuws van het ministerie van EZK",
         "url": "https://www.rijksoverheid.nl/actueel/nieuws?filters%5B0%5D%5Bfield%5D=ministry&filters%5B0%5D%5Bvalues%5D%5B0%5D=Ministerie%20van%20Economische%20Zaken%20en%20Klimaat&filters%5B0%5D%5Btype%5D=all"
