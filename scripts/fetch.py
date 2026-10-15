@@ -236,8 +236,6 @@ def hvj_judgments(feed):
     why = Counter(w for r in rows for w in r["why_all"]["value"].split(","))
     print(f"    Hof van Justitie: {len(rows)} arresten; gevonden via onderwerp {why['onderwerp']}, "
           f"verwijzing {why['verwijzing']}, titel {why['titel']}")
-    for r in rows:  # TIJDELIJK
-        print("    ", r["celex"]["value"], r["date"]["value"][:10], r["why_all"]["value"], (r.get("title_nl") or r.get("title_en") or {}).get("value", "")[:160].replace("#", " | "))
     return [hvj_item(r) for r in rows]
 
 
@@ -488,7 +486,7 @@ def main():
     for source in sources:
         mine = [i for i in all_items.values() if i["source"] == source["id"]]
         mine.sort(key=lambda i: i["date"], reverse=True)
-        result.extend(mine[:MAX_PER_SOURCE])
+        result.extend(mine[:source.get("max_items", MAX_PER_SOURCE)])
     result.sort(key=lambda i: i["date"], reverse=True)
 
     OUTPUT.parent.mkdir(exist_ok=True)

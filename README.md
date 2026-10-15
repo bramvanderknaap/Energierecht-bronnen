@@ -16,7 +16,8 @@ ACM, ACER, de Europese Commissie (DG Energie), CEER, de Rijksoverheid, uitsprake
 De arresten komen uit de databank van het Publicatiebureau van de EU (de SPARQL-dienst van Cellar), niet van een nieuwsfeed.
 Een arrest van het Hof of het Gerecht sinds 2019 telt als relevant als het onder het onderwerp Energie is ingedeeld, als het verwijst
 naar een van de energierichtlijnen of -verordeningen in `acts`, of als de Nederlandse titel een van de `title_words` bevat.
-Die lijsten staan bij de bron `hvjeu` in `sources.json`.
+Zaken die in de eerste plaats over belastingen gaan (accijns, btw, energiebelasting) vallen af via `exclude_title`.
+Die lijsten staan bij de bron `hvjeu` in `sources.json`. Deze bron bewaart tot 400 arresten (`max_items`), de andere bronnen 150 items.
 
 ## Huisstijl
 

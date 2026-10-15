@@ -341,7 +341,6 @@
           "32009R0715",
           "32003L0054",
           "32003L0055",
-          "32003L0096",
           "32011R1227",
           "32024R1106",
           "32018L2001",
@@ -377,10 +376,11 @@
           "714/2009",
           "715/2009"
         ],
-        "exclude_title": "(#|Prejudiciële verwijzing – |Niet-nakoming – |Hogere voorziening – )(Fiscale bepalingen|Accijns|Heffing van belasting|Belasting van energieproducten|Belasting over energieproducten|Gemeenschappelijk stelsel van belasting|Richtlijn 2003/96|Richtlijn 2008/118)",
+        "exclude_title": "(#|Prejudiciële verwijzing – |Niet-nakoming – |Niet-nakoming – Artikel 258 VWEU – |Hogere voorziening – )(Fiscale bepalingen|Accijns|Heffing van belasting|Belasting van energieproducten|Belasting over energieproducten|Gemeenschappelijk stelsel van belasting|Richtlijn 2003/96|Richtlijn 2008/118)",
         "limit": 400
       }
     ],
+    "max_items": 400,
     "links": [
       {
         "title": "InfoCuria, de zoekmachine voor rechtspraak van het Hof",
