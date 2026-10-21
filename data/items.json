@@ -1,6 +1,41 @@
 {
- "updated": "2026-10-20T05:19:13+00:00",
+ "updated": "2026-10-21T05:20:31+00:00",
  "items": [
+  {
+   "title": "Commission data shows continued growth in sustainable investments across the EU",
+   "url": "https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en",
+   "date": "2026-10-20T09:57:23+00:00",
+   "summary": "Over €1.2 trillion has been invested in sustainable activities in the EU since 2021, according to data published by the Commission today.",
+   "source": "ec",
+   "first_seen": "2026-10-21T05:20:31+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
+   "date": "2026-10-20T07:29:19+00:00",
+   "summary": "Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.",
+   "source": "ec",
+   "first_seen": "2026-10-21T05:20:31+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Geschilbesluit Kallista Tethys – TenneT",
+   "url": "https://www.acm.nl/nl/publicaties/geschilbesluit-kallista-tethys-tennet",
+   "date": "2026-10-20T00:00:00+00:00",
+   "summary": "",
+   "source": "acm",
+   "first_seen": "2026-10-21T05:20:31+00:00"
+  },
+  {
+   "title": "CBb: Naar het oordeel van het College heeft de minister de EIA-verklaring voor de door appellant aangemelde investering in de zonnepanelen… (ECLI:NL:CBB:2026:499)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:499",
+   "date": "2026-10-20T00:00:00+00:00",
+   "summary": "Naar het oordeel van het College heeft de minister de EIA-verklaring voor de door appellant aangemelde investering in de zonnepanelen terecht geweigerd, omdat de zonnepanelen, via de omvormer, zijn aangesloten op het elektriciteitsnet",
+   "date_checked": true,
+   "source": "cbb",
+   "first_seen": "2026-10-21T05:20:31+00:00"
+  },
   {
    "title": "ACER's Board of Appeal begins a new five-year mandate",
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
@@ -121,20 +156,20 @@
    "first_seen": "2026-10-15T10:04:05+00:00"
   },
   {
-   "title": "Verband Wirtschaft im Wettbewerb, Verein für Lauterkeit in Handel und Industrie e.V. tegen PAYBACK GmbH (C-120/25)",
-   "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62025CJ0120",
-   "date": "2026-10-15T00:00:00+00:00",
-   "summary": "Arrest van het Hof (Eerste kamer) van 15 oktober 2026. Verzoek van Bundesgerichtshof om een prejudiciële beslissing. Prejudiciële verwijzing – Energie – Energie-etikettering – Verordening (EU) 2017/1369 – Artikel 2, punt 13 – Begrip ‚handelaar’ – Begrippen ‚uitstallen’ en ‚commerciële activiteit’ – Artikel 2, punt 16 – Begrip ‚klant’ – Artikel 6, eerste alinea, onder a) – Verplichting om in visuele advertenties de energie-efficiëntieklasse van een product en de schaal van de op het etiket beschikbare efficiëntieklassen te vermelden – Begrip ‚visuele advertentie’ – Onlinekansspel – Organisator ",
-   "source": "hvjeu",
-   "first_seen": "2026-10-16T05:19:17+00:00"
-  },
-  {
    "title": "Fluvius Halle-Vilvoorde, anciennement Sibelgas e.a. tegen De Vlaamse Nutsregulator, anciennement de Vlaamse Regulator van de… (C-199/25)",
    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62025CJ0199",
    "date": "2026-10-15T00:00:00+00:00",
    "summary": "Arrest van het Hof (Vierde kamer) van 15 oktober 2026. Verzoek van Hof van beroep te Brussel om een prejudiciële beslissing. Prejudiciële verwijzing – Interne markt voor elektriciteit – Verordening (EU) 2019/943 – Artikel 18, lid 1 – Richtlijn (EU) 2019/944 – Artikel 9, artikel 57, leden 4 en 5, en artikel 59, lid 1, onder a) – Tarieven voor de toegang tot netwerken, het gebruik van netwerken en versterkingen – Ongerelateerde kosten ter ondersteuning van ongerelateerde beleidsdoelstellingen – Nationale regeling die bepaalt dat de kosten voor de aan distributiesysteembeheerders opgelegde openba",
    "source": "hvjeu",
    "first_seen": "2026-10-15T10:04:05+00:00"
+  },
+  {
+   "title": "Verband Wirtschaft im Wettbewerb, Verein für Lauterkeit in Handel und Industrie e.V. tegen PAYBACK GmbH (C-120/25)",
+   "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62025CJ0120",
+   "date": "2026-10-15T00:00:00+00:00",
+   "summary": "Arrest van het Hof (Eerste kamer) van 15 oktober 2026. Verzoek van Bundesgerichtshof om een prejudiciële beslissing. Prejudiciële verwijzing – Energie – Energie-etikettering – Verordening (EU) 2017/1369 – Artikel 2, punt 13 – Begrip ‚handelaar’ – Begrippen ‚uitstallen’ en ‚commerciële activiteit’ – Artikel 2, punt 16 – Begrip ‚klant’ – Artikel 6, eerste alinea, onder a) – Verplichting om in visuele advertenties de energie-efficiëntieklasse van een product en de schaal van de op het etiket beschikbare efficiëntieklassen te vermelden – Begrip ‚visuele advertentie’ – Onlinekansspel – Organisator ",
+   "source": "hvjeu",
+   "first_seen": "2026-10-16T05:19:17+00:00"
   },
   {
    "title": "Cross-border gas network code – Commission launches call for feedback on revision of rules",
@@ -737,7 +772,9 @@
    "date": "2026-07-17T12:54:06+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER is hiring: Gas Working Group & Project Coordinator",
@@ -745,7 +782,9 @@
    "date": "2026-07-15T12:34:17+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Pedro Verdelho is elected President of the Council of European Energy Regulators",
@@ -753,7 +792,9 @@
    "date": "2026-07-09T13:45:01+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER launches public consultation on 2027 Work Programme",
@@ -812,7 +853,9 @@
    "date": "2026-07-01T11:08:25+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: TEK-aanvraag. Ontvankelijkheid in beroep. Artikel 6:9, tweede lid, van de Awb. Verschoonbare termijnoverschrijding. Beroep ongegrond: niet… (ECLI:NL:CBB:2026:299)",
@@ -829,7 +872,9 @@
    "date": "2026-06-23T14:53:37+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: Geschilbesluit. Geen recht op verhoging transportvermogen elektriciteit. De Netcode, de Tarievencode, en de Begrippencode moeten binnen het… (ECLI:NL:CBB:2026:282)",
@@ -855,7 +900,9 @@
    "date": "2026-06-19T07:42:20+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: Mondeling uitspraak. De subsidie is terecht vastgesteld op nihil. Niet voldaan aan het vereiste van stimulerend effect. De aankoop van de… (ECLI:NL:CBB:2026:307)",
@@ -890,7 +937,9 @@
    "date": "2026-06-10T14:54:23+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER Consumer Focus Event 2026: Transparency, Trust and Information",
@@ -898,7 +947,9 @@
    "date": "2026-05-21T06:15:11+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Towards a Competitive and Sustainable Electricity Market: EU4Energy Phase III Roundtable in Yerevan",
@@ -906,7 +957,9 @@
    "date": "2026-05-13T13:39:18+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Save the Date: Consumer Focus Event 2026",
@@ -914,7 +967,9 @@
    "date": "2026-03-25T10:44:10+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Robin Wood - Gewaltfreie Aktionsgemeinschaft für Natur und Umwelt eV e.a. tegen Europese Commissie (T-575/22)",
@@ -939,7 +994,9 @@
    "date": "2026-03-10T14:23:41+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER views on the European Grids Package",
@@ -1017,7 +1074,7 @@
    "title": "Electrabel SA e.a. tegen Commission de Régulation de l’Electricité et du Gaz (CREG) (C-633/23)",
    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62023CJ0633",
    "date": "2025-12-18T00:00:00+00:00",
-   "summary": "Arrest van het Hof (Vierde kamer) van 18 december 2025. Prejudiciële verwijzing – Interne markt voor elektriciteit – Verordening (EU) 2022/1854 – Noodinterventie in verband met de hoge energieprijzen – Artikel 2, punten 5 en 9 – Artikelen 6 tot en met 8 – Plafond op de marktinkomsten van elektriciteitsproducenten die bepaalde energiebronnen gebruiken – Bepaling van ‚marktinkomsten’ – Nationale regeling die voorziet in het gebruik van onweerlegbare of door middel van andere vermoedens weerlegbare vermoedens – Evenredigheidsbeginsel – Artikel 22, lid 2, onder c) – Tijdvak van de toepassing van d",
+   "summary": "Arrest van het Hof (Vierde kamer) van 18 december 2025. Verzoek van de cour d'appel de Bruxelles om een prejudiciële beslissing. Prejudiciële verwijzing – Interne markt voor elektriciteit – Verordening (EU) 2022/1854 – Noodinterventie in verband met de hoge energieprijzen – Artikel 2, punten 5 en 9 – Artikelen 6 tot en met 8 – Plafond op de marktinkomsten van elektriciteitsproducenten die bepaalde energiebronnen gebruiken – Bepaling van ‚marktinkomsten’ – Nationale regeling die voorziet in het gebruik van onweerlegbare of door middel van andere vermoedens weerlegbare vermoedens – Evenredigheid",
    "source": "hvjeu",
    "first_seen": "2026-10-15T10:04:05+00:00"
   },
