@@ -21,4 +21,4 @@ Die lijsten staan bij de bron `hvjeu` in `sources.json`. Deze bron bewaart tot 4
 
 ## Huisstijl
 
-"Noordzeedaglicht", rustige versie: alleen een licht thema, een lichte Noordzeelucht met een stille lijntekening van zonnepark, windturbines en hoogspanning achter de kop, verder wit met donkerblauw voor tekst en knoppen. Geen animatie. Teksten blijven zakelijk en kort. Kleuren staan als variabelen bovenaan `style.css`.
+Naar het voorbeeld van Wintervlam Advocaten: alleen een licht thema, diep petrol (#193B43) voor tekst en knoppen, warm gebroken wit (#EAE3D7) voor kop en voet, en een lichte zeegroene band (#D1E6E6) met een stille lijntekening van zonnepark, windturbines en hoogspanning achter de kop. Koppen in Source Serif 4, lopende tekst in Source Sans 3. Geen animatie. Teksten blijven zakelijk en kort. Kleuren staan als variabelen bovenaan `style.css`.
