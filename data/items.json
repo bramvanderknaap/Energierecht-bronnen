@@ -1,6 +1,23 @@
 {
- "updated": "2026-10-21T05:20:31+00:00",
+ "updated": "2026-10-22T05:21:41+00:00",
  "items": [
+  {
+   "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
+   "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
+   "date": "2026-10-21T10:20:06+00:00",
+   "summary": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
+   "source": "ec",
+   "first_seen": "2026-10-22T05:21:41+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "ACM: Netbeheerders rapporteren dat zij op koers liggen met verbeterprogramma netcongestie",
+   "url": "https://www.acm.nl/nl/publicaties/acm-netbeheerders-rapporteren-dat-zij-op-koers-liggen-met-verbeterprogramma-netcongestie",
+   "date": "2026-10-21T00:00:00+00:00",
+   "summary": "",
+   "source": "acm",
+   "first_seen": "2026-10-22T05:21:41+00:00"
+  },
   {
    "title": "Commission data shows continued growth in sustainable investments across the EU",
    "url": "https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en",
@@ -11,6 +28,15 @@
    "date_checked": true
   },
   {
+   "title": "Eurostat: EU trade in wind turbines increased in 2025",
+   "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261020-1",
+   "date": "2026-10-20T09:00:00+00:00",
+   "summary": "EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).",
+   "source": "ec",
+   "first_seen": "2026-10-22T05:21:41+00:00",
+   "date_checked": true
+  },
+  {
    "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
    "date": "2026-10-20T07:29:19+00:00",
@@ -18,6 +44,15 @@
    "source": "ec",
    "first_seen": "2026-10-21T05:20:31+00:00",
    "date_checked": true
+  },
+  {
+   "title": "ACER's Board of Appeal begins a new five-year mandate",
+   "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
+   "date": "2026-10-20T05:19:13+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-20T05:19:13+00:00",
+   "date_estimated": true
   },
   {
    "title": "Geschilbesluit Kallista Tethys – TenneT",
@@ -35,14 +70,6 @@
    "date_checked": true,
    "source": "cbb",
    "first_seen": "2026-10-21T05:20:31+00:00"
-  },
-  {
-   "title": "ACER's Board of Appeal begins a new five-year mandate",
-   "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
-   "date": "2026-10-19T14:05:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-20T05:19:13+00:00"
   },
   {
    "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of October 2026",
@@ -148,6 +175,15 @@
    "date_checked": true
   },
   {
+   "title": "REMIT breach: Estonian Competition Authority fines Futugrid for manipulating the electricity market",
+   "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
+   "date": "2026-10-15T05:18:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-15T05:18:56+00:00",
+   "date_estimated": true
+  },
+  {
    "title": "ACM: investeringen en aanvullend beleid nodig voor meer flexibiliteit in het elektriciteitssysteem",
    "url": "https://www.acm.nl/nl/publicaties/acm-investeringen-en-aanvullend-beleid-nodig-voor-meer-flexibiliteit-het-elektriciteitssysteem",
    "date": "2026-10-15T00:00:00+00:00",
@@ -181,14 +217,6 @@
    "date_checked": true
   },
   {
-   "title": "REMIT breach: Estonian Competition Authority fines Futugrid for manipulating the electricity market",
-   "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
-   "date": "2026-10-14T10:33:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-15T05:18:56+00:00"
-  },
-  {
    "title": "EU local leaders and authorities gather to discuss affordable energy, housing and climate resilience",
    "url": "https://energy.ec.europa.eu/news/eu-local-leaders-and-authorities-gather-discuss-affordable-energy-housing-and-climate-resilience-2026-10-14_en",
    "date": "2026-10-14T10:19:39+00:00",
@@ -213,6 +241,168 @@
    "summary": "",
    "source": "acm",
    "first_seen": "2026-10-15T05:18:56+00:00"
+  },
+  {
+   "title": "Regulators seek more time to decide on the amendment to the Core intraday capacity calculation methodology",
+   "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "Romanian adequacy assessment: Delayed energy transition affects security of supply decisions",
+   "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER calls for transparent EU infrastructure scenarios, aligned with energy and climate targets",
+   "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
+   "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER calls for better market modelling as data centre demand outpaces electricity supply in Portugal",
+   "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "Algorithmic trading in energy markets features again in ACER's latest REMIT Quarterly",
+   "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
+   "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER to decide on changes to the methodology for EU day-ahead and intraday market algorithms",
+   "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "High energy bills and fixed contracts continue to prevail in EU retail energy markets",
+   "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER amends cost sharing rules for electricity redispatching and countertrading in the Core region",
+   "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER updates Core region’s electricity rules to support long-term flow-based capacity calculation",
+   "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "The EU will need higher LNG imports to refill gas storage ahead of winter",
+   "url": "https://www.acer.europa.eu/news/eu-will-need-higher-lng-imports-refill-gas-storage-ahead-winter",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER assessment of the EU wholesale electricity market design",
+   "url": "https://www.acer.europa.eu/events-and-engagement/news/press-release-acer-publishes-its-final-assessment-eu-wholesale",
+   "date": "2026-10-13T16:45:56+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:45:56+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER finds hydrogen network planning frameworks across the EU still incomplete",
+   "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
+   "date": "2026-10-13T16:43:21+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER amends the implementation frameworks for two European electricity balancing platforms",
+   "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
+   "date": "2026-10-13T16:43:21+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
+   "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
+   "date": "2026-10-13T16:43:21+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
+   "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
+   "date": "2026-10-13T16:43:21+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true
+  },
+  {
+   "title": "Christof Lessenich to become the new ACER Director",
+   "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
+   "date": "2026-10-13T16:43:21+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true
   },
   {
    "title": "Methane emissions reporting templates – Commission launches call for feedback",
@@ -352,12 +542,13 @@
    "date_checked": true
   },
   {
-   "title": "Regulators seek more time to decide on the amendment to the Core intraday capacity calculation methodology",
-   "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
-   "date": "2026-09-30T13:42:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
+   "title": "Europe’s retail energy markets and the shift to electrification: prices, affordability and consumer flexibility",
+   "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
+   "date": "2026-09-30T15:34:40+00:00",
+   "summary": "As Europe moves towards greater electrification, retail energy markets will increasingly shape the costs and opportunities for consumers. How electricity is priced and how consumers can respond to changing prices will influence whether households can benefit financially from this transition.",
+   "source": "ec",
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_checked": true
   },
   {
    "title": "EU4Energy Phase III Strengthens Regulatory Cooperation between Armenia and Hungary through Expert Study Visit",
@@ -365,14 +556,6 @@
    "date": "2026-09-30T13:10:08+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "Europe’s retail energy markets and the shift to electrification: prices, affordability and consumer flexibility",
-   "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
-   "date": "2026-09-30T08:30:00+00:00",
-   "summary": "",
-   "source": "acer",
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
@@ -392,22 +575,6 @@
    "source": "ec",
    "first_seen": "2026-10-13T16:43:21+00:00",
    "date_checked": true
-  },
-  {
-   "title": "ACER finds hydrogen network planning frameworks across the EU still incomplete",
-   "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
-   "date": "2026-09-29T14:03:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "Romanian adequacy assessment: Delayed energy transition affects security of supply decisions",
-   "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
-   "date": "2026-09-29T13:14:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
   },
   {
    "title": "Commission takes action to ensure complete and timely transposition of EU directives - key decisions on energy",
@@ -442,14 +609,6 @@
    "summary": "Arrest van het Hof (Tiende kamer) van 24 september 2026. Verzoeken van de Tribunale amministrativo regionale per la Lombardia om een prejudiciële beslissing. Prejudiciële verwijzing – Staatssteun – Steunregelingen voor ondernemingen met een hoog aardgas- of elektriciteitsverbruik – Nationale bepalingen waarbij ondernemingen in moeilijkheden in de zin van de richtsnoeren voor reddings- en herstructureringssteun aan niet-financiële ondernemingen in moeilijkheden worden uitgesloten van deze regelingen – Begrip ‚onderneming in moeilijkheden’ – Nationale regeling inzake buitengewoon beheer.",
    "source": "hvjeu",
    "first_seen": "2026-10-15T10:04:05+00:00"
-  },
-  {
-   "title": "ACER amends the implementation frameworks for two European electricity balancing platforms",
-   "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
-   "date": "2026-09-22T10:38:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "Eurostat: EU oil imports value up by 56%, volume stable in Q2 2026",
@@ -558,36 +717,12 @@
    "first_seen": "2026-10-15T10:04:05+00:00"
   },
   {
-   "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
-   "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
-   "date": "2026-09-16T15:15:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "ACER calls for transparent EU infrastructure scenarios, aligned with energy and climate targets",
-   "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
-   "date": "2026-09-16T14:56:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
    "title": "CEER elects Claire Hellich-Praquin as Vice President",
    "url": "https://www.ceer.eu/news/ceer-elects-claire-hellich-praquin-as-vice-president/",
    "date": "2026-09-16T12:18:01+00:00",
    "summary": "",
    "source": "ceer",
    "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
-   "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
-   "date": "2026-09-15T15:20:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
   },
   {
    "title": "Commission launches Energy Regulation Academy to support public officials to implement EU energy measures",
@@ -617,14 +752,6 @@
    "date_checked": true
   },
   {
-   "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
-   "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
-   "date": "2026-09-14T13:41:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
    "title": "Call for applications: candidate energy infrastructure Projects of Common and Mutual Interest – electricity and smart grids",
    "url": "https://energy.ec.europa.eu/news/call-applications-candidate-energy-infrastructure-projects-common-and-mutual-interest-electricity-2026-09-14_en",
    "date": "2026-09-14T12:33:15+00:00",
@@ -652,22 +779,6 @@
    "date_checked": true
   },
   {
-   "title": "Christof Lessenich to become the new ACER Director",
-   "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
-   "date": "2026-09-10T08:58:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "ACER calls for better market modelling as data centre demand outpaces electricity supply in Portugal",
-   "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
-   "date": "2026-09-09T13:56:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
    "title": "CBb: Proces-verbaal van de mondelinge uitspraak van 27 augustus 2026. Beroep ongegrond. De minister heeft de aanvraag terecht afgewezen, gezien… (ECLI:NL:CBB:2026:435)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:435",
    "date": "2026-08-27T00:00:00+00:00",
@@ -686,44 +797,12 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
-   "title": "Algorithmic trading in energy markets features again in ACER's latest REMIT Quarterly",
-   "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
-   "date": "2026-08-14T14:41:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
    "title": "Meet CEER’s New President: Pedro Verdelho on Priorities, Lessons and What Comes Next",
    "url": "https://www.ceer.eu/news/meet-ceers-new-president-pedro-verdelho-on-priorities-lessons-and-what-comes-next/",
    "date": "2026-08-05T08:20:48+00:00",
    "summary": "",
    "source": "ceer",
    "first_seen": "2026-10-13T16:43:21+00:00"
-  },
-  {
-   "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
-   "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
-   "date": "2026-07-30T13:11:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
-   "title": "ACER to decide on changes to the methodology for EU day-ahead and intraday market algorithms",
-   "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
-   "date": "2026-07-29T10:54:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
-   "title": "High energy bills and fixed contracts continue to prevail in EU retail energy markets",
-   "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
-   "date": "2026-07-24T10:51:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
   },
   {
    "title": "EU4Energy Phase III Supports Armenia’s Electricity Market Reform through Regulatory Expert Exchanges",
@@ -743,14 +822,6 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
-   "title": "ACER amends cost sharing rules for electricity redispatching and countertrading in the Core region",
-   "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
-   "date": "2026-07-22T13:08:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
    "title": "Building Connected Energy Futures: EU4Energy Phase III Conference Highlights Interconnectors and Clean Energy Transition",
    "url": "https://www.ceer.eu/news/building-connected-energy-futures-eu4energy-phase-iii-conference-highlights-interconnectors-and-clean-energy-transition/",
    "date": "2026-07-17T13:19:35+00:00",
@@ -759,22 +830,12 @@
    "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
-   "title": "ACER updates Core region’s electricity rules to support long-term flow-based capacity calculation",
-   "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
-   "date": "2026-07-17T13:03:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
-  },
-  {
    "title": "CEER Statement on the European Commission’s Legislative Proposal for the Design of Network Charges",
    "url": "https://www.ceer.eu/news/ceer-statement-on-the-european-commissions-legislative-proposal-for-the-design-of-network-charges/",
    "date": "2026-07-17T12:54:06+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CEER is hiring: Gas Working Group & Project Coordinator",
@@ -782,9 +843,7 @@
    "date": "2026-07-15T12:34:17+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "Pedro Verdelho is elected President of the Council of European Energy Regulators",
@@ -792,9 +851,7 @@
    "date": "2026-07-09T13:45:01+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CEER launches public consultation on 2027 Work Programme",
@@ -811,14 +868,6 @@
    "summary": "Arrest van het Hof (Vierde kamer) van 9 juli 2026. Hogere voorziening – Staatssteun – Sector warmte-krachtkoppeling – Hervorming van de steunregeling voor warmte-krachtkoppeling – Besluit van de Europese Commissie waarbij steun verenigbaar met de interne markt wordt verklaard – Begrip ‚staatssteun’ – Met staatsmiddelen bekostigde maatregelen – Voorwaarde inzake het bestaan van een verplichte heffing.",
    "source": "hvjeu",
    "first_seen": "2026-10-15T10:04:05+00:00"
-  },
-  {
-   "title": "The EU will need higher LNG imports to refill gas storage ahead of winter",
-   "url": "https://www.acer.europa.eu/news/eu-will-need-higher-lng-imports-refill-gas-storage-ahead-winter",
-   "date": "2026-07-07T15:01:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
   },
   {
    "title": "CBb: Regeling tegemoetkoming energiekosten (TEK). De minister heeft de tegemoetkoming op grond van de TEK juist vastgesteld. De vaststelling en… (ECLI:NL:CBB:2026:316)",
@@ -853,9 +902,7 @@
    "date": "2026-07-01T11:08:25+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CBb: TEK-aanvraag. Ontvankelijkheid in beroep. Artikel 6:9, tweede lid, van de Awb. Verschoonbare termijnoverschrijding. Beroep ongegrond: niet… (ECLI:NL:CBB:2026:299)",
@@ -872,9 +919,7 @@
    "date": "2026-06-23T14:53:37+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CBb: Geschilbesluit. Geen recht op verhoging transportvermogen elektriciteit. De Netcode, de Tarievencode, en de Begrippencode moeten binnen het… (ECLI:NL:CBB:2026:282)",
@@ -900,9 +945,7 @@
    "date": "2026-06-19T07:42:20+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CBb: Mondeling uitspraak. De subsidie is terecht vastgesteld op nihil. Niet voldaan aan het vereiste van stimulerend effect. De aankoop van de… (ECLI:NL:CBB:2026:307)",
@@ -937,9 +980,7 @@
    "date": "2026-06-10T14:54:23+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CEER Consumer Focus Event 2026: Transparency, Trust and Information",
@@ -947,9 +988,7 @@
    "date": "2026-05-21T06:15:11+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "Towards a Competitive and Sustainable Electricity Market: EU4Energy Phase III Roundtable in Yerevan",
@@ -957,9 +996,7 @@
    "date": "2026-05-13T13:39:18+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "Save the Date: Consumer Focus Event 2026",
@@ -967,9 +1004,7 @@
    "date": "2026-03-25T10:44:10+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "Robin Wood - Gewaltfreie Aktionsgemeinschaft für Natur und Umwelt eV e.a. tegen Europese Commissie (T-575/22)",
@@ -994,9 +1029,7 @@
    "date": "2026-03-10T14:23:41+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00",
-   "date_estimated": true,
-   "date_lookups": 1
+   "first_seen": "2026-10-13T16:43:21+00:00"
   },
   {
    "title": "CEER views on the European Grids Package",
@@ -1952,14 +1985,6 @@
    "summary": "Arrest van het Hof (Grote kamer) van 12 juli 2022. Hogere voorziening – Energie – Interne markt voor aardgas – Richtlijn 2009/73/EG – Richtlijn (EU) 2019/692 – Uitbreiding van de toepasselijkheid van richtlijn 2009/73 tot gasleidingen tussen lidstaten en derde landen – Artikel 263, vierde alinea, VWEU – Beroep tot nietigverklaring – Voorwaarde dat rekwirante rechtstreeks wordt geraakt door de maatregel waartegen zij beroep instelt – Geen beoordelingsbevoegdheid met betrekking tot de aan rekwirante opgelegde verplichtingen – Voorwaarde dat rekwirante individueel wordt geraakt door de maatregel ",
    "source": "hvjeu",
    "first_seen": "2026-10-15T10:04:05+00:00"
-  },
-  {
-   "title": "ACER assessment of the EU wholesale electricity market design",
-   "url": "https://www.acer.europa.eu/events-and-engagement/news/press-release-acer-publishes-its-final-assessment-eu-wholesale",
-   "date": "2022-06-19T17:38:00+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-10-13T16:45:56+00:00"
   },
   {
    "title": "Servizio Elettrico Nazionale SpA e.a. tegen Autorità Garante della Concorrenza e del Mercato e.a (C-377/20)",
