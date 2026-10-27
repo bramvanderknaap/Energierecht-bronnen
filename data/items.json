@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-26T05:23:15+00:00",
+ "updated": "2026-10-27T05:22:27+00:00",
  "items": [
+  {
+   "title": "CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion",
+   "url": "https://cinea.ec.europa.eu/news-events/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en",
+   "date": "2026-10-26T14:03:38+00:00",
+   "summary": "The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.",
+   "source": "ec",
+   "first_seen": "2026-10-27T05:22:27+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Hydrogen Strategy – Commission launches consultation",
+   "url": "https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-consultation-2026-10-26_en",
+   "date": "2026-10-26T10:21:45+00:00",
+   "summary": "The European Commission has today launched a 4-week call for evidence and a 4-week targeted stakeholder consultation to gather input to help shape the forthcoming Hydrogen Strategy.",
+   "source": "ec",
+   "first_seen": "2026-10-27T05:22:27+00:00",
+   "date_checked": true
+  },
   {
    "title": "Oil Coordination Group discusses EU fuel market developments",
    "url": "https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en",
@@ -11,20 +29,20 @@
    "date_checked": true
   },
   {
-   "title": "„VETS Svoge“ EOOD tegen Predsedatel na Upravitelnia savet na Fond „Sigurnost na elektroenergiynata sistema“ (C-327/25)",
-   "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62025CJ0327",
-   "date": "2026-10-22T00:00:00+00:00",
-   "summary": "Arrest van het Hof (Negende kamer) van 22 oktober 2026. Verzoek van Varhoven administrativen sad om een prejudiciële beslissing. Prejudiciële verwijzing – Interne markt voor elektriciteit – Verordening (EU) 2022/1854 – Noodinterventie in verband met de hoge energieprijzen – Artikel 6, lid 1 – Plafond op de marktinkomsten van elektriciteitsproducenten die bepaalde energiebronnen gebruiken – Artikel 8 – Voorafgaande nationale maatregel – Nationale bijdrage die wordt berekend over de totaliteit van de inkomsten van elektriciteitsproducenten en wordt geïnd ter financiering van een overheidsinstant",
-   "source": "hvjeu",
-   "first_seen": "2026-10-24T05:17:46+00:00"
-  },
-  {
    "title": "„EVN Bulgaria Renewables“ EOOD tegen Direktor na Teritorialna direktsia Plovdiv na Natsionalnata agentsia za prihodite (C-187/25)",
    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62025CJ0187",
    "date": "2026-10-22T00:00:00+00:00",
    "summary": "Arrest van het Hof (Negende kamer) van 22 oktober 2026. Verzoek van Administrativen sad Plovdiv om een prejudiciële beslissing. Prejudiciële verwijzing – Interne markt voor elektriciteit – Verordening (EU) 2022/1854 – Noodinterventie in verband met de hoge energieprijzen – Artikel 6, lid 1 – Artikel 8, lid 1, onder a), en lid 2 – Plafond op de marktinkomsten van elektriciteitsproducenten die bepaalde energiebronnen gebruiken – Nationaal plafond lager dan 180 EUR per megawattuur (MWh) geproduceerde elektriciteit – Toelaatbaarheid – Gedifferentieerd plafond naargelang de betrokken producent op 8",
    "source": "hvjeu",
    "first_seen": "2026-10-23T05:20:19+00:00"
+  },
+  {
+   "title": "„VETS Svoge“ EOOD tegen Predsedatel na Upravitelnia savet na Fond „Sigurnost na elektroenergiynata sistema“ (C-327/25)",
+   "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62025CJ0327",
+   "date": "2026-10-22T00:00:00+00:00",
+   "summary": "Arrest van het Hof (Negende kamer) van 22 oktober 2026. Verzoek van Varhoven administrativen sad om een prejudiciële beslissing. Prejudiciële verwijzing – Interne markt voor elektriciteit – Verordening (EU) 2022/1854 – Noodinterventie in verband met de hoge energieprijzen – Artikel 6, lid 1 – Plafond op de marktinkomsten van elektriciteitsproducenten die bepaalde energiebronnen gebruiken – Artikel 8 – Voorafgaande nationale maatregel – Nationale bijdrage die wordt berekend over de totaliteit van de inkomsten van elektriciteitsproducenten en wordt geïnd ter financiering van een overheidsinstant",
+   "source": "hvjeu",
+   "first_seen": "2026-10-24T05:17:46+00:00"
   },
   {
    "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
@@ -424,7 +442,9 @@
    "date": "2026-09-30T13:10:08+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Europe’s retail energy markets and the shift to electrification: prices, affordability and consumer flexibility",
@@ -493,7 +513,9 @@
    "date": "2026-09-24T11:06:14+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Acciaierie d’Italia SpA tegen Cassa per i servizi energetici e ambientali (CSEA) (C-503/25)",
@@ -598,7 +620,9 @@
    "date": "2026-09-17T11:05:28+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEF Energy: EU invests €125.8 million in three cross-border renewable energy projects",
@@ -639,7 +663,9 @@
    "date": "2026-09-16T12:18:01+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
@@ -759,7 +785,9 @@
    "date": "2026-08-05T08:20:48+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
@@ -791,7 +819,9 @@
    "date": "2026-07-23T11:32:00+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: Subsidie voor de installatie van een warmtepomp afgewezen. De aanvrager voldoet niet aan de definitie van eigenaar-bewoner als bedoeld in… (ECLI:NL:CBB:2026:386)",
@@ -816,7 +846,9 @@
    "date": "2026-07-17T13:19:35+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "ACER updates Core region’s electricity rules to support long-term flow-based capacity calculation",
@@ -832,7 +864,9 @@
    "date": "2026-07-17T12:54:06+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER is hiring: Gas Working Group & Project Coordinator",
@@ -840,7 +874,9 @@
    "date": "2026-07-15T12:34:17+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Pedro Verdelho is elected President of the Council of European Energy Regulators",
@@ -848,7 +884,9 @@
    "date": "2026-07-09T13:45:01+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER launches public consultation on 2027 Work Programme",
@@ -856,7 +894,9 @@
    "date": "2026-07-09T06:20:29+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Europese Commissie tegen Bondsrepubliek Duitsland (C-242/24)",
@@ -907,7 +947,9 @@
    "date": "2026-07-01T11:08:25+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: TEK-aanvraag. Ontvankelijkheid in beroep. Artikel 6:9, tweede lid, van de Awb. Verschoonbare termijnoverschrijding. Beroep ongegrond: niet… (ECLI:NL:CBB:2026:299)",
@@ -924,7 +966,9 @@
    "date": "2026-06-23T14:53:37+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: Geschilbesluit. Geen recht op verhoging transportvermogen elektriciteit. De Netcode, de Tarievencode, en de Begrippencode moeten binnen het… (ECLI:NL:CBB:2026:282)",
@@ -950,7 +994,9 @@
    "date": "2026-06-19T07:42:20+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CBb: Mondeling uitspraak. De subsidie is terecht vastgesteld op nihil. Niet voldaan aan het vereiste van stimulerend effect. De aankoop van de… (ECLI:NL:CBB:2026:307)",
@@ -985,7 +1031,9 @@
    "date": "2026-06-10T14:54:23+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER Consumer Focus Event 2026: Transparency, Trust and Information",
@@ -993,7 +1041,9 @@
    "date": "2026-05-21T06:15:11+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Towards a Competitive and Sustainable Electricity Market: EU4Energy Phase III Roundtable in Yerevan",
@@ -1001,7 +1051,9 @@
    "date": "2026-05-13T13:39:18+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Save the Date: Consumer Focus Event 2026",
@@ -1009,7 +1061,9 @@
    "date": "2026-03-25T10:44:10+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Robin Wood - Gewaltfreie Aktionsgemeinschaft für Natur und Umwelt eV e.a. tegen Europese Commissie (T-575/22)",
@@ -1034,7 +1088,9 @@
    "date": "2026-03-10T14:23:41+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER views on the European Grids Package",
@@ -1042,7 +1098,9 @@
    "date": "2026-03-05T13:13:50+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER appoints Bram Claeys as new Secretary General",
@@ -1050,7 +1108,9 @@
    "date": "2026-03-02T07:33:07+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER Webinar on NRA Oversight of Electricity Transmission Grid Development and Investment",
@@ -1058,7 +1118,9 @@
    "date": "2026-02-27T12:10:46+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Europese Commissie tegen Koninkrijk België (C-524/23)",
@@ -1098,7 +1160,9 @@
    "date": "2026-01-05T08:00:38+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "CEER Women in Energy Initiative – New Mentor Announcement",
@@ -1106,7 +1170,9 @@
    "date": "2025-12-18T10:33:00+00:00",
    "summary": "",
    "source": "ceer",
-   "first_seen": "2026-10-13T16:43:21+00:00"
+   "first_seen": "2026-10-13T16:43:21+00:00",
+   "date_estimated": true,
+   "date_lookups": 1
   },
   {
    "title": "Electrabel SA e.a. tegen Commission de Régulation de l’Electricité et du Gaz (CREG) (C-633/23)",
