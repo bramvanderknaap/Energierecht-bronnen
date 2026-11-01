@@ -9,7 +9,7 @@ ACM, ACER, de Europese Commissie (DG Energie), CEER, de Rijksoverheid, uitsprake
 - `scripts/fetch.py` – haalt de nieuwste publicaties op en zet ze in `data/items.json`.
 - `.github/workflows/update.yml` – laat GitHub dit script elke ochtend automatisch draaien.
 - `index.html`, `style.css`, `app.js` – de website zelf, gepubliceerd via GitHub Pages.
-- `assets/` – de tekeningen van de huisstijl: het landschap met zonnepark, windturbines en 380 kV-lijn (`landschap-breed.svg` voor brede schermen, `landschap-smal.svg` voor telefoons) en het logo.
+- `assets/` – het logo.
 
 ## Arresten van het Hof van Justitie
 
@@ -21,4 +21,4 @@ Die lijsten staan bij de bron `hvjeu` in `sources.json`. Deze bron bewaart tot 4
 
 ## Huisstijl
 
-"Noordzeedaglicht", rustige versie: alleen een licht thema, een lichte Noordzeelucht met een stille lijntekening van zonnepark, windturbines en hoogspanning achter de kop, verder wit met donkerblauw voor tekst en knoppen. Geen animatie. Teksten blijven zakelijk en kort. Kleuren staan als variabelen bovenaan `style.css`.
+Naar het voorbeeld van Wintervlam Advocaten: bovenaan een blauwe lucht met grote, dunne witte koppen, daaronder wit met diep petrol (#193B43) voor tekst en knoppen, licht zeegroen (#D1E6E6) voor lijnen en kleine labels in hoofdletters, en een petrol voet. Rechte hoeken. Koppen in Libre Franklin Light, lopende tekst in Inter. Alleen een licht thema, geen animatie. Teksten blijven zakelijk en kort. Kleuren staan als variabelen bovenaan `style.css`.

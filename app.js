@@ -13,21 +13,6 @@
   const daysBetween = (a, b) => Math.round((keyToUTC(a) - keyToUTC(b)) / 86400000);
   const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
-  // ---------- Landschap (decoratief, uit assets/) ----------
-  const land = $("land");
-  const mqNarrow = matchMedia("(max-width: 719.98px)");
-  async function loadLand() {
-    const url = mqNarrow.matches ? "assets/landschap-smal.svg" : "assets/landschap-breed.svg";
-    if (land.dataset.src === url) return;
-    land.dataset.src = url;
-    try {
-      const svg = await (await fetch(url)).text();
-      if (land.dataset.src === url) land.innerHTML = svg;
-    } catch (e) { /* zonder tekening werkt de site gewoon */ }
-  }
-  loadLand();
-  mqNarrow.addEventListener?.("change", loadLand);
-
   // ---------- Gegevens ----------
   let sources, data;
   if (window.EB_DATA) {
