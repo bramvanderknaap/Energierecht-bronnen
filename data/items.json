@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-04T05:45:51+00:00",
+ "updated": "2026-11-05T05:48:44+00:00",
  "items": [
+  {
+   "title": "Commissioner Jørgensen in Croatia to discuss housing and energy priorities",
+   "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-croatia-discuss-housing-and-energy-priorities-2026-11-04_en",
+   "date": "2026-11-04T16:43:46+00:00",
+   "summary": "Tomorrow and Friday, Commissioner for Energy and Housing Dan Jørgensen will be in Zagreb, Croatia, to exchange on energy and housing affordability with national and local authorities, and to participate in the Central and South-East European Energy Connectivity (CESEC) Ministerial.",
+   "source": "ec",
+   "first_seen": "2026-11-05T05:48:44+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Putting Reform into Practice: EU4Energy Phase III Brings European Regulatory Expertise to Armenia",
+   "url": "https://www.ceer.eu/news/putting-reform-into-practice-eu4energy-phase-iii-brings-european-regulatory-expertise-to-armenia/",
+   "date": "2026-11-04T11:50:46+00:00",
+   "summary": "",
+   "source": "ceer",
+   "first_seen": "2026-11-05T05:48:44+00:00"
+  },
+  {
+   "title": "Eurostat: Annual fall in non-household gas prices: -6.7%",
+   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-2",
+   "date": "2026-11-04T10:00:00+00:00",
+   "summary": "In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.",
+   "source": "ec",
+   "first_seen": "2026-11-05T05:48:44+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Eurostat: Non-household electricity prices fall further in 2026",
+   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1",
+   "date": "2026-11-04T10:00:00+00:00",
+   "summary": "In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).",
+   "source": "ec",
+   "first_seen": "2026-11-05T05:48:44+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Biomethane Mechanism: First matching round to connect buyers and suppliers",
+   "url": "https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en",
+   "date": "2026-11-04T08:28:52+00:00",
+   "summary": "The European Commission is launching the first matching round under the Biomethane Mechanism to bring potential buyers and suppliers of biomethane together across Europe.",
+   "source": "ec",
+   "first_seen": "2026-11-05T05:48:44+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "EU electricity market integration progresses but significant benefits remain untapped",
+   "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
+   "date": "2026-11-04T07:11:00+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-11-05T05:48:44+00:00"
+  },
+  {
+   "title": "Kabinet en maatschappelijke partijen in gesprek over de klimaat- en energieopgave",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/kabinet-en-maatschappelijke-partijen-in-gesprek-over-de-klimaat-en-energieopgave",
+   "date": "2026-11-04T00:00:00+00:00",
+   "summary": "",
+   "source": "rijksoverheid",
+   "first_seen": "2026-11-05T05:48:44+00:00"
+  },
   {
    "title": "ACER finds latest Slovak gas transmission tariff proposal not aligned with EU rules",
    "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
@@ -58,6 +118,15 @@
    "summary": "",
    "source": "acm",
    "first_seen": "2026-10-31T05:27:45+00:00"
+  },
+  {
+   "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313",
+   "date": "2026-10-29T23:00:00+00:00",
+   "summary": "Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.",
+   "source": "ec",
+   "first_seen": "2026-11-05T05:48:44+00:00",
+   "date_checked": true
   },
   {
    "title": "New ACER guidance helps market participants comply with revised REMIT data reporting rules",
