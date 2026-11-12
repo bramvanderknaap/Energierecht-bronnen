@@ -2,7 +2,9 @@ name: Verkenning rechtspraak (tijdelijk)
 on:
   push:
     branches: [claude/project-thread-62i53a]
-    paths: [scripts/probe_rechtspraak.py, .github/workflows/probe.yml]
+    paths: [scripts/probe_rechtspraak.py, scripts/civiel.py, .github/workflows/probe.yml]
+permissions:
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
@@ -12,4 +14,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python scripts/probe_rechtspraak.py
-      - run: df -h / | tail -1
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/probe_civiel.json.gz
+          git commit -m "Verkenning civiel: signalen" && git push
