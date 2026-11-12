@@ -24,7 +24,7 @@ Die lijsten staan bij de bron `hvjeu` in `sources.json`. Deze bron bewaart tot 4
 De bron `civiel` haalt de nieuwste civiele uitspraken op uit de open data van rechtspraak.nl (rechtsgebied civiel recht,
 2.000 per dag; de eerste keer 12.000 om verder terug te gaan). Een uitspraak telt als hij een van de `keywords` bevat,
 zoals energieleverancier, netbeheerder, netaansluiting of zonnepark. Uitspraken met een van de `exclude_keywords`
-(hennep, cannabis, wiet, growshop) vallen af, zodat de vele zaken over stroomdiefstal bij hennepteelt er niet in staan.
+(hennep, cannabis, wiet, growshop, oogst) vallen af, zodat de vele zaken over stroomdiefstal bij hennepteelt er niet in staan.
 
 ## Filter op soort
 

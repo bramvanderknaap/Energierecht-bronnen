@@ -370,9 +370,10 @@
       "windmolen",
       "laadpaal",
       "laadpunt",
-      "teruglever",
-      "saldering",
-      "salderen",
+      "terugleverkosten",
+      "terugleververgoeding",
+      "terugleverovereenkomst",
+      "salderingsregeling",
       "energieopslag",
       "biogas",
       "kernenergie",
@@ -388,11 +389,15 @@
       "vandebron",
       "energiedirect"
     ],
+    "whole_words": [
+      "essent"
+    ],
     "exclude_keywords": [
       "hennep",
       "cannabis",
       "wiet",
-      "growshop"
+      "growshop",
+      "oogst"
     ],
     "feeds": [
       {
