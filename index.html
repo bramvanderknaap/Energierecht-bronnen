@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="color-scheme" content="light">
   <title>Energierecht Bronnen</title>
-  <meta name="description" content="Energierecht databank: publicaties en rechtsbronnen van ACM, ACER, Europese Commissie, CEER, Rijksoverheid, CBb en Hof van Justitie EU, dagelijks bijgewerkt.">
+  <meta name="description" content="Energierecht databank: publicaties en rechtsbronnen van ACM, ACER, Europese Commissie, CEER, Rijksoverheid, CBb, civiele rechter en Hof van Justitie EU, dagelijks bijgewerkt.">
   <meta name="theme-color" content="#E5EEF4">
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Energierecht databank" href="data/feed.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@500;600&family=Source+Sans+3:wght@400;600&display=swap">
@@ -39,7 +40,7 @@
       <div class="wrap">
         <div class="hero-copy">
           <h1 id="hero-title">Energierecht databank</h1>
-          <p class="lead">Publicaties en rechtsbronnen van ACM, ACER, de Europese Commissie, CEER, de Rijksoverheid, het CBb en het Hof van Justitie van de EU. Dagelijks bijgewerkt.</p>
+          <p class="lead">Publicaties en rechtsbronnen van ACM, ACER, de Europese Commissie, CEER, de Rijksoverheid, het CBb, de civiele rechter en het Hof van Justitie van de EU. Dagelijks bijgewerkt.</p>
           <form class="search" id="searchForm" role="search">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.4 15.4L21 21"/></svg>
             <label class="sr-only" for="zoek">Zoek in titels en samenvattingen</label>
@@ -69,6 +70,10 @@
                 <label><input type="radio" name="periode" value="30"><span>30 dagen</span></label>
                 <label><input type="radio" name="periode" value="alles" checked><span>Alles</span></label>
               </div>
+            </fieldset>
+            <fieldset class="fgroup" id="soortGroup" hidden>
+              <legend>Soort</legend>
+              <ul class="checks" id="soortList"></ul>
             </fieldset>
             <fieldset class="fgroup">
               <legend>Bron</legend>
@@ -111,6 +116,16 @@
       <div class="sources" id="sources"></div>
     </div>
   </main>
+
+  <section class="updates" aria-labelledby="updates-title">
+    <div class="wrap">
+      <h2 id="updates-title">Op de hoogte blijven</h2>
+      <!-- Updatemails: zet bij data-aanmeld-url het adres van de aanmeldpagina van de nieuwsbriefdienst.
+           Die dienst maakt de mails zelf uit de RSS-feed (data/feed.xml). Leeg = dit blok blijft verborgen. -->
+      <p id="mailUpdates" data-aanmeld-url="" hidden>Ontvang nieuwe publicaties periodiek per e-mail. <a class="btn-primary" id="aanmeldLink" href="#" target="_blank" rel="noopener">Aanmelden</a></p>
+      <p>Volg nieuwe publicaties met een RSS-lezer: <a href="data/feed.xml">RSS-feed</a>.</p>
+    </div>
+  </section>
 
   <footer class="foot">
     <div class="wrap">
