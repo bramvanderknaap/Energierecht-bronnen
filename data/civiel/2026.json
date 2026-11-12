@@ -8,10 +8,221 @@
   "2026-05",
   "2026-06",
   "2026-07",
-  "2026-08"
+  "2026-08",
+  "2026-09"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: Deze zaak gaat om de afrekening van de kosten voor het individuele warmte- en waterverbruik over 2024 van een zelfstandige studentenwoning… (ECLI:NL:RBNHO:2026:13423)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:13423",
+   "date": "2026-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Deze zaak gaat om de afrekening van de kosten voor het individuele warmte- en waterverbruik over 2024 van een zelfstandige studentenwoning in een complex aan het adres in Alkmaar. De verhuurder heeft de berekeningswijze en omvang van de werkelijke kosten onderbouwd. Het verweer van de huurder daartegen is onvoldoende. De kantonrechter gaat daarom uit van de juistheid van de jaarafrekening.",
+   "source": "civiel",
+   "first_seen": "2026-10-04T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Gebod tot doen van aanbod tot leveren van transport van elektriciteit en inzageverzoek (art. 195 Rv). Vordering en verzoek worden… (ECLI:NL:RBGEL:2026:7548)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:7548",
+   "date": "2026-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gebod tot doen van aanbod tot leveren van transport van elektriciteit en inzageverzoek (art. 195 Rv). Vordering en verzoek worden afgewezen. Geen belang bij inzage in deze fase van de procedure. Energiewet van toepassing. Onvoldoende transportcapaciteit beschikbaar.",
+   "source": "civiel",
+   "first_seen": "2026-09-30T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Aanvraag prioriteit elektriciteitsaansluiting niet in behandeling genomen door gemeente. gelijkheidsbeginsel en zorgvuldigheidsbeginsel (ECLI:NL:RBZWB:2026:10018)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:10018",
+   "date": "2026-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanvraag prioriteit elektriciteitsaansluiting niet in behandeling genomen door gemeente. gelijkheidsbeginsel en zorgvuldigheidsbeginsel.",
+   "source": "civiel",
+   "first_seen": "2026-10-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: huurovereenkomst woonruimte; moet huurder kosten stadsverwarming dragen? (ECLI:NL:GHDHA:2026:2936)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:2936",
+   "date": "2026-09-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "huurovereenkomst woonruimte; moet huurder kosten stadsverwarming dragen?",
+   "source": "civiel",
+   "first_seen": "2026-09-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Verstek. Ambtshalve toetsing consumentenrecht. Warmtelevering. Warmtewet. Prijsbeding niet transparant, niet oneerlijk. Sanctie in verband… (ECLI:NL:RBAMS:2026:10141)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:10141",
+   "date": "2026-09-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Ambtshalve toetsing consumentenrecht. Warmtelevering. Warmtewet. Prijsbeding niet transparant, niet oneerlijk. Sanctie in verband met informatieplichten. Gevorderde afsluiting afgewezen, niet voldaan aan cumulatieve eisen Warmteregeling. Oneerlijk beding met betrekking tot incassokosten.",
+   "source": "civiel",
+   "first_seen": "2026-10-14T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Er is geen reden waarom de bank haar relatie met een professionele verhuurder (met name kamerverhuur aan studenten) niet zou mogen… (ECLI:NL:RBAMS:2026:9651)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:9651",
+   "date": "2026-09-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Er is geen reden waarom de bank haar relatie met een professionele verhuurder (met name kamerverhuur aan studenten) niet zou mogen beëindigen. De verhuurder is een strafbeschikking opgelegd voor verduistering van door zijn huurders te veel betaalde servicekosten. Om die verduistering mogelijk te maken werd de jaarrekening van de energieleverancier aangepast als de huurder daarom vroeg. Dat het inc",
+   "source": "civiel",
+   "first_seen": "2026-09-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Energieleverancier Vattenfall mag, als daarover in de terugleverovereenkomst niets is afgesproken, niet eenzijdig terugleverkosten vragen (ECLI:NL:RBAMS:2026:9661)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:9661",
+   "date": "2026-09-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieleverancier Vattenfall mag, als daarover in de terugleverovereenkomst niets is afgesproken, niet eenzijdig terugleverkosten vragen.",
+   "source": "civiel",
+   "first_seen": "2026-09-28T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Incident oproeping in vrijwaring afgewezen. Geen sprake van een rechtsverhouding die een verplichting tot vrijwaring meebrengt (ECLI:NL:RBLIM:2026:9668)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:9668",
+   "date": "2026-09-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incident oproeping in vrijwaring afgewezen. Geen sprake van een rechtsverhouding die een verplichting tot vrijwaring meebrengt.",
+   "source": "civiel",
+   "first_seen": "2026-09-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vervolg op ECLI:NL:GHARL:2025:395. Schade aan woon-bedrijfspand in aardbevingsgebied Groningen. Begroting diverse schadeposten na… (ECLI:NL:GHARL:2026:6101)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:6101",
+   "date": "2026-09-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:GHARL:2025:395. Schade aan woon-bedrijfspand in aardbevingsgebied Groningen. Begroting diverse schadeposten na uitgebracht deskundigenbericht.",
+   "source": "civiel",
+   "first_seen": "2026-09-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Onbetaalde nota’s energiekosten na beëindiging jaarcontract. Gedaagde vind de kosten onjuist, maar de kantonrechter oordeelt dat de… (ECLI:NL:RBROT:2026:12095)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:12095",
+   "date": "2026-09-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onbetaalde nota’s energiekosten na beëindiging jaarcontract. Gedaagde vind de kosten onjuist, maar de kantonrechter oordeelt dat de berekening van het werkelijke verbruik wel klopt. Omdat eiseres bij het sluiten van de overeenkomst echter drie essentiële consumenteninformatieplichten heeft geschonden (rondom contractduur en opzegging), verlaagt de kantonrechter de hoofdsom met 20%.",
+   "source": "civiel",
+   "first_seen": "2026-09-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Eiser heeft een elektrische auto die hij heeft opgeladen. Hij stelt sindsdien schade aan zijn auto te hebben. Geen sprake van een… (ECLI:NL:RBAMS:2026:9459)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:9459",
+   "date": "2026-09-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser heeft een elektrische auto die hij heeft opgeladen. Hij stelt sindsdien schade aan zijn auto te hebben. Geen sprake van een tekortkoming. Vordering afgewezen.",
+   "source": "civiel",
+   "first_seen": "2026-09-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Consumentenrecht. Overeenkomst levering energie en gas aangegaan. Energie en gas geleverd. Nota's en eindnota dienen betaald te worden.… (ECLI:NL:RBLIM:2026:9853)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:9853",
+   "date": "2026-09-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenrecht. Overeenkomst levering energie en gas aangegaan. Energie en gas geleverd. Nota's en eindnota dienen betaald te worden. Vorderingen toegewezen.",
+   "source": "civiel",
+   "first_seen": "2026-09-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Overeenkomst tot plaatsen water- en elektriciteitsaansluiting. Werkzaamheden zijn uitgevoerd. Gedaagde partij in conventie niet tevreden… (ECLI:NL:RBLIM:2026:9856)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:9856",
+   "date": "2026-09-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot plaatsen water- en elektriciteitsaansluiting. Werkzaamheden zijn uitgevoerd. Gedaagde partij in conventie niet tevreden over uitgevoerde werkzaamheden. Gedaagde partij in conventie niet verschenen op mondelinge behandeling en nadere stellingen van eisende partij in conventie onweersproken gelaten. Voldoende aannemelijk dat eisende partij in conventie de werkzaamheden heeft uitgevo",
+   "source": "civiel",
+   "first_seen": "2026-09-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Stedin heeft niet ten onrechte gedaagvaard, dus gedaagde moet de proceskosten betalen (ECLI:NL:RBMNE:2026:6627)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:6627",
+   "date": "2026-09-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stedin heeft niet ten onrechte gedaagvaard, dus gedaagde moet de proceskosten betalen.",
+   "source": "civiel",
+   "first_seen": "2026-09-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Afsluiten energieaansluiting wordt toegewezen. Gedaagde is niet op zitting verschenen en zonder toelichting zijn de door of namens haar… (ECLI:NL:RBMNE:2026:6607)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:6607",
+   "date": "2026-09-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afsluiten energieaansluiting wordt toegewezen. Gedaagde is niet op zitting verschenen en zonder toelichting zijn de door of namens haar ingediende stukken niet te plaatsen.",
+   "source": "civiel",
+   "first_seen": "2026-09-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Aansprakelijkheid stellen geleden schade (ECLI:NL:RBOVE:2026:5573)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:5573",
+   "date": "2026-09-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansprakelijkheid stellen geleden schade.",
+   "source": "civiel",
+   "first_seen": "2026-09-20T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Den Haag: Eindvonnis na tussenvonnis (gepubliceerd onder ECLI:NL:RBDHA:2026:8891). Invoerfout van ACM bij vaststelling maximale vaste tarieven… (ECLI:NL:RBDHA:2026:32169)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:32169",
+   "date": "2026-09-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eindvonnis na tussenvonnis (gepubliceerd onder ECLI:NL:RBDHA:2026:8891). Invoerfout van ACM bij vaststelling maximale vaste tarieven warmtelevering. Vordering tot schadevergoeding wordt grotendeels afgewezen. Eiseres heeft onvoldoende onderbouwd dat zij bij publicatie van de juiste tarieven haar variabele leveringstarief zou hebben verhoogd.",
+   "source": "civiel",
+   "first_seen": "2026-11-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: In hoger beroep ligt de vraag voor of de vrouw afstand heeft gedaan van haar onverdeelde helft in de overwaarde van de woning, van haar… (ECLI:NL:GHARL:2026:5774)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:5774",
+   "date": "2026-09-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In hoger beroep ligt de vraag voor of de vrouw afstand heeft gedaan van haar onverdeelde helft in de overwaarde van de woning, van haar aandeel in een bedrag dat de man heeft ontvangen aan vergoeding van aardbevingsschade en van haar aandeel in lopende schadeclaims voor aardbevingsschade aan de woning. Het hof legt de (ook) door de vrouw getekende afstandsverklaring uit aan de hand van de Haviltex",
+   "source": "civiel",
+   "first_seen": "2026-09-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Vordering tot kosteloze afboeking van langdurig geboekte gastransportcapaciteit afgewezen. Beroep op 6:258 BW (onvoorziene omstandigheden)… (ECLI:NL:RBNNE:2026:3773)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:3773",
+   "date": "2026-09-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot kosteloze afboeking van langdurig geboekte gastransportcapaciteit afgewezen. Beroep op 6:258 BW (onvoorziene omstandigheden) en 6:248 BW (redelijkheid en billijkheid) verworpen vanwege de sterk gereguleerde aard van de overeenkomst.",
+   "source": "civiel",
+   "first_seen": "2026-09-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Tussenarrest. NEV heeft door middel van telefonische acquisitie voor Total bemiddeld bij het afsluiten van energieleveringsovereenkomsten… (ECLI:NL:GHDHA:2026:2759)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:2759",
+   "date": "2026-09-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenarrest. NEV heeft door middel van telefonische acquisitie voor Total bemiddeld bij het afsluiten van energieleveringsovereenkomsten met (nieuwe) afnemers. NEV vordert in deze procedure nabetaling van commissie, Total vordert daarentegen terugbetaling van reeds betaalde commissie. Total voert daartoe onder meer aan dat NEV zich in haar acquisitiegesprekken steeds heeft bediend van oneerlijke ",
+   "source": "civiel",
+   "first_seen": "2026-09-01T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kort geding. Verschillende vorderingen, o.a. verstrekken stukken, meewerken overdracht overeenkomsten, gebiedsverbod, betaling… (ECLI:NL:RBMNE:2026:6275)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:6275",
+   "date": "2026-09-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Verschillende vorderingen, o.a. verstrekken stukken, meewerken overdracht overeenkomsten, gebiedsverbod, betaling geldbedragen, verbod doen van bepaalde uitlatingen en overdracht accounts. De vordering lijfsdwang wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2026-09-12T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Amsterdam: WAMCA-zaak over prijswijzigingsbedingen in energioecontracten. Bevekl aan de energieleveranciers ex art. 22 om stellingen toe te lichten… (ECLI:NL:RBAMS:2026:8399)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:8399",
