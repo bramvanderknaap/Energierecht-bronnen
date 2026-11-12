@@ -8,10 +8,191 @@
   "2025-05",
   "2025-06",
   "2025-07",
-  "2025-08"
+  "2025-08",
+  "2025-09"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerechtshof Amsterdam: Een consument die overstapt naar een andere energieleverancier, ontvangt van zijn oude leverancier een eindafrekening die inhoudt dat hij… (ECLI:NL:GHAMS:2025:2562)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2562",
+   "date": "2025-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Een consument die overstapt naar een andere energieleverancier, ontvangt van zijn oude leverancier een eindafrekening die inhoudt dat hij geld terugkrijgt. Later ontvangt de consument, op basis van gecorrigeerde meterstanden voor de datum van overstappen, een gecorrigeerde eindafrekening die inhoudt dat hij een aanzienlijk bedrag moet bijbetalen. Omdat de consument zijn meterstanden niet had opgeg",
+   "source": "civiel",
+   "first_seen": "2025-09-26T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Meerdere geschillen tussen recreatiepark en de VvE van de kavels/chalets in het park over de uitleg van de beheerovereenkomst, onder meer… (ECLI:NL:GHSHE:2025:2681)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2681",
+   "date": "2025-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Meerdere geschillen tussen recreatiepark en de VvE van de kavels/chalets in het park over de uitleg van de beheerovereenkomst, onder meer over onderhoud, de doorberekening van kosten voor elektriciteit en water en over de hoogte van de VvE-bijdragen.",
+   "source": "civiel",
+   "first_seen": "2025-09-30T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Betaling van meerdere voorschotnota en jaarafrekeningen inzake de levering van stadsverwarming. Verrekening wegens gebreken aan de… (ECLI:NL:RBZWB:2025:6416)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6416",
+   "date": "2025-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Betaling van meerdere voorschotnota en jaarafrekeningen inzake de levering van stadsverwarming. Verrekening wegens gebreken aan de warmte-installatie. De gebreken zijn deels erkend maar voor zover betwist zijn deze onvoldoende onderbouwd.",
+   "source": "civiel",
+   "first_seen": "2025-09-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Vordering tot terugname van de energiemeters/meetinrichting is toewijsbaar. De kosten voor het afsluiten van de energietoevoer komen voor… (ECLI:NL:RBZWB:2025:6465)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6465",
+   "date": "2025-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot terugname van de energiemeters/meetinrichting is toewijsbaar. De kosten voor het afsluiten van de energietoevoer komen voor rekening van gedaagde. Gedaagde handelt onrechtmatig ten opzichte van eiseres door geen nieuwe energieovereenkomst te sluiten, waardoor eiseres op grond van de wet gehouden is tot afsluiting over te gaan.",
+   "source": "civiel",
+   "first_seen": "2025-09-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Na vermindering van eis vordert een netbeheerder alleen nog een proceskostenveroordeling. Gedaagde wordt in de proceskosten veroordeeld,… (ECLI:NL:RBNHO:2025:11516)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:11516",
+   "date": "2025-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Na vermindering van eis vordert een netbeheerder alleen nog een proceskostenveroordeling. Gedaagde wordt in de proceskosten veroordeeld, omdat de netbeheerder terecht tot dagvaarding is overgegaan. Maar het door gedaagde te vergoeden griffierecht wordt beperkt, omdat van de netbeheerder verwacht mocht worden dat zij haar vordering al voor de eerste zittingsdag had verminderd. De tegenvordering van",
+   "source": "civiel",
+   "first_seen": "2025-10-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Wijzigingsbeding. Terugleverkosten zonnepannelen. Vordering van consument toegewezen (ECLI:NL:RBAMS:2025:6644)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:6644",
+   "date": "2025-09-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Wijzigingsbeding. Terugleverkosten zonnepannelen. Vordering van consument toegewezen.",
+   "source": "civiel",
+   "first_seen": "2025-09-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Wijzigingsbeding. Terugleverkosten zonnepannelen. Vordering van consument toegewezen (ECLI:NL:RBAMS:2025:6645)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:6645",
+   "date": "2025-09-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Wijzigingsbeding. Terugleverkosten zonnepannelen. Vordering van consument toegewezen.",
+   "source": "civiel",
+   "first_seen": "2025-09-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; consumentenkoop (ECLI:NL:RBLIM:2025:9070)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:9070",
+   "date": "2025-09-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; koop en ruil; consumentenkoop",
+   "source": "civiel",
+   "first_seen": "2025-09-19T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Tussenarrest. Consumentenovereenkomst voor levering van warmte/of koude. Vordering tot betaling openstaande facturen en ontbinding van de… (ECLI:NL:GHAMS:2025:2469)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2469",
+   "date": "2025-09-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenarrest. Consumentenovereenkomst voor levering van warmte/of koude. Vordering tot betaling openstaande facturen en ontbinding van de overeenkomst. Geen schending van de informatieplichten, de geldvordering is toewijsbaar. Het beding in de algemene voorwaarden dat ziet op de buitengerechtelijke incassokosten acht het hof voorshands oneerlijk. Daarnaast kan niet worden vastgesteld dat is voldaa",
+   "source": "civiel",
+   "first_seen": "2025-09-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vordering betaling facturen voor levering van elektriciteit en gas. Gedaagde heeft onvoldoende gemotiveerd betwist dat de facturen niet… (ECLI:NL:RBROT:2025:12170)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12170",
+   "date": "2025-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering betaling facturen voor levering van elektriciteit en gas. Gedaagde heeft onvoldoende gemotiveerd betwist dat de facturen niet kloppen. Het had op de weg van gedaagde gelegen om aan de hand van de door eiseres overgelegde specificaties duidelijk te maken op welke punten de facturen niet kloppen en waarom niet. Voor zover gedaagde meent dat de gehanteerde meterstanden niet kloppen, had het",
+   "source": "civiel",
+   "first_seen": "2025-10-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Aardbevingszaak. Maatstaf weerlegging bewijsvermoeden in een civiele procedure tegen NAM en benoeming STAB als deskundige (ECLI:NL:RBNNE:2025:3841)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:3841",
+   "date": "2025-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingszaak. Maatstaf weerlegging bewijsvermoeden in een civiele procedure tegen NAM en benoeming STAB als deskundige.",
+   "source": "civiel",
+   "first_seen": "2025-09-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Enexis vordert betaling van kosten in verband met het verbruik van energie door een afnemer. Zij baseert haar vordering op onrechtmatig… (ECLI:NL:RBZWB:2025:6190)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6190",
+   "date": "2025-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Enexis vordert betaling van kosten in verband met het verbruik van energie door een afnemer. Zij baseert haar vordering op onrechtmatig handelen van de afnemer dan wel een recht op naheffing, omdat de energie volgens Enexis is afgenomen zonder dat de afnemer een leveringscontract had. De kantonrechter vindt echter dat Enexis daarvoor onvoldoende heeft gesteld, zodat de kantonrechter de vordering a",
+   "source": "civiel",
+   "first_seen": "2025-09-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Huurrecht woonruimte. De vorderingen van eiser stellen aan de orde de vraag of het geoorloofd is dat gedaagde als verhuurder aan eiser als… (ECLI:NL:RBNHO:2025:9761)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:9761",
+   "date": "2025-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurrecht woonruimte. De vorderingen van eiser stellen aan de orde de vraag of het geoorloofd is dat gedaagde als verhuurder aan eiser als huurder dwingend oplegt om een overeenkomst tot het leveren van warmte en koude te sluiten met een derde. Door eiser is hierbij uitdrukkelijk gesteld dat hij hierbij geen onderscheid maakt tussen het vast recht en de variabele kosten voor levering van warmte en",
+   "source": "civiel",
+   "first_seen": "2025-08-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Eiseres (een energiemaatschappij) stelt dat gedaagde op niet-legale wijze de beschikkingheeft gekregen over haar… (ECLI:NL:RBGEL:2025:7488)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:7488",
+   "date": "2025-09-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Eiseres (een energiemaatschappij) stelt dat gedaagde op niet-legale wijze de beschikkingheeft gekregen over haar klantenbestand. Zij voert aan dat gedaagde haar klanten telefonisch heeft benaderd om over te stappen naar een andere energiemaatschappij en dat gedaagd daarbij misleidende mededelingen heeft gedaan. Eiseres vordert dat gedaagde (onder meer) wordt veroordeeld om daarmee op ",
+   "source": "civiel",
+   "first_seen": "2025-09-05T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Verbintenissenrecht; verbintenis uit ander bron dan od of ovkmst; onrechtvaardige verrijking (ECLI:NL:RBLIM:2025:8727)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:8727",
+   "date": "2025-09-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht; verbintenis uit ander bron dan od of ovkmst; onrechtvaardige verrijking",
+   "source": "civiel",
+   "first_seen": "2025-09-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Facturen tot betaling van energie (ECLI:NL:RBZWB:2025:6641)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6641",
+   "date": "2025-09-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Facturen tot betaling van energie.",
+   "source": "civiel",
+   "first_seen": "2025-10-03T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Koop van een voormalige energiecentrale. Aanwezigheid van asbest en nucliden (radioactief materiaal). Wanprestatie. Dwaling (ECLI:NL:GHSHE:2025:2380)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2380",
+   "date": "2025-09-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Koop van een voormalige energiecentrale. Aanwezigheid van asbest en nucliden (radioactief materiaal). Wanprestatie. Dwaling.",
+   "source": "civiel",
+   "first_seen": "2025-09-04T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Door consument afgenomen elektriciteit en gas zonder leveringsovereenkomst met een energieleverancier. Ongerechtvaardigde verrijking ten… (ECLI:NL:GHSHE:2025:2384)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2384",
+   "date": "2025-09-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Door consument afgenomen elektriciteit en gas zonder leveringsovereenkomst met een energieleverancier. Ongerechtvaardigde verrijking ten opzichte van de netbeheerder. Vraag in hoeverre de consument aan de netbeheerder uit hoofde van ongerechtvaardigde verrijking een vergoeding moet betalen voor de afgenomen elektriciteit en het afgenomen gas.",
+   "source": "civiel",
+   "first_seen": "2025-09-04T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Rotterdam: Verzet, spoorwissel (ECLI:NL:RBROT:2025:10490)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:10490",
