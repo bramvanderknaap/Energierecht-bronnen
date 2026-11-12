@@ -2,10 +2,231 @@
  "jaar": 2025,
  "maanden": [
   "2025-01",
-  "2025-02"
+  "2025-02",
+  "2025-03"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomst tot levering energie. Gedaagde heeft een betalingsachterstand laten ontstaan. Hij wordt veroordeeld om die achterstand te… (ECLI:NL:RBROT:2025:3980)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:3980",
+   "date": "2025-03-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering energie. Gedaagde heeft een betalingsachterstand laten ontstaan. Hij wordt veroordeeld om die achterstand te betalen aan eiseres. De leveringsovereenkomst tussen partijen wordt ontbonden. Eiseres heeft voldoende onderbouwd dat aan de voorwaarden voor beëindiging van de levering wegens wanprestatie is voldaan. Eiseres mag de leverantie afsluiten en de meter verzegelen en g",
+   "source": "civiel",
+   "first_seen": "2025-03-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Geschil ziet in conventie op de vraag of huurder boetes verschuldigd is wegens tekortkomingen uit de huurovereenkomst en herstelkosten na… (ECLI:NL:RBZWB:2025:2072)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:2072",
+   "date": "2025-03-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil ziet in conventie op de vraag of huurder boetes verschuldigd is wegens tekortkomingen uit de huurovereenkomst en herstelkosten na oplevering. De reconventie ziet op de vraag of huurder recht heeft op schadevergoeding voor aangebrachte wijzigingen aan het gehuurde.",
+   "source": "civiel",
+   "first_seen": "2025-04-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: De energieleverancier vordert betaling van twee facturen en de eindafrekening van de onderneming. De onderneming betwist de per maand… (ECLI:NL:RBNHO:2025:4393)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:4393",
+   "date": "2025-03-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De energieleverancier vordert betaling van twee facturen en de eindafrekening van de onderneming. De onderneming betwist de per maand uitgesplitste verbruiksgegevens in de eindafrekening, maar onderbouwt dit onvoldoende. De vordering wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2025-04-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: In deze (verstek)zaak oordeelt het hof dat de bestelknop van Innova Energie niet voldoet aan de eisen van artikel 6:230v lid 3 van het… (ECLI:NL:GHAMS:2025:719)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:719",
+   "date": "2025-03-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In deze (verstek)zaak oordeelt het hof dat de bestelknop van Innova Energie niet voldoet aan de eisen van artikel 6:230v lid 3 van het Burgerlijk Wetboek (BW). Het hof ziet aanleiding de overeenkomst gedeeltelijk te vernietigen en een korting van één derde toe te passen op de hoofdsom (vgl. Hoge Raad 4 oktober 2024, ECLI:NL:HR:2024:1355).",
+   "source": "civiel",
+   "first_seen": "2025-03-24T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Richtlijn 93/13 inzake oneerlijke bedingen in consumentenovereenkomsten. Richtlijn 2005/29 inzake oneerlijke handelspraktijken. Variabel… (ECLI:NL:GHAMS:2025:704)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:704",
+   "date": "2025-03-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Richtlijn 93/13 inzake oneerlijke bedingen in consumentenovereenkomsten. Richtlijn 2005/29 inzake oneerlijke handelspraktijken. Variabel energiecontract met eenzijdig wijzigingsbeding. Aanvallend beroep op vernietiging verjaard? Wijzigingsbeding oneerlijk? Is een mededeling op de website van Vattenfall dat de tarieven tweemaal per jaar worden gewijzigd terwijl in 2022 nog een tussentijdse wijzigin",
+   "source": "civiel",
+   "first_seen": "2025-03-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Eiseres vordert betaling van achterstallige energiekosten. Gedaagde doet een beroep op verjaring. Eiseres heeft meerdere essentiële… (ECLI:NL:RBROT:2025:6746)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:6746",
+   "date": "2025-03-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres vordert betaling van achterstallige energiekosten. Gedaagde doet een beroep op verjaring. Eiseres heeft meerdere essentiële informatieverplichtingen geschonden. De betalingsverplichting van gedaagde wordt daarom met 40% verminderd.",
+   "source": "civiel",
+   "first_seen": "2025-06-06T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Aansluitverplichting Enexis; belang WOZ-beschikking bestaand gebouw bij voorgenomen sloop en nieuwbouw (ECLI:NL:RBOBR:2025:2028)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:2028",
+   "date": "2025-03-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansluitverplichting Enexis; belang WOZ-beschikking bestaand gebouw bij voorgenomen sloop en nieuwbouw.",
+   "source": "civiel",
+   "first_seen": "2025-04-04T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Eiseres levert warmte aan gedaagde. Gedaagde heeft meerdere maanden de voorschotfactuur niet betaald aan eiseres. Eiseres wil daarom dat de… (ECLI:NL:RBZWB:2025:1794)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1794",
+   "date": "2025-03-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres levert warmte aan gedaagde. Gedaagde heeft meerdere maanden de voorschotfactuur niet betaald aan eiseres. Eiseres wil daarom dat de overeenkomst tussen partijen wordt ontbonden en dat gedaagde onder andere wordt veroordeeld tot (beperkte) ontruiming van het verbruiksadres voor het verrichten van afsluitingswerkzaamheden en tot betaling van de achterstand. Gedaagde erkent dat er een betalin",
+   "source": "civiel",
+   "first_seen": "2025-03-28T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: investering in windenergieproject; afspraak over terugbetaling investering; voorshands bewezen dat bestuurder heeft bewerkstelligd dat… (ECLI:NL:GHAMS:2025:665)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:665",
+   "date": "2025-03-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "investering in windenergieproject; afspraak over terugbetaling investering; voorshands bewezen dat bestuurder heeft bewerkstelligd dat terugbetalingsafspraak door vennootschap niet wordt nagekomen.",
+   "source": "civiel",
+   "first_seen": "2025-03-18T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Huur bedrijfsruimte. Gedaagde is hoofdelijk aansprakelijk voor nakoming huurovereenkomst. Van (heimelijke) aanpassing van ROZ-model is geen… (ECLI:NL:RBNHO:2025:2570)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:2570",
+   "date": "2025-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huur bedrijfsruimte. Gedaagde is hoofdelijk aansprakelijk voor nakoming huurovereenkomst. Van (heimelijke) aanpassing van ROZ-model is geen sprake. Beroep op dwaling of bedrog wordt verworpen. Toestemming echtgenote niet vereist. Toewijzing huurachterstand. Beslagkosten beperkt tot liquidatietarief. Advertentie- en makelaarskosten afgewezen.",
+   "source": "civiel",
+   "first_seen": "2025-03-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; huurrecht; overige huurrecht (ECLI:NL:RBLIM:2025:2459)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:2459",
+   "date": "2025-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; huurrecht; overige huurrecht",
+   "source": "civiel",
+   "first_seen": "2025-03-17T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Tussenvonnis: Vorderingen onbetaalde facturen energieverbruik. Eiser heeft het energieverbruik grotendeels berekend aan de hand van… (ECLI:NL:RBMNE:2025:1561)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1561",
+   "date": "2025-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis: Vorderingen onbetaalde facturen energieverbruik. Eiser heeft het energieverbruik grotendeels berekend aan de hand van schattingen. Omdat eiser bij een deel van de schatting uit is gegaan van een te hoog gemiddeld energieverbruik, moet zij een nieuwe schatting overleggen in een akte.",
+   "source": "civiel",
+   "first_seen": "2025-04-07T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Vonnis na tussenvonnis. Misleidende handelspraktijken als bedoeld in artikel 6:193b lid 3 sub a jo. 6:193c lid 1 sub d BW (ECLI:NL:RBNHO:2025:3352)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:3352",
+   "date": "2025-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vonnis na tussenvonnis. Misleidende handelspraktijken als bedoeld in artikel 6:193b lid 3 sub a jo. 6:193c lid 1 sub d BW.",
+   "source": "civiel",
+   "first_seen": "2025-03-27T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Vernietiging overeenkomst tussen energieleverancier en consument wegens misleidende handelspraktijken als bedoeld in 6:193b lid 3 sub a BW… (ECLI:NL:RBZWB:2025:1764)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1764",
+   "date": "2025-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vernietiging overeenkomst tussen energieleverancier en consument wegens misleidende handelspraktijken als bedoeld in 6:193b lid 3 sub a BW jo 193c lid 1 sub d BW, welke eruit bestaan dat de consument bij het aangaan van de overeenkomst een veel lager maandelijks voorschotbedrag is voorgehouden dan later in rekening zou worden gebracht.",
+   "source": "civiel",
+   "first_seen": "2025-03-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Bindend advies van de Geschillencommissie wordt vernietigd. Terugbetalingsregeling ogv Warmtewet of compensatieregeling ogv Warmteregeling (ECLI:NL:RBAMS:2025:2508)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2508",
+   "date": "2025-03-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bindend advies van de Geschillencommissie wordt vernietigd. Terugbetalingsregeling ogv Warmtewet of compensatieregeling ogv Warmteregeling.",
+   "source": "civiel",
+   "first_seen": "2025-04-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Eiseres heeft haar vordering verminderd tot nihil en verzocht om royement van de zaak. Gedaagde is niet akkoord gegaan met het verzoek tot… (ECLI:NL:RBROT:2025:2253)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:2253",
+   "date": "2025-03-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres heeft haar vordering verminderd tot nihil en verzocht om royement van de zaak. Gedaagde is niet akkoord gegaan met het verzoek tot royement en heeft verzocht om een volledige proceskostenveroordeling. Dit verzoek van gedaagde wordt afgewezen, omdat hier geen sprake is van buitengewone omstandigheden, zoals misbruik van procesrecht of onrechtmatig handelen.",
+   "source": "civiel",
+   "first_seen": "2025-02-24T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Spoorwisselbeschikking. Executiegeschil (ECLI:NL:RBROT:2025:3056)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:3056",
+   "date": "2025-03-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Spoorwisselbeschikking. Executiegeschil.",
+   "source": "civiel",
+   "first_seen": "2025-03-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Tussenvonnis; loonbeslag; derdenverklaring (ECLI:NL:RBROT:2025:3387)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:3387",
+   "date": "2025-03-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis; loonbeslag; derdenverklaring.",
+   "source": "civiel",
+   "first_seen": "2025-03-13T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: klokkenluiderszaak; eindvonnis na deskundigenbericht; schadeberekening. Zie ook ECLI:NL:RBAMS:2023:3969 en ECLI:NL:RBAMS:2023:9036 (ECLI:NL:RBAMS:2025:1538)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:1538",
+   "date": "2025-03-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "klokkenluiderszaak; eindvonnis na deskundigenbericht; schadeberekening. Zie ook ECLI:NL:RBAMS:2023:3969 en ECLI:NL:RBAMS:2023:9036.",
+   "source": "civiel",
+   "first_seen": "2025-03-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: De consument is een serviceovereenkomst met betrekking tot de levering en service van een warmtepomp en bronnenveld aangegaan bij de… (ECLI:NL:RBDHA:2025:25111)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:25111",
+   "date": "2025-03-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De consument is een serviceovereenkomst met betrekking tot de levering en service van een warmtepomp en bronnenveld aangegaan bij de aankoop van een nieuwbouwwoning. De bedingen die zijn opgenomen in de projectvoorwaarden ten aanzien van de duur van de serviceovereenkomst vallen onder artikel 6:237 onder k en o BW. De bedingen beperken de consument in haar opzeggingsrecht en zijn hierdoor aan te m",
+   "source": "civiel",
+   "first_seen": "2025-12-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Energie afgenomen zonder energiecontract. Schadevergoeding Enexis toegewezen (ECLI:NL:RBZWB:2025:1318)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1318",
+   "date": "2025-03-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energie afgenomen zonder energiecontract. Schadevergoeding Enexis toegewezen.",
+   "source": "civiel",
+   "first_seen": "2025-03-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: De vordering van Enexis om de energietoevoer af te sluiten zal worden toegewezen, omdat niet is komen vast te staan dat gedaagde een… (ECLI:NL:RBOVE:2025:1254)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:1254",
+   "date": "2025-03-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De vordering van Enexis om de energietoevoer af te sluiten zal worden toegewezen, omdat niet is komen vast te staan dat gedaagde een overeenkomst heeft gesloten met een nieuwe energieleverancier of dat hij inmiddels de woning heeft verlaten.",
+   "source": "civiel",
+   "first_seen": "2025-03-06T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Rotterdam: Afsluiting door warmteleverancier toegewezen Warmtewet geldt voor alle personen die zijn aangesloten op Warmtenet (ECLI:NL:RBROT:2025:2636)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:2636",
