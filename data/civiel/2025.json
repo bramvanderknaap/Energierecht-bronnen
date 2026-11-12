@@ -9,10 +9,301 @@
   "2025-06",
   "2025-07",
   "2025-08",
-  "2025-09"
+  "2025-09",
+  "2025-10"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: Afsluiting gas en electriciteit door netbeheer. Regeling afsluitbeleid voor kleingebruikers van electriciteit en gas. Verplichting van de… (ECLI:NL:RBAMS:2025:8487)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:8487",
+   "date": "2025-10-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afsluiting gas en electriciteit door netbeheer. Regeling afsluitbeleid voor kleingebruikers van electriciteit en gas. Verplichting van de netbeheer om voldoende te stellen dat door de leverancier is voldaan aan de Regeling, dan wel zelf voldoende maatregelen heeft genomen om te voldoen aan doel en strekking van de Regeling",
+   "source": "civiel",
+   "first_seen": "2025-11-10T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Er zijn facturen voor de levering van energie onbetaald gebleven. De kantonrechter wijst de vorderingen toe (ECLI:NL:RBOBR:2025:7090)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:7090",
+   "date": "2025-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Er zijn facturen voor de levering van energie onbetaald gebleven. De kantonrechter wijst de vorderingen toe.",
+   "source": "civiel",
+   "first_seen": "2025-10-31T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Onteigening. Vervroegde plaatsopneming artikel 54a Onteigeningswet (ECLI:NL:RBMNE:2025:5569)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5569",
+   "date": "2025-10-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onteigening. Vervroegde plaatsopneming artikel 54a Onteigeningswet.",
+   "source": "civiel",
+   "first_seen": "2025-10-28T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Echtpaar maakt aanspraak op vergoeding van aardbevingsschade in procedures tegen de NAM. In de loop van die procedures is een financieel… (ECLI:NL:GHARL:2025:6917)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6917",
+   "date": "2025-10-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Echtpaar maakt aanspraak op vergoeding van aardbevingsschade in procedures tegen de NAM. In de loop van die procedures is een financieel onhoudbare situatie ontstaan, en dreigden zij huisvesting te verliezen en een waterbron die zij wilden gaan exploiteren. Dat heeft geleid tot afspraken met het Interventieteam Vastgelopen Situaties Groningen. Eisers willen die afspraak vernietigen, omdat dit inte",
+   "source": "civiel",
+   "first_seen": "2025-11-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding. Transformatorstation op perceel van een ander, vordering tot verwijdering. Spoedeisend belang? Opstalrecht verkregen door… (ECLI:NL:GHARL:2025:6921)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6921",
+   "date": "2025-10-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Transformatorstation op perceel van een ander, vordering tot verwijdering. Spoedeisend belang? Opstalrecht verkregen door verjaring? Persoonlijk gebruiksrecht? Belangenafweging. Vordering tot verwijdering toegewezen.",
+   "source": "civiel",
+   "first_seen": "2025-11-05T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Verstek. Informatieplichten kunnen niet ambtshalve worden getoetst, omdat niet kan worden vastgesteld dat gedaagde het toegelichte… (ECLI:NL:RBAMS:2025:8569)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:8569",
+   "date": "2025-10-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Informatieplichten kunnen niet ambtshalve worden getoetst, omdat niet kan worden vastgesteld dat gedaagde het toegelichte bestelproces, waarvan de schermafdrukken ongedateerd zijn, heeft doorlopen. Vordering afgewezen op stelplicht.",
+   "source": "civiel",
+   "first_seen": "2025-11-12T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Tussenbeschikking. Onteigening. Ontheffing deskundige en benoeming vervangende deskundige. (ZIE OOK: ECLI:NL:RBMNE:2025:5118) (ECLI:NL:RBMNE:2025:5532)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5532",
+   "date": "2025-10-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenbeschikking. Onteigening. Ontheffing deskundige en benoeming vervangende deskundige. (ZIE OOK: ECLI:NL:RBMNE:2025:5118)",
+   "source": "civiel",
+   "first_seen": "2025-10-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Laadpalen voor elektrische auto's op percelen van eiser, exploitatie door gedaagde. Grondslag? Rechtsgeldige… (ECLI:NL:RBROT:2025:12433)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12433",
+   "date": "2025-10-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Laadpalen voor elektrische auto's op percelen van eiser, exploitatie door gedaagde. Grondslag? Rechtsgeldige contractsoverneming? Spoedeisend belang bij verwijdering?",
+   "source": "civiel",
+   "first_seen": "2025-10-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Ambtshalve toetsing oneerlijke bedingen, tussenvonnis wegens oneerlijk bik-beding (ECLI:NL:RBNHO:2025:15900)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15900",
+   "date": "2025-10-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsing oneerlijke bedingen, tussenvonnis wegens oneerlijk bik-beding.",
+   "source": "civiel",
+   "first_seen": "2026-02-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Gedaagde is in 2022 deelnemer geworden van een collectief voor de inkoop van elektra en gas. Dat collectief heeft een overeenkomst tot… (ECLI:NL:RBAMS:2025:8015)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:8015",
+   "date": "2025-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde is in 2022 deelnemer geworden van een collectief voor de inkoop van elektra en gas. Dat collectief heeft een overeenkomst tot leveren elektra gesloten met eiser voor de periode tot 1 januari 2025. De prijs voor elektra wordt vastgeklikt door de vertegenwoordiger van dat collectief. Gedaagde heeft de deelname aan het collectief beëindigd in 2023 en heeft de volmacht voor vertegenwoordiging",
+   "source": "civiel",
+   "first_seen": "2025-10-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Civiel recht. Bodemzaak. Eiser had op enig moment behoefte aan verzwaring van de elektriciteitsaansluiting in de meterkast in zijn woning.… (ECLI:NL:RBLIM:2025:13176)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:13176",
+   "date": "2025-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Civiel recht. Bodemzaak. Eiser had op enig moment behoefte aan verzwaring van de elektriciteitsaansluiting in de meterkast in zijn woning. Hij heeft opdracht gegeven aan Enexis om die verzwaring te realiseren. Enexis heeft in juni 2023 de verzwaring van de elektriciteitsaansluiting laten realiseren door een installatiebedrijf. In januari 2024 is eiser in zijn woning met een enorme piekspanning in ",
+   "source": "civiel",
+   "first_seen": "2026-01-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vervolg op ECLI:NL:GHARL:2025:849. Hof komt terug op eerder tussenarrest, dat abusievelijk is gewezen zonder voorafgaande mondelinge… (ECLI:NL:GHARL:2025:6502)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6502",
+   "date": "2025-10-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:GHARL:2025:849. Hof komt terug op eerder tussenarrest, dat abusievelijk is gewezen zonder voorafgaande mondelinge behandeling. Benoeming deskundigen.",
+   "source": "civiel",
+   "first_seen": "2025-10-21T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Het hof bekrachtigt het bestreden vonnis van de voorzieningenrechter van 20 maart 2025. er niet in geslaagd om voldoende aannemelijk te… (ECLI:NL:GHSHE:2025:2899)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2899",
+   "date": "2025-10-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het hof bekrachtigt het bestreden vonnis van de voorzieningenrechter van 20 maart 2025. er niet in geslaagd om voldoende aannemelijk te maken dat de rechter in een eventuele bodemprocedure tot het oordeel zal komen dat er voor het te realiseren gebouw sprake is van tien afzonderlijke WOZ-objecten. Enexis is dan ook niet gehouden tot het uitbrengen van een offerte voor een tiental aansluitingen en ",
+   "source": "civiel",
+   "first_seen": "2025-10-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Verzet, spoorwissel, geen dagvaarding ontvangen, niet-ontvankelijk (ECLI:NL:RBROT:2025:12638)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12638",
+   "date": "2025-10-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzet, spoorwissel, geen dagvaarding ontvangen, niet-ontvankelijk",
+   "source": "civiel",
+   "first_seen": "2025-10-28T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Artikel 23 lid 4 Elektriciteitswet. Aansluiting binnen redelijke termijn. 18-wekentermijn buiten toepassing. Geen tekortkoming netbeheerder (ECLI:NL:RBGEL:2025:8685)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:8685",
+   "date": "2025-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 23 lid 4 Elektriciteitswet. Aansluiting binnen redelijke termijn. 18-wekentermijn buiten toepassing. Geen tekortkoming netbeheerder.",
+   "source": "civiel",
+   "first_seen": "2025-10-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Eiseres wil met deze procedure bereiken dat gedaagde de verplichtingen uit de huurovereenkomst nakomt en dat de kosten van het… (ECLI:NL:RBMNE:2025:5291)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5291",
+   "date": "2025-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres wil met deze procedure bereiken dat gedaagde de verplichtingen uit de huurovereenkomst nakomt en dat de kosten van het energieverbruik van de buurvrouw, die eiseres heeft betaald, worden vergoed. Ook vordert eiseres de betaling van rente en kosten. Gedaagde is het hier niet mee eens en heeft als reactie op de vordering de energieleverancier en de buurvrouw in vrijwaring opgeroepen. Gedaagd",
+   "source": "civiel",
+   "first_seen": "2025-10-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gedaagde woont in een woning te Amersfoort. De woning heeft een elektriciteits- en gasaansluiting van eiseres. Voor het adres van de woning… (ECLI:NL:RBMNE:2025:5778)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5778",
+   "date": "2025-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde woont in een woning te Amersfoort. De woning heeft een elektriciteits- en gasaansluiting van eiseres. Voor het adres van de woning was sinds 7 december 2024 geen contract met een energieleverancier afgesloten. Eiseres heeft vervolgens gedaagde gedagvaard en gevorderd dat zij een energiecontract afsluit. Gedaagde heeft dit twee dagen vóór de eerste roldatum gedaan. Ook heeft gedaagde een d",
+   "source": "civiel",
+   "first_seen": "2025-11-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Civiel recht, kort geding, verbintenissenrecht Geschil over aanbestedingsprocedure netbeheerders voor raamovereenkomsten voor de… (ECLI:NL:RBDHA:2025:22229)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:22229",
+   "date": "2025-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Civiel recht, kort geding, verbintenissenrecht Geschil over aanbestedingsprocedure netbeheerders voor raamovereenkomsten voor de ontwikkeling, productie en levering van een E-meter (DSMR6 E-meter).",
+   "source": "civiel",
+   "first_seen": "2025-11-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Civiel. KG. Schorst de ontslagbesluiten tot ontslag van commissarissen van utiliteitsbedrijven (ECLI:NL:OGEAA:2025:295)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2025:295",
+   "date": "2025-10-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Civiel. KG. Schorst de ontslagbesluiten tot ontslag van commissarissen van utiliteitsbedrijven.",
+   "source": "civiel",
+   "first_seen": "2025-10-24T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Tussenvonnis. Warmtekosten. Uitleg akte van ondersplitsing. Toepassing van de Warmtewet. Voorschotbijdragen en service-afrekeningen (ECLI:NL:RBGEL:2025:8291)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:8291",
+   "date": "2025-10-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Warmtekosten. Uitleg akte van ondersplitsing. Toepassing van de Warmtewet. Voorschotbijdragen en service-afrekeningen.",
+   "source": "civiel",
+   "first_seen": "2025-10-07T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Deze zaak gaat over de vraag of Enexis als netbeheerder contractueel gehouden is om een zogeheten bouwaansluiting te realiseren voor een… (ECLI:NL:RBOBR:2025:6206)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:6206",
+   "date": "2025-10-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Deze zaak gaat over de vraag of Enexis als netbeheerder contractueel gehouden is om een zogeheten bouwaansluiting te realiseren voor een bouwproject (migrantenhotel) van eiseres en over de aansluit- en transportverplichtingen van Enexis na voltooiing van dat project. De rechtbank komt tot het oordeel dat Enexis de bouwaansluiting moet realiseren. De overige vorderingen van eiseres worden afgewezen",
+   "source": "civiel",
+   "first_seen": "2025-10-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: aanbesteding, uitsluiting, kwalificering eisen (ECLI:NL:RBOBR:2025:6373)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:6373",
+   "date": "2025-10-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "aanbesteding, uitsluiting, kwalificering eisen",
+   "source": "civiel",
+   "first_seen": "2025-10-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: ambtshalve toetsing informatieplichten en oneerlijke bedingen (ECLI:NL:RBNHO:2025:11919)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:11919",
+   "date": "2025-10-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ambtshalve toetsing informatieplichten en oneerlijke bedingen",
+   "source": "civiel",
+   "first_seen": "2025-10-16T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Begroting schade in verband met verplichting aanleg gasaansluiting te gedogen op grond van artikel 5:58 lid 1 BW. Hof komt niet terug op… (ECLI:NL:GHDHA:2025:2031)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2031",
+   "date": "2025-10-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Begroting schade in verband met verplichting aanleg gasaansluiting te gedogen op grond van artikel 5:58 lid 1 BW. Hof komt niet terug op oordelen in tussenarrest. Het hof is niet uitgegaan van een onjuiste feitelijke grondslag bij gedeeltelijke opheffing erfdienstbaarheid. Ook geen onjuist oordeel over vernietiging proceskostenveroordeling in eerste aanleg.",
+   "source": "civiel",
+   "first_seen": "2025-09-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Herstelbeschikking van beschikking van 13 mei 2025. Kennelijke verschrijving. Verschrijving 1: het hof is van oordeel dat er sprake is van… (ECLI:NL:GHARL:2025:7817)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7817",
+   "date": "2025-10-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Herstelbeschikking van beschikking van 13 mei 2025. Kennelijke verschrijving. Verschrijving 1: het hof is van oordeel dat er sprake is van een kennelijke schrijffout die zich voor eenvoudig herstel leent en wijst het verzoek toe. Verschrijving 2: ten onrechte is een leesteken weggevallen in de tekst van de beschikking (haakje sluiten). Dit is een kennelijke fout die zich voor eenvoudig herstel lee",
+   "source": "civiel",
+   "first_seen": "2025-12-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Joint venture/ samenwerking batterijen zonnepanelen, einde samenwerking en exclusieve distributie? (ECLI:NL:RBAMS:2025:7866)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:7866",
+   "date": "2025-10-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Joint venture/ samenwerking batterijen zonnepanelen, einde samenwerking en exclusieve distributie?",
+   "source": "civiel",
+   "first_seen": "2025-10-24T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Elektriciteitszaak. Onvoldoende aannemelijk geworden dat aansluiting op een reeds bestaand onderstation mogelijk is. Dat… (ECLI:NL:RBGEL:2025:8233)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:8233",
+   "date": "2025-10-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Elektriciteitszaak. Onvoldoende aannemelijk geworden dat aansluiting op een reeds bestaand onderstation mogelijk is. Dat betekent dat pas kan worden aangesloten als nieuw onderstation is gebouwd. Veroordeling van Liander om uiterlijk op 1 januari 2027 verzwaarde aansluitingen te realiseren daarom feitelijk onmogelijk. Vorderingen afgewezen.",
+   "source": "civiel",
+   "first_seen": "2025-10-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Tussenbeschikking. Onteigening. Benoeming deskundigen en gelasten descente. (ZIE OOK: ECLI:NL:RBMNE:2025:5532) (ECLI:NL:RBMNE:2025:5118)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5118",
+   "date": "2025-10-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenbeschikking. Onteigening. Benoeming deskundigen en gelasten descente. (ZIE OOK: ECLI:NL:RBMNE:2025:5532)",
+   "source": "civiel",
+   "first_seen": "2025-09-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Eiser heeft met Procent Energie als gevolmachtigde van onder andere gedaagde, een overeenkomst voor de levering van energie voor de duur… (ECLI:NL:RBMNE:2025:7132)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7132",
+   "date": "2025-10-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser heeft met Procent Energie als gevolmachtigde van onder andere gedaagde, een overeenkomst voor de levering van energie voor de duur van drie jaren gesloten. Op grond van deze overeenkomst heeft eiser vanaf 1 januari 2024 energie geleverd aan gedaagde. De overeenkomst is eind februari 2024 beëindigd. Eiser vordert van gedaagde zowel betaling van de (deels) onbetaalde facturen, als een opzegver",
+   "source": "civiel",
+   "first_seen": "2026-01-06T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Gerechtshof Amsterdam: Een consument die overstapt naar een andere energieleverancier, ontvangt van zijn oude leverancier een eindafrekening die inhoudt dat hij… (ECLI:NL:GHAMS:2025:2562)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2562",
