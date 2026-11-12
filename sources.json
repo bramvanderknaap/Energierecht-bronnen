@@ -4,6 +4,7 @@
     "name": "ACM",
     "full_name": "Autoriteit Consument & Markt",
     "region": "NL",
+    "soort": "Toezichthouders",
     "description": "Nederlandse toezichthouder op de energiemarkt: tarief-, methode- en codebesluiten, handhaving en leidraden.",
     "website": "https://www.acm.nl/nl/energie",
     "keywords": [
@@ -87,6 +88,7 @@
     "name": "ACER",
     "full_name": "Agency for the Cooperation of Energy Regulators",
     "region": "EU",
+    "soort": "Toezichthouders",
     "description": "EU-agentschap van energietoezichthouders: besluiten, adviezen, marktmonitoring en REMIT.",
     "website": "https://www.acer.europa.eu/",
     "feeds": [
@@ -131,6 +133,7 @@
     "name": "Europese Commissie",
     "full_name": "Europese Commissie – DG Energie",
     "region": "EU",
+    "soort": "Beleid",
     "description": "Beleid, wetgevingsvoorstellen, netcodes en richtsnoeren van de Europese Commissie op het gebied van energie.",
     "website": "https://energy.ec.europa.eu/",
     "feeds": [
@@ -165,6 +168,7 @@
     "name": "CEER",
     "full_name": "Council of European Energy Regulators",
     "region": "EU",
+    "soort": "Toezichthouders",
     "description": "Samenwerkingsverband van Europese energietoezichthouders: rapporten, position papers en benchmarks.",
     "website": "https://www.ceer.eu/",
     "feeds": [
@@ -187,6 +191,7 @@
     "name": "Rijksoverheid",
     "full_name": "Rijksoverheid – ministeries van Klimaat en Groene Groei en van Economische Zaken",
     "region": "NL",
+    "soort": "Beleid",
     "description": "Nieuws en beleid van het kabinet over energie.",
     "website": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei",
     "keywords": [
@@ -255,6 +260,7 @@
     "name": "Rechtspraak (CBb)",
     "full_name": "College van Beroep voor het bedrijfsleven",
     "region": "NL",
+    "soort": "Rechtspraak",
     "description": "Uitspraken van de hoogste rechter in energiezaken, vaak in beroep tegen besluiten van de ACM.",
     "website": "https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/College-van-Beroep-voor-het-bedrijfsleven",
     "keywords": [
@@ -318,10 +324,101 @@
     ]
   },
   {
+    "id": "civiel",
+    "name": "Rechtspraak (civiel)",
+    "full_name": "Civiele rechtspraak: rechtbanken, gerechtshoven en Hoge Raad",
+    "region": "NL",
+    "soort": "Rechtspraak",
+    "description": "Civiele uitspraken over energie, zoals geschillen over levering, aansluiting en netbeheer, zonne- en windparken en schade door gaswinning. Zaken over hennepteelt (stroomdiefstal) staan er niet in.",
+    "website": "https://uitspraken.rechtspraak.nl/",
+    "keywords": [
+      "energieleverancier",
+      "energiebedrijf",
+      "energiecontract",
+      "energielevering",
+      "energierekening",
+      "energieprijs",
+      "energietarie",
+      "energiewet",
+      "elektriciteit",
+      "stroomlevering",
+      "stroomnet",
+      "stroomstoring",
+      "gaslevering",
+      "gasaansluiting",
+      "gasnet",
+      "gaswet",
+      "aardgas",
+      "gaswinning",
+      "mijnbouw",
+      "netbeheer",
+      "netaansluiting",
+      "aansluit- en transportovereenkomst",
+      "transportcapaciteit",
+      "transportvermogen",
+      "netcongestie",
+      "warmtenet",
+      "warmtelevering",
+      "warmteleverancier",
+      "warmtewet",
+      "stadsverwarming",
+      "zonnepark",
+      "zonnepane",
+      "zonne-energie",
+      "windturbine",
+      "windpark",
+      "windmolen",
+      "laadpaal",
+      "laadpunt",
+      "teruglever",
+      "saldering",
+      "salderen",
+      "energieopslag",
+      "biogas",
+      "kernenergie",
+      "tennet",
+      "stedin",
+      "liander",
+      "enexis",
+      "gasunie",
+      "eneco",
+      "vattenfall",
+      "essent",
+      "greenchoice",
+      "vandebron",
+      "energiedirect"
+    ],
+    "exclude_keywords": [
+      "hennep",
+      "cannabis",
+      "wiet",
+      "growshop"
+    ],
+    "feeds": [
+      {
+        "type": "atom",
+        "url": "https://data.rechtspraak.nl/uitspraken/zoeken?subject=http://psi.rechtspraak.nl/rechtsgebied%23civielRecht&type=Uitspraak&sort=DESC&return=DOC",
+        "pages": 2,
+        "backfill_pages": 12,
+        "date_from_title": true,
+        "title_from_summary": true,
+        "title_prefix": "{instantie}"
+      }
+    ],
+    "date_from_page": "rechtspraak",
+    "links": [
+      {
+        "title": "Uitspraken zoeken op rechtspraak.nl",
+        "url": "https://uitspraken.rechtspraak.nl/"
+      }
+    ]
+  },
+  {
     "id": "hvjeu",
     "name": "Hof van Justitie EU",
     "full_name": "Hof van Justitie van de Europese Unie (Hof en Gerecht)",
     "region": "EU",
+    "soort": "Rechtspraak",
     "geldt_voor_nl": true,
     "description": "Arresten van het Hof en het Gerecht over energie sinds 2019: ingedeeld onder het onderwerp Energie, met een verwijzing naar een Europese energierichtlijn of -verordening, of met energietermen in de titel. Zaken die vooral over belastingen gaan, staan er niet in.",
     "website": "https://curia.europa.eu/",
@@ -416,6 +513,14 @@
       {
         "title": "Warmtewet (geldt tot de Wet collectieve warmte in werking treedt)",
         "url": "https://wetten.overheid.nl/BWBR0033729"
+      },
+      {
+        "title": "Elektriciteitswet 1998 (vervallen per 1 januari 2026, geldt nog voor oudere zaken)",
+        "url": "https://wetten.overheid.nl/BWBR0009755"
+      },
+      {
+        "title": "Gaswet (vervallen per 1 januari 2026, geldt nog voor oudere zaken)",
+        "url": "https://wetten.overheid.nl/BWBR0011440"
       },
       {
         "title": "Richtlijn (EU) 2019/944 – interne markt elektriciteit",

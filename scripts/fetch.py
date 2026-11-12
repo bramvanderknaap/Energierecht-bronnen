@@ -9,7 +9,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
@@ -144,6 +144,14 @@ def matches_keywords(item, keywords, whole_words=()):
     return False
 
 
+def is_relevant(item, source):
+    """Relevant: bevat een van de trefwoorden van de bron en geen van de uitsluitwoorden."""
+    whole = source.get("whole_words", ())
+    if source.get("exclude_keywords") and matches_keywords(item, source["exclude_keywords"], whole):
+        return False
+    return matches_keywords(item, source.get("keywords"), whole)
+
+
 def date_from_title(item):
     """De titel in de rechtspraak-feed bevat de datum van de uitspraak:
     "ECLI:NL:CBB:2026:490, College van Beroep voor het bedrijfsleven, 13-10-2026, 23/1443".
@@ -160,40 +168,61 @@ def date_from_title(item):
 
 
 def title_from_summary(item, prefix):
-    """Rechtspraak-titels zijn alleen een ECLI-nummer; maak er een leesbare titel van."""
+    """Rechtspraak-titels zijn alleen een ECLI-nummer; maak er een leesbare titel van.
+    Prefix "{instantie}": de naam van de rechter uit de titel, bijv. "Rechtbank Gelderland"."""
     first = item["summary"].rstrip(".;")
     if len(first) > 140:
         first = first[:140].rsplit(" ", 1)[0] + "…"
-    ecli = item["title"].split(",")[0]
+    parts = [p.strip() for p in item["title"].split(",")]
+    ecli = parts[0]
+    if prefix == "{instantie}":
+        prefix = parts[1] if len(parts) > 1 else "Rechtspraak"
     if first:
         item["title"] = f"{prefix}: {first} ({ecli})"
     return item
 
 
-def collect(source):
+def feed_urls(feed, first_run):
+    """Een feed met "pages" wordt in stukken opgehaald (parameter "from" van rechtspraak.nl).
+    De eerste keer gaat het verder terug ("backfill_pages"), daarna volstaan de nieuwste."""
+    pages = feed.get("backfill_pages", feed.get("pages", 1)) if first_run else feed.get("pages", 1)
+    if "pages" not in feed:
+        return [feed["url"]]
+    size = feed.get("page_size", 1000)
+    return [f"{feed['url']}&{urlencode({'max': size, 'from': n * size})}" for n in range(pages)]
+
+
+def collect(source, first_run=False):
     found, report = [], []
     for feed in source.get("feeds", []):
-        time.sleep(3)  # vriendelijk blijven voor de websites
         try:
             if feed["type"] == "hvj":
+                time.sleep(3)  # vriendelijk blijven voor de websites
                 items = hvj_judgments(feed)
                 report.append(f"  OK   {len(items):4d}  {feed['url']}")
                 found.extend(items)
                 continue
-            raw = download(feed["url"])
-            if feed["type"] == "html":
-                items = parse_html(raw, feed["url"], feed["include"])
-            else:
-                items = parse_feed(raw, feed["url"])
-                if feed.get("date_from_title"):
-                    items = [date_from_title(i) for i in items]
-                if feed.get("title_from_summary"):
-                    items = [title_from_summary(i, feed.get("title_prefix", "")) for i in items]
-            report.append(f"  OK   {len(items):4d}  {feed['url']}")
-            found.extend(items)
+            raw_pages = []
+            for url in feed_urls(feed, first_run):
+                time.sleep(3)
+                raw_pages.append(download(url))
         except Exception as e:  # een kapotte bron mag de rest niet stoppen
             report.append(f"  FOUT       {feed['url']}  ({type(e).__name__}: {e})")
-    kept = [i for i in found if matches_keywords(i, source.get("keywords"), source.get("whole_words", ()))]
+            continue
+        items = []
+        for raw in raw_pages:
+            if feed["type"] == "html":
+                items += parse_html(raw, feed["url"], feed["include"])
+            else:
+                items += parse_feed(raw, feed["url"])
+        if feed.get("date_from_title"):
+            items = [date_from_title(i) for i in items]
+        if feed.get("title_from_summary"):
+            items = [title_from_summary(i, feed.get("title_prefix", "")) for i in items]
+        pages = f" ({len(raw_pages)} pagina's)" if len(raw_pages) > 1 else ""
+        report.append(f"  OK   {len(items):4d}  {feed['url']}{pages}")
+        found.extend(items)
+    kept = [i for i in found if is_relevant(i, source)]
     return kept, report
 
 
@@ -447,6 +476,38 @@ def apply_sitemap_dates(items, sources):
         print(f"{source['name']}: datum uit sitemap voor {found} artikelen ({len(dates)} pagina's in sitemap)")
 
 
+SITE_URL = "https://bramvanderknaap.github.io/Energierecht-bronnen/"
+RSS_OUTPUT = ROOT / "data" / "feed.xml"
+RSS_ITEMS = 60
+
+
+def write_rss(items, sources):
+    """RSS-feed met de publicaties die het laatst aan de databank zijn toegevoegd.
+    Een nieuwsbriefdienst kan hiermee automatisch periodieke updatemails versturen.
+    De publicatiedatum in de feed is de datum van opname in de databank, zodat ook een
+    oudere uitspraak die pas nu verschijnt in de eerstvolgende mail komt."""
+    names = {s["id"]: s["name"] for s in sources}
+    newest = sorted(items, key=lambda i: (i["first_seen"], i["date"]), reverse=True)[:RSS_ITEMS]
+    rss = ET.Element("rss", version="2.0")
+    channel = ET.SubElement(rss, "channel")
+    for tag, text in (("title", "Energierecht databank"), ("link", SITE_URL),
+                      ("description", "Nieuwe publicaties en rechtsbronnen over energierecht."), ("language", "nl")):
+        ET.SubElement(channel, tag).text = text
+    for i in newest:
+        el = ET.SubElement(channel, "item")
+        source = names.get(i["source"], i["source"])
+        date = datetime.fromisoformat(i["date"]).strftime("%d-%m-%Y")
+        ET.SubElement(el, "title").text = i["title"]
+        ET.SubElement(el, "link").text = i["url"]
+        ET.SubElement(el, "guid", isPermaLink="true").text = i["url"]
+        ET.SubElement(el, "category").text = source
+        ET.SubElement(el, "pubDate").text = format_datetime(datetime.fromisoformat(i["first_seen"]))
+        ET.SubElement(el, "description").text = f"{source}, {date}. {i.get('summary') or ''}".strip()
+    ET.indent(rss)
+    RSS_OUTPUT.write_bytes(ET.tostring(rss, encoding="utf-8", xml_declaration=True) + b"\n")
+    print(f"RSS-feed met {len(newest)} items opgeslagen in {RSS_OUTPUT.relative_to(ROOT)}")
+
+
 def main():
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))
     old = {}
@@ -456,8 +517,9 @@ def main():
     now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
     all_items = {}
+    stored = {i.get("source") for i in old.values()}
     for source in sources:
-        items, report = collect(source)
+        items, report = collect(source, first_run=source["id"] not in stored)
         print(f"{source['name']}: {len(items)} relevante items")
         print("\n".join(report))
         for item in items:
@@ -476,7 +538,7 @@ def main():
     by_id = {s["id"]: s for s in sources}
     for url, item in old.items():
         source = by_id.get(item.get("source"))
-        if url not in all_items and source and matches_keywords(item, source.get("keywords"), source.get("whole_words", ())):
+        if url not in all_items and source and is_relevant(item, source):
             all_items[url] = item
 
     apply_sitemap_dates(list(all_items.values()), sources)
@@ -495,6 +557,7 @@ def main():
         encoding="utf-8",
     )
     print(f"\nTotaal: {len(result)} items opgeslagen in {OUTPUT.relative_to(ROOT)}")
+    write_rss(result, sources)
 
 
 if __name__ == "__main__":

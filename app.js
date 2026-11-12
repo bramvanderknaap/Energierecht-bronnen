@@ -54,7 +54,17 @@
   const countBy = Object.fromEntries(feedSources.map((s) => [s.id, items.filter((i) => i.source === s.id).length]));
 
   // ---------- Filters ----------
-  const state = { bron: "alle", periode: "alles", nl: false, q: "", shown: PAGE };
+  const state = { soort: "alle", bron: "alle", periode: "alles", nl: false, q: "", shown: PAGE };
+
+  // Soort: rechtspraak, toezichthouders of beleid (het veld "soort" in sources.json)
+  const soortOf = (i) => byId[i.source]?.soort || "";
+  const soorten = [...new Set(feedSources.map((s) => s.soort).filter(Boolean))];
+  if (soorten.length > 1) {
+    $("soortList").innerHTML = [`<li><label class="check"><input type="radio" name="soort" value="alle" checked><span>Alles</span><span class="n">${items.length}</span></label></li>`]
+      .concat(soorten.map((k) => `<li><label class="check"><input type="radio" name="soort" value="${esc(k)}"><span>${esc(k)}</span><span class="n">${items.filter((i) => soortOf(i) === k).length}</span></label></li>`))
+      .join("");
+    $("soortGroup").hidden = false;
+  }
 
   $("bronList").innerHTML = [`<li><label class="check"><input type="radio" name="bron" value="alle" checked><span>Alle bronnen</span><span class="n">${items.length}</span></label></li>`]
     .concat(feedSources.map((s) => `<li><label class="check"><input type="radio" name="bron" value="${esc(s.id)}"><span>${esc(s.name)}</span><span class="n">${countBy[s.id]}</span></label></li>`))
@@ -113,6 +123,7 @@
     const maxAge = state.periode === "alles" ? Infinity : +state.periode;
     return items.filter((i) =>
       i.age < maxAge &&
+      (state.soort === "alle" || soortOf(i) === state.soort) &&
       (state.bron === "alle" || i.source === state.bron) &&
       (!state.nl || geldtVoorNL(i)) &&
       matchesQ(i, state.q));
@@ -146,13 +157,22 @@
     $("count").textContent = `${list.length} publicatie${list.length === 1 ? "" : "s"}`;
     $("empty").hidden = list.length > 0;
     $("more").hidden = list.length <= state.shown;
-    const parts = [state.periode === "alles" ? "" : `${state.periode} dagen`, s ? s.name : "", state.q && topicFor(state.q) ? state.q : "", state.nl ? "NL" : ""].filter(Boolean);
+    const parts = [state.periode === "alles" ? "" : `${state.periode} dagen`, state.soort === "alle" ? "" : state.soort, s ? s.name : "", state.q && topicFor(state.q) ? state.q : "", state.nl ? "NL" : ""].filter(Boolean);
     $("fState").textContent = parts.join(" · ");
     document.querySelectorAll("#topics .chip").forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.q.toLowerCase() === state.q.toLowerCase())));
   }
 
   form.addEventListener("change", (e) => {
     if (e.target.name === "periode") state.periode = e.target.value;
+    if (e.target.name === "soort") {
+      state.soort = e.target.value;
+      // Bronnen van een andere soort verbergen; een gekozen bron daarbuiten vervalt
+      document.querySelectorAll('#bronList input[name="bron"]').forEach((r) => {
+        const s = byId[r.value];
+        r.closest("li").hidden = Boolean(s && state.soort !== "alle" && s.soort !== state.soort);
+        if (r.closest("li").hidden && r.checked) { state.bron = "alle"; form.querySelector('input[name="bron"][value="alle"]').checked = true; }
+      });
+    }
     if (e.target.name === "bron") state.bron = e.target.value;
     if (e.target.id === "alleenNL") state.nl = e.target.checked;
     state.shown = PAGE;
@@ -171,7 +191,8 @@
   $("more").addEventListener("click", () => { state.shown += PAGE; render(); });
   $("resetBtn").addEventListener("click", () => {
     form.reset();
-    Object.assign(state, { bron: "alle", periode: "alles", nl: false, q: "", shown: PAGE });
+    document.querySelectorAll("#bronList li").forEach((li) => { li.hidden = false; });
+    Object.assign(state, { soort: "alle", bron: "alle", periode: "alles", nl: false, q: "", shown: PAGE });
     zoek.value = "";
     render();
   });
@@ -204,6 +225,13 @@
     </article>`).join("");
   $("footSources").innerHTML = sources.filter((s) => s.website).map((s) =>
     `<li><a href="${esc(s.website)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join("");
+
+  // ---------- Updatemails: alleen tonen als er een aanmeldpagina is ingesteld ----------
+  const mail = $("mailUpdates");
+  if (mail.dataset.aanmeldUrl) {
+    $("aanmeldLink").href = mail.dataset.aanmeldUrl;
+    mail.hidden = false;
+  }
 
   // ---------- Weergaven: publicaties of bronnen ----------
   function route() {
