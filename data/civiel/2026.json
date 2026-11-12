@@ -1,10 +1,211 @@
 {
  "jaar": 2026,
  "maanden": [
-  "2026-01"
+  "2026-01",
+  "2026-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Elektriciteitswet/Energiewet. Klein verbruik. Bulk aanvraag. Vordering tot aansluiting en leveren transportcapaciteit.… (ECLI:NL:RBGEL:2026:1548)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1548",
+   "date": "2026-02-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Elektriciteitswet/Energiewet. Klein verbruik. Bulk aanvraag. Vordering tot aansluiting en leveren transportcapaciteit. Subsidiaire vordering tot realiseren noodoplossing. Grondslag primaire vorderingen 3:296 BW en redelijke termijn (voorheen) artikel 23 E-wet en (thans) artikel 3.38 Energiewet. Vorderingen afgewezen.",
+   "source": "civiel",
+   "first_seen": "2026-02-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: vordering tot afsluiting energietoevoer en betaling incassokosten. eis tot afsluiting na antwoord ingetrokken. incassokosten toegewezen (ECLI:NL:RBROT:2026:6456)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:6456",
+   "date": "2026-02-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "vordering tot afsluiting energietoevoer en betaling incassokosten. eis tot afsluiting na antwoord ingetrokken. incassokosten toegewezen.",
+   "source": "civiel",
+   "first_seen": "2026-06-03T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Bij graafwerkzaamheden door [gedaagde partij] B.V. werd een elektriciteitskabel van MijnWater beschadigd. Deze kabel was niet weergegeven… (ECLI:NL:RBLIM:2026:1910)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1910",
+   "date": "2026-02-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bij graafwerkzaamheden door [gedaagde partij] B.V. werd een elektriciteitskabel van MijnWater beschadigd. Deze kabel was niet weergegeven op de aan [gedaagde partij] B.V. (ingevolge de door haar gedane Klic-melding) verstrekte gegevens. In het concrete geval was [gedaagde partij] B.V. echter ongeveer negen maanden na de Klic-melding met de graafwerkzaamheden gestart. Het had alsdan op de weg van [",
+   "source": "civiel",
+   "first_seen": "2026-02-25T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Eisers vorderen veroordeling van Liander om een gasleiding uit hun tuin te verwijderen. De gasleiding is eigendom van Liander en loopt naar… (ECLI:NL:RBNHO:2026:1810)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:1810",
+   "date": "2026-02-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eisers vorderen veroordeling van Liander om een gasleiding uit hun tuin te verwijderen. De gasleiding is eigendom van Liander en loopt naar de woning van de buurman van eisers. De vordering wordt afgewezen omdat de gasleiding in 1976 bevoegd is aangelegd en eisers de gasleiding op grond van de toepasselijke algemene voorwaarden moeten dulden. Geen onredelijk beding in de zin van de Richtlijn. Cont",
+   "source": "civiel",
+   "first_seen": "2026-02-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Huur- en onderhoud en monitoringsovereenkomst zonnepanelen. Eindvonnis na twee tussenvonnissen. Vernieitiging van de huur- en O&M… (ECLI:NL:RBGEL:2026:1496)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1496",
+   "date": "2026-02-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huur- en onderhoud en monitoringsovereenkomst zonnepanelen. Eindvonnis na twee tussenvonnissen. Vernieitiging van de huur- en O&M overeenkomst wegens bedrog. Vordering tot betaling op grond van die overeenkomsten in conventie daarom afgewezen. Vordering in reconventie wegens onverschuldigde betaling gedeeltelijk toegewezen na aftrek van een waardevergoeding ex artikel 6:210 lid 2 BW.",
+   "source": "civiel",
+   "first_seen": "2026-02-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Ennatuurlijk levert warmte aan gedaagde. Gedaagde heeft meerdere facturen niet betaald aan Ennatuurlijk. In het tussenvonnis is de… (ECLI:NL:RBOVE:2026:966)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:966",
+   "date": "2026-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ennatuurlijk levert warmte aan gedaagde. Gedaagde heeft meerdere facturen niet betaald aan Ennatuurlijk. In het tussenvonnis is de geldvordering van Ennatuurlijk toegewezen. De overige vorderingen zijn aangehouden zodat gedaagde contact kan opnemen met Stadsbank Oost Nederland voor schuldhulpverlening. Ennatuurlijk is bereid te tenuitvoerlegging van haar overige vorderingen aan te houden onder de ",
+   "source": "civiel",
+   "first_seen": "2026-02-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Opzegging van aansluiting warmtenet en levering energie via dat net. Ambtshalve toetsing aan artikel 6:230m BW (informatieplicht… (ECLI:NL:GHARL:2026:1103)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1103",
+   "date": "2026-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Opzegging van aansluiting warmtenet en levering energie via dat net. Ambtshalve toetsing aan artikel 6:230m BW (informatieplicht leverancier over beperkingen van de opzeggingsmogelijkheid). Kon de leverancier van een klein en kwetsbaar warmtenet met een beroep op artikel 3c lid 2 aanhef en onder b Warmtewet opzeggen omdat beëindiging van de levering zou leiden tot aanzienlijk blijvend nadeel? Of i",
+   "source": "civiel",
+   "first_seen": "2026-02-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Consumentenrecht. Leverancier van warmte en koude wil niet meewerken aan de beëindiging van de leveringsovereenkomst. Anders dan… (ECLI:NL:GHARL:2026:1102)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1102",
+   "date": "2026-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenrecht. Leverancier van warmte en koude wil niet meewerken aan de beëindiging van de leveringsovereenkomst. Anders dan energieleverancier bepleit, is in dit geval artikel 3c Warmtewet, waarin beperkingen op de mogelijkheid tot opzegging zijn opgenomen, niet van toepassing. De opzegging van de overeenkomst door de gebruiker was rechtsgeldig. De verplichting tot betaling van vastrecht voor",
+   "source": "civiel",
+   "first_seen": "2026-02-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Geschil tussen lid van de VvE en de VvE. Verzoek tot nietigverklaring dan wel vernietiging van besluiten van de algemene ledenvergadering… (ECLI:NL:GHARL:2026:1066)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1066",
+   "date": "2026-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil tussen lid van de VvE en de VvE. Verzoek tot nietigverklaring dan wel vernietiging van besluiten van de algemene ledenvergadering van de VvE. Het hof wijst het verzoek af.",
+   "source": "civiel",
+   "first_seen": "2026-02-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vordering in kort geding tot aansluiting van zonnepark op elektriciteitsnet Liander, op grond van overeenkomst, artikel 23… (ECLI:NL:GHARL:2026:1122)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1122",
+   "date": "2026-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering in kort geding tot aansluiting van zonnepark op elektriciteitsnet Liander, op grond van overeenkomst, artikel 23 Elektriciteitswet 1998 (oud) en artikel 8.13 Netcode.",
+   "source": "civiel",
+   "first_seen": "2026-02-25T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Overeenkomst voor onbepaalde tijd. Gebruiksrecht van Liander om transformatorstation op perceel van eiser aanwezig te hebben… (ECLI:NL:RBGEL:2026:1577)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1577",
+   "date": "2026-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Overeenkomst voor onbepaalde tijd. Gebruiksrecht van Liander om transformatorstation op perceel van eiser aanwezig te hebben niet (rechtsgeldig) opgezegd. Vordering tot verwijderen van het station afgewezen.",
+   "source": "civiel",
+   "first_seen": "2026-03-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding, huur. Veroordeling verhuurder om leveringsovereenkomst gas en elektra af te sluiten en heraansluiting te aan te vragen bij… (ECLI:NL:RBROT:2026:2026)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2026",
+   "date": "2026-02-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, huur. Veroordeling verhuurder om leveringsovereenkomst gas en elektra af te sluiten en heraansluiting te aan te vragen bij netbeheerder.",
+   "source": "civiel",
+   "first_seen": "2026-03-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Elektriciteitsaansluitingen kleinverbruik. Elektriciteitswet/Energiewet. Eisers zijn eigenaar van een opgeleverde nieuwbouwwoning. Zij… (ECLI:NL:RBDHA:2026:3413)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3413",
+   "date": "2026-02-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Elektriciteitsaansluitingen kleinverbruik. Elektriciteitswet/Energiewet. Eisers zijn eigenaar van een opgeleverde nieuwbouwwoning. Zij vorderen dat Liander wordt veroordeeld om een werkende kleinverbruikersaansluiting te realiseren, of in ieder geval een voorschot op schadevergoeding in de vorm van een tijdelijke stroomvoorziening (noodaggregaat). In deze procedure worden de vorderingen van eisers",
+   "source": "civiel",
+   "first_seen": "2026-02-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Levering energie. Gedaagden moeten de voorschotfactuur en eindnota (opzegvergoeding) betalen (ECLI:NL:RBMNE:2026:708)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:708",
+   "date": "2026-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering energie. Gedaagden moeten de voorschotfactuur en eindnota (opzegvergoeding) betalen.",
+   "source": "civiel",
+   "first_seen": "2026-03-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Ambtshalve toetsing, artikel 6:230 m lid 1 sub h BW, Richtlijn Sanctiemodel informatieplichten (ECLI:NL:RBGEL:2026:1136)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:1136",
+   "date": "2026-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsing, artikel 6:230 m lid 1 sub h BW, Richtlijn Sanctiemodel informatieplichten",
+   "source": "civiel",
+   "first_seen": "2026-02-16T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Vordering tot afsluiting van electriciteit en gas ingetrokken omdat gedaagde na het uitbrengen van de dagvaarding alsnog een… (ECLI:NL:RBLIM:2026:1147)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1147",
+   "date": "2026-02-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot afsluiting van electriciteit en gas ingetrokken omdat gedaagde na het uitbrengen van de dagvaarding alsnog een energiecontract heeft afgesloten. Alleen toewijzing buitengerechtelijke incassokosten en proceskosten",
+   "source": "civiel",
+   "first_seen": "2026-02-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Afsluiten van elektriciteits- en gasaansluiting in een woning. Eisvermindering. Veroordeling tot vergoeding van buitengerechtelijke kosten… (ECLI:NL:RBDHA:2026:18541)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:18541",
+   "date": "2026-02-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afsluiten van elektriciteits- en gasaansluiting in een woning. Eisvermindering. Veroordeling tot vergoeding van buitengerechtelijke kosten en proceskosten.",
+   "source": "civiel",
+   "first_seen": "2026-07-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Overeenkomst van aanneming van werk. De vordering tot ontbinding van de opdrachtgever wordt afgewezen omdat geen sprake is van verzuim. Het… (ECLI:NL:RBLIM:2026:1047)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1047",
+   "date": "2026-02-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst van aanneming van werk. De vordering tot ontbinding van de opdrachtgever wordt afgewezen omdat geen sprake is van verzuim. Het beroep op het ontbreken van een ingebrekestelling is niet naar maatstaven van redelijkheid en billijkheid onaanvaardbaar (Fraanje-Alukon - arrest). De opdrachtgever moet alle facturen van de opdrachtnemer voldoen.",
+   "source": "civiel",
+   "first_seen": "2026-02-02T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: Enexis beheert in haar hoedanigheid van netbeheerder het openbare gas- en elektriciteitsnet. Enexis stelt dat SZK in de periode 23 oktober… (ECLI:NL:RBOVE:2026:553)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:553",
+   "date": "2026-02-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Enexis beheert in haar hoedanigheid van netbeheerder het openbare gas- en elektriciteitsnet. Enexis stelt dat SZK in de periode 23 oktober 2024 tot 3 december 2024 geen contract had bij een gas- en elektriciteitsleverancier op het adres Van Wevelinkhovenstraat 103 in Zwolle. SZK zou in die periode wel gebruik hebben gemaakt van elektriciteit en gas en de kosten hiervan zijn ten laste gekomen van E",
+   "source": "civiel",
+   "first_seen": "2026-02-05T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Kort geding, hoger beroep van ECLI:NL:RBOBR:2024:5966 (ECLI:NL:GHSHE:2026:317)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:317",
+   "date": "2026-02-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, hoger beroep van ECLI:NL:RBOBR:2024:5966.",
+   "source": "civiel",
+   "first_seen": "2026-02-11T00:00:00+00:00",
+   "grond": "tekst"
+  },
   {
    "title": "Rechtbank Rotterdam: Woning bleek na sluiten koopovereenkomst stadsverwarming te hebben in plaats van elektrische verwarming. Sprake van non-conformiteit.… (ECLI:NL:RBROT:2026:1635)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1635",
