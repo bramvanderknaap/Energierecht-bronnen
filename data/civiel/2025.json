@@ -3,10 +3,261 @@
  "maanden": [
   "2025-01",
   "2025-02",
-  "2025-03"
+  "2025-03",
+  "2025-04"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; consumentenkoop (ECLI:NL:RBLIM:2025:4227)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:4227",
+   "date": "2025-04-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; koop en ruil; consumentenkoop",
+   "source": "civiel",
+   "first_seen": "2025-05-02T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gedaagde exploiteert een veehouderij. Eneco vordert - na eiswijziging - betaling van € 112.299,20 (inclusief rente en kosten) als… (ECLI:NL:RBMNE:2025:2111)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2111",
+   "date": "2025-04-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde exploiteert een veehouderij. Eneco vordert - na eiswijziging - betaling van € 112.299,20 (inclusief rente en kosten) als vergoeding voor geleverde energie in de periode 1 juli 2018 tot en met 18 oktober 2022. De hoeveelheid geleverde energie is op verschillende data door Eneco geschat, maar de geschatte meterstanden worden door gedaagde betwist. Naar het oordeel van de rechtbank heeft Ene",
+   "source": "civiel",
+   "first_seen": "2025-04-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Artt. 23 lid 4 Elektriciteitswet (oud), artikel 59 lid 7 Elektriciteitsrichtlijn 2019/944 en artikel 47 Handvest EU. Buiten toepassing… (ECLI:NL:GHSHE:2025:1220)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1220",
+   "date": "2025-04-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artt. 23 lid 4 Elektriciteitswet (oud), artikel 59 lid 7 Elektriciteitsrichtlijn 2019/944 en artikel 47 Handvest EU. Buiten toepassing laten nationale bepaling op grond van artikel 47 Handvest EU.",
+   "source": "civiel",
+   "first_seen": "2025-04-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Volmacht voor collectieve inkoop energie. Zijn de overeenkomsten met de energieleverancier tot stand gekomen voor het intrekken van de… (ECLI:NL:RBOVE:2025:2690)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:2690",
+   "date": "2025-04-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Volmacht voor collectieve inkoop energie. Zijn de overeenkomsten met de energieleverancier tot stand gekomen voor het intrekken van de volmacht?",
+   "source": "civiel",
+   "first_seen": "2025-05-01T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Eis in kort geding tot beschikbaar stellen van aanvullend transportvermogen door netbeheerder. Hof weigert voorziening wegens onvoldoende… (ECLI:NL:GHARL:2025:2639)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2639",
+   "date": "2025-04-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eis in kort geding tot beschikbaar stellen van aanvullend transportvermogen door netbeheerder. Hof weigert voorziening wegens onvoldoende spoedeisend belang.",
+   "source": "civiel",
+   "first_seen": "2025-04-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomst tot levering van energie. Onbetaalde facturen. Hoofdsom betaald na dagvaarding. Eiseres vordert daarom alleen nog de… (ECLI:NL:RBROT:2025:4823)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:4823",
+   "date": "2025-04-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering van energie. Onbetaalde facturen. Hoofdsom betaald na dagvaarding. Eiseres vordert daarom alleen nog de bijkomende kosten. Die kosten worden toegewezen omdat deze terecht zijn gemaakt. Niet is gebleken dat de facturen onjuist zijn geadresseerd en dat er een adreswijziging is doorgegeven. De incassokosten worden echter toegewezen tot een lager bedrag omdat een deel van de ",
+   "source": "civiel",
+   "first_seen": "2025-04-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Vrijwillige overname klantenbestand failliete energieleverancier. Is er sprake van een overeenkomst? Onderscheid tussen de eerste 30 dagen… (ECLI:NL:RBOBR:2025:2291)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:2291",
+   "date": "2025-04-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vrijwillige overname klantenbestand failliete energieleverancier. Is er sprake van een overeenkomst? Onderscheid tussen de eerste 30 dagen en de periode daarna. Er moet sprake zijn van een redelijk tarief.",
+   "source": "civiel",
+   "first_seen": "2025-04-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Aansluiting op het elektriciteitsnet. Redelijke aansluittermijn. Artikel 23 lid 4 Elektriciteitswet. Netbeheerder niet tekortgeschoten in… (ECLI:NL:RBGEL:2025:3183)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:3183",
+   "date": "2025-04-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansluiting op het elektriciteitsnet. Redelijke aansluittermijn. Artikel 23 lid 4 Elektriciteitswet. Netbeheerder niet tekortgeschoten in de nakoming van een op haar rustende (wettelijke) verplichting. Schadevergoeding afgewezen.",
+   "source": "civiel",
+   "first_seen": "2025-04-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Liander en [gedaagde sub 1] vof hebben een aansluit- en transport overeenkomst (hierna: ATO) afgesloten, op grond waarvan [gedaagde sub 1]… (ECLI:NL:RBMNE:2025:1871)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1871",
+   "date": "2025-04-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Liander en [gedaagde sub 1] vof hebben een aansluit- en transport overeenkomst (hierna: ATO) afgesloten, op grond waarvan [gedaagde sub 1] vof voor haar kwekerij gebruik maakt van het elektriciteitsnet van Liander. [gedaagde sub 1] vof heeft het gecontracteerde transportvermogen van 51 kW meermaals overschreden en meer gebruikt. Volgens Liander is sprake van netcongestie op het deel van het elektr",
+   "source": "civiel",
+   "first_seen": "2025-04-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Eiseres heeft op grond van een overeenkomst elektriciteit geleverd aan het adres van de (voormalige) vof van gedaagden. Onbetaalde… (ECLI:NL:RBROT:2025:4428)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:4428",
+   "date": "2025-04-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres heeft op grond van een overeenkomst elektriciteit geleverd aan het adres van de (voormalige) vof van gedaagden. Onbetaalde facturen. Gedaagden moeten ook de bijkomende kosten betalen. Gedaagden stellen weliswaar dat zij een adreswijziging hadden doorgegeven, maar zij hebben dit niet verder geconcretiseerd.",
+   "source": "civiel",
+   "first_seen": "2025-04-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Verzetzaak. Levering van warmte in conventie. Afnemer stelt primair dat geen sprake is van een overeenkomst. Hierin gaat de kantonrechter… (ECLI:NL:RBZWB:2025:2980)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:2980",
+   "date": "2025-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzetzaak. Levering van warmte in conventie. Afnemer stelt primair dat geen sprake is van een overeenkomst. Hierin gaat de kantonrechter niet mee, gelet op ECLI:NL:HR:2021:1889. Subsidiair doet hij een beroep op vernietiging. Ook dit beroep slaagt niet voor zover het verder gaat dan 50% (conform verstekvonnis), gelet op ECLI:GHSHE:2024:1329. Meer subsidiair vraagt hij de overeenkomst te ontbinden",
+   "source": "civiel",
+   "first_seen": "2025-05-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Warmtewet. Afsluiten van warmteaansluiting in huurwoning. Ondanks het ontbreken van een overeenkomst mag de energieleverancier de… (ECLI:NL:RBDHA:2025:24122)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:24122",
+   "date": "2025-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Warmtewet. Afsluiten van warmteaansluiting in huurwoning. Ondanks het ontbreken van een overeenkomst mag de energieleverancier de warmteaansluiting in de huurwoning afsluiten en de kosten daarvan bij de huurder in rekening brengen.",
+   "source": "civiel",
+   "first_seen": "2025-12-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Incasso. Buitgengerechtelijke kosten (ECLI:NL:RBAMS:2025:2583)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:2583",
+   "date": "2025-04-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incasso. Buitgengerechtelijke kosten.",
+   "source": "civiel",
+   "first_seen": "2025-04-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Aardbevingsschade. Overdracht rechten uit schademeldingen bij verkoop woning in het aardbevingsgebied. Verkoper meldt ten onrechte niet dat… (ECLI:NL:GHARL:2025:2380)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2380",
+   "date": "2025-04-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingsschade. Overdracht rechten uit schademeldingen bij verkoop woning in het aardbevingsgebied. Verkoper meldt ten onrechte niet dat hij al een vergoeding voor sommige scheuren had ontvangen zonder de schade te herstellen. Koper krijgt voor die scheuren geen vergoeding. Verkoper heeft onrechtmatig gehandeld en moet schade als gevolg van zijn zwijgen vergoeden.",
+   "source": "civiel",
+   "first_seen": "2025-04-18T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: [eiseres sub 1] en [eiseres sub 2] vorderen in kort geding veroordeling van Emmagroep tot nakoming van diverse verplichtingen op grond van… (ECLI:NL:RBMNE:2025:1686)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1686",
+   "date": "2025-04-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "[eiseres sub 1] en [eiseres sub 2] vorderen in kort geding veroordeling van Emmagroep tot nakoming van diverse verplichtingen op grond van de huurovereenkomst. De vorderingen van [eiseres sub 2] worden afgewezen, omdat zij niet als huurder kan worden aangemerkt. De vorderingen van [eiseres sub 1] tot (kort gezegd) toekenning van een parkeerplaats binnen 30 meter van het gehuurde en herstel van de ",
+   "source": "civiel",
+   "first_seen": "2025-04-11T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomst levering energie en gas. Vordering betaling achterstand toegewezen. Gedaagde heeft geen stukken overgelegd waaruit blijkt dat… (ECLI:NL:RBROT:2025:6057)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:6057",
+   "date": "2025-04-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst levering energie en gas. Vordering betaling achterstand toegewezen. Gedaagde heeft geen stukken overgelegd waaruit blijkt dat zij meer betalingen heeft verricht dan door eiseres in de berekening van de betalingsachterstand zijn meegenomen. De betalingen waar gedaagde zich op beroept en waarvan zij de betaalbewijzen heeft overgelegd, zijn allemaal in het door eiseres overgelegde overzi",
+   "source": "civiel",
+   "first_seen": "2025-05-20T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; consumentenkoop (ECLI:NL:RBLIM:2025:3415)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:3415",
+   "date": "2025-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; koop en ruil; consumentenkoop",
+   "source": "civiel",
+   "first_seen": "2025-04-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: De zaak gaat om de vraag of de huurovereenkomst tussen partijen moet worden ontbonden en de huurders de woning moeten ontruimen, omdat zij… (ECLI:NL:RBNHO:2025:6516)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:6516",
+   "date": "2025-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De zaak gaat om de vraag of de huurovereenkomst tussen partijen moet worden ontbonden en de huurders de woning moeten ontruimen, omdat zij een huurachterstand hebben. De kantonrechter is van oordeel dat de hoogte van de huurachterstand dit rechtvaardigt. De vordering van de verhuurster wordt daarom toegewezen. Ook moeten de huurders de huurachterstand en de nog te verschijnen gebruiksvergoeding (i",
+   "source": "civiel",
+   "first_seen": "2025-06-13T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Liander. Geslaagd beroep van netbeheerder op artikel 24 lid 2 E-wet. Fysieke congestie (ECLI:NL:RBGEL:2025:2711)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:2711",
+   "date": "2025-04-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Liander. Geslaagd beroep van netbeheerder op artikel 24 lid 2 E-wet. Fysieke congestie.",
+   "source": "civiel",
+   "first_seen": "2025-04-09T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Eiser had een contract met Welkom Energie voor de levering van energie. Welkom Energie is failliet gegaan en heeft haar klantenbestand aan… (ECLI:NL:RBOVE:2025:2136)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:2136",
+   "date": "2025-04-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser had een contract met Welkom Energie voor de levering van energie. Welkom Energie is failliet gegaan en heeft haar klantenbestand aan Eneco overgedragen. Eneco heeft hogere tarieven bij eiser in rekening gebracht dan eiser met Welkom Energie was overeengekomen. Partijen discussiëren over de vraag of dat mocht. De kantonrechter concludeert dat dit mocht. Het is begrijpelijk dat eiser het er ni",
+   "source": "civiel",
+   "first_seen": "2025-04-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: ambtshalve toetsing, sanctie i.v.m schending informatieplichten (ECLI:NL:RBNHO:2025:16011)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:16011",
+   "date": "2025-04-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ambtshalve toetsing, sanctie i.v.m schending informatieplichten",
+   "source": "civiel",
+   "first_seen": "2026-04-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: ambtshalve toetsing, sanctie ivm schenden informatieplichten (ECLI:NL:RBNHO:2025:16010)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:16010",
+   "date": "2025-04-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ambtshalve toetsing, sanctie ivm schenden informatieplichten",
+   "source": "civiel",
+   "first_seen": "2026-04-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Verzetzaak, deels gegrond verklaard. Afrekening nutsvoorzieningen na einde huur. Verhuurder heeft nu voldoende duidelijkheid verschaft (ECLI:NL:RBNHO:2025:3548)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:3548",
+   "date": "2025-04-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzetzaak, deels gegrond verklaard. Afrekening nutsvoorzieningen na einde huur. Verhuurder heeft nu voldoende duidelijkheid verschaft.",
+   "source": "civiel",
+   "first_seen": "2025-04-01T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kan en mag gedaagde de warmtelevering ten behoeve van de verwarming van zijn huurwoning bij eiser opzeggen? De kantonrechter vindt van wel.… (ECLI:NL:RBMNE:2025:1387)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1387",
+   "date": "2025-04-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kan en mag gedaagde de warmtelevering ten behoeve van de verwarming van zijn huurwoning bij eiser opzeggen? De kantonrechter vindt van wel. Er is namelijk onvoldoende gebleken dt gedaagde de overeenkomst tot levering van warmte ten behoeve van de radiatoren niet zou kunnen opzeggen.",
+   "source": "civiel",
+   "first_seen": "2025-03-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: ambtshalve toetsing infoplichten en algemene voorwaarden (ECLI:NL:RBNHO:2025:3540)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:3540",
+   "date": "2025-04-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ambtshalve toetsing infoplichten en algemene voorwaarden",
+   "source": "civiel",
+   "first_seen": "2025-04-01T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Rotterdam: Overeenkomst tot levering energie. Gedaagde heeft een betalingsachterstand laten ontstaan. Hij wordt veroordeeld om die achterstand te… (ECLI:NL:RBROT:2025:3980)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:3980",
