@@ -7,10 +7,131 @@
   "2026-04",
   "2026-05",
   "2026-06",
-  "2026-07"
+  "2026-07",
+  "2026-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: WAMCA-zaak over prijswijzigingsbedingen in energioecontracten. Bevekl aan de energieleveranciers ex art. 22 om stellingen toe te lichten… (ECLI:NL:RBAMS:2026:8399)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:8399",
+   "date": "2026-08-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "WAMCA-zaak over prijswijzigingsbedingen in energioecontracten. Bevekl aan de energieleveranciers ex art. 22 om stellingen toe te lichten door beantwoording van een aantal vragen.",
+   "source": "civiel",
+   "first_seen": "2026-08-24T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: artikelen 18 en 19 WvK, meetregister ESDN (ECLI:NL:RBGEL:2026:6548)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:6548",
+   "date": "2026-08-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "artikelen 18 en 19 WvK, meetregister ESDN",
+   "source": "civiel",
+   "first_seen": "2026-08-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Verhuurder verhuurt in een complex reguliere appartementen, zorgappartementen en bedrijfsruimtes. De huurders van de reguliere… (ECLI:NL:RBZWB:2026:8247)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:8247",
+   "date": "2026-08-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verhuurder verhuurt in een complex reguliere appartementen, zorgappartementen en bedrijfsruimtes. De huurders van de reguliere appartementen zijn het niet eens met de berekeningsmethode van de kosten voor warmte die verhuurder in rekening brengt. Die methode gaat uit van de fictie van 35% vaste kosten en 65% variabele kosten (volgens het Beleidsboek van de Huurcommissie). Volgens de huurders zijn ",
+   "source": "civiel",
+   "first_seen": "2026-08-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Ongerechtvaardigde verrijking (artikel 6:212 BW); het gebruik van het openbare energienetwerk zonder contract bij een energieleverancier;… (ECLI:NL:RBZWB:2026:8462)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:8462",
+   "date": "2026-08-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ongerechtvaardigde verrijking (artikel 6:212 BW); het gebruik van het openbare energienetwerk zonder contract bij een energieleverancier; de gebruiker is ongerechtvaardigd verrijkt ten koste van de netbeheerder en moet de schade van de netbeheerder vergoeden.",
+   "source": "civiel",
+   "first_seen": "2026-09-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Verzekeringsrecht, omvang van de dekking. De eigenaar van een windmolenpark op zee heeft een all risks verzekering afgesloten bij een… (ECLI:NL:GHDHA:2026:2639)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:2639",
+   "date": "2026-08-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzekeringsrecht, omvang van de dekking. De eigenaar van een windmolenpark op zee heeft een all risks verzekering afgesloten bij een aantal verzekeraars. Er is schade ontstaan aan een in de zee liggende kabel. De verzekeraars weigeren uikering, omdat de schade niet zou vallen onder de dekking en/of omdat op deze schade een uitsluiting van toepassing is.",
+   "source": "civiel",
+   "first_seen": "2026-08-12T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Ook na ontbinding van de vof blijven de vennoten hoofdelijk aansprakelijk voor verplichtingen uit overeenkomsten die door de vof zijn… (ECLI:NL:RBMNE:2026:6023)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:6023",
+   "date": "2026-08-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ook na ontbinding van de vof blijven de vennoten hoofdelijk aansprakelijk voor verplichtingen uit overeenkomsten die door de vof zijn gesloten. art 18 WvK",
+   "source": "civiel",
+   "first_seen": "2026-08-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Tussen Ennatuurlijk en gedaagde bestaat een overeenkomst voor de levering van warmte. Voor de geleverde warmte moet gedaagde maandelijks… (ECLI:NL:RBZWB:2026:7925)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:7925",
+   "date": "2026-08-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussen Ennatuurlijk en gedaagde bestaat een overeenkomst voor de levering van warmte. Voor de geleverde warmte moet gedaagde maandelijks een voorschot betalen. Hij heeft verschillende voorschotbedragen niet betaald en daardoor is een betalingsachterstand ontstaan. Omdat gedaagde de voorschotten niet betaalt, wil Ennatuurlijk de levering van de warmte onderbreken/afsluiten. Zij vordert in deze proc",
+   "source": "civiel",
+   "first_seen": "2026-08-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Overeenkomst energielevering (warmte). Toewijzing openstaande nota’s. Afwijzing ontbinding overeenkomst omdat niet is voldaan aan de… (ECLI:NL:RBMNE:2026:5807)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:5807",
+   "date": "2026-08-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst energielevering (warmte). Toewijzing openstaande nota’s. Afwijzing ontbinding overeenkomst omdat niet is voldaan aan de cumulatieve vereisten voortvloeiend uit de Warmteregeling.",
+   "source": "civiel",
+   "first_seen": "2026-08-23T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Huurovereenkomst. Huurder bezwaar gemaakt bij Huurcommissie tegen de afrekening kosten warm tapwater. Volgens de Huurcommissie had… (ECLI:NL:RBZWB:2026:7642)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:7642",
+   "date": "2026-08-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurovereenkomst. Huurder bezwaar gemaakt bij Huurcommissie tegen de afrekening kosten warm tapwater. Volgens de Huurcommissie had verhuurder de Tijdelijke Tegemoetkoming Blokverwarming moeten aanvragen. De kantronechter oordeelt dat, gelet op de TTB-regeling, de toelichting daarop en kamerbrief, huurder geen recht heeft op TTB voor alleen warm tapwater via blokaansluiting.",
+   "source": "civiel",
+   "first_seen": "2026-08-13T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Na bewijsopdracht staat vast dat overeekomst voor levering van erngie tot stand is gekomen en daarom moet Ecoplant de eindnota betalen (ECLI:NL:RBOVE:2026:5144)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:5144",
+   "date": "2026-08-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Na bewijsopdracht staat vast dat overeekomst voor levering van erngie tot stand is gekomen en daarom moet Ecoplant de eindnota betalen.",
+   "source": "civiel",
+   "first_seen": "2026-08-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Dit geschil gaat over de afrekening over 2023 tussen Greenchoice (energieleverancier) en BES (producent van elektriciteit). De… (ECLI:NL:GHDHA:2026:2466)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:2466",
+   "date": "2026-08-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Dit geschil gaat over de afrekening over 2023 tussen Greenchoice (energieleverancier) en BES (producent van elektriciteit). De leveringsovereenkomst tussen partijen voorzag in een variabele prijs met de mogelijkheid zogeheten prijskliks uit te voeren, waarmee de prijs voor een bepaalde hoeveelheid elektriciteit per kwartaal of per jaar wordt vastgezet. Het voornaamste geschilpunt tussen partijen b",
+   "source": "civiel",
+   "first_seen": "2026-07-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Informatieverzoek op grond van artikel 195 Rv. Voldaan aan de vier vereisten dus toegewezen (ECLI:NL:RBDHA:2026:30484)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:30484",
+   "date": "2026-08-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Informatieverzoek op grond van artikel 195 Rv. Voldaan aan de vier vereisten dus toegewezen.",
+   "source": "civiel",
+   "first_seen": "2026-10-16T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Oost-Brabant: De kantonrechter laat de 18-weken-termijn buiten beschouwing. Dit betekent dat de netbeheerder de aansluiting diende te realiseren binnen… (ECLI:NL:RBOBR:2026:5457)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:5457",
