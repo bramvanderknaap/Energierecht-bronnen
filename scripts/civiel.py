@@ -6,11 +6,21 @@ Daarom wordt van elke civiele uitspraak de volledige tekst opgehaald en daarin g
 - energiebedrijven als procespartij (leveranciers, netbeheerders, producenten),
 - energiebegrippen in de samenvatting of herhaaldelijk in de tekst.
 Zaken over hennepteelt vallen af."""
+import json
 import re
+import sys
 import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
 from urllib.parse import urlencode
+
+ARCHIVE = Path(__file__).resolve().parent.parent / "data" / "civiel"
+STATE = ARCHIVE / "stand.json"
+START_YEAR = 2019
+MAX_PER_RUN = 4000  # dagelijkse run: maximaal zoveel gewijzigde uitspraken controleren
 
 SEARCH = ("https://data.rechtspraak.nl/uitspraken/zoeken?subject=http://psi.rechtspraak.nl/rechtsgebied%23civielRecht"
           "&type=Uitspraak&return=DOC")
@@ -59,10 +69,17 @@ EXCLUDE = ["hennep", "cannabis", "growshop", "wietplant", "wietteelt", "wietkwek
 TERM_THRESHOLD = 3
 
 
-def download(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return resp.read()
+def download(url, attempts=4):
+    """Eén verzoek tegelijk (vraag van rechtspraak.nl); bij een storing even wachten en opnieuw."""
+    for n in range(attempts):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return resp.read()
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            if n == attempts - 1 or (isinstance(e, urllib.error.HTTPError) and e.code == 404):
+                raise
+            time.sleep(10 * (n + 1))
 
 
 def local(tag):
@@ -93,13 +110,15 @@ def search(**params):
 def fetch_ruling(ecli):
     """Metadata, samenvatting en volledige tekst van één uitspraak."""
     root = ET.fromstring(download(CONTENT.format(ecli)))
-    r = {"ecli": ecli, "instantie": "", "datum": "", "subject": [], "summary": "", "text": ""}
+    r = {"ecli": ecli, "instantie": "", "datum": "", "gepubliceerd": "", "subject": [], "summary": "", "text": ""}
     for el in root.iter():
         name = local(el.tag)
         if name == "creator" and not r["instantie"]:
             r["instantie"] = (el.text or "").strip()
         elif name == "date" and "Uitspraakdatum" in str(el.attrib.values()):
             r["datum"] = (el.text or "").strip()
+        elif name == "issued" and not r["gepubliceerd"]:
+            r["gepubliceerd"] = (el.text or "").strip()[:10]
         elif name == "subject":
             r["subject"].append((el.text or "").strip())
         elif name == "inhoudsindicatie":
@@ -128,7 +147,8 @@ def signals(r):
     return {
         "laws": [law for law in LAWS if re.search(r"\b" + re.escape(law), low)],
         "parties": parties,
-        "summary_terms": count_terms(summary, TERMS + LAWS + COMPANIES),
+        "summary_terms": {**count_terms(summary, TERMS + LAWS),
+                          **{m.group(0).lower(): 1 for m in COMPANY_PATTERN.finditer(r["summary"])}},
         "text_terms": count_terms(low, TERMS),
         "hennep": [w for w in EXCLUDE if w in low or w in summary],
     }
@@ -147,3 +167,168 @@ def relevance(sig):
     if sum(sig["text_terms"].values()) >= TERM_THRESHOLD:
         return "tekst"
     return None
+
+
+def to_item(r, reason, first_seen):
+    """Een uitspraak in de vorm van de databank (zie fetch.py)."""
+    summary = r["summary"]
+    first = summary.rstrip(".;")
+    if len(first) > 140:
+        first = first[:140].rsplit(" ", 1)[0] + "…"
+    title = f"{r['instantie'] or 'Rechtspraak'}: {first} ({r['ecli']})" if first else f"{r['instantie']}, {r['ecli']}"
+    return {
+        "title": title,
+        "url": DETAILS.format(r["ecli"]),
+        "date": f"{r['datum']}T00:00:00+00:00",
+        "date_checked": True,
+        "summary": summary[:400],
+        "source": "civiel",
+        "first_seen": first_seen,
+        "grond": reason,
+    }
+
+
+def check(ecli, first_seen):
+    """Haalt de uitspraak op en geeft (item of None, uitspraakjaar)."""
+    r = fetch_ruling(ecli)
+    if not r["datum"]:
+        return None, None
+    reason = relevance(signals(r))
+    seen = first_seen or f"{r['gepubliceerd'] or r['datum']}T00:00:00+00:00"
+    return (to_item(r, reason, seen) if reason else None), int(r["datum"][:4])
+
+
+def load_year(year):
+    path = ARCHIVE / f"{year}.json"
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    return {"jaar": year, "maanden": [], "mislukt": [], "items": []}
+
+
+def save_year(data):
+    ARCHIVE.mkdir(parents=True, exist_ok=True)
+    data["items"].sort(key=lambda i: i["date"], reverse=True)
+    data["mislukt"] = sorted(set(data["mislukt"]))
+    (ARCHIVE / f"{data['jaar']}.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def load_archive():
+    """Alle relevante civiele uitspraken uit het archief."""
+    items = []
+    for path in sorted(ARCHIVE.glob("[0-9][0-9][0-9][0-9].json")):
+        items += json.loads(path.read_text(encoding="utf-8"))["items"]
+    return items
+
+
+def archive_year(year, on_month=None):
+    """Bouwt het archief van één jaar op, maand voor maand (hervat waar het gebleven was)."""
+    data = load_year(year)
+    today = date.today()
+    for month in range(1, 13):
+        key = f"{year}-{month:02d}"
+        if key in data["maanden"] or date(year, month, 1) > today:
+            continue
+        end = (date(year + month // 12, month % 12 + 1, 1) - timedelta(days=1)).isoformat()
+        entries = search(date=(f"{key}-01", end))
+        t0, found = time.time(), 0
+        known = {i["url"] for i in data["items"]}
+        for e in entries:
+            try:
+                item, _ = check(e["ecli"], None)
+            except Exception as ex:  # één onbereikbare uitspraak mag de rest niet stoppen
+                data["mislukt"].append(e["ecli"])
+                print(f"  FOUT {e['ecli']}: {type(ex).__name__}: {ex}", flush=True)
+                continue
+            if item and item["url"] not in known:
+                data["items"].append(item)
+                known.add(item["url"])
+                found += 1
+        if date(year, month, 1) + timedelta(days=40) < today:  # lopende maanden later opnieuw
+            data["maanden"].append(key)
+        save_year(data)
+        print(f"{key}: {len(entries)} uitspraken, {found} relevant ({time.time() - t0:.0f}s)", flush=True)
+        if on_month:
+            on_month(key)
+    return data
+
+
+def retry_failed(year):
+    data = load_year(year)
+    todo, data["mislukt"] = data["mislukt"], []
+    known = {i["url"] for i in data["items"]}
+    for ecli in todo:
+        try:
+            item, _ = check(ecli, None)
+        except Exception:
+            data["mislukt"].append(ecli)
+            continue
+        if item and item["url"] not in known:
+            data["items"].append(item)
+    save_year(data)
+
+
+def update(now=None):
+    """Dagelijks: controleert de civiele uitspraken die sinds de vorige keer zijn gepubliceerd of gewijzigd.
+    Er wordt een paar uur overlap genomen; een uitspraak die al in het archief staat, wordt alleen bijgewerkt."""
+    now = now or datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+    since = state.get("gewijzigd_sinds") or (datetime.now(timezone.utc) - timedelta(days=3)).strftime("%Y-%m-%dT%H:%M:%S")
+    query_from = (datetime.fromisoformat(since) - timedelta(hours=3)).strftime("%Y-%m-%dT%H:%M:%S")
+    entries = sorted(search(modified=(query_from,)), key=lambda e: e["updated"])[:MAX_PER_RUN]
+    years, added, removed = {}, 0, 0
+    last = since
+    for e in entries:
+        try:
+            item, year = check(e["ecli"], now)
+        except Exception as ex:
+            print(f"  FOUT {e['ecli']}: {type(ex).__name__}: {ex}")
+            break  # later opnieuw vanaf deze uitspraak
+        last = max(last, e["updated"][:19])
+        if year is None or year < START_YEAR:
+            continue
+        data = years.setdefault(year, load_year(year))
+        url = DETAILS.format(e["ecli"])
+        old = next((i for i in data["items"] if i["url"] == url), None)
+        if old:
+            data["items"].remove(old)
+            if item:
+                item["first_seen"] = old["first_seen"]
+            else:
+                removed += 1
+        if item:
+            data["items"].append(item)
+            added += not old
+    for data in years.values():
+        save_year(data)
+    ARCHIVE.mkdir(parents=True, exist_ok=True)
+    STATE.write_text(json.dumps({"gewijzigd_sinds": last}, indent=1) + "\n", encoding="utf-8")
+    return f"  {len(entries)} gewijzigde civiele uitspraken gecontroleerd, {added} nieuw relevant, {removed} vervallen"
+
+
+if __name__ == "__main__":
+    # python scripts/civiel.py archief 2025   (archief van één jaar opbouwen)
+    if len(sys.argv) >= 3 and sys.argv[1] == "archief":
+        year = int(sys.argv[2])
+        if not STATE.exists():  # vanaf nu houdt de dagelijkse run de nieuwe uitspraken bij
+            ARCHIVE.mkdir(parents=True, exist_ok=True)
+            start = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+            STATE.write_text(json.dumps({"gewijzigd_sinds": start}, indent=1) + "\n", encoding="utf-8")
+        commit = None
+        if "--commit" in sys.argv:  # tussentijds opslaan in git, zodat een afgebroken run kan hervatten
+            import subprocess
+
+            def commit(key):
+                subprocess.run(["git", "add", str(ARCHIVE)], check=True)
+                if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode:
+                    subprocess.run(["git", "commit", "-q", "-m", f"Archief civiele uitspraken {key}"], check=True)
+                    for _ in range(3):
+                        if subprocess.run(["git", "pull", "-q", "--rebase"]).returncode == 0 and \
+                                subprocess.run(["git", "push", "-q"]).returncode == 0:
+                            break
+                        time.sleep(5)
+        archive_year(year, on_month=commit)
+        retry_failed(year)
+        if commit:
+            commit(f"{year} (herhaalde pogingen)")
+    else:
+        print(__doc__)
