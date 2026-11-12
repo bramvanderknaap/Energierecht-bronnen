@@ -49,24 +49,36 @@ COMPANIES = [
     "energie beheer nederland", "nederlandse aardolie maatschappij", "ennatuurlijk", "eteck", "procent energie",
     "energiecollectief", "inkoopcollectief",
 ]
-COMPANY_PATTERN = re.compile(
-    r"\b(" + "|".join(re.escape(c) for c in COMPANIES) + r")\b"
-    r"|[\w&'.-]*(energie|energy|netbeheer|windpark|zonnepark|solar)[\w&'.-]*(\s+[\w&'.-]+){0,3}\s+(b\.v\.|n\.v\.|u\.a\.)",
+KNOWN_COMPANIES = re.compile(r"\b(" + "|".join(re.escape(c) for c in COMPANIES) + r")\b", re.I)
+# Andere bedrijfsnamen met energie, energy of solar erin tellen alleen als de tekst ook over energie gaat.
+OTHER_COMPANIES = re.compile(
+    r"[\w&'.-]*(energie|energy|netbeheer|windpark|zonnepark|solar)[\w&'.-]*(\s+[\w&'.-]+){0,3}\s+(b\.v\.|n\.v\.|u\.a\.)",
     re.I)
-# Energiebegrippen: tellen mee in de samenvatting, of als ze vaak in de tekst staan.
+# In deze zaken is een energiebedrijf meestal alleen schuldeiser of werkgever.
+NO_PARTY_SUBJECTS = ("insolventierecht", "arbeidsrecht", "personen- en familierecht")
+# Energiebegrippen die meetellen in de samenvatting.
 TERMS = [
-    "energieleverancier", "energiebedrijf", "energiecontract", "energielevering", "energierekening",
-    "energieprijs", "energietarie", "leveringsovereenkomst energie", "levering van elektriciteit",
-    "levering van gas", "levering van energie", "elektra en gas", "gas en elektra", "stroom en gas",
+    "energieleverancier", "energiebedrijf", "energiecontract", "energieovereenkomst", "energielevering",
+    "energierekening", "energieprijs", "energietarie", "levering van elektriciteit", "levering van gas",
+    "levering van energie", "levering energie", "elektriciteitslevering", "gaslevering", "stroomlevering",
     "netbeheerder", "netaansluiting", "aansluit- en transportovereenkomst", "transportcapaciteit",
     "transportvermogen", "netcongestie", "stroomstoring", "gasaansluiting", "elektriciteitsaansluiting",
-    "warmtenet", "warmtelevering", "warmteleverancier", "stadsverwarming", "zonnepark", "zonnepane",
-    "zonne-energie", "windturbine", "windpark", "windmolen", "laadpa", "laadpunt", "terugleverkosten",
-    "terugleververgoeding", "salderingsregeling", "energieopslag", "biogas", "kernenergie", "gaswinning",
-    "aardbevingsschade", "mijnbouwschade", "mijnbouw", "energietransitie", "warmtekrachtkoppeling",
+    "warmtenet", "warmtelevering", "warmteleverancier", "stadsverwarming", "zonnepark", "zonne-energie",
+    "windturbine", "windpark", "windmolen", "windenergie", "laadpa", "laadpunt", "laadinfrastructuur",
+    "terugleverkosten", "terugleververgoeding", "teruglevering van elektriciteit", "salderingsregeling",
+    "energieopslag", "biogas", "kernenergie", "gaswinning", "aardbevingsschade", "mijnbouwschade",
+    "mijnbouw", "energietransitie", "warmtekrachtkoppeling", "energiehandel", "energiecollectief",
+    "inkoopcollectief",
 ]
+# Kernbegrippen: een uitspraak die er vijf keer of vaker een noemt, gaat over energie.
+CORE = [
+    "netbeheerder", "aansluit- en transportovereenkomst", "transportcapaciteit", "transportvermogen",
+    "netcongestie", "gaswinning", "aardbevingsschade", "mijnbouwschade", "energieleverancier",
+    "warmteleverancier", "warmtelevering", "levering van elektriciteit", "levering van gas",
+    "levering van energie", "energiecontract", "energieovereenkomst",
+]
+CORE_THRESHOLD = 5
 EXCLUDE = ["hennep", "cannabis", "growshop", "wietplant", "wietteelt", "wietkwekerij"]
-TERM_THRESHOLD = 3
 
 
 def download(url, attempts=4):
@@ -143,12 +155,14 @@ def count_terms(text, terms):
 def signals(r):
     low = r["text"].lower()
     summary = r["summary"].lower()
-    parties = sorted({m.group(0).strip() for m in COMPANY_PATTERN.finditer(header(r["text"]))})
+    head = header(r["text"])
     return {
+        "subject": [x.lower() for x in r["subject"]],
         "laws": [law for law in LAWS if re.search(r"\b" + re.escape(law), low)],
-        "parties": parties,
+        "parties": sorted({m.group(0).strip() for m in KNOWN_COMPANIES.finditer(head)}),
+        "other_parties": sorted({m.group(0).strip() for m in OTHER_COMPANIES.finditer(head)}),
         "summary_terms": {**count_terms(summary, TERMS + LAWS),
-                          **{m.group(0).lower(): 1 for m in COMPANY_PATTERN.finditer(r["summary"])}},
+                          **{m.group(0).lower(): 1 for m in KNOWN_COMPANIES.finditer(r["summary"])}},
         "text_terms": count_terms(low, TERMS),
         "hennep": [w for w in EXCLUDE if w in low or w in summary],
     }
@@ -160,11 +174,12 @@ def relevance(sig):
         return None
     if sig["laws"]:
         return "wet"
-    if sig["parties"]:
-        return "partij"
     if sig["summary_terms"]:
         return "samenvatting"
-    if sum(sig["text_terms"].values()) >= TERM_THRESHOLD:
+    party_case = not any(s.endswith(x) for s in sig["subject"] for x in NO_PARTY_SUBJECTS)
+    if party_case and (sig["parties"] or (sig["other_parties"] and sig["text_terms"])):
+        return "partij"
+    if sum(n for t, n in sig["text_terms"].items() if t in CORE) >= CORE_THRESHOLD:
         return "tekst"
     return None
 
