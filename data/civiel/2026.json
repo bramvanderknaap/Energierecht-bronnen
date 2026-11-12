@@ -6,10 +6,211 @@
   "2026-03",
   "2026-04",
   "2026-05",
-  "2026-06"
+  "2026-06",
+  "2026-07"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Oost-Brabant: De kantonrechter laat de 18-weken-termijn buiten beschouwing. Dit betekent dat de netbeheerder de aansluiting diende te realiseren binnen… (ECLI:NL:RBOBR:2026:5457)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:5457",
+   "date": "2026-07-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De kantonrechter laat de 18-weken-termijn buiten beschouwing. Dit betekent dat de netbeheerder de aansluiting diende te realiseren binnen een redelijke termijn, zoals bepaald in artikel 23 lid 4 Elektriciteitswet 1998 (eerste volzin). De netbeheerder heeft de aansluiting binnen een termijn van eenentwintig weken gerealiseerd. De kantonrechter is van oordeel dat een aansluittermijn van eenentwintig",
+   "source": "civiel",
+   "first_seen": "2026-07-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: koop onroerende zaak, al dan niet deugdelijk, enkele verwijzing naar producties is onvoldoende onderbouwing, volgt afwijzing (ECLI:NL:RBLIM:2026:7105)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:7105",
+   "date": "2026-07-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "koop onroerende zaak, al dan niet deugdelijk, enkele verwijzing naar producties is onvoldoende onderbouwing, volgt afwijzing",
+   "source": "civiel",
+   "first_seen": "2026-07-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Schadevergoedingsvordering o.g.v. ongerechtvaardigde verrijking, door energiegebruik zonder contract. Deels toewijzing, want naast gedaagde… (ECLI:NL:RBMNE:2026:6668)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:6668",
+   "date": "2026-07-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schadevergoedingsvordering o.g.v. ongerechtvaardigde verrijking, door energiegebruik zonder contract. Deels toewijzing, want naast gedaagde woonden nog 5 andere personen op het adres.",
+   "source": "civiel",
+   "first_seen": "2026-09-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba: Aruba. Tussenvonnis. Dit geding heeft betrekking op de tariefstelling (het lagere tarief A of het hogere tarief DB) voor de levering van… (ECLI:NL:OGHACMB:2026:211)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2026:211",
+   "date": "2026-07-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aruba. Tussenvonnis. Dit geding heeft betrekking op de tariefstelling (het lagere tarief A of het hogere tarief DB) voor de levering van elektriciteit aan een tweetal wooncomplexen. Het Gerecht in eerste aanleg van Aruba heeft de vordering om tarief A toepasselijk te doen zijn afgewezen. Het Hof heeft behoefte aan nadere informatie voordat het een eindoordeel kan geven.",
+   "source": "civiel",
+   "first_seen": "2026-08-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Aanbestedingsrecht; eisende partij kan geen beroep doen op artikel 1.5 Aw omdat zij niet als mkb-bedrijf kwalificeert. Toetsing aan… (ECLI:NL:GHDHA:2026:2482)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:2482",
+   "date": "2026-07-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanbestedingsrecht; eisende partij kan geen beroep doen op artikel 1.5 Aw omdat zij niet als mkb-bedrijf kwalificeert. Toetsing aan Aanbeveling 2003/361/EG.",
+   "source": "civiel",
+   "first_seen": "2026-07-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Vordering tot heraansluiten zonnepaneleninstallatie (ECLI:NL:RBROT:2026:10258)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:10258",
+   "date": "2026-07-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Vordering tot heraansluiten zonnepaneleninstallatie.",
+   "source": "civiel",
+   "first_seen": "2026-08-18T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Aanneming van werk, zwaardere elektra-aansluiting, niet gewaarschuwd, tussenvonnis (ECLI:NL:RBROT:2026:10512)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:10512",
+   "date": "2026-07-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanneming van werk, zwaardere elektra-aansluiting, niet gewaarschuwd, tussenvonnis",
+   "source": "civiel",
+   "first_seen": "2026-08-24T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Onbetaalde energiefactuur. Gedaagde betwist hoogte van de vordering. Onvoldoede gemotiveerd betwist. Toewijzing vordering (ECLI:NL:RBMNE:2026:5076)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:5076",
+   "date": "2026-07-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onbetaalde energiefactuur. Gedaagde betwist hoogte van de vordering. Onvoldoede gemotiveerd betwist. Toewijzing vordering.",
+   "source": "civiel",
+   "first_seen": "2026-08-02T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Huurzaak. Hoge rekening stadsverwarming. Gebrek binneninstallatie? Nee. Wel moet verhuurder o.a. buizen isoleren onder de loopvloer in… (ECLI:NL:RBMNE:2026:5291)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:5291",
+   "date": "2026-07-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurzaak. Hoge rekening stadsverwarming. Gebrek binneninstallatie? Nee. Wel moet verhuurder o.a. buizen isoleren onder de loopvloer in kader van goed verhuurderschap.",
+   "source": "civiel",
+   "first_seen": "2026-08-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: De rechtbank oordeelt dat eiseres contractueel geen recht heeft op het zonder beperkingen ter beschikking stellen door gedaagde van een… (ECLI:NL:RBROT:2026:10189)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:10189",
+   "date": "2026-07-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De rechtbank oordeelt dat eiseres contractueel geen recht heeft op het zonder beperkingen ter beschikking stellen door gedaagde van een transportvermogen van 200 kW. Ook is volgens de rechtbank geen sprake van schending van artikel 24 van de Elektriciteitswet (oud) en artikel 9 Netcode Elektriciteit (oud) en heeft gedaagde tegenover eiseres geen informatie- en waarschuwingsplicht (geschonden).",
+   "source": "civiel",
+   "first_seen": "2026-08-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Vordering tot terugbetaling kosten van accupakket voor de opslag van zonne-energie. Door handelaar is niet gewezen op herroepingsrecht… (ECLI:NL:RBAMS:2026:7437)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:7437",
+   "date": "2026-07-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot terugbetaling kosten van accupakket voor de opslag van zonne-energie. Door handelaar is niet gewezen op herroepingsrecht (ontbindingsrecht), zodat de termijn voor herroeping wordt verlengd. Consument heeft binnen die verlengde termijn de overeenkomst herroepen. De handelaar moet het aankoopbedrag terugbetalen.",
+   "source": "civiel",
+   "first_seen": "2026-07-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomst tot aanleg van elektriciteits- en drinkwaterleidingen op bungalowpark in ontwikkeling. Aansluiting van acht woningen niet… (ECLI:NL:RBROT:2026:8674)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:8674",
+   "date": "2026-07-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot aanleg van elektriciteits- en drinkwaterleidingen op bungalowpark in ontwikkeling. Aansluiting van acht woningen niet gerealiseerd. Tekortkoming. Schuldeisersverzuim. Nakoming wordt verhinderd door een omstandigheid in de risicofeer van eiseres (onjuiste loop van het tracé voor de leidingen).",
+   "source": "civiel",
+   "first_seen": "2026-07-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Levering energie zonder contract. eigenaar van de woningen is hiervoor aansprakelijk (ECLI:NL:RBLIM:2026:6896)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:6896",
+   "date": "2026-07-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering energie zonder contract. eigenaar van de woningen is hiervoor aansprakelijk.",
+   "source": "civiel",
+   "first_seen": "2026-07-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Algemeen verbintenissenrecht. Onbetaalde facturen voor levering van gas en elektriciteit moeten betaald worden. Uit omstandigheden blijkt… (ECLI:NL:RBAMS:2026:7115)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:7115",
+   "date": "2026-07-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Algemeen verbintenissenrecht. Onbetaalde facturen voor levering van gas en elektriciteit moeten betaald worden. Uit omstandigheden blijkt dat partijen energiecontract hebben afgesloten.",
+   "source": "civiel",
+   "first_seen": "2026-07-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: KG Vordering van intermediair tegen onderneming die gas en elektriciteit levert afgewezen. Vorderingen lenen zich niet voor toewijzing bij… (ECLI:NL:RBAMS:2026:7382)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:7382",
+   "date": "2026-07-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "KG Vordering van intermediair tegen onderneming die gas en elektriciteit levert afgewezen. Vorderingen lenen zich niet voor toewijzing bij wijze van voorlopige voorziening.",
+   "source": "civiel",
+   "first_seen": "2026-07-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Eisers zijn de eigenaren van een aantal percelen in de gemeente Niedorp. Zij zijn op basis van een ministeriële gedoogplichtbeschikking… (ECLI:NL:RBNHO:2026:8028)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:8028",
+   "date": "2026-07-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eisers zijn de eigenaren van een aantal percelen in de gemeente Niedorp. Zij zijn op basis van een ministeriële gedoogplichtbeschikking verplicht om de aanleg en instandhouding van middenspanningsverbindingen door Liander op hun percelen te gedogen. In deze zaak gaat het om de vraag welke en hoeveel schade Liander aan hen moet vergoeden. De kantonrechter begroot de door eisers geleden schade op he",
+   "source": "civiel",
+   "first_seen": "2026-07-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: toewijzing incassovordering energielevering. Verweer van gedaagde dat hij de overeenkomst heeft opgezegd, onvoldoende onderbouwd (ECLI:NL:RBNHO:2026:9388)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:9388",
+   "date": "2026-07-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "toewijzing incassovordering energielevering. Verweer van gedaagde dat hij de overeenkomst heeft opgezegd, onvoldoende onderbouwd.",
+   "source": "civiel",
+   "first_seen": "2026-07-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Verzekering. Gedeeltelijke toewijzing. Eisers zijn op een AVB-polis verzekerd bij gedaagde. Bij werkzaamheden door een van de… (ECLI:NL:RBROT:2026:9556)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:9556",
+   "date": "2026-07-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Verzekering. Gedeeltelijke toewijzing. Eisers zijn op een AVB-polis verzekerd bij gedaagde. Bij werkzaamheden door een van de eisers is brand ontstaan in een windturbine, die verloren is gegaan. Gedaagde meent dat er geen dekking bestaat onder AVB-verzekering voor die schade. De voorzieningenrechter is voorlopig van oordeel dat uitleg van de polis met zich brengt dat gedaagde ook voor",
+   "source": "civiel",
+   "first_seen": "2026-08-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Huurrecht. Vaststelling kale huurprijs. Vraag of installaties in het gehuurde die eigendom zijn van een derde, mogen worden betrokken bij… (ECLI:NL:RBDHA:2026:17756)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:17756",
+   "date": "2026-07-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurrecht. Vaststelling kale huurprijs. Vraag of installaties in het gehuurde die eigendom zijn van een derde, mogen worden betrokken bij puntentoekenning woningwaarderingsstelsel. Vraag of er dubbel wordt betaald voor dezelfde installaties. Vraag of de verplichting in de huurovereenkomst om voor installaties een overeenkomst met een derde aan te gaan een niet redelijk voordeel oplevert. WKO-insta",
+   "source": "civiel",
+   "first_seen": "2026-06-30T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Geldige leveringsovereenkomst tot stand gekomen op basis van een volmacht. De opzegvergoeding wordt gematigd met 25% (ECLI:NL:RBGEL:2026:6177)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:6177",
+   "date": "2026-07-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geldige leveringsovereenkomst tot stand gekomen op basis van een volmacht. De opzegvergoeding wordt gematigd met 25%.",
+   "source": "civiel",
+   "first_seen": "2026-07-31T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Noord-Holland: Een huurder vordert plaatsing van individuele meters voor elektriciteit, gas en water. Een tussen partijen gemaakte afspraak over… (ECLI:NL:RBNHO:2026:7776)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:7776",
