@@ -4,10 +4,121 @@
   "2026-01",
   "2026-02",
   "2026-03",
-  "2026-04"
+  "2026-04",
+  "2026-05"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Hoge Raad: Art. 81 lid 1 RO. Procesrecht. Overheidsprivaatrecht. Besluitaansprakelijkheid. Vordering tot schadevergoeding nadat bestuursrechter… (ECLI:NL:HR:2026:806)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:806",
+   "date": "2026-05-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 81 lid 1 RO. Procesrecht. Overheidsprivaatrecht. Besluitaansprakelijkheid. Vordering tot schadevergoeding nadat bestuursrechter weigering gemeenteraad tot vaststelling bestemmingsplannen voor windmolenpark heeft vernietigd. Causaal verband? Als productie overgelegde opinie. Strijd met tweeconclusieregel en goede procesorde?",
+   "source": "civiel",
+   "first_seen": "2026-05-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Toetsing aanvangshuurprijs woning. Huurovereenkomst ingegaan na 1 juli 2024. De WKO-installatie wordt aangemerkt als onroerende… (ECLI:NL:RBAMS:2026:5791)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:5791",
+   "date": "2026-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toetsing aanvangshuurprijs woning. Huurovereenkomst ingegaan na 1 juli 2024. De WKO-installatie wordt aangemerkt als onroerende aanhorigheid bij het gehuurde. De kapitaals- en onderhoudslasten van de installatie moeten worden geacht te zijn inbegrepen in de (kale) huurprijs van het gehuurde. Verhuurder moet de kosten die huurder aan derde betaalt voor de kapitaals- en onderhoudslasten van de WKO-i",
+   "source": "civiel",
+   "first_seen": "2026-06-09T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Verzet. Opzegvergoeding energiecontract voor bepaalde tijd. Toepasselijkheid Algemene Voorwaarden (ECLI:NL:RBOBR:2026:3623)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:3623",
+   "date": "2026-05-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzet. Opzegvergoeding energiecontract voor bepaalde tijd. Toepasselijkheid Algemene Voorwaarden.",
+   "source": "civiel",
+   "first_seen": "2026-05-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Liander-zaak. Geschil inzake de hoogte van het tussen partijen overeengekomen gecontracteerd transportvermogen voor… (ECLI:NL:RBGEL:2026:4336)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:4336",
+   "date": "2026-05-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Liander-zaak. Geschil inzake de hoogte van het tussen partijen overeengekomen gecontracteerd transportvermogen voor elektriciteitsaansluitingen van een groot bouwproject in Amsterdam.",
+   "source": "civiel",
+   "first_seen": "2026-06-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Externe bestuurdersaansprakelijk (art. 6:162 BW). Selectieve betaling tijdens feitelijke liquidatiefase. Begroting van de schade (art. 6:97… (ECLI:NL:RBGEL:2026:4324)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:4324",
+   "date": "2026-05-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Externe bestuurdersaansprakelijk (art. 6:162 BW). Selectieve betaling tijdens feitelijke liquidatiefase. Begroting van de schade (art. 6:97 BW).",
+   "source": "civiel",
+   "first_seen": "2026-06-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Jaarafrekeningen en termijnbedragen. Niet geheel voldaan aan de (pre)contractuele informatieplichten. Sanctie (ECLI:NL:RBNHO:2026:11603)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:11603",
+   "date": "2026-05-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Jaarafrekeningen en termijnbedragen. Niet geheel voldaan aan de (pre)contractuele informatieplichten. Sanctie.",
+   "source": "civiel",
+   "first_seen": "2026-09-02T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Benoeming deskundige voor vaststelling hoogte schade (ECLI:NL:RBZWB:2026:5042)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:5042",
+   "date": "2026-05-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Benoeming deskundige voor vaststelling hoogte schade.",
+   "source": "civiel",
+   "first_seen": "2026-06-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Gevorderde schade is gevolgschade en komt op grond van de algemene voorwaarden van de netbeheerder niet voor vergoeding in aanmerking. Deze… (ECLI:NL:RBROT:2026:10187)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:10187",
+   "date": "2026-05-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gevorderde schade is gevolgschade en komt op grond van de algemene voorwaarden van de netbeheerder niet voor vergoeding in aanmerking. Deze uitsluiting van aansprakelijkheid is niet onredelijk bezwarend en niet in strijd met de redelijkheid en billijkheid. Evenmin is grond voor vergoeding van de schade op grond van onrechtmatige daad. De vorderingen worden afgewezen.",
+   "source": "civiel",
+   "first_seen": "2026-08-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Ongerechtvaardigde verrijking. Gedaagde moet betalen voor door netbeheerder geleverd elektriciteit en gas in een periode waarin gedaagde… (ECLI:NL:RBLIM:2026:4609)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:4609",
+   "date": "2026-05-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ongerechtvaardigde verrijking. Gedaagde moet betalen voor door netbeheerder geleverd elektriciteit en gas in een periode waarin gedaagde geen contract had met een energieleverancier. Geen ongevraagde levering van energie aan consument.",
+   "source": "civiel",
+   "first_seen": "2026-05-11T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Belemmeringenwet Privaatrecht. Gedoogplicht. Eigenaar van een drietal percelen met een agrarische bestemming vordert schadevergoeding van… (ECLI:NL:GHAMS:2026:2016)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:2016",
+   "date": "2026-05-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet Privaatrecht. Gedoogplicht. Eigenaar van een drietal percelen met een agrarische bestemming vordert schadevergoeding van TenneT die het recht heeft verkregen om een hoogspanningsverbinding aan te leggen en in stand te houden op die percelen. Partijen verschillen van mening over de waardedaling van de percelen als gevolg van de gedoogbeschikking. Het hof acht een (nieuw) onafhankel",
+   "source": "civiel",
+   "first_seen": "2026-07-23T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Verbintenissenrecht. Overeenkomst met energieleverancier aangegaan via volmacht. Algemene voorwaarden leverancier aanvaard. Opzegvergoeding… (ECLI:NL:RBLIM:2026:4276)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:4276",
+   "date": "2026-05-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht. Overeenkomst met energieleverancier aangegaan via volmacht. Algemene voorwaarden leverancier aanvaard. Opzegvergoeding bij tussentijdse beëindiging overeenkomst toegewezen.",
+   "source": "civiel",
+   "first_seen": "2026-04-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Amsterdam: Verstek. Ambtshalve toetsing consumentenrecht. Warmtelevering. Sanctie vanwege niet volledig voldoen aan informatieplichten. Ontbinding en… (ECLI:NL:RBAMS:2026:4864)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2026:4864",
