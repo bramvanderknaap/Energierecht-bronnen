@@ -1,10 +1,251 @@
 {
  "jaar": 2024,
  "maanden": [
-  "2024-01"
+  "2024-01",
+  "2024-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Geen aanleiding om partijen te dwingen deelname aan een mediationtraject (ECLI:NL:OGEAA:2024:26)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2024:26",
+   "date": "2024-02-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geen aanleiding om partijen te dwingen deelname aan een mediationtraject.",
+   "source": "civiel",
+   "first_seen": "2024-03-04T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Geen aanleiding om partijen te dwingen deelname aan een mediationtraject (ECLI:NL:OGEAA:2024:27)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2024:27",
+   "date": "2024-02-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geen aanleiding om partijen te dwingen deelname aan een mediationtraject.",
+   "source": "civiel",
+   "first_seen": "2024-03-04T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Schijn van volmachtverlening bij het aangaan van een overeenkomst tot het leveren van energie, artikel 3:61 lid 2 BW, v.o.f. dus gebonden… (ECLI:NL:RBGEL:2024:1018)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:1018",
+   "date": "2024-02-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schijn van volmachtverlening bij het aangaan van een overeenkomst tot het leveren van energie, artikel 3:61 lid 2 BW, v.o.f. dus gebonden aan deze overeenkomst. De algemene voorwaarden zijn deugdelijk ter hand gesteld en de daarin overeengekomen opzegvergoeding is niet onredelijk bezwarend, dus de opzegvergoeding is verschuldigd.",
+   "source": "civiel",
+   "first_seen": "2024-02-27T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Artikel 23 lid 4 Elektriciteitswet. Geen rechtstreekse werking Elektriciteitsrichtlijn. Geen richtlijnconforme uitleg mogelijk, strijd met… (ECLI:NL:RBGEL:2024:1076)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:1076",
+   "date": "2024-02-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 23 lid 4 Elektriciteitswet. Geen rechtstreekse werking Elektriciteitsrichtlijn. Geen richtlijnconforme uitleg mogelijk, strijd met rechtszekerheidsbeginsel, contra legem. Geen geslaagd beroep overmacht. Beroep op exoneratiebeding in de algemene voorwaarden vanwege indirecte schade (als gevolg van het niet kunnen terugleveren van met zonnepanelen opgewekte stroom) slaagt.",
+   "source": "civiel",
+   "first_seen": "2024-02-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Levering van energie. Gedaagde heeft onvoldoende onderbwoud dat er tweemaal kosten in rekening worden gebacht. Vordering wordt toegewezen (ECLI:NL:RBZWB:2024:1340)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1340",
+   "date": "2024-02-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering van energie. Gedaagde heeft onvoldoende onderbwoud dat er tweemaal kosten in rekening worden gebacht. Vordering wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2024-03-01T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Handelszaak over een laag thermische aardwarmte installatie die niet lang na oplevering moest worden stilgelegd. Benoeming van een… (ECLI:NL:RBROT:2024:1484)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:1484",
+   "date": "2024-02-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Handelszaak over een laag thermische aardwarmte installatie die niet lang na oplevering moest worden stilgelegd. Benoeming van een deskundige voor de beoordeling of de ontwerper van de installatie rekening had moeten houden met het risico van verstopping en roestvorming als gevolg van microbiologie. Het onderzoek van de installatie wordt bemoeilijkt door de vervuiling ervan. Uitleg van de DNR 2011",
+   "source": "civiel",
+   "first_seen": "2024-02-28T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Realisatie zonnecentrale op dak van bloemenveiling. Geen vergoeding voor aanvullende werkzaamheden. Boete voor te late oplevering.… (ECLI:NL:GHARL:2024:1829)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:1829",
+   "date": "2024-02-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Realisatie zonnecentrale op dak van bloemenveiling. Geen vergoeding voor aanvullende werkzaamheden. Boete voor te late oplevering. Verplichting tot herstel op straffe van dwangsom. Geen aanvullende schadevergoeding.",
+   "source": "civiel",
+   "first_seen": "2024-03-13T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Verbintenissenrecht; verbintenis uit ander bron dan od of ovkmst; ongerechtvaardige verrijking (ECLI:NL:RBLIM:2024:837)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:837",
+   "date": "2024-02-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht; verbintenis uit ander bron dan od of ovkmst; ongerechtvaardige verrijking",
+   "source": "civiel",
+   "first_seen": "2024-02-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Consumentenkoop auto. Non-conformiteit niet komen vast te staan. Proceskosten: salaris gemachtigde liquidatietarief x factor 1,5 wegens… (ECLI:NL:RBNHO:2024:1792)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:1792",
+   "date": "2024-02-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenkoop auto. Non-conformiteit niet komen vast te staan. Proceskosten: salaris gemachtigde liquidatietarief x factor 1,5 wegens schending waarheids- en volledigheidsplicht.",
+   "source": "civiel",
+   "first_seen": "2024-02-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Betalingsverplichting vaste kosten WKN installatie in huurwoning (ECLI:NL:RBMNE:2024:899)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:899",
+   "date": "2024-02-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Betalingsverplichting vaste kosten WKN installatie in huurwoning.",
+   "source": "civiel",
+   "first_seen": "2024-02-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Executiegeschil. Eiser vordert de opheffing van een executoriaal beslag en vordert dat gedaagde zich moet onthouden van beslag- en… (ECLI:NL:RBMNE:2024:5915)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5915",
+   "date": "2024-02-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Executiegeschil. Eiser vordert de opheffing van een executoriaal beslag en vordert dat gedaagde zich moet onthouden van beslag- en executiemaatregelen. Volgens eiser heeft zij alle informatie verstrekt na een 843a Rv vordering en zijn er geen dwangsommen verschuldigd. De voorzieningenrechter overweegt dat het aannemelijk is dat een bodemrechter vaststelt dat de dwangsommen zijn verbeurd omdat eise",
+   "source": "civiel",
+   "first_seen": "2024-10-18T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Beschermingsbewind. Aansprakelijkstelling vorige beewindvoerder. Schade bij de betrokkene, oude schuld bij Essent niet aangemeld bij… (ECLI:NL:RBAMS:2024:793)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:793",
+   "date": "2024-02-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Beschermingsbewind. Aansprakelijkstelling vorige beewindvoerder. Schade bij de betrokkene, oude schuld bij Essent niet aangemeld bij opvolgend bewindvoerder; deze schuld kan bij et minnelijk traject niet worden meegenomen.",
+   "source": "civiel",
+   "first_seen": "2024-02-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Essent. Ambtshalve toetsing. Bestelknop (ECLI:NL:RBNHO:2024:2261)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:2261",
+   "date": "2024-02-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Essent. Ambtshalve toetsing. Bestelknop.",
+   "source": "civiel",
+   "first_seen": "2024-03-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Levering stadsverwarming. De kantonrechter is voornemens de overeenkomst tussen partijen voor 50% te vernietigen wegens het niet voldoen… (ECLI:NL:RBZWB:2024:921)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:921",
+   "date": "2024-02-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering stadsverwarming. De kantonrechter is voornemens de overeenkomst tussen partijen voor 50% te vernietigen wegens het niet voldoen aan de informatieverplichtingen door de leverancier. Afnemer mag zich daarover uitlaten, zoals bedoeld in overweging 3.1.1.18 van het arrest van de HR van 12 november 2021.",
+   "source": "civiel",
+   "first_seen": "2024-02-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Verkoop van energiecontract buiten de verkoopruimte in de Mediamarkt. Vordering voor onbetaald gelaten facturen en kosten voor beëindiging… (ECLI:NL:GHDHA:2024:181)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:181",
+   "date": "2024-02-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verkoop van energiecontract buiten de verkoopruimte in de Mediamarkt. Vordering voor onbetaald gelaten facturen en kosten voor beëindiging contract en cadeaukaart. Amtshalve toetsing aan consumentenrecht.",
+   "source": "civiel",
+   "first_seen": "2024-02-06T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Veroordeling tot staking van de executie van een tussenvonnis waarbij Liander is veroordeeld om een elekitriciteitsaansluiting in stand te… (ECLI:NL:RBNHO:2024:1308)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:1308",
+   "date": "2024-02-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Veroordeling tot staking van de executie van een tussenvonnis waarbij Liander is veroordeeld om een elekitriciteitsaansluiting in stand te laten. Door de werkzaamheden voorafgaand aan het uitspreken van het tussenvonnis uit te (laten) voeren, was de aansluiting al niet meer in stand en kon niet aan de veroordeling worden voldaan. Daarom geen dwangsommen verbeurd.",
+   "source": "civiel",
+   "first_seen": "2024-02-12T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Gedaagde stelt factuur en betalingsherinneringen niet te hebben ontvangen. Erkent verschuldigdheid hoofdsom en heeft die ook betaald, maar… (ECLI:NL:RBROT:2024:839)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:839",
+   "date": "2024-02-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde stelt factuur en betalingsherinneringen niet te hebben ontvangen. Erkent verschuldigdheid hoofdsom en heeft die ook betaald, maar betwist verschuldigdheid incasso- en proceskosten. Incasso- en proceskosten toch verschuldigd, omdat betalingsverplichting bij deurwaardersexploot is aangezegd, daarna kopie factuur is verzonden en gedaagde vervolgens niet binnen de daarbij gestelde termijn(en)",
+   "source": "civiel",
+   "first_seen": "2024-02-12T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Artikel 6:177 lid 1 BW en artikel 6:177a BW. Schade aan opstallen en mestkelders in het Groningenveld. Eiser stelt dat sprake is van… (ECLI:NL:RBNNE:2024:308)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:308",
+   "date": "2024-02-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 6:177 lid 1 BW en artikel 6:177a BW. Schade aan opstallen en mestkelders in het Groningenveld. Eiser stelt dat sprake is van aardbevingsschade. Het wettelijk bewijsvermoeden is van toepassing en vooralsnog niet door NAM weerlegd. De rechtbank is voornemens om onafhankelijke deskundigen te benoemen.",
+   "source": "civiel",
+   "first_seen": "2024-02-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Vattenfall krijgt facturen die zij stuurde aan een glastuinder niet betaald (ECLI:NL:RBAMS:2024:683)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:683",
+   "date": "2024-02-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vattenfall krijgt facturen die zij stuurde aan een glastuinder niet betaald.",
+   "source": "civiel",
+   "first_seen": "2024-02-08T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: De rechtbank ontbindt de overeenkomst tussen partijen en veroordeelt gedaagde 1 tot betaling van achterstallige betalingen, veroordeelt de… (ECLI:NL:RBOVE:2024:747)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:747",
+   "date": "2024-02-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De rechtbank ontbindt de overeenkomst tussen partijen en veroordeelt gedaagde 1 tot betaling van achterstallige betalingen, veroordeelt de gedaagden om personeel van eiser toegang te verlenen en in de gelegenheid te stellen om daat de energielevering te onderbreken en tot afgifte van de meter/meetinstallatie aan de eiser. Eiser leverde energie en/of warm tapwater aan gedaagde 1, maar vanaf decembe",
+   "source": "civiel",
+   "first_seen": "2024-02-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Kort geding; Verbindendheid van aansluittermijn artikel 23 lid 4 E-wet wegens strijd met Elektriciteitsrichtlijn. Invulling redelijke… (ECLI:NL:RBOBR:2024:500)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:500",
+   "date": "2024-02-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding; Verbindendheid van aansluittermijn artikel 23 lid 4 E-wet wegens strijd met Elektriciteitsrichtlijn. Invulling redelijke termijn.",
+   "source": "civiel",
+   "first_seen": "2024-02-13T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Partijen verschillen van menig over de vraag of er thans energie geleverd wordt onder de oude voorwaarden (behorende bij het contract voor… (ECLI:NL:RBOVE:2024:700)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:700",
+   "date": "2024-02-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Partijen verschillen van menig over de vraag of er thans energie geleverd wordt onder de oude voorwaarden (behorende bij het contract voor bepaalde tijd) of onder nieuwe voorwaarden (behorende bij een nieuwe contract voor onbepaalde tijd). Partijen hebben in 2021 een energiecontract voor de duur van een jaar gesloten, ingaande op 1 november 2021. Volgens partij A is dit contract, onder dezelfde vo",
+   "source": "civiel",
+   "first_seen": "2024-02-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Vordering van netbeheerder strekkende tot het opleggen van een verbod aan gedaagde om meer dan 117 kW aan transportvermogen… (ECLI:NL:RBGEL:2024:587)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:587",
+   "date": "2024-02-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Vordering van netbeheerder strekkende tot het opleggen van een verbod aan gedaagde om meer dan 117 kW aan transportvermogen voor levering te gebruiken vanwege fysieke congestie toegewezen.",
+   "source": "civiel",
+   "first_seen": "2024-02-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Aansprakelijkheid grondroerder bij schade door graafwerkzaamheden (artikel 2 WIBON); Zorgplicht uitgewerkt in de Richtlijn zorgvuldig… (ECLI:NL:RBAMS:2024:499)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:499",
+   "date": "2024-02-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansprakelijkheid grondroerder bij schade door graafwerkzaamheden (artikel 2 WIBON); Zorgplicht uitgewerkt in de Richtlijn zorgvuldig grondroeren van initiatief- tot gebruiksfase ‘Crow 500’; Gebruik van stootijzer zijn graafwerkzaamheden; Vermoeden onveilig en onzorgvuldig handelen van grondroerder bij schade;",
+   "source": "civiel",
+   "first_seen": "2024-02-01T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Midden-Nederland: Exploitant recreatiepark verzorgt de energielevering aan de recreatiewoningen op het vakantiepark. Het opleggen van de verplichting om te… (ECLI:NL:RBMNE:2024:4351)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:4351",
