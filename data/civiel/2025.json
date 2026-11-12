@@ -4,10 +4,271 @@
   "2025-01",
   "2025-02",
   "2025-03",
-  "2025-04"
+  "2025-04",
+  "2025-05"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Midden-Nederland: Eiser vordert de betaling van een jaarlijkse vergoeding voor omwonenden van een windpark. Volgens eiser zijn er aan de betlaing van deze… (ECLI:NL:RBMNE:2025:2739)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2739",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser vordert de betaling van een jaarlijkse vergoeding voor omwonenden van een windpark. Volgens eiser zijn er aan de betlaing van deze vergoeding geen voorwaarden verbonden, terwijl het windpark meent dat er wel voorwaarden zijn. De rechtbank kan niet vaststellen dat het windpark heeft toegezegd een onvoorwaardelijke vergoeding te betalen en eiser mocht daar redelijkerwijs ook niet op vertrouwen",
+   "source": "civiel",
+   "first_seen": "2025-06-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Levering energie. Bestaan van afspraken in het kader van voortgezette levering? Bestuurdersaansprakelijkheid. Wetenschap leverancier.… (ECLI:NL:RBROT:2025:6584)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:6584",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering energie. Bestaan van afspraken in het kader van voortgezette levering? Bestuurdersaansprakelijkheid. Wetenschap leverancier. Omslagmomenten. Nader uitlaten omvang schade.",
+   "source": "civiel",
+   "first_seen": "2025-06-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gedaagde huurde een woning van eiseres. Eiseres vordert in deze procedure betaling van achterstallige huurpenningen, vermeerderd met rente… (ECLI:NL:RBMNE:2025:2477)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2477",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde huurde een woning van eiseres. Eiseres vordert in deze procedure betaling van achterstallige huurpenningen, vermeerderd met rente en kosten. Volgens gedaagde heeft zij nog een vordering op eiseres, omdat er tijdens de huurperiode van gedaagde problemen waren met de waterpomp. Door deze problemen stelt gedaagde een te hoge energierekening te hebben gehad. Deze kosten wil gedaagde verrekene",
+   "source": "civiel",
+   "first_seen": "2025-05-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gedaagde moet voorschotfacturen en eindafrekeningen voor geleverde energie aan eiseres betalen. Dat de nieuwe energieleverancier van… (ECLI:NL:RBMNE:2025:2666)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2666",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde moet voorschotfacturen en eindafrekeningen voor geleverde energie aan eiseres betalen. Dat de nieuwe energieleverancier van gedaagde de overstap niet op tijd heeft verwerkt, kan gedaagde niet aan eiseres tegenwerpen.",
+   "source": "civiel",
+   "first_seen": "2025-06-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: In deze zaak gaat het in de kern om de vraag of de prijswijzigingsbedingen in een variabel energiecontract met een consument oneerlijk… (ECLI:NL:RBNHO:2025:5755)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:5755",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In deze zaak gaat het in de kern om de vraag of de prijswijzigingsbedingen in een variabel energiecontract met een consument oneerlijk zijn. De kantonrechter oordeelt in deze zaak dat dit niet het geval is. Dit betekent dat de bedingen niet worden vernietigd. Wel legt de kantonrechter een sanctie op vanwege het schenden van de informatieplichten.",
+   "source": "civiel",
+   "first_seen": "2025-05-26T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: 6:162 BW schade aan openbare verlichtingskabel (ECLI:NL:RBZWB:2025:5100)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:5100",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "6:162 BW schade aan openbare verlichtingskabel.",
+   "source": "civiel",
+   "first_seen": "2025-08-05T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: Onrechtmatige uitlatingen; vrijheid van meningsuiting; online reviews op Trustpilot; vorderingen eiser afgewezen (ECLI:NL:RBDHA:2025:9458)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:9458",
+   "date": "2025-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onrechtmatige uitlatingen; vrijheid van meningsuiting; online reviews op Trustpilot; vorderingen eiser afgewezen.",
+   "source": "civiel",
+   "first_seen": "2025-05-28T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Het gaat in deze zaak om de vraag of gedoogbeschikking die door de minister is opgelegd moet worden vernietigd. Meer concreet gaat het om… (ECLI:NL:GHARL:2025:3201)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:3201",
+   "date": "2025-05-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het gaat in deze zaak om de vraag of gedoogbeschikking die door de minister is opgelegd moet worden vernietigd. Meer concreet gaat het om de vraag of de tijdelijke gedoogplicht en permanente gedoogplicht die in de gedoogbeschikking aan de Stichting zijn opgelegd méér belemmering in het gebruik van de aan de Stichting toebehorende grond brengen dan redelijkerwijs nodig is voor de aanleg en de insta",
+   "source": "civiel",
+   "first_seen": "2025-05-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Het gaat in deze zaak om de vraag of de gedoogbeschikking die door de minister is opgelegd moet worden vernietigd. Het hof komt niet toe… (ECLI:NL:GHARL:2025:3200)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:3200",
+   "date": "2025-05-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het gaat in deze zaak om de vraag of de gedoogbeschikking die door de minister is opgelegd moet worden vernietigd. Het hof komt niet toe aan de inhoudelijke beoordeling van het verzoek, omdat de Stichting haar verzoek daartoe niet met redenen heeft omkleed. Het hof verklaart de Stichting daarom niet-ontvankelijk in haar verzoek.",
+   "source": "civiel",
+   "first_seen": "2025-05-27T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: Deze zaak betreft een geschil tussen twee professionele partijen over de nakoming van een tussen hen gesloten erfpachtovereenkomst (en… (ECLI:NL:RBOVE:2025:3228)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:3228",
+   "date": "2025-05-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Deze zaak betreft een geschil tussen twee professionele partijen over de nakoming van een tussen hen gesloten erfpachtovereenkomst (en daarmee samenhangende overeenkomsten) en de akte uitgifte erfpacht. RBT vordert in conventie nakoming daarvan in de zin dat zij betaling van (het restant van) de verschuldigde deelcanon B van het jaar 2023 en 2024 vordert. JALO is het daar niet mee eens en vordert ",
+   "source": "civiel",
+   "first_seen": "2025-05-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Overheidsaansprakelijkheid. ACM brengt bedrijfsbezoek aan intermediair voor energiecontracten zonder toereikende doelomschrijving.… (ECLI:NL:RBDHA:2025:8953)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:8953",
+   "date": "2025-05-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overheidsaansprakelijkheid. ACM brengt bedrijfsbezoek aan intermediair voor energiecontracten zonder toereikende doelomschrijving. Uiteindelijk wordt het boete- en publicatiebesluit door ACM ingetrokken. Bestaat er causaal verband tussen de gestelde schade en de normschending door ACM?",
+   "source": "civiel",
+   "first_seen": "2025-05-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Appartementsrechten. Verzoek tot nietigverklaring dan wel vernietiging besluiten tot renovatie van de rookgasafvoeren. Geen sprake van… (ECLI:NL:RBNNE:2025:3186)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:3186",
+   "date": "2025-05-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Appartementsrechten. Verzoek tot nietigverklaring dan wel vernietiging besluiten tot renovatie van de rookgasafvoeren. Geen sprake van strijd met wettelijke of statutaire bepalingen die het tot stand komen van de besluiten regelen en evenmin strijd met de redelijkheid en billijkheid. Niet gebleken van een reële optie ten aanzien van de overstap op het lokale warmtenet.",
+   "source": "civiel",
+   "first_seen": "2025-08-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Openstaande facturen inzake energielevering moeten worden betaald. Eiser had bij haar dagvaarding rekening moeten houden met een… (ECLI:NL:RBAMS:2025:3356)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:3356",
+   "date": "2025-05-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Openstaande facturen inzake energielevering moeten worden betaald. Eiser had bij haar dagvaarding rekening moeten houden met een deelbetaling van gedaagde.",
+   "source": "civiel",
+   "first_seen": "2025-05-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Huurzaak. Kamerhuur. Kamerhuurster betaalt de elektriciteits- en gaskosten voor de gehele woning en verrekent haar huur met een deel van… (ECLI:NL:GHARL:2025:3287)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:3287",
+   "date": "2025-05-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurzaak. Kamerhuur. Kamerhuurster betaalt de elektriciteits- en gaskosten voor de gehele woning en verrekent haar huur met een deel van die kosten. De kamerverhuurder is het daarmee niet eens en wil dat de huurovereenkomst eindigt en dat huurster haar kamer ontruimt. Verhuurder had echter huurster in de positie moeten brengen dat zij met de nieuwe kamerhuurders/gebruikers tijdig een afspraak had ",
+   "source": "civiel",
+   "first_seen": "2025-05-28T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Eiser was energieleverancier van gedaagde, die een [.] in Utrecht exploiteerde. In deze procedure vordert eiser van gedaagde de betaling… (ECLI:NL:RBMNE:2025:2255)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2255",
+   "date": "2025-05-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser was energieleverancier van gedaagde, die een [.] in Utrecht exploiteerde. In deze procedure vordert eiser van gedaagde de betaling van € 15.209,47 als vergoeding voor geleverde energie in de periode 1 januari 2023 tot 1 april 2023. De hoeveelheid geleverde energie is door eiser vastgesteld op basis van geschat verbruik, omdat de beginstand van de energiemeter op 1 januari 2023 niet bekend wa",
+   "source": "civiel",
+   "first_seen": "2025-05-12T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Vonnis in verzetprocedure. Energieleveringsovereenkomsten. Algemene voorwaarden. Omzettting naar overeenkomsten op basis van modelcontract.… (ECLI:NL:RBGEL:2025:3821)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:3821",
+   "date": "2025-05-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vonnis in verzetprocedure. Energieleveringsovereenkomsten. Algemene voorwaarden. Omzettting naar overeenkomsten op basis van modelcontract. Defecte meter?",
+   "source": "civiel",
+   "first_seen": "2025-05-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Overheidsaansprakelijkheid. ABZ en de gemeente hadden beide belangstelling voor de verwerving van een perceel van Liander Infra dat grenst… (ECLI:NL:GHARL:2025:2982)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2982",
+   "date": "2025-05-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overheidsaansprakelijkheid. ABZ en de gemeente hadden beide belangstelling voor de verwerving van een perceel van Liander Infra dat grenst aan dat van ABZ. De gemeente heeft overeenstemming met Liander Infra bereikt tot aankoop van het perceel. ABZ stelt dat de gemeente daarmee een toezegging aan haar om van aankoop af te zien heeft geschonden, althans onrechtmatig heeft gehandeld. De vorderingen ",
+   "source": "civiel",
+   "first_seen": "2025-05-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Het gaat in deze zaak om de vraag of gedoogbeschikking die door de minister is opgelegd moet worden vernietigd. Meer concreet gaat het om… (ECLI:NL:GHARL:2025:2934)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2934",
+   "date": "2025-05-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het gaat in deze zaak om de vraag of gedoogbeschikking die door de minister is opgelegd moet worden vernietigd. Meer concreet gaat het om de vraag of de permanente gedoogplicht die in de gedoogbeschikking aan de Stichting is opgelegd méér belemmering in het gebruik van de aan de Stichting toebehorende grond brengt dan redelijkerwijs nodig is voor de instandhouding van het werk (de hoogspanningsver",
+   "source": "civiel",
+   "first_seen": "2025-05-13T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Het gaat in deze zaak om de vraag of de permanente gedoogplicht (in de vorm van een permanent belemmerde strook en gebruiksbeperkingen die… (ECLI:NL:GHARL:2025:2933)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2933",
+   "date": "2025-05-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het gaat in deze zaak om de vraag of de permanente gedoogplicht (in de vorm van een permanent belemmerde strook en gebruiksbeperkingen die aldaar gelden) die in de gedoogbeschikking aan de Stichting c.s. is opgelegd meer belemmering in het gebruik van de aan de hun toebehorende gronden brengt dan redelijkerwijs nodig is voor de instandhouding van het werk (de middenspanningsverbinding). Het hof is",
+   "source": "civiel",
+   "first_seen": "2025-05-13T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Overeenkomst tot levering van gas. Geschil over de eindstand na beëindiging van de overeenkomst (ECLI:NL:RBNHO:2025:6567)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:6567",
+   "date": "2025-05-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering van gas. Geschil over de eindstand na beëindiging van de overeenkomst.",
+   "source": "civiel",
+   "first_seen": "2025-06-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: De eigenaar geeft een woning in gebruik aan twee mensen met de afspraak dat zij de woning opknappen . De kosten daarvan zal de eigenaar… (ECLI:NL:GHARL:2025:2884)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2884",
+   "date": "2025-05-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De eigenaar geeft een woning in gebruik aan twee mensen met de afspraak dat zij de woning opknappen . De kosten daarvan zal de eigenaar vergoeden op vertoon van de kassabonnen. Op enig moment krijgen partijen ruzie en de gebruikers verlaten het pand. De eigenaar wil dat zij een hoge energienota betalen. De gebruikers vorderen op hun beurt betaling van de materialen die zij hebben gekocht voor de w",
+   "source": "civiel",
+   "first_seen": "2025-05-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomst tot levering van energie. Onbetaalde facturen. Gedaagde heeft niet inhoudelijk gereageerd op de vordering. Omdat eiseres haar… (ECLI:NL:RBROT:2025:5089)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:5089",
+   "date": "2025-05-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering van energie. Onbetaalde facturen. Gedaagde heeft niet inhoudelijk gereageerd op de vordering. Omdat eiseres haar vordering heeft beperkt tot € 500 wordt dit bedrag toegewezen, onder reservering van het meerdere.",
+   "source": "civiel",
+   "first_seen": "2025-04-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Gedaagde heeft energie afgenomen. Hij heeft erkend dat hij de facturen daarvan niet heeft betaald. Partijen hebben met elkaar een… (ECLI:NL:RBROT:2025:5327)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:5327",
+   "date": "2025-05-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde heeft energie afgenomen. Hij heeft erkend dat hij de facturen daarvan niet heeft betaald. Partijen hebben met elkaar een betalingsregeling afgesproken. De vordering wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2025-04-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Energielevering, oproeping in vrijwaring, vonnis in incident (ECLI:NL:RBROT:2025:5606)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:5606",
+   "date": "2025-05-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energielevering, oproeping in vrijwaring, vonnis in incident",
+   "source": "civiel",
+   "first_seen": "2025-05-08T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Verzoek voorlopig deskundigenbericht. Tussenbeschikking. Voorlopige aan de deskundige voor te leggen vragen. Uitlaten persoon deskundige (ECLI:NL:RBROT:2025:5502)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:5502",
+   "date": "2025-05-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzoek voorlopig deskundigenbericht. Tussenbeschikking. Voorlopige aan de deskundige voor te leggen vragen. Uitlaten persoon deskundige.",
+   "source": "civiel",
+   "first_seen": "2025-05-06T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: In deze zaak vordert een energieleverancier betaling van de voorschotnota’s en eindafrekening. Omdat de afnemer heeft gehandeld in de… (ECLI:NL:RBNHO:2025:5973)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:5973",
+   "date": "2025-05-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In deze zaak vordert een energieleverancier betaling van de voorschotnota’s en eindafrekening. Omdat de afnemer heeft gehandeld in de uitoefening van zijn bedrijf, kan hij geen beroep doen op de bepalingen over de informatieverplichtingen en misleidende verkooppraktijken. De afnemer heeft verder zijn verweer dat het in rekening gebrachte verbruik van energie niet overeenstemt met het werkelijk ver",
+   "source": "civiel",
+   "first_seen": "2025-06-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; consumentenkoop (ECLI:NL:RBLIM:2025:4227)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:4227",
