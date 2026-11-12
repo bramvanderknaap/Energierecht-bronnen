@@ -7,10 +7,211 @@
   "2025-04",
   "2025-05",
   "2025-06",
-  "2025-07"
+  "2025-07",
+  "2025-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Verzet, spoorwissel (ECLI:NL:RBROT:2025:10490)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:10490",
+   "date": "2025-08-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzet, spoorwissel",
+   "source": "civiel",
+   "first_seen": "2025-09-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Contractloosheid (ECLI:NL:RBROT:2025:10488)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:10488",
+   "date": "2025-08-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Contractloosheid",
+   "source": "civiel",
+   "first_seen": "2025-09-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Mondeling vonnis. Vordering strekkende tot verbod vergunningverlening dan wel uitstel van besluitvorming met betrekking tot… (ECLI:NL:RBGEL:2025:7311)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:7311",
+   "date": "2025-08-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Mondeling vonnis. Vordering strekkende tot verbod vergunningverlening dan wel uitstel van besluitvorming met betrekking tot een windpark wordt afgewezen. Besluit is nog niet genomen. De vraag of in de gegeven omstandigheden van de bevoegdheid tot het nemen van een projectbesluit gebruik mag worden gemaakt moet in de bestuursrechtelijke procedure worden gesteld. Er staat een met voldoe",
+   "source": "civiel",
+   "first_seen": "2025-08-28T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: De rechtbank veroordeelt de gedaagde tot terugplaatsing van alle door haar uit het gehuurde weggenomen delen van de… (ECLI:NL:RBOVE:2025:5341)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:5341",
+   "date": "2025-08-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De rechtbank veroordeelt de gedaagde tot terugplaatsing van alle door haar uit het gehuurde weggenomen delen van de luchtbehandelingsinstallatie en om zich met onmiddellijke ingang te onthouden van het wegnemen, beschadigen of anderszins verstoren van de in het gehuurde aanwezige (delen van de) luchtbehandelingsinstallatie, zulks op verbeurte van een dwangsom. Eiser verhuurt aan gedaagde een deel ",
+   "source": "civiel",
+   "first_seen": "2025-08-29T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Stedin heeft middenspanningskabel niet op de overeengekomen locatie aangelegd, maar zowel de vordering tot nakoming (verlegging van de… (ECLI:NL:RBROT:2025:10389)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:10389",
+   "date": "2025-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stedin heeft middenspanningskabel niet op de overeengekomen locatie aangelegd, maar zowel de vordering tot nakoming (verlegging van de kabel) als de vordering tot betaling van een schadevergoeding wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2025-08-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Verbintenissenrecht; verbintenis uit ander bron dan od of ovkmst; ongerechtvaardigde verrijking (ECLI:NL:RBLIM:2025:8474)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:8474",
+   "date": "2025-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht; verbintenis uit ander bron dan od of ovkmst; ongerechtvaardigde verrijking",
+   "source": "civiel",
+   "first_seen": "2025-08-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Levering van stroom en gas. Tussenvonnis (ECLI:NL:RBGEL:2025:7532)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2025:7532",
+   "date": "2025-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering van stroom en gas. Tussenvonnis.",
+   "source": "civiel",
+   "first_seen": "2025-09-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Consumentenrecht. Consument heeft geen overeenkomst (meer) met energiemaatschappij. Netbeheerder vordert afsluiting. Heeft… (ECLI:NL:RBMNE:2025:4586)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:4586",
+   "date": "2025-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenrecht. Consument heeft geen overeenkomst (meer) met energiemaatschappij. Netbeheerder vordert afsluiting. Heeft energiemaatschappij (die de overeenkomst kennelijk heeft beeindigd) zich gehouden aan haar verplichtingen inzake Regeling afsluitbeleid kleinverbruikers? Kantonrechter wil nadere informatie van netbeheerder, die in het kader van consumentenbescherming wel degelijk ook een taak",
+   "source": "civiel",
+   "first_seen": "2025-08-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Ambtshalve toetsing informatieplichten en oneerlijke bedingen (ECLI:NL:RBNHO:2025:15505)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15505",
+   "date": "2025-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsing informatieplichten en oneerlijke bedingen",
+   "source": "civiel",
+   "first_seen": "2026-01-06T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Energieleverancier vordert betaling voor verbruik gas en elektriciteit. Verweer op cessie en verjaring. Beide verweren slagen niet.… (ECLI:NL:RBZWB:2025:5411)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:5411",
+   "date": "2025-08-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieleverancier vordert betaling voor verbruik gas en elektriciteit. Verweer op cessie en verjaring. Beide verweren slagen niet. Toewijzing van de vordering.",
+   "source": "civiel",
+   "first_seen": "2025-08-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Verzetzaak. Oorspronkelijik gedaagde betwist de grondslag van de vergoeding voor afsluiten van de meetinrichtingen in het pand bij gebrek… (ECLI:NL:RBZWB:2025:5414)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:5414",
+   "date": "2025-08-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzetzaak. Oorspronkelijik gedaagde betwist de grondslag van de vergoeding voor afsluiten van de meetinrichtingen in het pand bij gebrek aan een actuele leverancier van energie. Op grond van de algemene voorwaarden aansluiting en transport elektriciteit en gas kleinverbruikers 2013 is gedaagde gehouden die vergoeding te betalen.",
+   "source": "civiel",
+   "first_seen": "2025-08-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Agentuurovereenkomst. Overeenkomst door principaal (energiemaatschappij) voortijdig beeindigd. Agent (bemiddelaar callcenters) vordert… (ECLI:NL:RBMNE:2025:4368)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:4368",
+   "date": "2025-08-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Agentuurovereenkomst. Overeenkomst door principaal (energiemaatschappij) voortijdig beeindigd. Agent (bemiddelaar callcenters) vordert achterstallige provisie omdat provisiebeding nietig zou zijn (art. 7:426 lid 2 BW). Dat wordt deels toegewezen. Ook vordert agent schadevergoeding en klantvergoeding. Dat wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2025-08-13T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Vervolg op het tussenarrest van 5 november 2024. All-in huur. Verrekening van door huurder betaalde kosten van elektra en gas met… (ECLI:NL:GHSHE:2025:2267)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2267",
+   "date": "2025-08-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op het tussenarrest van 5 november 2024. All-in huur. Verrekening van door huurder betaalde kosten van elektra en gas met huurachterstand.",
+   "source": "civiel",
+   "first_seen": "2025-08-19T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Tussenvonnis na mondelinge behandeling. Vordering betaling factuur energielevering. Vast- of variabel tarief overeengekomen? Gedaagde heeft… (ECLI:NL:RBAMS:2025:6295)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2025:6295",
+   "date": "2025-08-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis na mondelinge behandeling. Vordering betaling factuur energielevering. Vast- of variabel tarief overeengekomen? Gedaagde heeft de stelling dat het zou gaan om een variabel tarief voldoende betwist. Eiser moet haar stelling bewijzen.",
+   "source": "civiel",
+   "first_seen": "2025-08-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Overeenkomst van levering energie. Verschuldigdheid van incassokosten en proceskosten (ECLI:NL:RBZWB:2025:4980)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:4980",
+   "date": "2025-08-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst van levering energie. Verschuldigdheid van incassokosten en proceskosten.",
+   "source": "civiel",
+   "first_seen": "2025-07-31T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Ennatuurlijk B.V. is exclusieve leverancier van warmte via het warmtenet waarop de woning van gedaagde is aangesloten. Er is jarenlang… (ECLI:NL:RBZWB:2025:5467)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:5467",
+   "date": "2025-08-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ennatuurlijk B.V. is exclusieve leverancier van warmte via het warmtenet waarop de woning van gedaagde is aangesloten. Er is jarenlang sprake van uitzonderlijk hoog warmteverbruik bij gedaagde. Gedaagde betwist dat zij zoveel verbruikt als de watermeter aangeeft. Niet blijkt echter dat er iets mis is met de watermeter. Gedaagde stelt dat dan sprake moet zijn van een ander gebrek in het deel van de",
+   "source": "civiel",
+   "first_seen": "2025-08-14T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Eiser en gedaagde hebben verschillende keren met elkaar zaken gedaan. Eiser heeft gedaagde ingeschakeld voor een bedrijf restaurant dat hij… (ECLI:NL:RBMNE:2025:4487)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:4487",
+   "date": "2025-08-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser en gedaagde hebben verschillende keren met elkaar zaken gedaan. Eiser heeft gedaagde ingeschakeld voor een bedrijf restaurant dat hij wilde opzetten. De facturen die gedaagde hiervoor heeft gestuurd, heeft eiser niet betaald. Later heeft gedaagde eiser opdracht gegeven tot het uitvoeren van werkzaamheden voor een project voor Essent. Eiser vordert in deze procedure betaling van de werkzaamhe",
+   "source": "civiel",
+   "first_seen": "2025-08-19T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Gedaagde partij heeft verzocht om haar een werkelijke proceskostenveroordeling toe te kennen ten laste van eisende partij. Dat wordt… (ECLI:NL:RBOBR:2025:4957)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:4957",
+   "date": "2025-08-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde partij heeft verzocht om haar een werkelijke proceskostenveroordeling toe te kennen ten laste van eisende partij. Dat wordt toegewezen, omdat eisende partij evident in strijd met de waarheid heeft verklaard door het verweer van gedaagde partij – waarmee zij bekend was – niet in de dagvaarding te vermelden. Dat is in strijd met artikel 111 lid 3 Rv. De mededeling van eisende partij dat er ",
+   "source": "civiel",
+   "first_seen": "2025-08-04T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: De gemeente heeft in 2005 als eigenaar van de onderliggende grond voor 20 jaar een recht van opstal verleend aan een derde partij ten… (ECLI:NL:RBNHO:2025:8688)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:8688",
+   "date": "2025-08-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De gemeente heeft in 2005 als eigenaar van de onderliggende grond voor 20 jaar een recht van opstal verleend aan een derde partij ten behoeve van het oprichten en exploiteren van een windmolen. Na het verstrijken van die termijn is de gemeente voornemens opnieuw een recht van opstal te verlenen aan diezelfde partij, als ‘enige serieuze gegadigde’. Eiseres is van mening dat zij ook als serieuze geg",
+   "source": "civiel",
+   "first_seen": "2025-07-29T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Gedaagde, die eigenaar is van een verhuurde woning, moet meewerken aan de afsluiting van de energievoorziening, omdat er energie werd… (ECLI:NL:RBROT:2025:9263)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:9263",
+   "date": "2025-08-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde, die eigenaar is van een verhuurde woning, moet meewerken aan de afsluiting van de energievoorziening, omdat er energie werd verbruikt zonder dat daarvoor een contract met een energieleverancier was afgesloten. De kantonrechter oordeelt dat gedaagde als eigenaar verantwoordelijk blijft, ook al is de woning verhuurd. Gedaagde moet alle kosten betalen.",
+   "source": "civiel",
+   "first_seen": "2025-07-29T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Rotterdam: Overdracht economische eigendom elektriciteitsnet aan Stedin. (Cessionaris van) exploitant van dit elektriciteitsnet stelt vordering in… (ECLI:NL:RBROT:2025:9347)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:9347",
