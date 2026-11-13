@@ -10,10 +10,99 @@
   "2019-07",
   "2019-08",
   "2019-09",
-  "2019-10"
+  "2019-10",
+  "2019-11"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartclaim. Stroomstoring Schiphol op 29 april 2018. Luchtvaartmaatschappij heeft voldoende aangetoond dat de annulering van de vlucht… (ECLI:NL:RBNHO:2019:9848)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:9848",
+   "date": "2019-11-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartclaim. Stroomstoring Schiphol op 29 april 2018. Luchtvaartmaatschappij heeft voldoende aangetoond dat de annulering van de vlucht is veroorzaakt door de stroomstoring en de daarop volgende capaciteitsbeperkingen van de luchtverkeersleiding, zodat sprake is van buitengewone omstandigheden. De luchtvaartmaatschappij heeft naar het oordeel van de kantonrechter alle redelijke maatregelen gen",
+   "source": "civiel",
+   "first_seen": "2019-11-29T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vonnis in bevoegdheidsincident en in vrijwaringsincident. Relatieve competentie. Toepasselijkheid algemene voorwaarden. Forumkeuzebeding.… (ECLI:NL:RBROT:2019:9154)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:9154",
+   "date": "2019-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vonnis in bevoegdheidsincident en in vrijwaringsincident. Relatieve competentie. Toepasselijkheid algemene voorwaarden. Forumkeuzebeding. Onbevoegdheid ten aanzien van grootste deel van de vordering, verwijzing zaak in zijn geheel. Rechter na verwijzing beslist op vrijwaringsincident. ‘Ten aanzien van het gedeelte van de vordering dat ziet op de levering van elektriciteit overweegt de rechtbank al",
+   "source": "civiel",
+   "first_seen": "2019-11-22T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "levering van elektriciteit, levering van gas, eneco"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Geschil over verzwaring industriële energieaansluiting. Verzocht wordt om aansluiting op een specifiek station van de netbeheerder. De… (ECLI:NL:RBROT:2019:9265)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:9265",
+   "date": "2019-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil over verzwaring industriële energieaansluiting. Verzocht wordt om aansluiting op een specifiek station van de netbeheerder. De rechtbank oordeelt dat de afnemer niet heeft aangetoond dat in dat station voldoende netcapaciteit beschikbaar is.",
+   "source": "civiel",
+   "first_seen": "2019-11-28T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit, tarievencode"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kosten van afsluiting van de gasaansluiting worden gevorderd door de netbeheerder en deze worden toegewezen. Het gaat hier om een… (ECLI:NL:RBDHA:2019:14869)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:14869",
+   "date": "2019-11-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kosten van afsluiting van de gasaansluiting worden gevorderd door de netbeheerder en deze worden toegewezen. Het gaat hier om een opslagruimte. De vraag is wie de afsluitkosten dient te betalen.",
+   "source": "civiel",
+   "first_seen": "2020-12-03T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet, tarievencode, begrippencode"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Uitleg van het begrip ‘openbaar nutsbedrijf’ in de zin de van de statuten van eiseres (ECLI:NL:RBROT:2019:8989)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8989",
+   "date": "2019-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg van het begrip ‘openbaar nutsbedrijf’ in de zin de van de statuten van eiseres.",
+   "source": "civiel",
+   "first_seen": "2019-11-19T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENECO"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Erfdienstbaarheid. Retributievergoeding (ECLI:NL:GHARL:2019:9513)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:9513",
+   "date": "2019-11-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Erfdienstbaarheid. Retributievergoeding.",
+   "source": "civiel",
+   "first_seen": "2019-11-05T00:00:00+00:00",
+   "grond": "tekst",
+   "toelichting": "levering van energie (5x)"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Belemmeringenwet Privaatrecht, gedoogbeschikking, art. 4 BP, art. 1 Eerste Protocol EVRM, restrechter (ECLI:NL:GHDHA:2019:2754)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:2754",
+   "date": "2019-11-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet Privaatrecht, gedoogbeschikking, art. 4 BP, art. 1 Eerste Protocol EVRM, restrechter",
+   "source": "civiel",
+   "first_seen": "2019-10-22T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Stedin"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Geschil omtrent geldvordering uit hoofde van door Engie geleverde energie (ECLI:NL:GHAMS:2019:3968)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:3968",
+   "date": "2019-11-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil omtrent geldvordering uit hoofde van door Engie geleverde energie.",
+   "source": "civiel",
+   "first_seen": "2019-11-06T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "engie"
+  },
   {
    "title": "Rechtbank Noord-Holland: Luchtvaartclaim. Stroomstoring Schiphol. De kantonrechter oordeelt dat de luchtvaartmaatschappij voldoende heeft aangetoond dat de… (ECLI:NL:RBNHO:2019:9129)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:9129",
