@@ -2,10 +2,111 @@
  "jaar": 2021,
  "maanden": [
   "2021-01",
-  "2021-02"
+  "2021-02",
+  "2021-03"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerechtshof Amsterdam: Tussenarrest. Op grond van art. 31c lid 1 Electriciteitswet dient de salderingsregeling aldus te worden toegepast dat als een bepaald… (ECLI:NL:GHAMS:2021:906)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:906",
+   "date": "2021-03-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenarrest. Op grond van art. 31c lid 1 Electriciteitswet dient de salderingsregeling aldus te worden toegepast dat als een bepaald bedrag per afgenomen kWh in rekening wordt gebracht, dat zelfde bedrag (in casu € 0,27 per kWh) ook moet worden vergoed per teruggeleverd kWh. Zie ECLI:NL:GHAMS:2019:1933.",
+   "source": "civiel",
+   "first_seen": "2021-04-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Hoge Raad: Art. 81 lid 1 RO. Elektriciteitswet 1998. Verplichting netbeheerder o.g.v. art. 23 lid 3, onder a, Elektriciteitswet 1998 een verzwaarde… (ECLI:NL:HR:2021:444)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:444",
+   "date": "2021-03-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 81 lid 1 RO. Elektriciteitswet 1998. Verplichting netbeheerder o.g.v. art. 23 lid 3, onder a, Elektriciteitswet 1998 een verzwaarde aansluiting te realiseren binnen 18 weken na aanvraag. Onmogelijkheid na te komen zonder schending van het discriminatieverbod van art. 23 lid 2 Elektriciteitswet 1998?",
+   "source": "civiel",
+   "first_seen": "2021-03-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Schade aan een kabel. Is de grondroerder aansprakelijk? Artikel 6:162 BW, WION, BION, Richtlijn zorgvuldig graafproces (ECLI:NL:GHARL:2021:2735)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:2735",
+   "date": "2021-03-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schade aan een kabel. Is de grondroerder aansprakelijk? Artikel 6:162 BW, WION, BION, Richtlijn zorgvuldig graafproces.",
+   "source": "civiel",
+   "first_seen": "2021-03-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Bemiddeling bij afsluiten nieuwe energiecontracten. Deelnameformulier, met volmacht om contracten te sluiten ‘tegen minimaal de… (ECLI:NL:GHSHE:2021:880)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:880",
+   "date": "2021-03-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bemiddeling bij afsluiten nieuwe energiecontracten. Deelnameformulier, met volmacht om contracten te sluiten ‘tegen minimaal de gegarandeerde besparing’. Uitleg overeenkomst: resultaatsverbintenis of inspanningsverbintenis.",
+   "source": "civiel",
+   "first_seen": "2021-03-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Opzegvergoeding zakelijk energiecontract. Geen reflexwerking (ECLI:NL:RBNHO:2021:3348)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:3348",
+   "date": "2021-03-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Opzegvergoeding zakelijk energiecontract. Geen reflexwerking.",
+   "source": "civiel",
+   "first_seen": "2021-04-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Eiseres vordert dat gedaagde wordt veroordeeld om de schade aan een laagspanningskabel van eiseres te betalen. Volgens eiseres heeft… (ECLI:NL:RBOVE:2021:1209)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:1209",
+   "date": "2021-03-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres vordert dat gedaagde wordt veroordeeld om de schade aan een laagspanningskabel van eiseres te betalen. Volgens eiseres heeft gedaagde de schade veroorzaakt tijdens de graafwerkzaamheden bij het plaatsen van een flessenhalspaal. Naar het oordeel van de kantonrechter heeft gedaagde de uitgebreid gemotiveerde stellingen van eiseres met betrekking tot het ontstaan van de schade en de plaats va",
+   "source": "civiel",
+   "first_seen": "2021-03-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Buitengerechtelijke incassokosten komen voor rekening van gedaagde nu hij pas op 19 november 2020 een leveringsovereenkomst voor… (ECLI:NL:RBROT:2021:2313)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:2313",
+   "date": "2021-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Buitengerechtelijke incassokosten komen voor rekening van gedaagde nu hij pas op 19 november 2020 een leveringsovereenkomst voor elektriciteit en gas heeft afgesloten. Stedin is derhalve niet zonder gegronde reden de onderhavige procedure gestart.",
+   "source": "civiel",
+   "first_seen": "2021-03-19T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Servicekosten, onjuist verbruik, onjuiste berekening (ECLI:NL:RBROT:2021:2998)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:2998",
+   "date": "2021-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Servicekosten, onjuist verbruik, onjuiste berekening",
+   "source": "civiel",
+   "first_seen": "2021-04-07T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Hoge Raad: Warmtewet. Mocht de verhuurder in de periode 2014-2019, bij de berekening van door de huurder te betalen kosten voor levering van warmte… (ECLI:NL:HR:2021:373)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:373",
+   "date": "2021-03-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Warmtewet. Mocht de verhuurder in de periode 2014-2019, bij de berekening van door de huurder te betalen kosten voor levering van warmte door middel van blokverwarming, toepassing geven aan correctiefactoren, zoals voor afgifte van warmte door leidingen?",
+   "source": "civiel",
+   "first_seen": "2021-03-11T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Arbeidsovereenkomst voor bepaalde tijd o.g.v. afwijking bij Cao van art. 7:668a lid 2 BW. Ernstig verwijtbaar handelen door werkgever als… (ECLI:NL:RBAMS:2021:1193)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1193",
+   "date": "2021-03-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Arbeidsovereenkomst voor bepaalde tijd o.g.v. afwijking bij Cao van art. 7:668a lid 2 BW. Ernstig verwijtbaar handelen door werkgever als gevolg waarvan de arbeidsovereenkomst niet is verlengd, toekenning billijke vergoeding ex art. 7:673 lid 9 BW. Rectificatie toegewezen.",
+   "source": "civiel",
+   "first_seen": "2021-03-22T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Rotterdam: Informatie verplichting contractuele en precontractuele fase artikel 6:230m BW (ECLI:NL:RBROT:2021:3459)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3459",
