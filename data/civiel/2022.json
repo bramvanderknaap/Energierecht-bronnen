@@ -5,10 +5,191 @@
   "2022-02",
   "2022-03",
   "2022-04",
-  "2022-05"
+  "2022-05",
+  "2022-06"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Aansluittermijn E-wet (ECLI:NL:RBGEL:2022:3314)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:3314",
+   "date": "2022-06-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aansluittermijn E-wet.",
+   "source": "civiel",
+   "first_seen": "2022-06-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Behoren certificaten van aandelen in windpark tot het maatschapsvermogen? Relevantie van ondertekening van overeenkomst met derde voor de… (ECLI:NL:RBMNE:2022:2570)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:2570",
+   "date": "2022-06-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Behoren certificaten van aandelen in windpark tot het maatschapsvermogen? Relevantie van ondertekening van overeenkomst met derde voor de beoordeling van de interne verhouding tussen de maten. Beslissing is op basis van een procesafspraak beperkt tot een onderdeel van het geschil met het oog op het faciliteren van schikkingsoverleg. Deelbeslissing. Regie op schikking. (ZIE OOK: ECLI:NL:RBMNE:2022:",
+   "source": "civiel",
+   "first_seen": "2022-07-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Afrekening warmtekosten onbetaald gelaten, volgens gedaagde is dit niet op de juiste manier berekend door de VvE. Verweer slaagt niet.… (ECLI:NL:RBMNE:2022:2958)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:2958",
+   "date": "2022-06-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afrekening warmtekosten onbetaald gelaten, volgens gedaagde is dit niet op de juiste manier berekend door de VvE. Verweer slaagt niet. Eerder vonnis uit 2017, kracht van gewijsde. Benoeming deskundige ogv art. 8a Warmtewet afgewezen, prematuur.",
+   "source": "civiel",
+   "first_seen": "2022-07-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Claimant is a Turkish company that (inter alia) operates wind power plants. Defendant is a Dutch company that develops, manufactures and… (ECLI:NL:RBAMS:2022:3747)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:3747",
+   "date": "2022-06-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Claimant is a Turkish company that (inter alia) operates wind power plants. Defendant is a Dutch company that develops, manufactures and constructs wind turbines. Claimant has purchased two wind turbines from defendant for a power plant project in Türkiye. The dispute between the parties concerns the question whether defendant under the Sales Agreement has the obligation to obtain and provide a so",
+   "source": "civiel",
+   "first_seen": "2022-07-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Energieleverancier vordert betaling. niet aan pre- contractuele verplichtingen voldaan, ambtshalve toetsing, vernietiging… (ECLI:NL:RBZWB:2022:4794)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:4794",
+   "date": "2022-06-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieleverancier vordert betaling. niet aan pre- contractuele verplichtingen voldaan, ambtshalve toetsing, vernietiging betaalverplichting, subs. Ongerechtvaardigde verrijking slaagt. Geen beroep op verjaring, rechtsgeldige cessie.",
+   "source": "civiel",
+   "first_seen": "2022-08-18T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Invulling zorgplicht grondroerder onder de CROW 500 (ECLI:NL:GHARL:2022:5225)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:5225",
+   "date": "2022-06-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Invulling zorgplicht grondroerder onder de CROW 500.",
+   "source": "civiel",
+   "first_seen": "2022-06-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Toegang tot woning, in geval van afsluiting energie (ECLI:NL:GHSHE:2022:1952)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:1952",
+   "date": "2022-06-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toegang tot woning, in geval van afsluiting energie.",
+   "source": "civiel",
+   "first_seen": "2022-06-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Energiemaatschappij Vattenfall moet in meerdere zaken aantonen dat de consument degene was die het initiatief nam om per telefoon een… (ECLI:NL:RBAMS:2022:3564)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:3564",
+   "date": "2022-06-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energiemaatschappij Vattenfall moet in meerdere zaken aantonen dat de consument degene was die het initiatief nam om per telefoon een overeenkomst te sluiten.",
+   "source": "civiel",
+   "first_seen": "2022-06-24T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Partijen twisten over de vraag of gedaagde onvoldoende maatregelen heeft genomen om graafschade te voorkomen. Conclusie: gedaagde heeft… (ECLI:NL:RBDHA:2022:16103)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:16103",
+   "date": "2022-06-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Partijen twisten over de vraag of gedaagde onvoldoende maatregelen heeft genomen om graafschade te voorkomen. Conclusie: gedaagde heeft niet de zorgvuldigheid in acht genomen die de Richtlijn Zorgvuldig Graafproces van haar vraagt en is aldus aansprakelijk voor de schade.",
+   "source": "civiel",
+   "first_seen": "2023-11-14T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Uitleg overeenkomst tussen exploitant windpark en grondeigenaren. Samenhang met 200.286.151 DAN WEL 156 (ECLI:NL:GHARL:2022:4862)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:4862",
+   "date": "2022-06-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg overeenkomst tussen exploitant windpark en grondeigenaren. Samenhang met 200.286.151 DAN WEL 156.",
+   "source": "civiel",
+   "first_seen": "2022-06-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Uitleg overeenkomst tussen exploitant windpark en grondeigenaren. Samenhang met 200.286.151 DAN WEL 156 (ECLI:NL:GHARL:2022:4860)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:4860",
+   "date": "2022-06-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg overeenkomst tussen exploitant windpark en grondeigenaren. Samenhang met 200.286.151 DAN WEL 156.",
+   "source": "civiel",
+   "first_seen": "2022-06-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Hoge Raad: Art. 81 lid 1 RO. Verbintenissenrecht. Uitleg overeenkomst. Verplichting koper energiebedrijf aan verkopers vergoeding te betalen in geval… (ECLI:NL:HR:2022:856)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:856",
+   "date": "2022-06-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 81 lid 1 RO. Verbintenissenrecht. Uitleg overeenkomst. Verplichting koper energiebedrijf aan verkopers vergoeding te betalen in geval van privatisering vóór een vervaldatum. Wet onafhankelijk netbeheer.",
+   "source": "civiel",
+   "first_seen": "2022-06-08T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Verkeerde partij gedagvaard. Partijwissel of rectificatie onjuiste partij-aanduiding bieden geen soelaas. Afwijzing vorderingen (ECLI:NL:RBGEL:2022:2903)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:2903",
+   "date": "2022-06-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Verkeerde partij gedagvaard. Partijwissel of rectificatie onjuiste partij-aanduiding bieden geen soelaas. Afwijzing vorderingen.",
+   "source": "civiel",
+   "first_seen": "2022-06-09T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: kort geding, aanbesteding, uitsluiting van de aanbestedingsprocedure (ECLI:NL:RBOBR:2022:2473)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:2473",
+   "date": "2022-06-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "kort geding, aanbesteding, uitsluiting van de aanbestedingsprocedure.",
+   "source": "civiel",
+   "first_seen": "2022-06-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: energieovereenkomst, identiteitsfraude onvoldoende onderbouwd (ECLI:NL:RBZWB:2022:6501)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:6501",
+   "date": "2022-06-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energieovereenkomst, identiteitsfraude onvoldoende onderbouwd",
+   "source": "civiel",
+   "first_seen": "2022-11-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: kort geding; opheffing beslag schade door aanvaring (ECLI:NL:RBROT:2022:4477)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:4477",
+   "date": "2022-06-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "kort geding; opheffing beslag schade door aanvaring",
+   "source": "civiel",
+   "first_seen": "2022-06-08T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Tussenvonnis. Energieleverancier moet nadere toelichting geven hoe haar eindafrekening is opgebouwd (ECLI:NL:RBNHO:2022:4932)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:4932",
+   "date": "2022-06-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Energieleverancier moet nadere toelichting geven hoe haar eindafrekening is opgebouwd.",
+   "source": "civiel",
+   "first_seen": "2022-06-08T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Art. 843a Rv-incident. Aan vereisten voor verstrekken afschrift voldaan. Beslissing aangehouden teneinde gedaagde in gelegenheid te stellen… (ECLI:NL:RBROT:2022:4771)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:4771",
+   "date": "2022-06-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 843a Rv-incident. Aan vereisten voor verstrekken afschrift voldaan. Beslissing aangehouden teneinde gedaagde in gelegenheid te stellen verzochte stukken bij antwoord in geding te brengen c.q. inzicht te geven in pogingen om stukken boven water te krijgen.",
+   "source": "civiel",
+   "first_seen": "2022-06-16T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Gelderland: Geen aansprakelijkheid netbeheerder voor brand in meterkast; Onvoldoende onderbouwd dat aanspreken hoofdzekeringen getuigde van dusdanig… (ECLI:NL:RBGEL:2022:2496)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:2496",
