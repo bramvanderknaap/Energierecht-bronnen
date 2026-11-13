@@ -5,10 +5,161 @@
   "2023-02",
   "2023-03",
   "2023-04",
-  "2023-05"
+  "2023-05",
+  "2023-06"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: Werkgeversaansprakelijkheid voor klokkenluiders. Artikel 7:611 en 7:658c (oud) BW. Geen eigen schuld als bedoeld in artikel 6:101 BW (ECLI:NL:RBAMS:2023:3969)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:3969",
+   "date": "2023-06-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Werkgeversaansprakelijkheid voor klokkenluiders. Artikel 7:611 en 7:658c (oud) BW. Geen eigen schuld als bedoeld in artikel 6:101 BW.",
+   "source": "civiel",
+   "first_seen": "2023-06-27T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Vernietiging bindend advies Geschillencommissie. Toepassing leidingcomponent door eiseres als correctiefactor (artikel 8a lid 5 Warmtewet)… (ECLI:NL:RBMNE:2023:3070)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:3070",
+   "date": "2023-06-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vernietiging bindend advies Geschillencommissie. Toepassing leidingcomponent door eiseres als correctiefactor (artikel 8a lid 5 Warmtewet) is in dit geval toegestaan.",
+   "source": "civiel",
+   "first_seen": "2023-06-28T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Levering van energie. Vooral onduidelijkheid over de wijze waarop de eindafrekening is berekend (onder creditering van voorschotfacturen).… (ECLI:NL:RBZWB:2023:4638)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:4638",
+   "date": "2023-06-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Levering van energie. Vooral onduidelijkheid over de wijze waarop de eindafrekening is berekend (onder creditering van voorschotfacturen). Overige verweren niet onderbouwd. Vordering wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2023-07-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gedaagde moet een bedrag van € 613,01 betalen aan eiseres, omdat vaststaat dat gedaagde haar betalingsverplichting met betrekking tot de… (ECLI:NL:RBMNE:2023:7690)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:7690",
+   "date": "2023-06-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde moet een bedrag van € 613,01 betalen aan eiseres, omdat vaststaat dat gedaagde haar betalingsverplichting met betrekking tot de transportkosten volgens de overeenkomst niet is nagekomen, en dit had wel gemoeten. Gedaagde heeft weliswaar het nieuwbouwproject op 12 juli 2022 opgeleverd aan de VvE, maar zij heeft per die datum niet de transportovereenkomst met eiseres opgezegd. Ook heeft zic",
+   "source": "civiel",
+   "first_seen": "2024-04-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Ambtshalve toetsen. Niet gebleken dat Nuon heeft voldaan aan precontractuele informatieplichten door overlegging huidig bestelproces… (ECLI:NL:RBROT:2023:4910)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4910",
+   "date": "2023-06-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsen. Niet gebleken dat Nuon heeft voldaan aan precontractuele informatieplichten door overlegging huidig bestelproces Vattenfall. Geen toewijzing op (meer) subsidiaire grondslagen.",
+   "source": "civiel",
+   "first_seen": "2023-06-13T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Arbeidszaak, Wwz. Opzegverbod OR-lid? Kantonrechter heeft arbeidsovereenkomst terecht ontbonden, maar als werkgeefster slaagt in het… (ECLI:NL:GHARL:2023:5249)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:5249",
+   "date": "2023-06-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Arbeidszaak, Wwz. Opzegverbod OR-lid? Kantonrechter heeft arbeidsovereenkomst terecht ontbonden, maar als werkgeefster slaagt in het opgedragen bewijs, dan heeft werknemer ernstig verwijtbaar gehandeld waardoor de transitievergoeding niet verschuldigd is.",
+   "source": "civiel",
+   "first_seen": "2023-06-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: De vraag is of het concurrentiebeding, dat is opgenomen in de arbeidsovereenkomst tussen partijen, voorlopig in stand kan blijven of dient… (ECLI:NL:RBOVE:2023:2366)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2366",
+   "date": "2023-06-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De vraag is of het concurrentiebeding, dat is opgenomen in de arbeidsovereenkomst tussen partijen, voorlopig in stand kan blijven of dient te worden geschorst. De kantonrechter is van oordeel dat de werking van het concurrentiebeding in dit geval moet worden geschorst totdat in een bodemprocedure anders wordt beslist.",
+   "source": "civiel",
+   "first_seen": "2023-06-26T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kort geding. Executiegeschil nav een vonnis waarin ivm de gestegen energieprijzen een heronderhandelingsplicht is opgelegd over het eerder… (ECLI:NL:RBMNE:2023:3064)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:3064",
+   "date": "2023-06-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Executiegeschil nav een vonnis waarin ivm de gestegen energieprijzen een heronderhandelingsplicht is opgelegd over het eerder overeengekomen energietarief.",
+   "source": "civiel",
+   "first_seen": "2023-06-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Faillissement vorige energieleverancier, overname klantenbestand, Besluiten leveringszekerheid, gehanteerde afwijkende voorwaarden en… (ECLI:NL:RBZWB:2023:6406)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6406",
+   "date": "2023-06-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Faillissement vorige energieleverancier, overname klantenbestand, Besluiten leveringszekerheid, gehanteerde afwijkende voorwaarden en tarieven zijn niet overeengekomen en houden geen stand, verschuldigd bedrag in redelijkheid vastgesteld.",
+   "source": "civiel",
+   "first_seen": "2023-09-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Verstek, ambtshalve toetsing artikel 6:230v BW. Toepasselijkheid Hof van Justitie van de Europese Unie van 7 april 2022… (ECLI:NL:GHARL:2023:5201)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:5201",
+   "date": "2023-06-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek, ambtshalve toetsing artikel 6:230v BW. Toepasselijkheid Hof van Justitie van de Europese Unie van 7 april 2022 (ECLI:EU:C:2022:269); vraag of een met digitale middelen afgesloten energiecontract tussen Innova en een consument op de wettelijk voorgeschreven wijze tot stand is gekomen. Meer specifiek: of Innova ondubbelzinnig heeft duidelijk gemaakt dat dat contract een betalingsverplichtin",
+   "source": "civiel",
+   "first_seen": "2023-06-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Contract energielevering voldoet niet aan het vereiste zoals gesteld in art. 6:230v lid 3 BW (ECLI:NL:GHAMS:2023:1371)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:1371",
+   "date": "2023-06-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Contract energielevering voldoet niet aan het vereiste zoals gesteld in art. 6:230v lid 3 BW.",
+   "source": "civiel",
+   "first_seen": "2023-06-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Vordering tot afgifte bescheiden ex artikel 843a Rv (ECLI:NL:RBGEL:2023:4322)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4322",
+   "date": "2023-06-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Vordering tot afgifte bescheiden ex artikel 843a Rv.",
+   "source": "civiel",
+   "first_seen": "2023-07-27T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Ambtshalve toetsing. Energiecontract. Screenshots overgelegd van rechtsopvolgend aanbieder, daarmee niet aangetoond dat is voldaan aan… (ECLI:NL:RBROT:2023:4892)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4892",
+   "date": "2023-06-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsing. Energiecontract. Screenshots overgelegd van rechtsopvolgend aanbieder, daarmee niet aangetoond dat is voldaan aan precontractuele informatieverplichtingen + bestelknop. Sanctie: hoofdsom voor slechts 50% toegewezen.",
+   "source": "civiel",
+   "first_seen": "2023-06-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: vordering Stedin afgewezen. Levert een verbruik van 3 kWh energie zonder een overeenkomst met een energieleverancier over een lange periode… (ECLI:NL:RBROT:2023:4844)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4844",
+   "date": "2023-06-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "vordering Stedin afgewezen. Levert een verbruik van 3 kWh energie zonder een overeenkomst met een energieleverancier over een lange periode een onrechtmatige daad op?",
+   "source": "civiel",
+   "first_seen": "2023-06-12T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: centrale warmtemeter nodig in VvE-gebouw. Uitleg Warmtewet (ECLI:NL:RBGEL:2023:3363)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:3363",
+   "date": "2023-06-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "centrale warmtemeter nodig in VvE-gebouw. Uitleg Warmtewet",
+   "source": "civiel",
+   "first_seen": "2023-06-12T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Midden-Nederland: Sanering van windturbines. Eisers willen meedelen in door gedaagden te ontvangen saneringsvergoeding als schadeloosstelling. Beroep op… (ECLI:NL:RBMNE:2023:2542)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:2542",
