@@ -28,12 +28,17 @@ Van elke uitspraak wordt de volledige tekst gelezen (`scripts/civiel.py`). Een u
 - een energiebedrijf procespartij is, zoals een energieleverancier, netbeheerder of exploitant van een zonne- of windpark (`COMPANIES`);
 - de samenvatting een energiebegrip noemt, of de tekst er meerdere keren een noemt (`TERMS`).
 
-Zaken over hennepteelt (`EXCLUDE`) vallen af. De relevante uitspraken staan per jaar in `data/civiel/`, met in `grond` waarom ze erin staan.
+Zaken over hennepteelt (`EXCLUDE`) vallen af. De relevante uitspraken staan per jaar in `data/civiel/`, met in `grond` en `toelichting` waarom ze erin staan (welke wet, partij of welk begrip).
+Een energiebedrijf als partij telt alleen als de zaak ook over energie gaat, en niet in schuldsanerings-, arbeids- en familiezaken.
+Huur- en VvE-zaken tellen niet mee op losse energiewoorden in de tekst.
 Elke ochtend controleert de dagelijkse run de civiele uitspraken die sinds de vorige keer zijn gepubliceerd of gewijzigd.
 
 Het archief is één keer opgebouwd met de workflow "Archief civiele uitspraken opbouwen". Die kan opnieuw, bijvoorbeeld om verder terug te gaan:
 in GitHub naar **Actions**, links **Archief civiele uitspraken opbouwen**, rechts **Run workflow**, en bij Jaren bijvoorbeeld `[2018, 2017]`.
-Dat duurt ongeveer drie uur per jaar, omdat rechtspraak.nl één verzoek tegelijk vraagt.
+Dat duurt twee tot drie uur per jaar, omdat rechtspraak.nl één verzoek tegelijk vraagt.
+
+Is de selectie in `scripts/civiel.py` strenger gemaakt, start dan **Selectie civiele uitspraken opnieuw toepassen** op dezelfde manier.
+Die leest alleen de uitspraken die al in het archief staan opnieuw (ongeveer een kwartier). Een ruimere selectie vraagt een nieuwe opbouw van het archief.
 
 ## Filter op soort
 
