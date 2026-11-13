@@ -2,10 +2,143 @@
  "jaar": 2019,
  "maanden": [
   "2019-01",
-  "2019-02"
+  "2019-02",
+  "2019-03"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Hoge Raad: Verbintenissenrecht. Opzegging door gemeente van langlopende overeenkomsten met netbeheerder. Is voor opzegging voldoende zwaarwegende… (ECLI:NL:HR:2019:446)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:446",
+   "date": "2019-03-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht. Opzegging door gemeente van langlopende overeenkomsten met netbeheerder. Is voor opzegging voldoende zwaarwegende grond vereist? Vormen opgegeven redenen, waaronder de wens tot precarioheffing, een zodanige voldoende zwaarwegende grond? HR 28 oktober 2011, ECLI:NL:HR:2011:BQ9854. Contractuele gedoogplicht jegens andere groepsmaatschappij dan waarvan precariobelasting wordt geh",
+   "source": "civiel",
+   "first_seen": "2019-03-28T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
+  },
+  {
+   "title": "Rechtbank Den Haag: WION; Richtlijn CROW 250; verkeersolpvattingen; lokaliseerplicht grondroerder; overleg met netbeheerder over vastleggen van precieze… (ECLI:NL:RBDHA:2019:2985)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:2985",
+   "date": "2019-03-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "WION; Richtlijn CROW 250; verkeersolpvattingen; lokaliseerplicht grondroerder; overleg met netbeheerder over vastleggen van precieze ligging van leiding.",
+   "source": "civiel",
+   "first_seen": "2019-03-26T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Overname aansluit- en transportovereenkomst in verband met een te ontmantelen warmtekrachtcentrale. Mondelinge overeenstemming? (ECLI:NL:GHARL:2019:2621)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:2621",
+   "date": "2019-03-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overname aansluit- en transportovereenkomst in verband met een te ontmantelen warmtekrachtcentrale. Mondelinge overeenstemming?",
+   "source": "civiel",
+   "first_seen": "2019-03-26T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "aansluit- en transportovereenkomst"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Voormalig bestuurder RENDO (Regionaal Nutsbedrijf voor Zuid Drenthe en Noord Overijssel) heeft onrechtmatig gehandeld door betalingen aan… (ECLI:NL:RBNNE:2019:1100)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:1100",
+   "date": "2019-03-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Voormalig bestuurder RENDO (Regionaal Nutsbedrijf voor Zuid Drenthe en Noord Overijssel) heeft onrechtmatig gehandeld door betalingen aan te nemen zonder zakelijke grondslag in het kader van de verkoop van een deel van de onderneming van RENDO aan Electrabel. Het verwijt is des te ernstiger omdat de bestuurder de betaling in privé heeft getracht te maskeren. De schade bestaat onder meer uit de bet",
+   "source": "civiel",
+   "first_seen": "2019-03-20T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Overheidsaansprakelijkheid. Voor de stuitende werking van een brief is relevant of voor de wederpartij voldoende duidelijk kenbaar is… (ECLI:NL:RBDHA:2019:2987)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:2987",
+   "date": "2019-03-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overheidsaansprakelijkheid. Voor de stuitende werking van een brief is relevant of voor de wederpartij voldoende duidelijk kenbaar is geweest, wie de schuldeiser was, van wiens vordering de stuiting werd beoogd.",
+   "source": "civiel",
+   "first_seen": "2019-03-26T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Voormalig bestuurder heeft onrechtmatig gehandeld door onverantwoord veel (gemeenschaps)geld uit te lenen voor rekening en risico van RENDO… (ECLI:NL:RBNNE:2019:1099)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:1099",
+   "date": "2019-03-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Voormalig bestuurder heeft onrechtmatig gehandeld door onverantwoord veel (gemeenschaps)geld uit te lenen voor rekening en risico van RENDO aan een startende onderneming in alternatieve energie, terwijl hijzelf en zijn medebestuursleden belangen hadden in deze onderneming. Het verwijt is des te ernstiger gelet op het feit dat de bestuurder zijn eigen belang in deze onderneming en dat van de andere",
+   "source": "civiel",
+   "first_seen": "2019-03-20T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "rendo"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Volgt nog (ECLI:NL:RBROT:2019:10830)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:10830",
+   "date": "2019-03-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Volgt nog.",
+   "source": "civiel",
+   "first_seen": "2020-05-11T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Qurrent"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Eindafrekening elektriciteitskosten. Geen reële schatting gemaakt door energieleverancier. Rente en buitengerechtelijke incassokosten voor… (ECLI:NL:RBMNE:2019:2146)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:2146",
+   "date": "2019-03-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eindafrekening elektriciteitskosten. Geen reële schatting gemaakt door energieleverancier. Rente en buitengerechtelijke incassokosten voor rekening van de energieleverancier.",
+   "source": "civiel",
+   "first_seen": "2019-05-14T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Kantonrechter heeft het verzoek tot ontbinding van de arbeidsovereenkomst afgewezen en het tegenverzoek tot… (ECLI:NL:RBGEL:2019:1760)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:1760",
+   "date": "2019-03-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Kantonrechter heeft het verzoek tot ontbinding van de arbeidsovereenkomst afgewezen en het tegenverzoek tot wedertewerkstelling toegewezen. Werknemer vordert in kort geding onder meer toelating tot overeengekomen werkzaamheden op een specifieke afdeling. Uitleg doel en strekking van de veroordeling tot wedertewerkstelling. Werkgever heeft niet voldaan aan de haar opgelegde veroordelin",
+   "source": "civiel",
+   "first_seen": "2019-04-24T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ALLIANDER"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Geen rechtsgeldige cessie. De akte van cessie is niet ondertekend ex artikel 156 Rv. Daarnaast ontbreekt de koppeling tussen de akte van… (ECLI:NL:RBROT:2019:2004)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:2004",
+   "date": "2019-03-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geen rechtsgeldige cessie. De akte van cessie is niet ondertekend ex artikel 156 Rv. Daarnaast ontbreekt de koppeling tussen de akte van cessie en het overdrachtsbestand.",
+   "source": "civiel",
+   "first_seen": "2019-03-14T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Energiedirect"
+  },
+  {
+   "title": "Gerecht in eerste aanleg van Sint Maarten: kort geding. Verbintenissenrecht. Levering van energie door buurman aan gedaagde (ECLI:NL:OGEAM:2019:24)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2019:24",
+   "date": "2019-03-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "kort geding. Verbintenissenrecht. Levering van energie door buurman aan gedaagde.",
+   "source": "civiel",
+   "first_seen": "2019-05-13T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Geschil tussen advocatenkantoor en netbeheerder. Vordering strekkende tot verbod op elektriciteitsonderbreking tijdens… (ECLI:NL:RBROT:2019:2595)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:2595",
+   "date": "2019-03-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Geschil tussen advocatenkantoor en netbeheerder. Vordering strekkende tot verbod op elektriciteitsonderbreking tijdens kantooruren afgewezen. Onderbreking levert geen tekortkoming in de nakoming van de aansluit- en transportovereenkomst op.",
+   "source": "civiel",
+   "first_seen": "2019-04-03T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
+  },
   {
    "title": "Rechtbank Amsterdam: Eneco Beheer hoeft geen 264 miljoen euro te betalen aan Remu Houdstermaatschappij en GCN, de voormalige aandeelhouders van het vroegere… (ECLI:NL:RBAMS:2019:1174)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:1174",
