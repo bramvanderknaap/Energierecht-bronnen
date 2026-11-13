@@ -1,10 +1,141 @@
 {
  "jaar": 2021,
  "maanden": [
-  "2021-01"
+  "2021-01",
+  "2021-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Informatie verplichting contractuele en precontractuele fase artikel 6:230m BW (ECLI:NL:RBROT:2021:3459)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3459",
+   "date": "2021-02-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Informatie verplichting contractuele en precontractuele fase artikel 6:230m BW",
+   "source": "civiel",
+   "first_seen": "2021-04-19T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding, onrechtmatige daad. Het door eisers gevorderde verbod tot het kappen van bomen in een gebied in Hoeksche Waard waar een… (ECLI:NL:RBROT:2021:1553)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:1553",
+   "date": "2021-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, onrechtmatige daad. Het door eisers gevorderde verbod tot het kappen van bomen in een gebied in Hoeksche Waard waar een Windpark is gepland wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2021-02-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Het in rekening brengen van kosten leidingafgifte, administratiekosten en dienstverleningskosten door verhuurder is niet in strijd met de… (ECLI:NL:RBLIM:2021:1699)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:1699",
+   "date": "2021-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het in rekening brengen van kosten leidingafgifte, administratiekosten en dienstverleningskosten door verhuurder is niet in strijd met de warmtewet.",
+   "source": "civiel",
+   "first_seen": "2021-02-26T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Ontslag van instantie, griffierecht te laat betaald, termijnoverschrijding, artikel 3 lid 1 Wgbz (ECLI:NL:RBROT:2021:2138)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:2138",
+   "date": "2021-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ontslag van instantie, griffierecht te laat betaald, termijnoverschrijding, artikel 3 lid 1 Wgbz.",
+   "source": "civiel",
+   "first_seen": "2021-03-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: energieovereenkomst onvoldoende onderbouwd; artikel 7:7 lid 2 BW ongevraagde levering (ECLI:NL:RBNNE:2021:1189)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:1189",
+   "date": "2021-02-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energieovereenkomst onvoldoende onderbouwd; artikel 7:7 lid 2 BW ongevraagde levering",
+   "source": "civiel",
+   "first_seen": "2021-04-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: - Aanbestedingsrecht - Bezwaren tegen aanbestedingsstukken te laat geuit. Rechtsverwerking. - Inschrijvingen voldoen niet aan het bestek.… (ECLI:NL:RBNNE:2021:587)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:587",
+   "date": "2021-02-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "- Aanbestedingsrecht - Bezwaren tegen aanbestedingsstukken te laat geuit. Rechtsverwerking. - Inschrijvingen voldoen niet aan het bestek. Ongeldige inschrijvingen.",
+   "source": "civiel",
+   "first_seen": "2021-02-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: leveringscontract voor energie/blokverwarming, geen tarief in contract vermeld, art.3 Warmtewet, Algemene Voorwaarden, contractsoverneming,… (ECLI:NL:RBOBR:2021:521)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:521",
+   "date": "2021-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "leveringscontract voor energie/blokverwarming, geen tarief in contract vermeld, art.3 Warmtewet, Algemene Voorwaarden, contractsoverneming, ongerechtvaardigde verrijking",
+   "source": "civiel",
+   "first_seen": "2021-02-09T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Verstekzaak. Toewijzing vordering tot ontbinding van overeenkomst tot levering van energie en tot afsluiting/onderbreking van de… (ECLI:NL:RBLIM:2021:10193)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:10193",
+   "date": "2021-02-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstekzaak. Toewijzing vordering tot ontbinding van overeenkomst tot levering van energie en tot afsluiting/onderbreking van de energielevering.",
+   "source": "civiel",
+   "first_seen": "2025-01-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: OK; goedkeuring voorzitter OK tot aanwijzing een gezamenlijke accountant bij juridische fusie; 2:328 lid 3 BW (ECLI:NL:GHAMS:2021:649)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:649",
+   "date": "2021-02-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "OK; goedkeuring voorzitter OK tot aanwijzing een gezamenlijke accountant bij juridische fusie; 2:328 lid 3 BW",
+   "source": "civiel",
+   "first_seen": "2021-03-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Energierecht. Vordering gasnetbeheerder tot betaling voor werkzaamheden verwijdering aansluiting aardgas na opzegging ATO door afnemer.… (ECLI:NL:RBGEL:2021:774)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:774",
+   "date": "2021-02-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energierecht. Vordering gasnetbeheerder tot betaling voor werkzaamheden verwijdering aansluiting aardgas na opzegging ATO door afnemer. Geen contractuele grondslag bij enkel opzegging ATO zonder opdracht tot verwijdering. Geen wettelijke grondslag in artikel 2.5.1.12 van de Tarievencode gas. Vordering afgewezen",
+   "source": "civiel",
+   "first_seen": "2021-02-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: art. 6:162 BW; beschadiging ondergrondse kabel door grondroerder onrechtmatig handelen?; aan zorgvuldigheidsnorm voldaan; grondroerder niet… (ECLI:NL:RBGEL:2021:783)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:783",
+   "date": "2021-02-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "art. 6:162 BW; beschadiging ondergrondse kabel door grondroerder onrechtmatig handelen?; aan zorgvuldigheidsnorm voldaan; grondroerder niet aansprakelijk",
+   "source": "civiel",
+   "first_seen": "2021-02-17T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Onrechtmatige uitlating; mededeling aan hoofdopdrachtgever over twijfels aan juistheid facturen opdrachtnemer; beschuldiging van fraude en… (ECLI:NL:RBROT:2021:913)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:913",
+   "date": "2021-02-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onrechtmatige uitlating; mededeling aan hoofdopdrachtgever over twijfels aan juistheid facturen opdrachtnemer; beschuldiging van fraude en opzet; bewijsopdracht.",
+   "source": "civiel",
+   "first_seen": "2021-02-08T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Incident ex art. 223 Rv. Vorderingen strekkende tot economische/juridische eigendomsoverdracht van een particulier Gasnet en… (ECLI:NL:GHDHA:2021:169)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:169",
+   "date": "2021-02-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incident ex art. 223 Rv. Vorderingen strekkende tot economische/juridische eigendomsoverdracht van een particulier Gasnet en Elektriciteitsnet. Partijen hebben onvoldoende belang bij hun vorderingen en de proceskansten in hoger beroep zijn onzeker.",
+   "source": "civiel",
+   "first_seen": "2021-02-03T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Amsterdam: Een man die in een Media Marktfiliaal in januari 2018 een driejarig energiecontract afsloot, hoeft maar een deel van het bedrag te betalen… (ECLI:NL:RBAMS:2021:276)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:276",
