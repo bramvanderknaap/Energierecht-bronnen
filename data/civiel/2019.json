@@ -9,10 +9,143 @@
   "2019-06",
   "2019-07",
   "2019-08",
-  "2019-09"
+  "2019-09",
+  "2019-10"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartclaim. Stroomstoring Schiphol. De kantonrechter oordeelt dat de luchtvaartmaatschappij voldoende heeft aangetoond dat de… (ECLI:NL:RBNHO:2019:9129)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:9129",
+   "date": "2019-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartclaim. Stroomstoring Schiphol. De kantonrechter oordeelt dat de luchtvaartmaatschappij voldoende heeft aangetoond dat de vertraging van de voorafgaande vlucht en daardoor ook de vlucht in kwestie is veroorzaakt door de stroomstoring en de daarop volgende capaciteitsbeperkingen van de luchtverkeersleiding. Geen compensatie verschuldigd.",
+   "source": "civiel",
+   "first_seen": "2019-10-31T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartclaim. Stroomstoring Schiphol vormt buitengewone omstandigheid. Het missen van de aansluitende vlucht en de vertraging op de… (ECLI:NL:RBNHO:2019:9128)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:9128",
+   "date": "2019-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartclaim. Stroomstoring Schiphol vormt buitengewone omstandigheid. Het missen van de aansluitende vlucht en de vertraging op de eindbestemming zijn echter niet het gevolg geweest van de stroomstoring, immers de passagier had met een vertraging van 34 minuten de aansluitende vlucht gehaald. Compensatie toegewezen.",
+   "source": "civiel",
+   "first_seen": "2019-10-31T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartzaak. Stroomstoring Schiphol op 1 oktober 2018 is buitengewone omstandigheid. Vordering afgewezen (ECLI:NL:RBNHO:2019:10997)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:10997",
+   "date": "2019-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartzaak. Stroomstoring Schiphol op 1 oktober 2018 is buitengewone omstandigheid. Vordering afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-01-30T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Deskundigenbericht bevolen (ECLI:NL:RBROT:2019:8406)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8406",
+   "date": "2019-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Deskundigenbericht bevolen.",
+   "source": "civiel",
+   "first_seen": "2019-10-28T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENECO"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Hoger beroep niet-ontvankelijk voor zover gericht tegen een rechtspersoon die in eerste aanleg geen procespartij was. Eis in reconventie in… (ECLI:NL:GHARL:2019:9252)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:9252",
+   "date": "2019-10-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Hoger beroep niet-ontvankelijk voor zover gericht tegen een rechtspersoon die in eerste aanleg geen procespartij was. Eis in reconventie in hoger beroep niet-ontvankelijk. Zakelijke afnemer van energie gebonden aan contracten die door gevolmachtigde zijn aangegaan, waarbij overigens de energieleverancier ook mocht vertrouwen op een toereikende volmacht. Geen reflexwerking wat betreft de voor consu",
+   "source": "civiel",
+   "first_seen": "2019-10-29T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: tussenarrest (ECLI:NL:GHARL:2019:9213)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:9213",
+   "date": "2019-10-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "tussenarrest",
+   "source": "civiel",
+   "first_seen": "2019-10-29T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENGIE"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Een grondeigenaar in de Wieringermeerpolder moet meewerken aan het ondertekenen van een notariële akte, waarin hij aan Vattenfall… (ECLI:NL:RBAMS:2019:7981)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7981",
+   "date": "2019-10-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Een grondeigenaar in de Wieringermeerpolder moet meewerken aan het ondertekenen van een notariële akte, waarin hij aan Vattenfall opstalrechten en erfdienstbaarheden verleent voor de aanleg van een windpark.",
+   "source": "civiel",
+   "first_seen": "2019-10-25T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windpark, vattenfall"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Aardbevingsschade. Vervolg op ECLI:NL:GHARL:2019:5849. Het hof gelast een deskundigenonderzoek (ECLI:NL:GHARL:2019:8773)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:8773",
+   "date": "2019-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingsschade. Vervolg op ECLI:NL:GHARL:2019:5849. Het hof gelast een deskundigenonderzoek.",
+   "source": "civiel",
+   "first_seen": "2019-10-22T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "aardbevingsschade"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Recreatiepark – (verbod op) permanente bewoning – betalingsverplichtingen (waaronder retributie, rioolbijdrage, kosten afvoer huisvuil,… (ECLI:NL:GHARL:2019:8825)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:8825",
+   "date": "2019-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Recreatiepark – (verbod op) permanente bewoning – betalingsverplichtingen (waaronder retributie, rioolbijdrage, kosten afvoer huisvuil, toeristenbijdrage en nutsvoorzieningen).",
+   "source": "civiel",
+   "first_seen": "2019-10-22T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Verzekeringsrecht. Co-assurantie. Schade omdat follower verlenging niet bevestigde (ECLI:NL:RBROT:2019:8391)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8391",
+   "date": "2019-10-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzekeringsrecht. Co-assurantie. Schade omdat follower verlenging niet bevestigde.",
+   "source": "civiel",
+   "first_seen": "2019-10-28T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "UNIPER"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: De afnemer van energie moet betalen voor het werkelijke verbruik. Omdat de energieleverancier gefactureerd heeft op basis van geschatte… (ECLI:NL:GHARL:2019:8273)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:8273",
+   "date": "2019-10-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De afnemer van energie moet betalen voor het werkelijke verbruik. Omdat de energieleverancier gefactureerd heeft op basis van geschatte meterstanden, viel de afrekening na een meteropname hoger uit dan het verbruik in die periode. De kantonrechter en het hof komen tot het oordeel dat de afnemer uiteindelijk alleen betaalt voor verbruikte energie. Omdat de energieleverancier het voor deze rechtszaa",
+   "source": "civiel",
+   "first_seen": "2019-10-08T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Artikel 7:900 BW. Gebondenheid aan bindend advies (ECLI:NL:GHARL:2019:7949)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:7949",
+   "date": "2019-10-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 7:900 BW. Gebondenheid aan bindend advies.",
+   "source": "civiel",
+   "first_seen": "2019-10-01T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Solar B.V."
+  },
   {
    "title": "Rechtbank Amsterdam: De bewoners van drie woningen in Amsterdam- centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie… (ECLI:NL:RBAMS:2019:7350)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7350",
