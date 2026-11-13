@@ -152,6 +152,14 @@ def count_terms(text, terms):
     return {t: n for t in terms if (n := len(re.findall(r"\b" + re.escape(t), low)))}
 
 
+ENERGY_WORDS = re.compile(
+    r"\b(energie\w*|elektriciteit\w*|elektra|stroom\w*|aardgas\w*|warmte\w*|netbeheer\w*|"
+    r"gas(levering|aansluiting|net|verbruik|winning|leverancier|prijs|contract|meter)?)\b")
+# Huur-, VvE- en parkzaken noemen vaak energiekosten zonder over energierecht te gaan.
+RENTAL = re.compile(r"\b(huur\w*|verhuur\w*|servicekosten|nutskosten|nutsvoorziening\w*|vve|vereniging van eigenaars|"
+                    r"recreatiepark|bungalowpark|vakantiepark)\b", re.I)
+
+
 def signals(r):
     low = r["text"].lower()
     summary = r["summary"].lower()
@@ -164,28 +172,40 @@ def signals(r):
         "summary_terms": {**count_terms(summary, TERMS + LAWS),
                           **{m.group(0).lower(): 1 for m in KNOWN_COMPANIES.finditer(r["summary"])}},
         "text_terms": count_terms(low, TERMS),
+        "energy_words": len(ENERGY_WORDS.findall(low)),
+        "rental": bool(RENTAL.search(summary)),
         "hennep": [w for w in EXCLUDE if w in low or w in summary],
     }
 
 
 def relevance(sig):
-    """Geeft de reden waarom een uitspraak relevant is, of None."""
+    """Geeft (reden, toelichting) als een uitspraak relevant is, anders None.
+    - wet: de tekst verwijst naar energiewetgeving;
+    - samenvatting: de samenvatting noemt een energiebegrip of energiebedrijf;
+    - partij: een energiebedrijf is partij en de zaak gaat over energie (de tekst noemt energie vaker dan terloops);
+    - tekst: de tekst noemt vijf keer of vaker een kernbegrip, en het is geen huur- of VvE-zaak.
+    Partij en tekst tellen niet in insolventie-, arbeids- en familiezaken."""
     if sig["hennep"]:
         return None
     if sig["laws"]:
-        return "wet"
+        return "wet", ", ".join(sig["laws"][:3])
     if sig["summary_terms"]:
-        return "samenvatting"
-    party_case = not any(s.endswith(x) for s in sig["subject"] for x in NO_PARTY_SUBJECTS)
-    if party_case and (sig["parties"] or (sig["other_parties"] and sig["text_terms"])):
-        return "partij"
-    if sum(n for t, n in sig["text_terms"].items() if t in CORE) >= CORE_THRESHOLD:
-        return "tekst"
+        return "samenvatting", ", ".join(list(sig["summary_terms"])[:3])
+    if any(s.endswith(x) for s in sig["subject"] for x in NO_PARTY_SUBJECTS):
+        return None
+    about_energy = sig["energy_words"] >= 3
+    if about_energy and sig["parties"]:
+        return "partij", sig["parties"][0]
+    if about_energy and sig["other_parties"] and sig["text_terms"]:
+        return "partij", sig["other_parties"][0]
+    core = {t: n for t, n in sig["text_terms"].items() if t in CORE}
+    if sum(core.values()) >= CORE_THRESHOLD and not sig["rental"]:
+        return "tekst", ", ".join(f"{t} ({n}x)" for t, n in sorted(core.items(), key=lambda x: -x[1])[:3])
     return None
 
 
 def to_item(r, reason, first_seen):
-    """Een uitspraak in de vorm van de databank (zie fetch.py)."""
+    """Een uitspraak in de vorm van de databank (zie fetch.py). reason = (grond, toelichting)."""
     summary = r["summary"]
     first = summary.rstrip(".;")
     if len(first) > 140:
@@ -199,7 +219,8 @@ def to_item(r, reason, first_seen):
         "summary": summary[:400],
         "source": "civiel",
         "first_seen": first_seen,
-        "grond": reason,
+        "grond": reason[0],
+        "toelichting": reason[1],
     }
 
 
@@ -282,6 +303,30 @@ def retry_failed(year):
     save_year(data)
 
 
+def reassess(year):
+    """Past de huidige selectie opnieuw toe op de uitspraken die al in het archief staan.
+    Nodig als de selectie strenger is gemaakt; voor een ruimere selectie moet het jaar opnieuw worden doorzocht."""
+    data = load_year(year)
+    kept, dropped = [], 0
+    for item in data["items"]:
+        ecli = item["url"].split("id=")[-1]
+        try:
+            r = fetch_ruling(ecli)
+        except Exception:
+            kept.append(item)  # niet bereikbaar: laten staan
+            continue
+        reason = relevance(signals(r))
+        if reason:
+            new = to_item(r, reason, item["first_seen"])
+            kept.append(new)
+        else:
+            dropped += 1
+            print(f"  vervalt: {ecli} {item['summary'][:100]}", flush=True)
+    data["items"] = kept
+    save_year(data)
+    print(f"{year}: {len(kept)} blijven, {dropped} vervallen", flush=True)
+
+
 def update(now=None):
     """Dagelijks: controleert de civiele uitspraken die sinds de vorige keer zijn gepubliceerd of gewijzigd.
     Er wordt een paar uur overlap genomen; een uitspraak die al in het archief staat, wordt alleen bijgewerkt."""
@@ -321,8 +366,11 @@ def update(now=None):
 
 
 if __name__ == "__main__":
-    # python scripts/civiel.py archief 2025   (archief van één jaar opbouwen)
-    if len(sys.argv) >= 3 and sys.argv[1] == "archief":
+    # python scripts/civiel.py archief 2025        (archief van één jaar opbouwen)
+    # python scripts/civiel.py herbeoordeel 2025   (selectie opnieuw toepassen op het archief)
+    if len(sys.argv) >= 3 and sys.argv[1] == "herbeoordeel":
+        reassess(int(sys.argv[2]))
+    elif len(sys.argv) >= 3 and sys.argv[1] == "archief":
         year = int(sys.argv[2])
         if not STATE.exists():  # vanaf nu houdt de dagelijkse run de nieuwe uitspraken bij
             ARCHIVE.mkdir(parents=True, exist_ok=True)
