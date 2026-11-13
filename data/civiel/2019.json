@@ -5,10 +5,88 @@
   "2019-02",
   "2019-03",
   "2019-04",
-  "2019-05"
+  "2019-05",
+  "2019-06"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Midden-Nederland: Samenwerkingsovereenkomst, geen sommatie en geen opschortingsrecht. Overeenkomst mocht niet per direct beëindigd worden. Partijen zijn over… (ECLI:NL:RBMNE:2019:6783)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6783",
+   "date": "2019-06-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Samenwerkingsovereenkomst, geen sommatie en geen opschortingsrecht. Overeenkomst mocht niet per direct beëindigd worden. Partijen zijn over en weer tekortgeschoten in de nakoming van de overeenkomst.",
+   "source": "civiel",
+   "first_seen": "2023-05-26T00:00:00+00:00",
+   "grond": "tekst",
+   "toelichting": "energieleverancier (3x), energiecontract (3x)"
+  },
+  {
+   "title": "Gerecht in eerste aanleg van Curaçao: Huurovereenkomst; aansluiting elektriciteit; verhuurder moet zorgen voor herstel elektriciteitsaansluiting (ECLI:NL:OGEAC:2019:122)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2019:122",
+   "date": "2019-06-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurovereenkomst; aansluiting elektriciteit; verhuurder moet zorgen voor herstel elektriciteitsaansluiting",
+   "source": "civiel",
+   "first_seen": "2019-06-21T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "elektriciteitsaansluiting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Intellectuele Eigendom. Merkinbreuk. Verbod. Nevenvorderingen (ECLI:NL:RBDHA:2019:6239)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:6239",
+   "date": "2019-06-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Intellectuele Eigendom. Merkinbreuk. Verbod. Nevenvorderingen",
+   "source": "civiel",
+   "first_seen": "2019-06-20T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "EVO-ENERGIE B.V."
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Aardbevingskamer. Schade door bodembeweging als gevolg van gaswinning. Waardedaling agrarisch onroerend goed. Immateriële schade (ECLI:NL:RBNNE:2019:2612)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:2612",
+   "date": "2019-06-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingskamer. Schade door bodembeweging als gevolg van gaswinning. Waardedaling agrarisch onroerend goed. Immateriële schade",
+   "source": "civiel",
+   "first_seen": "2019-06-18T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "gaswinning"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Eiser vordert ruim € 1.000.000,00 van NAM, in verband met schade die hij stelt te hebben geleden als gevolg van door gaswinning… (ECLI:NL:RBNNE:2019:2616)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:2616",
+   "date": "2019-06-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser vordert ruim € 1.000.000,00 van NAM, in verband met schade die hij stelt te hebben geleden als gevolg van door gaswinning geïnduceerde bodembewegingen. Ook vordert eiser smartengeld. De rechtbank moet vaststellen dat eiser gedurende de gehele procedure heeft nagelaten zijn schade voldoende te onderbouwen. Naar oordeel van de rechtbank had dat - betrekkelijk - eenvoudig gekund, bijvoorbeeld d",
+   "source": "civiel",
+   "first_seen": "2019-06-18T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "gaswinning"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Aansluitplicht van Liander als netbeheerder op grond van artikel 23 Elektriciteitswet ter discussie. Vraag of in geval als… (ECLI:NL:RBGEL:2019:2582)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:2582",
+   "date": "2019-06-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aansluitplicht van Liander als netbeheerder op grond van artikel 23 Elektriciteitswet ter discussie. Vraag of in geval als dit, waarin sprake is van een zonnepark dat zich uitstrekt over twee gemeenten en waarin de exploitant van het park van beide gemeenten ieder afzonderlijk een WOZ-beschikking ontvangt maar waarin de eigendom en de exploitatie van het park feitelijk in één hand zij",
+   "source": "civiel",
+   "first_seen": "2019-06-11T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Energieovereenkomst. Ambtshalve toetsing. Overeenkomst gesloten via een deur-tot-deur-actie. Niet voldaan aan de wettelijke… (ECLI:NL:RBOVE:2019:4959)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:4959",
+   "date": "2019-06-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieovereenkomst. Ambtshalve toetsing. Overeenkomst gesloten via een deur-tot-deur-actie. Niet voldaan aan de wettelijke informatieverplichtingen van artikel 6:230m BW en artikel 6:230t BW. De vordering wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-01-22T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
+  },
   {
    "title": "Rechtbank Den Haag: Afwijzing machtiging ex artikel 3:299 Bw jo 558 a Rv tot opnemen meters en onderbreken leverantie. Toewijzing vordering gedogen van de… (ECLI:NL:RBDHA:2019:5288)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:5288",
