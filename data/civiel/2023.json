@@ -10,10 +10,161 @@
   "2023-07",
   "2023-08",
   "2023-09",
-  "2023-10"
+  "2023-10",
+  "2023-11"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; koop anderszins (ECLI:NL:RBLIM:2023:7049)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:7049",
+   "date": "2023-11-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; koop en ruil; koop anderszins",
+   "source": "civiel",
+   "first_seen": "2023-12-04T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Koper heeft van verkoper ongeveer 44.000 warmteafleversets gekocht die door koper in woningen van haar klanten zijn geplaatst. Koper… (ECLI:NL:RBGEL:2023:6757)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6757",
+   "date": "2023-11-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Koper heeft van verkoper ongeveer 44.000 warmteafleversets gekocht die door koper in woningen van haar klanten zijn geplaatst. Koper spreekt verkoper aan omdat de sets ondeugdelijk zouden zijn. Verkoper stelt dat er sterke aanwijzingen zijn dat externe factoren (waaronder ondeugdelijke installatie van de warmteafleversets) de oorzak van de klachten zijn geweest. Verkoper vordert ogv art. 843 a Rv ",
+   "source": "civiel",
+   "first_seen": "2023-12-13T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: opzegging duurovereenkomst (ECLI:NL:GHSHE:2023:3982)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:3982",
+   "date": "2023-11-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "opzegging duurovereenkomst",
+   "source": "civiel",
+   "first_seen": "2023-11-28T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Overijssel: Kort geding. Zogenoemd kop-staart vonnis. De dwangom die is opgelegd in een eerder kort geding vonnis wordt verhoogd. Ook op het… (ECLI:NL:RBOVE:2023:4787)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:4787",
+   "date": "2023-11-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Zogenoemd kop-staart vonnis. De dwangom die is opgelegd in een eerder kort geding vonnis wordt verhoogd. Ook op het (ver)hinderen van de werkzaamheden aan de hoogspanningslijn door Tennet wordt nu een dwangsom gezet.",
+   "source": "civiel",
+   "first_seen": "2023-11-24T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Elektriciteitszaak. Art. 23 en 24 E-wet. Verzoek om aansluiting voorzien van benodigd transportvermogen op straffe van… (ECLI:NL:RBGEL:2023:6730)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6730",
+   "date": "2023-11-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Elektriciteitszaak. Art. 23 en 24 E-wet. Verzoek om aansluiting voorzien van benodigd transportvermogen op straffe van dwangsom afgewezen. Onvoldoende transportcapaciteit totdat netbeheerder de geplande netuitbreiding heeft kunnen realiseren.",
+   "source": "civiel",
+   "first_seen": "2023-12-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Consumentenkoop. Bestelknop voldoet niet. Vernietiging van de overeenkomst. Vergoeding voor geleverde elektriciteit en gas (ECLI:NL:RBROT:2023:11296)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11296",
+   "date": "2023-11-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenkoop. Bestelknop voldoet niet. Vernietiging van de overeenkomst. Vergoeding voor geleverde elektriciteit en gas.",
+   "source": "civiel",
+   "first_seen": "2023-12-04T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: proceskosten (ECLI:NL:RBZWB:2023:8050)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8050",
+   "date": "2023-11-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "proceskosten",
+   "source": "civiel",
+   "first_seen": "2023-11-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Verbintenissenrecht. Gedaagde moet facturen voor levering van energie aan eiser betalen. Jaarcontract is stilzwijgend verlengd. Eiser mocht… (ECLI:NL:RBZWB:2023:7991)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:7991",
+   "date": "2023-11-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht. Gedaagde moet facturen voor levering van energie aan eiser betalen. Jaarcontract is stilzwijgend verlengd. Eiser mocht daarna conform haar algemene voorwaarden variabel tarief bij gedaagde in rekening brengen. Niet komt vast te staan dat partijen zijn overeengekomen dat eiser tijdig een scherp verlengingsvoorstel aan gedaagde zou doen.",
+   "source": "civiel",
+   "first_seen": "2023-11-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Aanbesteding. Geen wezenlijke wijziging van de opdracht (ECLI:NL:GHARL:2023:9659)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:9659",
+   "date": "2023-11-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanbesteding. Geen wezenlijke wijziging van de opdracht.",
+   "source": "civiel",
+   "first_seen": "2023-11-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Afwijzing eis tot betaling van schadevergoeding o.g.v. onrechtmatige daad (lekkage in woning) (ECLI:NL:RBROT:2023:12148)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12148",
+   "date": "2023-11-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afwijzing eis tot betaling van schadevergoeding o.g.v. onrechtmatige daad (lekkage in woning).",
+   "source": "civiel",
+   "first_seen": "2023-12-21T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Oplevering zonnepark. Nakoming overeenkomst. Taalkundige betekenis bewoordingen. Artikel 21 Rv (ECLI:NL:RBROT:2023:10829)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10829",
+   "date": "2023-11-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Oplevering zonnepark. Nakoming overeenkomst. Taalkundige betekenis bewoordingen. Artikel 21 Rv.",
+   "source": "civiel",
+   "first_seen": "2023-11-20T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Energiemaatschappij heeft facturen gestuurd die onbetaald blijven. Ontvangst van facturen, verjaring en stuiting (ECLI:NL:RBZWB:2023:8059)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8059",
+   "date": "2023-11-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energiemaatschappij heeft facturen gestuurd die onbetaald blijven. Ontvangst van facturen, verjaring en stuiting.",
+   "source": "civiel",
+   "first_seen": "2023-11-21T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: Enexis had in juni 2022 gedaagde attent gemaakt dat hij dient te zorgen voor een overeenkomst met een gasleverancier voor de levering van… (ECLI:NL:RBOVE:2023:4613)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:4613",
+   "date": "2023-11-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Enexis had in juni 2022 gedaagde attent gemaakt dat hij dient te zorgen voor een overeenkomst met een gasleverancier voor de levering van gas in zijn woning. Gedaagde heeft pas tijdens deze procedure weer een gasovereenkomst gesloten. Gedaagde zal daarom worden veroordeeld in de proceskosten.",
+   "source": "civiel",
+   "first_seen": "2023-11-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: “Aardbevingszaak. Toepassing en beoordelingskader weerlegging wettelijk bewijsvermoeden (artikel 6:177a BW). De schadevordering van eiser… (ECLI:NL:RBNNE:2023:5395)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:5395",
+   "date": "2023-11-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "“Aardbevingszaak. Toepassing en beoordelingskader weerlegging wettelijk bewijsvermoeden (artikel 6:177a BW). De schadevordering van eiser wordt na deskundigenbericht afgewezen. De kosten van de deskundige worden voor rekening van NAM gelaten.”",
+   "source": "civiel",
+   "first_seen": "2024-01-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Incident in renvooiprocedure 'Julietta D'- vordering voeging van belanghebbende in beperkingsprocedure toegewezen - voegingsverbod 642r lid… (ECLI:NL:RBROT:2023:10192)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10192",
+   "date": "2023-11-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incident in renvooiprocedure 'Julietta D'- vordering voeging van belanghebbende in beperkingsprocedure toegewezen - voegingsverbod 642r lid 4 Rv niet van toepassing - geen misbruik van (proces)recht",
+   "source": "civiel",
+   "first_seen": "2023-11-03T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Overijssel: De rechtbank veroordeelt de gedaagde om toe te laten en de te dulden dat Tennet ten behoeve van de uitvoering van werkzaamheden aan de… (ECLI:NL:RBOVE:2023:4234)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:4234",
