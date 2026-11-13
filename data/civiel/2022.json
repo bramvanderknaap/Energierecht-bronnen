@@ -9,10 +9,141 @@
   "2022-06",
   "2022-07",
   "2022-08",
-  "2022-09"
+  "2022-09",
+  "2022-10"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Gelderland: Kort Geding Tarievencode elektriciteit. Deelmarktgrenzen. Gecontracteerd transportvermogen niet beperkt. Liander moet gecontracteerd… (ECLI:NL:RBGEL:2022:5906)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:5906",
+   "date": "2022-10-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort Geding Tarievencode elektriciteit. Deelmarktgrenzen. Gecontracteerd transportvermogen niet beperkt. Liander moet gecontracteerd transportvermogen levering en teruglevering elektriciteit gestand doen.",
+   "source": "civiel",
+   "first_seen": "2022-10-19T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Schade tijdens graafwerkzaamheden. Verplichting tot lokaliseren van gestuurde boring op grond van CROW500? Aanvullende vragen aan de… (ECLI:NL:RBROT:2022:8576)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:8576",
+   "date": "2022-10-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schade tijdens graafwerkzaamheden. Verplichting tot lokaliseren van gestuurde boring op grond van CROW500? Aanvullende vragen aan de deskundige.",
+   "source": "civiel",
+   "first_seen": "2022-10-17T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Niet gebleken is dat de eisende partij een overeenkomst is aangegaan met de gedaagde partij, zodat naar het oordeel van de kantonrechter… (ECLI:NL:RBNHO:2022:9259)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:9259",
+   "date": "2022-10-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Niet gebleken is dat de eisende partij een overeenkomst is aangegaan met de gedaagde partij, zodat naar het oordeel van de kantonrechter niet kan worden vastgesteld dat de eisende partij de juiste partij gedagvaard heeft. Niet-ontvankelijk.",
+   "source": "civiel",
+   "first_seen": "2022-10-19T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vrijwaringsincident (ECLI:NL:RBROT:2022:9289)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:9289",
+   "date": "2022-10-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vrijwaringsincident",
+   "source": "civiel",
+   "first_seen": "2022-11-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Afwijzing vordering tot onderbreking energieaansluitingen en betaling van afsluitkosten en schadevergoeding. Op basis van de… (ECLI:NL:RBAMS:2022:5806)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:5806",
+   "date": "2022-10-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afwijzing vordering tot onderbreking energieaansluitingen en betaling van afsluitkosten en schadevergoeding. Op basis van de huurovereenkomst(en) met de oude verhuurder hebben partijen kennelijk bedoeld om een huurprijs inclusief de kosten voor gas en elektra overeen te komen. Liander heeft onvoldoende over het voetlicht weten te brengen dat de huurder, en niet de nieuwe verhuurder, is te beschouw",
+   "source": "civiel",
+   "first_seen": "2022-10-11T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: afwijzing buitengerechtelijke kosten (ECLI:NL:RBROT:2022:8367)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:8367",
+   "date": "2022-10-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "afwijzing buitengerechtelijke kosten",
+   "source": "civiel",
+   "first_seen": "2022-10-07T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Consument onvolledig geïnformeerd over nieuwe leveringsovereenkomst energie, na faillissement leverancier. Consument heeft de nieuwe… (ECLI:NL:RBAMS:2022:6001)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:6001",
+   "date": "2022-10-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consument onvolledig geïnformeerd over nieuwe leveringsovereenkomst energie, na faillissement leverancier. Consument heeft de nieuwe overeenkomst niet geaccepteerd, zodat de overeenkomst zoals die gold bij failliete leverancier is doorgelopen. Nieuwe leverancier moet daaraan uitvoering geven. Door verstrekking onjuiste informatie is sprake van een oneerlijke handelspraktijk. De consument hoeft nie",
+   "source": "civiel",
+   "first_seen": "2022-10-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Grondroerderszaak, verplichtingen netbeheerder (ECLI:NL:RBROT:2022:8458)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:8458",
+   "date": "2022-10-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Grondroerderszaak, verplichtingen netbeheerder",
+   "source": "civiel",
+   "first_seen": "2022-10-12T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Consument onvolledig geïnformeerd over nieuwe leveringsovereenkomst energie, na faillissement leverancier. Redelijkerwijs aannemelijk dat… (ECLI:NL:RBAMS:2022:6000)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:6000",
+   "date": "2022-10-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consument onvolledig geïnformeerd over nieuwe leveringsovereenkomst energie, na faillissement leverancier. Redelijkerwijs aannemelijk dat gedaagde de overeenkomst met nieuwe leverancier niet zo was overeengekomen indien de juiste informatie was verstrekt. Dat betekent dat de overeenkomst als gevolg van een oneerlijke handelspraktijk tot stand is gekomen en derhalve vernietigbaar is.",
+   "source": "civiel",
+   "first_seen": "2022-10-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vordering intrekking gunningsbesluit / heraanbesteding afgewezen. Kritiek op beordelingssystematiek had in een eerder stadium moeten… (ECLI:NL:RBROT:2022:8339)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:8339",
+   "date": "2022-10-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering intrekking gunningsbesluit / heraanbesteding afgewezen. Kritiek op beordelingssystematiek had in een eerder stadium moeten plaatsvinden. Geen gebrekkige motivering besluit. Beperkt toetsingskader beoordeling kwalitatieve criteria.",
+   "source": "civiel",
+   "first_seen": "2022-10-06T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Zoutwinning. Schade aan woning. Betekenis van rapport adviescommissie. Moet er sprake zijn van een eensluidend advies van de leden van de… (ECLI:NL:RBNNE:2022:3627)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2022:3627",
+   "date": "2022-10-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Zoutwinning. Schade aan woning. Betekenis van rapport adviescommissie. Moet er sprake zijn van een eensluidend advies van de leden van de commissie om Nedmag aan het rapport te houden?",
+   "source": "civiel",
+   "first_seen": "2022-10-10T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Consumentenrecht. Vernietiging overeenkomst, voor zover die tot stand is gekomen, omdat op de betaalknop niet duidelijk vermeld stond dat… (ECLI:NL:RBLIM:2022:7668)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:7668",
+   "date": "2022-10-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenrecht. Vernietiging overeenkomst, voor zover die tot stand is gekomen, omdat op de betaalknop niet duidelijk vermeld stond dat een betalingsverplichting werd aangegaan. Partijen niet in de gelegenheid gesteld zich hierover uit te laten, omdat de handelaar zich hierover bij dagvaarding al had uitgelaten en de consument in het gelijk wordt gesteld en dus niet in zijn belangen wordt gescha",
+   "source": "civiel",
+   "first_seen": "2022-10-06T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Mondeling vonnis. Niet vast is komen te staan dat een energieovereenkomst is gesloten met gedaagden (ECLI:NL:RBAMS:2022:6026)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:6026",
+   "date": "2022-10-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Mondeling vonnis. Niet vast is komen te staan dat een energieovereenkomst is gesloten met gedaagden.",
+   "source": "civiel",
+   "first_seen": "2022-10-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Energieleverancier dient opdracht aan netbeheerder te verstrekken tot ijken van meetinrichting. Energieverbruik na plaatsing… (ECLI:NL:RBROT:2022:9449)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:9449",
