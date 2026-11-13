@@ -8,10 +8,251 @@
   "2024-05",
   "2024-06",
   "2024-07",
-  "2024-08"
+  "2024-08",
+  "2024-09"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Energielevering, openstaande termijnbedragen (ECLI:NL:RBROT:2024:9763)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9763",
+   "date": "2024-09-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energielevering, openstaande termijnbedragen",
+   "source": "civiel",
+   "first_seen": "2024-10-08T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Onbetaald gelaten facturen voor geleverde elektriciteit; toewijzing hoofdvordering (ECLI:NL:RBROT:2024:11979)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:11979",
+   "date": "2024-09-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onbetaald gelaten facturen voor geleverde elektriciteit; toewijzing hoofdvordering.",
+   "source": "civiel",
+   "first_seen": "2024-12-02T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vervolg op ECLI:NL:RBROT:2023:9629 Brand in biogasinstallatie. Verlies van (deel van) dekking onder de brandverzekering door fouten van de… (ECLI:NL:RBROT:2024:9348)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9348",
+   "date": "2024-09-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:RBROT:2023:9629 Brand in biogasinstallatie. Verlies van (deel van) dekking onder de brandverzekering door fouten van de assurantietussenpersoon en de beursmakelaar. Schadebegroting. Belang van akte van taxatie van experts van de verzekeraars en de benadeelde. Uitleg van verzekeringsovereenkomst. Voordeelstoerekening. Vrijwaring",
+   "source": "civiel",
+   "first_seen": "2024-09-24T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Koop van bouwkavel. Daarin blijken op een onverwachte plaats 10.000 Volt elektriciteitskabels te liggen (de kabels waren niet aangegeven op… (ECLI:NL:RBROT:2024:9493)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9493",
+   "date": "2024-09-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Koop van bouwkavel. Daarin blijken op een onverwachte plaats 10.000 Volt elektriciteitskabels te liggen (de kabels waren niet aangegeven op de aan de koopovereenkomst gehechte situatietekening). Op de kabels is inmiddels een woning gebouwd. Omvat het opstalrecht van nutsbedrijf Stedin ook deze kabels? Rb. beantwoordt die vraag bevestigend. Rb. acht Stedin niet aansprakelijk om reden dat deze geen ",
+   "source": "civiel",
+   "first_seen": "2024-09-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Er is energie afgenomen in de periode waarin gedaagde geen energiecontract met een energieleverancier had. Eisende partij, als… (ECLI:NL:RBOVE:2024:5023)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5023",
+   "date": "2024-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Er is energie afgenomen in de periode waarin gedaagde geen energiecontract met een energieleverancier had. Eisende partij, als netbeheerder, heeft daardoor schade geleden. Deze schade moet gedaagde vergoeden.",
+   "source": "civiel",
+   "first_seen": "2024-09-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Bestuurder van B.V. aansprakelijk voor illegaal afnemen van gas door B.V (ECLI:NL:GHDHA:2024:1619)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1619",
+   "date": "2024-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bestuurder van B.V. aansprakelijk voor illegaal afnemen van gas door B.V.",
+   "source": "civiel",
+   "first_seen": "2024-09-16T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Overeenkomst voor 31 jaar. Nakomingsvordering na buitengerechtelijke ontbinding. Overmacht. Volstaat de tekortkoming in deze… (ECLI:NL:RBROT:2024:9374)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9374",
+   "date": "2024-09-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Overeenkomst voor 31 jaar. Nakomingsvordering na buitengerechtelijke ontbinding. Overmacht. Volstaat de tekortkoming in deze omstandigheden? Vordering te weinig concreet. Afwijzing ondanks belangenafweging.",
+   "source": "civiel",
+   "first_seen": "2024-09-24T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Vordering van ruim 1000 consumenten tegen Eneco. Beslissing tot splitsing in individuele zaken, omdat geen zodanige samenhang bestaat dat… (ECLI:NL:RBAMS:2024:5769)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:5769",
+   "date": "2024-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering van ruim 1000 consumenten tegen Eneco. Beslissing tot splitsing in individuele zaken, omdat geen zodanige samenhang bestaat dat redenen van doelmtigheid een gezamenlijke behandeling wettigen. Na splitsing verwijzing van het grootste deel van de zaken naar de relatief bevoegde rechtbank.",
+   "source": "civiel",
+   "first_seen": "2024-09-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Eiseres is een bedrijf dat via haar distributienetwerk restwarmte en rest-CO2 levert voor de glastuinbouw in Zeeuws-Vlaanderen. Gedaagde is… (ECLI:NL:RBROT:2024:8728)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:8728",
+   "date": "2024-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres is een bedrijf dat via haar distributienetwerk restwarmte en rest-CO2 levert voor de glastuinbouw in Zeeuws-Vlaanderen. Gedaagde is een paprikateler. Eiseres heeft facturen van gedaagde onbetaald gelaten. Gedaagde heeft op enig moment overwogen om haar paprikateelt in X uit te breiden maar zij wilde er wél eerst zeker van zijn dat zij aan eiseres een marktconforme energieprijs betaalde. Pa",
+   "source": "civiel",
+   "first_seen": "2024-09-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Vervolg op ECLI:NL:RBAMS:2024:2221. In het tussenvonnis is overwogen dat de energiecontracten van eisers worden vernietiging op grond van… (ECLI:NL:RBAMS:2024:5412)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:5412",
+   "date": "2024-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:RBAMS:2024:2221. In het tussenvonnis is overwogen dat de energiecontracten van eisers worden vernietiging op grond van dwaling. Als gevolg daarvan is hetgeen partijen over en weer hebben gepresteerd onverschuldigd betaald. De geleverde energie wordt gewaardeerd tegen de vaste prijs van het eerdere contract dat eisers hadden. Ook komt hen een schadevergoeding toe wegens onrechtma",
+   "source": "civiel",
+   "first_seen": "2024-09-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gedaagde heeft gas afgenomen van het net van Stedin zonder dat gedaagde daar recht op had volgens een overeenkomst met een leverancier.… (ECLI:NL:RBMNE:2024:5400)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5400",
+   "date": "2024-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde heeft gas afgenomen van het net van Stedin zonder dat gedaagde daar recht op had volgens een overeenkomst met een leverancier. Stedin vordert - na eisverminder - een schadevergoeding van €75,00 op grond van onrechtmatige daad. De vordering van Stedin wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2024-09-11T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Na eisvermindering vordert eiseres buitengerechtelijke incassokosten van gedaagde; omdat gedaagde voorafgaand aan de procedure vrijwillig… (ECLI:NL:RBMNE:2024:5387)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5387",
+   "date": "2024-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Na eisvermindering vordert eiseres buitengerechtelijke incassokosten van gedaagde; omdat gedaagde voorafgaand aan de procedure vrijwillig bereid was om mee te werken aan de afsluiting van de energieaansluiting, zijn de buitengerechtelijke incassokosten niet in redelijkheid door eiseres gemaakt; de vordering van eiseres wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2024-09-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Gedaagde handelt niet onrechtmatig en is niet tekortgeschoten jegens de VvE door voor levering van elektriciteit het commerciële DB-tarief… (ECLI:NL:OGEAA:2024:213)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2024:213",
+   "date": "2024-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde handelt niet onrechtmatig en is niet tekortgeschoten jegens de VvE door voor levering van elektriciteit het commerciële DB-tarief toe te passen, een tarief dat van toepassing is op condominiumgebouwen als die van de VvE, en niet het goedkopere A-tarief. De VvE heeft destijds bewust gekozen voor dit tarief en ook bij het aangaan van een nieuwe overeenkomst voortgezet. Elmar mag (technische",
+   "source": "civiel",
+   "first_seen": "2024-10-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Huurrecht. WKO-installatie (ECLI:NL:RBNHO:2024:12786)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:12786",
+   "date": "2024-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurrecht. WKO-installatie.",
+   "source": "civiel",
+   "first_seen": "2024-12-11T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Niet voldaan aan informatieverplichting van artikel 6:230m BW. Geen beroep op uitzonderingsbepaling van artikel 3c lid 2 sub b Warmtewet (ECLI:NL:RBNNE:2024:5355)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:5355",
+   "date": "2024-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Niet voldaan aan informatieverplichting van artikel 6:230m BW. Geen beroep op uitzonderingsbepaling van artikel 3c lid 2 sub b Warmtewet.",
+   "source": "civiel",
+   "first_seen": "2025-05-26T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Huurder betaalt maandelijks investerings- en onderhoudskosten WKO-installatie aan derde (exploitant). Onroerende aanhorigheid. Geen… (ECLI:NL:GHARL:2024:5745)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:5745",
+   "date": "2024-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurder betaalt maandelijks investerings- en onderhoudskosten WKO-installatie aan derde (exploitant). Onroerende aanhorigheid. Geen grondslag voor draagplicht of vergoedingsplicht verhuurder van deze kosten. Strekking ECLI:NL:HR:2022:61 (Acantus).",
+   "source": "civiel",
+   "first_seen": "2024-09-10T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Uitleg bonusbepaling in Share Purchase Agreement (SPA). Haviltex (ECLI:NL:GHAMS:2024:2567)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2567",
+   "date": "2024-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg bonusbepaling in Share Purchase Agreement (SPA). Haviltex.",
+   "source": "civiel",
+   "first_seen": "2024-09-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Aansprakelijkheid netbeheerder voor brandschade ontstaan in de huisaansluitingskast in de meterkast. Subrogatie en verhaal verzekeraar.… (ECLI:NL:GHDHA:2024:1518)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1518",
+   "date": "2024-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansprakelijkheid netbeheerder voor brandschade ontstaan in de huisaansluitingskast in de meterkast. Subrogatie en verhaal verzekeraar. Beroep netbeheerder op aansprakelijkheidsbeperking in algemene voorwaarden slaagt: beperking is niet onredelijk bezwarend of naar maatstaven van redelijkheid en billijkheid onaanvaardbaar. Netbeheerder gehouden om de (interne en externe) expertisekosten van de ver",
+   "source": "civiel",
+   "first_seen": "2024-08-29T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Gemeente doet rechtsgeldig beroep op de uitzondering uit het Didam-arrest van de Hoge Raad (ECLI:NL:HR:2021:1778) en mag kavel aan Liander… (ECLI:NL:RBNHO:2024:10221)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:10221",
+   "date": "2024-09-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gemeente doet rechtsgeldig beroep op de uitzondering uit het Didam-arrest van de Hoge Raad (ECLI:NL:HR:2021:1778) en mag kavel aan Liander verkopen. Liander is de enige netbeheerder en oogmerk voor de verkoop was het verzwaren van het stroomnetwerk dmv plaatsing van een elektriciteitsstation. Geen mededingsruimte, Liander enige serieuze gegadigde.",
+   "source": "civiel",
+   "first_seen": "2024-10-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Vordering (in conventie) van klant tot betaling door energieleverancier van teruggave in eindafrekening die is berekend op basis van… (ECLI:NL:RBAMS:2024:5757)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:5757",
+   "date": "2024-09-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering (in conventie) van klant tot betaling door energieleverancier van teruggave in eindafrekening die is berekend op basis van geschatte meterstanden. Ook vordert klant € 10.000 aan teveel betaalde energie in voorgaande jaren. Klant heeft in die jaren geen meterstanden doorgegeven. Na ontvangst foto's van werkelijke meterstanden van nieuwe energieleverancier wordt eindafrekening vervangen. O",
+   "source": "civiel",
+   "first_seen": "2024-09-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Vordering tot vernietiging van algemene voorwaarden met betrekking tot een voorschotbedrag voor de energielevering en een beperking van de… (ECLI:NL:RBMNE:2024:5255)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5255",
+   "date": "2024-09-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot vernietiging van algemene voorwaarden met betrekking tot een voorschotbedrag voor de energielevering en een beperking van de bevoegdheid om te verrekenen. Nu bij het voorschotbedrag sprake is van een algemeen gebruik, is geen sprake van een oneerlijk beding. Het verrekeningsbeding is wel oneerlijk, omdat de handelaar geen tegenbewijs heeft geleverd tegen het beding op de grijze lijst",
+   "source": "civiel",
+   "first_seen": "2024-09-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Op grond van artikel 4 lid 3 van de leveringsakte moeten eisers een netbeheervergoeding betalen aan gedaagde voor de aanleg en het… (ECLI:NL:RBMNE:2024:5263)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5263",
+   "date": "2024-09-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Op grond van artikel 4 lid 3 van de leveringsakte moeten eisers een netbeheervergoeding betalen aan gedaagde voor de aanleg en het instandhouden van het recreatienet (elektriciteits- en gasnet op recreatiepark). Dat beding is nietig. In beginsel hebben eisers deze vergoeding daarom onverschuldigd betaald aan gedaagde, tenzij de vergoeding redelijk was ter vergoeding van de werkelijke kosten die ge",
+   "source": "civiel",
+   "first_seen": "2024-09-04T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Den Haag: ENGIE heeft van 2013 tot 2016 belasting betaald voor het verbruik van kolen waarmee zij destijds in haar kolencentrales elektriciteit… (ECLI:NL:RBDHA:2024:13982)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:13982",
+   "date": "2024-09-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ENGIE heeft van 2013 tot 2016 belasting betaald voor het verbruik van kolen waarmee zij destijds in haar kolencentrales elektriciteit opwekte. In 2018 heeft de Hoge Raad in een fiscale procedure de bezwaren van ENGIE tegen de heffing van die kolenbelasting definitief verworpen. In 2023 heeft het Hof van Justitie van de Europese Unie in het arrest Endesa prejudiciële vragen beantwoord over de uitle",
+   "source": "civiel",
+   "first_seen": "2024-09-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Belemmeringenwet Privaatrecht. Gedoogbeschikking van de Minister waarmee aan agrariër de plicht wordt opgelegd tot het gedogen van aanleg… (ECLI:NL:GHAMS:2024:2377)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2377",
+   "date": "2024-09-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet Privaatrecht. Gedoogbeschikking van de Minister waarmee aan agrariër de plicht wordt opgelegd tot het gedogen van aanleg van middenspanningsverbindingen t.b.v. elektriciteitsnet in zijn percelen. Beperkt toetsingskader. Onevenredige belemmering in het gebruik van de percelen?",
+   "source": "civiel",
+   "first_seen": "2024-09-03T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Rotterdam: Uitspraak in een Regelrechterzaak over een energiecontract (ECLI:NL:RBROT:2024:9292)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9292",
