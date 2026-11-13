@@ -2,10 +2,171 @@
  "jaar": 2022,
  "maanden": [
   "2022-01",
-  "2022-02"
+  "2022-02",
+  "2022-03"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Den Haag: Kort geding. Mondeling vonnis 30p Rv. Meewerken verkoop woning. De man krijgt eerst de gelegenheid om de woning over te nemen (ECLI:NL:RBDHA:2022:2964)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:2964",
+   "date": "2022-03-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Mondeling vonnis 30p Rv. Meewerken verkoop woning. De man krijgt eerst de gelegenheid om de woning over te nemen.",
+   "source": "civiel",
+   "first_seen": "2022-04-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomt tot realisatie van kraanopstelplaatsen ten behoeve van windmolenpark. Toepasselijkheid Uniforme Administratieve Voorwaarden… (ECLI:NL:RBROT:2022:2419)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:2419",
+   "date": "2022-03-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomt tot realisatie van kraanopstelplaatsen ten behoeve van windmolenpark. Toepasselijkheid Uniforme Administratieve Voorwaarden voor Geïntegreerde Contractvormen 2005 (UAV-GC 2005). Uitleg overeenkomst. Betekenis vraagspecificatie.",
+   "source": "civiel",
+   "first_seen": "2022-03-31T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Onbetaalde facturen. Leveranciersverrekening. Geschatte meterstanden (ECLI:NL:GHARL:2022:2380)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:2380",
+   "date": "2022-03-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onbetaalde facturen. Leveranciersverrekening. Geschatte meterstanden.",
+   "source": "civiel",
+   "first_seen": "2022-03-29T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Kort geding. Tegenvordering. Agentuurovereenkomst. Nader feiten onderzoek nodig. 843a Rv. Opheffen beslag (ECLI:NL:RBLIM:2022:2451)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:2451",
+   "date": "2022-03-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Tegenvordering. Agentuurovereenkomst. Nader feiten onderzoek nodig. 843a Rv. Opheffen beslag.",
+   "source": "civiel",
+   "first_seen": "2022-03-29T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: Vordering eiseres tot aansluiten nieuw verworven locaties onder bestaande gasleveringsovereenkomst afgewezen. Eiseres heeft onvoldoende… (ECLI:NL:RBDHA:2022:2718)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:2718",
+   "date": "2022-03-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering eiseres tot aansluiten nieuw verworven locaties onder bestaande gasleveringsovereenkomst afgewezen. Eiseres heeft onvoldoende spoedeisend belang bij haar vordering en er is sprake van een niet onaanzienlijk restitutierisico. Ook op inhoudelijke gronden strandt de vordering. Gedaagde heeft de vordering gemotiveerd weersproken en gelet op haar verweren dient de overeenkomst te worden uitge",
+   "source": "civiel",
+   "first_seen": "2022-03-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kort geding; voortgezet gebruiik gedeelde nutsvoorzieningen (met hoofdaansluitingen op perceel van de ander) beperkt toegewezen (ECLI:NL:RBDHA:2022:2979)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:2979",
+   "date": "2022-03-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding; voortgezet gebruiik gedeelde nutsvoorzieningen (met hoofdaansluitingen op perceel van de ander) beperkt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2022-04-01T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Huur woonruimte; geliberaliseerde huur; huurprijsvermindering wegens gebreken; oplevering bij einde huur; retournering waarborgsom (ECLI:NL:RBMNE:2022:1192)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:1192",
+   "date": "2022-03-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huur woonruimte; geliberaliseerde huur; huurprijsvermindering wegens gebreken; oplevering bij einde huur; retournering waarborgsom.",
+   "source": "civiel",
+   "first_seen": "2022-03-30T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Contradictoir/tussenvonnis. Elektriciteitswet. Een zonneparkbeheerder vordert schadevergoeding van de netbeheerder wegens het niet tijdig… (ECLI:NL:RBOBR:2022:1032)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:1032",
+   "date": "2022-03-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Contradictoir/tussenvonnis. Elektriciteitswet. Een zonneparkbeheerder vordert schadevergoeding van de netbeheerder wegens het niet tijdig aansluiten van het park op het net. Wettelijke aansluittermijn van 18 weken van artikel 23 E-wet overschreden. Langere contractuele aansluittermijn ook overschreden. Beroep op overmacht en artikel 23 E-wet. Exoneratiebeding en artikel 26a E-wet. Beroep op artike",
+   "source": "civiel",
+   "first_seen": "2022-03-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Eiseres vordert een opzegvergoeding van gedaagden voor het voortijdig beëindigen van de overeenkomst tot levering van energie. Zij baseert… (ECLI:NL:RBOVE:2022:929)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2022:929",
+   "date": "2022-03-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres vordert een opzegvergoeding van gedaagden voor het voortijdig beëindigen van de overeenkomst tot levering van energie. Zij baseert deze vordering op een bepaling uit haar algemene leveringsvoorwaarden. Naar het oordeel van de kantonrechter heeft eiseres niet voldoende aannemelijk gemaakt dat de leveringsvoorwaarden vóór of bij het sluiten van de overeenkomst ter hand zijn gesteld aan gedaa",
+   "source": "civiel",
+   "first_seen": "2022-04-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Op grond van art. 31c lid 1 Electriciteitswet dient de salderingsregeling aldus te worden toegepast dat als een bepaald bedrag per… (ECLI:NL:GHAMS:2022:879)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:879",
+   "date": "2022-03-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Op grond van art. 31c lid 1 Electriciteitswet dient de salderingsregeling aldus te worden toegepast dat als een bepaald bedrag per afgenomen kWh in rekening wordt gebracht, dat zelfde bedrag (in casu € 0,27 per kWh) ook moet worden vergoed per teruggeleverd kWh.",
+   "source": "civiel",
+   "first_seen": "2022-03-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Tussenvonnis. Niet betaalde facturen bij energiecontract. Ambtshalve toetsing wijst uit dat niet is voldaan aan informatieverplichtingen.… (ECLI:NL:RBROT:2022:7771)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:7771",
+   "date": "2022-03-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Niet betaalde facturen bij energiecontract. Ambtshalve toetsing wijst uit dat niet is voldaan aan informatieverplichtingen. Eiseres mag reageren op voornemen van kantonrechter om betalingsverplichting te verminderen.",
+   "source": "civiel",
+   "first_seen": "2022-09-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Tussenvonnis. Afrekening energielevering middels een WKO (warmte- en koudeopslag) vanaf 2012. Deels rechtsverwerking. Vaststelling tarief.… (ECLI:NL:RBGEL:2022:1338)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:1338",
+   "date": "2022-03-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Afrekening energielevering middels een WKO (warmte- en koudeopslag) vanaf 2012. Deels rechtsverwerking. Vaststelling tarief. Warmtewet niet van toepassing.",
+   "source": "civiel",
+   "first_seen": "2022-03-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: vordering in conventie wordt afgewezen, ei heeft leveringsovereenkomst ten onrechte vroegtijdig beëindigd, gedaagde heeft zich aan de… (ECLI:NL:RBROT:2022:1779)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:1779",
+   "date": "2022-03-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "vordering in conventie wordt afgewezen, ei heeft leveringsovereenkomst ten onrechte vroegtijdig beëindigd, gedaagde heeft zich aan de afspraken gehouden. reconventie wordt afgewezen, geen onderbouwing",
+   "source": "civiel",
+   "first_seen": "2022-03-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding – vordering levering afvalhout toegewezen, ondanks gestegen markprijzen en enorme schaarste. Beroep overmacht, onvoorziene… (ECLI:NL:RBROT:2022:7175)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:7175",
+   "date": "2022-03-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding – vordering levering afvalhout toegewezen, ondanks gestegen markprijzen en enorme schaarste. Beroep overmacht, onvoorziene omstandigheden en opschorting slaagt niet.",
+   "source": "civiel",
+   "first_seen": "2022-08-25T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Belang van een van de appellanten bij het voeren van een procedure tegen geïntimeerden, art. 6:10 BW. Kunnen advocaatkosten en proceskosten… (ECLI:NL:GHDHA:2022:320)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:320",
+   "date": "2022-03-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belang van een van de appellanten bij het voeren van een procedure tegen geïntimeerden, art. 6:10 BW. Kunnen advocaatkosten en proceskosten indirect ten laste worden gebracht van de winnende partij?",
+   "source": "civiel",
+   "first_seen": "2022-03-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Aangekondigd deskundigenbericht. Gebreken aan hybride installatie (warmtepomp en zonnepanelen) ten behoeve van woning. Tevens klachten over… (ECLI:NL:RBGEL:2022:930)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:930",
+   "date": "2022-03-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aangekondigd deskundigenbericht. Gebreken aan hybride installatie (warmtepomp en zonnepanelen) ten behoeve van woning. Tevens klachten over rendement installatie.",
+   "source": "civiel",
+   "first_seen": "2022-02-22T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Rotterdam: energieleveringsovereenkomst; ambtshalve toetsing; gedaagden niet correct gewezen op wettelijk ontbinding-/herroepingsrecht; geen kosten… (ECLI:NL:RBROT:2022:2469)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:2469",
