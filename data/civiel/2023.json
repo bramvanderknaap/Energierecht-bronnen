@@ -8,10 +8,191 @@
   "2023-05",
   "2023-06",
   "2023-07",
-  "2023-08"
+  "2023-08",
+  "2023-09"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: Vordering om gedaagde te veroordelen mee te werken aan het laten uitvoeren van werkzaamheden door Liander wordt toegewezen (ECLI:NL:RBNHO:2023:9306)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:9306",
+   "date": "2023-09-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering om gedaagde te veroordelen mee te werken aan het laten uitvoeren van werkzaamheden door Liander wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2023-09-19T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Energie. Ongerechtvaardigde verrijking. Bewijsopdracht slaagt (ECLI:NL:RBZWB:2023:6736)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6736",
+   "date": "2023-09-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energie. Ongerechtvaardigde verrijking. Bewijsopdracht slaagt.",
+   "source": "civiel",
+   "first_seen": "2023-09-28T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: Aansluit- en transportplicht netbeheerder, kort geding (ECLI:NL:RBDHA:2023:14517)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:14517",
+   "date": "2023-09-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansluit- en transportplicht netbeheerder, kort geding.",
+   "source": "civiel",
+   "first_seen": "2023-09-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Elektriciteitswet. Netcode Elektriciteit. Op grond van de vooraankondiging en het congestierapport voldoende aannemelijk… (ECLI:NL:RBGEL:2023:5258)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:5258",
+   "date": "2023-09-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Elektriciteitswet. Netcode Elektriciteit. Op grond van de vooraankondiging en het congestierapport voldoende aannemelijk gemaakt dat sprake is van fysieke congestie op het elektriciteitsnet. Weigering met redenen omkleed. Vordering tot het doen van aanbod afgewezen. Geen sprake van onrechtmatig handelen als gevolg van wijziging Netcode Elektriciteit. Op grond van het transparantie- en",
+   "source": "civiel",
+   "first_seen": "2023-09-19T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Verzekeringsrecht. Machineschadeverzekering. Schade aan windturbines. Dekkingsgeschil. Uitleg polisvoorwaarden. Vraag of schade plotseling… (ECLI:NL:RBROT:2023:9598)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:9598",
+   "date": "2023-09-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzekeringsrecht. Machineschadeverzekering. Schade aan windturbines. Dekkingsgeschil. Uitleg polisvoorwaarden. Vraag of schade plotseling en onvoorzien is. Omvang van de schade.",
+   "source": "civiel",
+   "first_seen": "2023-10-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Windmolenpark. Jegens wie is vernietiging weigeringsbesluit tot vaststelling bestemmingsplan onrechtmatig? Exoneratiebeding. Ontbreken… (ECLI:NL:RBLIM:2023:5508)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:5508",
+   "date": "2023-09-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Windmolenpark. Jegens wie is vernietiging weigeringsbesluit tot vaststelling bestemmingsplan onrechtmatig? Exoneratiebeding. Ontbreken conditio sine qua non-verband tussen onrechtmatige daad en gestelde schade.",
+   "source": "civiel",
+   "first_seen": "2023-09-18T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Verdeling van een woning uit een nalatenschap tussen drie erfgenamen – Erflater had woning verhuurd aan kind van één van de erfgenamen –… (ECLI:NL:RBOVE:2023:3731)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:3731",
+   "date": "2023-09-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verdeling van een woning uit een nalatenschap tussen drie erfgenamen – Erflater had woning verhuurd aan kind van één van de erfgenamen – Wat zijn de gevolgen daarvan voor de verdeling? Je kunt niet doen alsof de huurovereenkomst er niet is.",
+   "source": "civiel",
+   "first_seen": "2023-09-22T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Netbeheerder handelt in strijd met art. 23 lid 4 Elektriciteitswet door afnemer niet binnen 18 weken aan te sluiten op het net en is… (ECLI:NL:RBOBR:2023:6120)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:6120",
+   "date": "2023-09-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Netbeheerder handelt in strijd met art. 23 lid 4 Elektriciteitswet door afnemer niet binnen 18 weken aan te sluiten op het net en is aansprakelijk voor de vertragingsschade. Geen geslaagd beroep van de netbeheerder op rechtstreekse werking Elektriciteitsrichtlijn. Ook geen richtlijnconforme uitleg mogelijk, strijd met rechtszekerheid, contra legem. Geen geslaagd beroep van de netbeheerder op overm",
+   "source": "civiel",
+   "first_seen": "2024-02-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Aanbesteding. Deurwaardersdiensten. In geschil is of de aanbestedende dienst de prijzen in de inschrijving terecht als… (ECLI:NL:RBROT:2023:9444)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:9444",
+   "date": "2023-09-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aanbesteding. Deurwaardersdiensten. In geschil is of de aanbestedende dienst de prijzen in de inschrijving terecht als niet-marktconform en onaanvaardbaar hoog heeft aangemerkt en of zij de inschrijving om die reden terzijde kon leggen.",
+   "source": "civiel",
+   "first_seen": "2023-10-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding tegen energieleverancier. Het hof veroordeelt de energieleverancier tot levering van energie tegen overeengekomen vaste… (ECLI:NL:GHARL:2023:7692)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:7692",
+   "date": "2023-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding tegen energieleverancier. Het hof veroordeelt de energieleverancier tot levering van energie tegen overeengekomen vaste tarieven, omdat het hof niet aannemelijk acht dat omtrent die tarieven een andere afspraak – levering tegen dagmarkttarieven - is gemaakt. Geen gerechtvaardigd vertrouwen dat de afnemer daarmee heeft ingestemd.",
+   "source": "civiel",
+   "first_seen": "2023-09-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: verschuldigdheid kosten levering nutsvoorzieningen (bij meerdere huurders in een pand), tegenvordering huurder ivm reparatiekosten in… (ECLI:NL:GHSHE:2023:2930)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:2930",
+   "date": "2023-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "verschuldigdheid kosten levering nutsvoorzieningen (bij meerdere huurders in een pand), tegenvordering huurder ivm reparatiekosten in verband met gebrek aan een koelinstallatie",
+   "source": "civiel",
+   "first_seen": "2023-09-12T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Overijssel: Verstek. Ambtshalve toetsing. Consumentenrecht. Overname energielevering na faillissement energieleverancier. De eerste maand na de… (ECLI:NL:RBOVE:2023:3708)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:3708",
+   "date": "2023-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Ambtshalve toetsing. Consumentenrecht. Overname energielevering na faillissement energieleverancier. De eerste maand na de overname door de nieuwe energieleverancier is de klant verplicht energie af te nemen van deze nieuw leverancier en moet hij daarvoor betalen. Dit ziet op een verplichte verbintenis, maar niet op een verplicht contract. Daarna moet de nieuwe energieleverancier een aanb",
+   "source": "civiel",
+   "first_seen": "2023-09-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Verstek. Ambtshalve toetsing. Consumentenrecht. Tussenvonnis. Energiecontract na overname energielevering bij een faillissement. Eisende… (ECLI:NL:RBOVE:2023:3709)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:3709",
+   "date": "2023-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Ambtshalve toetsing. Consumentenrecht. Tussenvonnis. Energiecontract na overname energielevering bij een faillissement. Eisende partij mag zich nader uitlaten over de vraag of de gedaagde het aanbod voor een energiecontract heeft geaccepteerd.",
+   "source": "civiel",
+   "first_seen": "2023-09-20T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Energielevering via stadsverwarming. Geschil of gedaagde de levering stop kon laten zetten. De kantonrechter is, gelet op de algemene… (ECLI:NL:RBZWB:2023:6270)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6270",
+   "date": "2023-09-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energielevering via stadsverwarming. Geschil of gedaagde de levering stop kon laten zetten. De kantonrechter is, gelet op de algemene voorwaarden van eiseres, van oordeel dat dit mogelijk is en het op de weg van eiseres had gelegen daartoe over te gaan. Dit betekent dat een deel van de vordering van eiseres wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2023-09-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Partijen hebben geruime tijd met elkaar samengewerkt. In deze zaak gaat het erom of er tussen partijen met betrekking tot een bepaald… (ECLI:NL:RBGEL:2023:5115)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:5115",
+   "date": "2023-09-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Partijen hebben geruime tijd met elkaar samengewerkt. In deze zaak gaat het erom of er tussen partijen met betrekking tot een bepaald project een projectbegeleidingsovereenkomst tot stand is gekomen. Eiseres heeft bewijsopdracht gekregen. De rechtbank acht na verhoor van getuigen mede gelet op grond van de omstandigheden van geval het bewijs geleverd. Gedaagde wordt veroordeeld om de gebruikelijke",
+   "source": "civiel",
+   "first_seen": "2023-09-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: Geschil tussen twee kwekers over onbetaalde facturen voor gebruik van nutsvoorzieningen. Is er een minimumafname van warmte overeengekomen? (ECLI:NL:RBDHA:2023:13595)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:13595",
+   "date": "2023-09-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil tussen twee kwekers over onbetaalde facturen voor gebruik van nutsvoorzieningen. Is er een minimumafname van warmte overeengekomen?",
+   "source": "civiel",
+   "first_seen": "2023-09-08T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: herstel naam geopposeerde (ECLI:NL:RBZWB:2023:8782)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8782",
+   "date": "2023-09-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "herstel naam geopposeerde",
+   "source": "civiel",
+   "first_seen": "2023-12-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Samenwerkingsovereenkomst energieleverancier en intermediair. Intermediair krijgt tijdens de samenwerking ook zelf de hoedanigheid van… (ECLI:NL:GHAMS:2023:2454)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2454",
+   "date": "2023-09-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Samenwerkingsovereenkomst energieleverancier en intermediair. Intermediair krijgt tijdens de samenwerking ook zelf de hoedanigheid van energieleverancier, gevolgd door oversluiting van de klanten naar zichzelf en margeverlies bij de wederpartij. Uitleg overeenkomst (Haviltex). Schending contractuele anticoncurrentiebepalingen. Schadeplichtigheid. Vergelijking werkelijke situatie met fout versus hy",
+   "source": "civiel",
+   "first_seen": "2023-10-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Noord-Holland: Kort geding. Voorzieningenrechter verbiedt gedaagde (bedrijf) om meer dan 50 Kw aan transportvermogen voor teruglevering te gebruiken op… (ECLI:NL:RBNHO:2023:8930)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:8930",
