@@ -5,10 +5,221 @@
   "2021-02",
   "2021-03",
   "2021-04",
-  "2021-05"
+  "2021-05",
+  "2021-06"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Midden-Nederland: afsluiting warmtenet en warm tapwater. Binnentreden woning (ECLI:NL:RBMNE:2021:2686)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:2686",
+   "date": "2021-06-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "afsluiting warmtenet en warm tapwater. Binnentreden woning.",
+   "source": "civiel",
+   "first_seen": "2021-06-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Stedin; afwijzing gefixeerde schadevergoeding. Gedaagde heeft adequaat gereageerd n.a.v. eerste duidelijke aanmaning van Stedin (ECLI:NL:RBAMS:2021:3123)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:3123",
+   "date": "2021-06-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stedin; afwijzing gefixeerde schadevergoeding. Gedaagde heeft adequaat gereageerd n.a.v. eerste duidelijke aanmaning van Stedin.",
+   "source": "civiel",
+   "first_seen": "2021-06-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Verzoek machtiging om namens betrokkene planschadeclaim en zienswijze in te dienen en bezwaar te maken met betrekking tot de bouw van… (ECLI:NL:RBMNE:2021:3031)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:3031",
+   "date": "2021-06-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzoek machtiging om namens betrokkene planschadeclaim en zienswijze in te dienen en bezwaar te maken met betrekking tot de bouw van windturbines.",
+   "source": "civiel",
+   "first_seen": "2021-07-13T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Installatieovereenkomst. Wanprestatie. Gedaagde was niet bevoegd tot ontbinding- c.q. opzegging en opschorting. Echter geen… (ECLI:NL:RBOVE:2021:2582)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:2582",
+   "date": "2021-06-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Installatieovereenkomst. Wanprestatie. Gedaagde was niet bevoegd tot ontbinding- c.q. opzegging en opschorting. Echter geen aansprakelijkheid voor boedeltekort.",
+   "source": "civiel",
+   "first_seen": "2021-06-28T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Aansprakelijkheid bewindvoerder. Ook immateriële schade toegewezen. Schadevergoeding wegens slecht bewind (ECLI:NL:RBNHO:2021:5026)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:5026",
+   "date": "2021-06-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansprakelijkheid bewindvoerder. Ook immateriële schade toegewezen. Schadevergoeding wegens slecht bewind",
+   "source": "civiel",
+   "first_seen": "2021-06-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Energieleverancier handelt onrechtmatig door verkeerde switchmelding. Energiecontract van eiser is toen beëindigd, eiser ontving (hoge)… (ECLI:NL:RBAMS:2021:5424)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:5424",
+   "date": "2021-06-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieleverancier handelt onrechtmatig door verkeerde switchmelding. Energiecontract van eiser is toen beëindigd, eiser ontving (hoge) eindafrekening (kosten niet kunnen verrekenen met opbrengsten zonnepanelen binnen dat contract). Lijdt eiser schade?",
+   "source": "civiel",
+   "first_seen": "2021-09-27T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Gasvrije woning. Gedaagde heeft onrechtmatig gehandeld tegenover netbeheerder door geen afsluitkosten te betalen of (voor korte tijd) een… (ECLI:NL:RBNHO:2021:4698)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:4698",
+   "date": "2021-06-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gasvrije woning. Gedaagde heeft onrechtmatig gehandeld tegenover netbeheerder door geen afsluitkosten te betalen of (voor korte tijd) een contract met een gasleverancier te sluiten, totdat het afsluiten van de gasaansluiting gratis zou kunnen.",
+   "source": "civiel",
+   "first_seen": "2021-06-09T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Afrekening voor levering elektriciteit tussen netbeheerder regionaal elektriciteitsnet en programmaverantwoordelijke. Vaststelling… (ECLI:NL:RBOBR:2021:4146)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:4146",
+   "date": "2021-06-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afrekening voor levering elektriciteit tussen netbeheerder regionaal elektriciteitsnet en programmaverantwoordelijke. Vaststelling verschuldigde bedrag. Passeren bewijsaanbod.",
+   "source": "civiel",
+   "first_seen": "2021-08-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Schade aan gasleiding door afgezaagde bout. Eisen die zijn te stellen aan betwisting. Verzwaarde motiveringsplicht? Omkeringsregel? (ECLI:NL:GHDHA:2021:1027)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1027",
+   "date": "2021-06-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schade aan gasleiding door afgezaagde bout. Eisen die zijn te stellen aan betwisting. Verzwaarde motiveringsplicht? Omkeringsregel?",
+   "source": "civiel",
+   "first_seen": "2021-06-07T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Familiegeschil over verdeling nalatenschap. Kort geding over medewerking aan levering woning en betaling van opbrengsten van windmolens… (ECLI:NL:GHARL:2021:5891)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:5891",
+   "date": "2021-06-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Familiegeschil over verdeling nalatenschap. Kort geding over medewerking aan levering woning en betaling van opbrengsten van windmolens (molengelden).",
+   "source": "civiel",
+   "first_seen": "2021-06-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Niet-ontvankelijkverklaring van stichting die opkomt tegen de invoering van 5G protocol voor mobiele communicatie. Stichting is… (ECLI:NL:GHDHA:2021:1052)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1052",
+   "date": "2021-06-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Niet-ontvankelijkverklaring van stichting die opkomt tegen de invoering van 5G protocol voor mobiele communicatie. Stichting is niet-ontvankelijk omdat zij tegen de besluiten van de Staat kan of had kunnen opkomen bij de bestuursrechter.",
+   "source": "civiel",
+   "first_seen": "2021-06-10T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kort geding. Europese aanbesteding. Uitleg bepaling Gaswet en geschiktheidseis (ECLI:NL:RBDHA:2021:7150)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:7150",
+   "date": "2021-06-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Europese aanbesteding. Uitleg bepaling Gaswet en geschiktheidseis.",
+   "source": "civiel",
+   "first_seen": "2021-07-09T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Coronamaatregelen. Horecaonderneming betaalt termijnfacturen gas en licht te laat. Redelijkheid en billijkheid brengen mee dat… (ECLI:NL:RBNHO:2021:4825)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:4825",
+   "date": "2021-06-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Coronamaatregelen. Horecaonderneming betaalt termijnfacturen gas en licht te laat. Redelijkheid en billijkheid brengen mee dat energieleverancier zich onder de gegeven omstandigheden niet ten volle kan beroepen op de in de algemene voorwaarden overeengekomen opzegvergoeding.",
+   "source": "civiel",
+   "first_seen": "2021-06-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Executiegeschil tot opheffing/vernietiging derdenbeslag. Te late overbetekering 475i Rv, maar opheffing beslag geen passende… (ECLI:NL:RBROT:2021:5347)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:5347",
+   "date": "2021-06-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Executiegeschil tot opheffing/vernietiging derdenbeslag. Te late overbetekering 475i Rv, maar opheffing beslag geen passende sanctie. Geen misbruik van executiebevoegdheid. Verstekvonnis in kracht van gewijsde 144 sub b Rv",
+   "source": "civiel",
+   "first_seen": "2021-06-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Kort Geding. Mijnbouwactiviteiten staking (ECLI:NL:OGEAA:2021:283)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2021:283",
+   "date": "2021-06-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort Geding. Mijnbouwactiviteiten staking.",
+   "source": "civiel",
+   "first_seen": "2021-06-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Appel van ECLI:NL:RBGEL:2017:6606. Beheerkosten recreatiecentrum. Vernietiging vonnis in conventie en alsnog toewijzing van vordering van… (ECLI:NL:GHAMS:2021:1735)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:1735",
+   "date": "2021-06-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Appel van ECLI:NL:RBGEL:2017:6606. Beheerkosten recreatiecentrum. Vernietiging vonnis in conventie en alsnog toewijzing van vordering van het recreatiecentrum, bekrachtiging vonnis in reconventie.",
+   "source": "civiel",
+   "first_seen": "2021-06-14T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Stedin; kosten verwijderen gasaansluiting; gefixeerde schadevergoeding; art 12a Gaswet; tarievencode Gas; netbeheerder in stand houden… (ECLI:NL:RBROT:2021:5096)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:5096",
+   "date": "2021-06-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stedin; kosten verwijderen gasaansluiting; gefixeerde schadevergoeding; art 12a Gaswet; tarievencode Gas; netbeheerder in stand houden gasnet;",
+   "source": "civiel",
+   "first_seen": "2021-06-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vordering tot afsluiting elektriciteit niet gehandhaafd. Gevorderde schadevergoeding en nevenvorderingen toegewezen (ECLI:NL:RBROT:2021:7170)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:7170",
+   "date": "2021-06-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot afsluiting elektriciteit niet gehandhaafd. Gevorderde schadevergoeding en nevenvorderingen toegewezen.",
+   "source": "civiel",
+   "first_seen": "2021-07-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Huurder vordert herstel warmtevoorziening en ophalen huisvuil/ verhuurder vordert in reconventie derden toelaten tot het verrichten van… (ECLI:NL:RBLIM:2021:4422)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:4422",
+   "date": "2021-06-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurder vordert herstel warmtevoorziening en ophalen huisvuil/ verhuurder vordert in reconventie derden toelaten tot het verrichten van werkzaamheden. Vorderingen over en weer wegens ontbreken spoedeisend belang afgewezen",
+   "source": "civiel",
+   "first_seen": "2021-06-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Huurder vordert herstel warmtevoorziening en ophalen huisvuil/ verhuurder vordert in reconventie derden toelaten tot het verrichten van… (ECLI:NL:RBLIM:2021:4423)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:4423",
+   "date": "2021-06-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurder vordert herstel warmtevoorziening en ophalen huisvuil/ verhuurder vordert in reconventie derden toelaten tot het verrichten van werkzaamheden. Vorderingen over en weer wegens ontbreken spoedeisend belang afgewezen",
+   "source": "civiel",
+   "first_seen": "2021-06-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Warmtewet. Is het besluit van de Vereniging nietig wegens strijd met de Warmtewet respectievelijk vernietigbaar op grond van de… (ECLI:NL:GHARL:2021:5653)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:5653",
+   "date": "2021-06-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Warmtewet. Is het besluit van de Vereniging nietig wegens strijd met de Warmtewet respectievelijk vernietigbaar op grond van de redelijkheid en billijkheid?",
+   "source": "civiel",
+   "first_seen": "2021-06-09T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Gelderland: Kort geding. Aansluitplicht en transportplicht netbeheerder. Fysieke congestie, art. 24 lid 2 Elektriciteitswet. Voldoende aannemelijk dat… (ECLI:NL:RBGEL:2021:2722)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:2722",
