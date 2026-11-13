@@ -1,10 +1,121 @@
 {
  "jaar": 2019,
  "maanden": [
-  "2019-01"
+  "2019-01",
+  "2019-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: Eneco Beheer hoeft geen 264 miljoen euro te betalen aan Remu Houdstermaatschappij en GCN, de voormalige aandeelhouders van het vroegere… (ECLI:NL:RBAMS:2019:1174)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:1174",
+   "date": "2019-02-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eneco Beheer hoeft geen 264 miljoen euro te betalen aan Remu Houdstermaatschappij en GCN, de voormalige aandeelhouders van het vroegere Utrechtse energiebedrijf Remu.",
+   "source": "civiel",
+   "first_seen": "2019-02-21T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energiebedrijf, eneco"
+  },
+  {
+   "title": "Rechtbank Gelderland: Warmtewet niet van toepassing op de situatie van de vereniging/woonvorm van eiser. De afgesproken wijze van verdeling van de kosten is niet… (ECLI:NL:RBGEL:2019:6395)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:6395",
+   "date": "2019-02-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Warmtewet niet van toepassing op de situatie van de vereniging/woonvorm van eiser. De afgesproken wijze van verdeling van de kosten is niet in strijd met de redelijkheid en billijkheid.",
+   "source": "civiel",
+   "first_seen": "2023-02-22T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Opzegbaarheid van duurovereenkomst met betrekking tot kabels en leidingen (ECLI:NL:GHARL:2019:1589)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:1589",
+   "date": "2019-02-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Opzegbaarheid van duurovereenkomst met betrekking tot kabels en leidingen",
+   "source": "civiel",
+   "first_seen": "2019-02-19T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Servicekosten blokverwarming. Warmtewet. Huurcommissie heeft geoordeeld dat afschrijving groot onderhoud, onderhoudscontracten en… (ECLI:NL:RBOVE:2019:593)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:593",
+   "date": "2019-02-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Servicekosten blokverwarming. Warmtewet. Huurcommissie heeft geoordeeld dat afschrijving groot onderhoud, onderhoudscontracten en storingscompensatie ten aanzien van warmte-installatie verhuurder niet aan huurder in rekening mogen worden gebracht als servicekosten. Hoger beroep bij kantonrechter. Kantonrechter bevestigt oordeel Huurcommissie. Een warmte-installatie valt onder het begrip “onroerend",
+   "source": "civiel",
+   "first_seen": "2019-02-19T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: onrechtmatige overheidsdaad? windmolens bij themapark Neeltje Jans; uitleg gedoogbepaling in overeenkomsten van huur/erfpacht/gebruik;… (ECLI:NL:GHDHA:2019:744)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:744",
+   "date": "2019-02-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "onrechtmatige overheidsdaad? windmolens bij themapark Neeltje Jans; uitleg gedoogbepaling in overeenkomsten van huur/erfpacht/gebruik; beroep op gedoogbepaling naar maatstaven van redelijkheid en billijkheid onaanvaardbaar? onrechtmatige hinder?",
+   "source": "civiel",
+   "first_seen": "2019-04-08T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Geldvordering in kort geding. Eiser vraagt een voorschot op de schadevergoeding die hij stelt te hebben geleden als gevolg van door… (ECLI:NL:RBNNE:2019:497)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:497",
+   "date": "2019-02-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geldvordering in kort geding. Eiser vraagt een voorschot op de schadevergoeding die hij stelt te hebben geleden als gevolg van door gaswinning veroorzaakte aardbevingen. Niet (voldoende) aannemelijk geworden dat eiser inderdaad aardbevingsschade heeft geleden, zodat afwijzing van de vordering volgt.",
+   "source": "civiel",
+   "first_seen": "2019-02-12T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "gaswinning, aardbevingsschade"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vordering in kortgeding tot betaling van een voorschot op schade vanwege bodembeweging door aardgaswinning. Een agrariër vordert betaling… (ECLI:NL:GHARL:2019:1285)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:1285",
+   "date": "2019-02-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering in kortgeding tot betaling van een voorschot op schade vanwege bodembeweging door aardgaswinning. Een agrariër vordert betaling van een voorschot van ruim € 3.000.000,- vanwege de kosten van herstel (herbouw) van enkele stallen en een mestsilo die volgens hem ernstig zijn beschadigd door bodembeweging. De schade aan de stallen betreft vooral de mestkelders. Daarnaast is een van de stalle",
+   "source": "civiel",
+   "first_seen": "2019-02-12T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Nederlandse Aardolie Maatschappij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Opzegging duurovereenkomst, duurovereenkomst is opzegbaar, geen zwaarwichtig belang vereist, precarioheffing (ECLI:NL:GHARL:2019:1380)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:1380",
+   "date": "2019-02-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Opzegging duurovereenkomst, duurovereenkomst is opzegbaar, geen zwaarwichtig belang vereist, precarioheffing",
+   "source": "civiel",
+   "first_seen": "2019-02-13T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Een klant van Energiewacht heeft de betaling van de factuur voor door hem aangeschafte zonnepanelen terecht uitgesteld en hoeft de in… (ECLI:NL:RBAMS:2019:711)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:711",
+   "date": "2019-02-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Een klant van Energiewacht heeft de betaling van de factuur voor door hem aangeschafte zonnepanelen terecht uitgesteld en hoeft de in rekening gebrachte incassokosten van ruim 700 euro niet te betalen.",
+   "source": "civiel",
+   "first_seen": "2019-02-05T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENERGIEWACHT N.V."
+  },
+  {
+   "title": "Rechtbank Overijssel: Eneco vordert betaling van onbetaald gelaten nota’s. Gedaagde betwist dat hij moet betalen en voert aan dat hij door Eneco vals is… (ECLI:NL:RBOVE:2019:704)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:704",
+   "date": "2019-02-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eneco vordert betaling van onbetaald gelaten nota’s. Gedaagde betwist dat hij moet betalen en voert aan dat hij door Eneco vals is voorgelicht. Naar het oordeel van de kantonrechter is er geen sprake van een oneerlijke handelspraktijk als bedoeld in artikel 6:193b BW. Er kan niet worden vastgesteld dat de overeenkomst onder invloed van een wilsgebrek tot stand is gekomen, dus geen grond voor verni",
+   "source": "civiel",
+   "first_seen": "2019-02-26T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "eneco"
+  },
   {
    "title": "Rechtbank Amsterdam: Energielevering aan bungalows op een recreatiepark; de salderingsregeling ex artikel 31c Elektriciteitswet; terug levering elektriciteit… (ECLI:NL:RBAMS:2019:1208)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:1208",
