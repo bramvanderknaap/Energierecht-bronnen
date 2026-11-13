@@ -7,10 +7,141 @@
   "2022-04",
   "2022-05",
   "2022-06",
-  "2022-07"
+  "2022-07",
+  "2022-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: overeenkomst energielevering, consumentenrecht, vordering afgewezen ivm ambtshalve toetsing bestelproces, tekst op de bestelknop, beroep op… (ECLI:NL:RBNHO:2022:7537)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:7537",
+   "date": "2022-08-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "overeenkomst energielevering, consumentenrecht, vordering afgewezen ivm ambtshalve toetsing bestelproces, tekst op de bestelknop, beroep op verjaring",
+   "source": "civiel",
+   "first_seen": "2022-08-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Bemoeienis van deskundige bij aantonen verband tussen schade aan woning en aardbevingen. Is tussen gedupeerde en deskundige een… (ECLI:NL:GHARL:2022:7452)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:7452",
+   "date": "2022-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bemoeienis van deskundige bij aantonen verband tussen schade aan woning en aardbevingen. Is tussen gedupeerde en deskundige een overeenkomst van opdracht tot stand gekomen of was sprake van vriendendienst/niet-zakelijke hulpverlening? Het hof is van oordeel dat geen overeenkomst van opdracht tot stand is gekomen. Ook anderszins is er geen recht op betaling van de factuur die deskundige heeft gestu",
+   "source": "civiel",
+   "first_seen": "2022-08-30T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Artikel 6:162 BW, graafschade, WION, Richtlijn Zorgvuldig Graafproces (ECLI:NL:GHAMS:2022:2410)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:2410",
+   "date": "2022-08-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 6:162 BW, graafschade, WION, Richtlijn Zorgvuldig Graafproces",
+   "source": "civiel",
+   "first_seen": "2022-08-19T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Onbetaalde energiefactuur. Ambtshalve toetsing (ECLI:NL:RBROT:2022:10027)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:10027",
+   "date": "2022-08-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onbetaalde energiefactuur. Ambtshalve toetsing",
+   "source": "civiel",
+   "first_seen": "2022-11-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Proceskosten komen voor rekening van gedaagde. Terecht in deze procedure betrokken, ondanks dat hij inmiddels aan vordering heeft voldaan (ECLI:NL:RBROT:2022:6769)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:6769",
+   "date": "2022-08-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Proceskosten komen voor rekening van gedaagde. Terecht in deze procedure betrokken, ondanks dat hij inmiddels aan vordering heeft voldaan.",
+   "source": "civiel",
+   "first_seen": "2022-08-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: Geschil inzake opdracht voor het ontwerp voor een collectieve warmtenet. Opdrachtnemer vordert betaling (ECLI:NL:RBDHA:2022:6849)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:6849",
+   "date": "2022-08-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil inzake opdracht voor het ontwerp voor een collectieve warmtenet. Opdrachtnemer vordert betaling.",
+   "source": "civiel",
+   "first_seen": "2022-07-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Geschil over energieleveringen. Particulier net. Vrije keuze leverancier (ECLI:NL:RBROT:2022:7108)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:7108",
+   "date": "2022-08-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil over energieleveringen. Particulier net. Vrije keuze leverancier.",
+   "source": "civiel",
+   "first_seen": "2022-08-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Partijen hebben in het verleden met elkaar samengewerkt in het kader van de verkoop van energiecontracten. De samenwerking is begin 2021… (ECLI:NL:RBNHO:2022:8381)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:8381",
+   "date": "2022-08-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Partijen hebben in het verleden met elkaar samengewerkt in het kader van de verkoop van energiecontracten. De samenwerking is begin 2021 geëindigd. In juli 2021 heeft eiseres per abuis een betaling verricht aan gedaagde 1 en zij vordert terugbetaling daarvan. Gedaagden betwisten dat sprake is van een vergissing en stellen dat zij een tegenvordering hebben op eiseres op grond van onrechtmatige daad",
+   "source": "civiel",
+   "first_seen": "2022-09-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Ambtshalve toetsing (AT). Vattenfall. NUON schermafdrukken. Afwijzing wegens stelplicht (21 Rv). De subsidiaire grondslagen van de… (ECLI:NL:RBNHO:2022:6850)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:6850",
+   "date": "2022-08-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsing (AT). Vattenfall. NUON schermafdrukken. Afwijzing wegens stelplicht (21 Rv). De subsidiaire grondslagen van de ongerechtvaardigde verrijking en de onverschuldigde betaling slagen eveneens niet. Consumentenrecht.",
+   "source": "civiel",
+   "first_seen": "2022-08-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kort geding. Ontwikkeling van een windpark. Overeenkomst met de gemeente is een bevoegdhedenovereenkomst.. De civiele rechter is niet… (ECLI:NL:RBMNE:2022:3200)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:3200",
+   "date": "2022-08-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Ontwikkeling van een windpark. Overeenkomst met de gemeente is een bevoegdhedenovereenkomst.. De civiele rechter is niet bevoegd, maar de bestuursrechter.",
+   "source": "civiel",
+   "first_seen": "2022-08-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Arbeidsrecht. Na aanvraag vroegpensioen door werknemer wordt een nieuwe regeling voor vrijwillig vertrek van kracht die voor werknemer… (ECLI:NL:GHARL:2022:6966)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:6966",
+   "date": "2022-08-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Arbeidsrecht. Na aanvraag vroegpensioen door werknemer wordt een nieuwe regeling voor vrijwillig vertrek van kracht die voor werknemer financiële voordelen zou hebben gehad maar waarvan hij nu geen gebruik meer mag maken. Vraag of sprake is van dwaling dan wel schending goed werkgeverschap. Wens kopie van nog meer stukken afgewezen: fishing expedition.",
+   "source": "civiel",
+   "first_seen": "2022-08-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Arbeidsrecht. Na aanvraag vroegpensioen door werknemer wordt een nieuwe regeling voor vrijwillig vertrek van kracht die voor werknemer… (ECLI:NL:GHARL:2022:6965)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:6965",
+   "date": "2022-08-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Arbeidsrecht. Na aanvraag vroegpensioen door werknemer wordt een nieuwe regeling voor vrijwillig vertrek van kracht die voor werknemer financiële voordelen zou hebben gehad maar waarvan hij nu geen gebruik meer mag maken. Vraag of sprake is van dwaling dan wel schending goed werkgeverschap. Wens kopie van nog meer stukken afgewezen: fishing expedition.",
+   "source": "civiel",
+   "first_seen": "2022-08-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Arbeidsrecht. Na aanvraag vroegpensioen door werknemers wordt een nieuwe regeling voor vrijwillig vertrek van kracht die voor werknemers… (ECLI:NL:GHARL:2022:6967)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:6967",
+   "date": "2022-08-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Arbeidsrecht. Na aanvraag vroegpensioen door werknemers wordt een nieuwe regeling voor vrijwillig vertrek van kracht die voor werknemers financiële voordelen zou hebben gehad, maar waarvan zij nu geen gebruik meer mogen maken. Vraag of sprake is van dwaling dan wel schending goed werkgeverschap. Wens kopie van nog meer stukken afgewezen: fishing expedition.",
+   "source": "civiel",
+   "first_seen": "2022-08-09T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Rotterdam: Brand in aansluitkast. Stedin is tekort geschoten in de nakoming van de op haar rustende verbintenis om voor een deugdelijke aansluiting te… (ECLI:NL:RBROT:2022:7572)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:7572",
