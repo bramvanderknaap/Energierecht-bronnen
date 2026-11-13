@@ -9,10 +9,66 @@
   "2020-06",
   "2020-07",
   "2020-08",
-  "2020-09"
+  "2020-09",
+  "2020-10"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Nederland: Netbeheerder brengt de eigenaar van een pand leegstand- en afsluitkosten in rekening omdat er na het vertrek van zijn huurder niet tijdig… (ECLI:NL:RBNNE:2020:3676)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:3676",
+   "date": "2020-10-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Netbeheerder brengt de eigenaar van een pand leegstand- en afsluitkosten in rekening omdat er na het vertrek van zijn huurder niet tijdig een nieuw gasleveringscontract is aangegaan. De kantonrechter wijst de leegstandkosten met toepassing van artikel 7:405 lid 2 toe. De aansluitkosten worden afgewezen nu de netbeheerder in afwijking van haar eigen procedure direct tot afsluiting is overgegaan.",
+   "source": "civiel",
+   "first_seen": "2020-10-26T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet, tarievencode, begrippencode"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Een in kort geding gevorderde stoplegging van de bouw van een windmolenpark. Eisers worden niet ontvankelijkheid verklaard op drie gronden.… (ECLI:NL:RBNNE:2020:3583)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:3583",
+   "date": "2020-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Een in kort geding gevorderde stoplegging van de bouw van een windmolenpark. Eisers worden niet ontvankelijkheid verklaard op drie gronden. Er is niet voldaan aan de vereisten van artikel 1018c Rv en artikel 3:305 BW; de vereisten voor een collectieve actie en de daarvoor geldende procedurele bepalingen. En eisers zijn daarnaast niet-ontvankelijk wegens de leer van de formele rechtskracht.",
+   "source": "civiel",
+   "first_seen": "2020-10-22T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windmolen"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: In vervolg op de antwoorden van de HR op de prejudiciële vragen van de rechtbank omtrent de schade door de gaswinning in Groningen, heeft… (ECLI:NL:RBNNE:2020:3553)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:3553",
+   "date": "2020-10-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In vervolg op de antwoorden van de HR op de prejudiciële vragen van de rechtbank omtrent de schade door de gaswinning in Groningen, heeft de rechtbank einduitspraak gedaan. De vorderingen tegen de maatschap zijn niet-ontvankelijk verklaard. De vorderingen tegen de Staat stranden voor een groot deel op het gezag van gewijsde. NAM en EBN worden als exploitant aansprakelijk gesteld voor een deel van ",
+   "source": "civiel",
+   "first_seen": "2020-10-20T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "mijnbouwwet"
+  },
+  {
+   "title": "Hoge Raad: Art. 81 lid 1 RO. Vernietiging van echtscheidingsconvenant wegens bedrog. Waarde van aandelen in een windmolenproject (ECLI:NL:HR:2020:1632)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:1632",
+   "date": "2020-10-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 81 lid 1 RO. Vernietiging van echtscheidingsconvenant wegens bedrog. Waarde van aandelen in een windmolenproject.",
+   "source": "civiel",
+   "first_seen": "2020-10-14T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windmolen"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Het betreft een uitspraak over de vraag of Enexis verplicht is een aanbod te doen aan Wedeka voor transport van door Wedeka (teveel)… (ECLI:NL:RBOBR:2020:4947)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:4947",
+   "date": "2020-10-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Het betreft een uitspraak over de vraag of Enexis verplicht is een aanbod te doen aan Wedeka voor transport van door Wedeka (teveel) opgewekte energie zodat zij die kan terug leveren. Enexis heeft voldoende aannemelijk gemaakt dat er sprake is van fysieke congestie vanwege omdat het daadwerkelijke gebruik van het net, in combinatie met het te verwachten daadwerkelijke gebruik van het net, leidt to",
+   "source": "civiel",
+   "first_seen": "2020-10-12T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
+  },
   {
    "title": "Rechtbank Midden-Nederland: Stedin brengt, wanneer een afnemer definitief van het gas afgaat, verwijderkosten in rekening. Dat zijn kosten om de bestaande, maar niet… (ECLI:NL:RBMNE:2020:5685)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:5685",
