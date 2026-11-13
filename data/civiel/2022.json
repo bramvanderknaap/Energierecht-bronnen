@@ -1,10 +1,141 @@
 {
  "jaar": 2022,
  "maanden": [
-  "2022-01"
+  "2022-01",
+  "2022-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: energieleveringsovereenkomst; ambtshalve toetsing; gedaagden niet correct gewezen op wettelijk ontbinding-/herroepingsrecht; geen kosten… (ECLI:NL:RBROT:2022:2469)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:2469",
+   "date": "2022-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energieleveringsovereenkomst; ambtshalve toetsing; gedaagden niet correct gewezen op wettelijk ontbinding-/herroepingsrecht; geen kosten verschuldigd",
+   "source": "civiel",
+   "first_seen": "2022-04-01T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Deelgeschil. Dat verzoeker ten val is gekomen door zand op het wegdek staat niet vast. Dat het zand afkomstig was van verweerder staat… (ECLI:NL:RBROT:2022:1397)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:1397",
+   "date": "2022-02-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Deelgeschil. Dat verzoeker ten val is gekomen door zand op het wegdek staat niet vast. Dat het zand afkomstig was van verweerder staat evenmin vast. Voor zover de gestelde toedracht wel vast zou staan, is geen sprake van gevaarzetting en daarmee een OD.",
+   "source": "civiel",
+   "first_seen": "2022-02-25T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: geschil over de uitvoering van overeenkomst ter zake de levering van gas en elektriciteit. Heeft de leverancier op de juiste wijze… (ECLI:NL:GHSHE:2022:524)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:524",
+   "date": "2022-02-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "geschil over de uitvoering van overeenkomst ter zake de levering van gas en elektriciteit. Heeft de leverancier op de juiste wijze gefactureerd en heeft allocatie en reconciliatie plaatsgevonden?",
+   "source": "civiel",
+   "first_seen": "2022-02-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Plantenvet wordt gebruikt voor de productie van biogas. Was dit plantenvet verontreinigd? Eindarrest na deskundigenbericht (ECLI:NL:GHARL:2022:1325)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:1325",
+   "date": "2022-02-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Plantenvet wordt gebruikt voor de productie van biogas. Was dit plantenvet verontreinigd? Eindarrest na deskundigenbericht.",
+   "source": "civiel",
+   "first_seen": "2022-02-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Energieleverancier vordert nakoming van energiecontract met consument. Vordering afgewezen (onvoldoende gesteld dat er een energiecontract… (ECLI:NL:RBAMS:2022:745)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:745",
+   "date": "2022-02-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieleverancier vordert nakoming van energiecontract met consument. Vordering afgewezen (onvoldoende gesteld dat er een energiecontract is gesloten in het licht van gemotiveerde betwisting door consument). Informatieverplichtingen.",
+   "source": "civiel",
+   "first_seen": "2022-02-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Verschuldigdheid gefixeerde schadevergoeding, omdat gedaagden geen contract voor de levering van gas hadden gesloten (ECLI:NL:RBROT:2022:1957)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:1957",
+   "date": "2022-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verschuldigdheid gefixeerde schadevergoeding, omdat gedaagden geen contract voor de levering van gas hadden gesloten.",
+   "source": "civiel",
+   "first_seen": "2022-03-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Hoge Raad: Art. 81 lid 1 RO. Overeenkomstenrecht. Energierecht. Opzegging van overeenkomst tot levering van energie in verband met inwerkingtreding… (ECLI:NL:HR:2022:244)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:244",
+   "date": "2022-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 81 lid 1 RO. Overeenkomstenrecht. Energierecht. Opzegging van overeenkomst tot levering van energie in verband met inwerkingtreding Splitsingswet en verlaging van kredietrating van afnemer.",
+   "source": "civiel",
+   "first_seen": "2022-02-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Betalingsachterstand gas en elektra. Betwisting echtheid handtekening. Toepassing artikel 159 lid 2 Rv. Totstandkoming… (ECLI:NL:RBMNE:2022:495)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:495",
+   "date": "2022-02-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Betalingsachterstand gas en elektra. Betwisting echtheid handtekening. Toepassing artikel 159 lid 2 Rv. Totstandkoming leveringsovereenkomst en volmachtverlening aan bemiddelaar niet vast komen te staan. Afwijzing vordering.",
+   "source": "civiel",
+   "first_seen": "2022-02-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: overeenkomst op afstand, energie, schriftelijke overeenkomst, herroepingsrecht, verlenging (ECLI:NL:RBNHO:2022:1962)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:1962",
+   "date": "2022-02-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "overeenkomst op afstand, energie, schriftelijke overeenkomst, herroepingsrecht, verlenging",
+   "source": "civiel",
+   "first_seen": "2022-03-08T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: Leveringsovereenkomst energie rechtsgeldig tot stand gekomen. Geen sprake van dwaling (ECLI:NL:RBOVE:2022:472)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2022:472",
+   "date": "2022-02-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Leveringsovereenkomst energie rechtsgeldig tot stand gekomen. Geen sprake van dwaling.",
+   "source": "civiel",
+   "first_seen": "2022-02-17T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: overeenkomst energielevering, telefonisch aangegaan op initiatief DGB, kantonrechter vernietigt uitspraak Geschillencommissie Energie… (ECLI:NL:RBAMS:2022:605)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:605",
+   "date": "2022-02-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "overeenkomst energielevering, telefonisch aangegaan op initiatief DGB, kantonrechter vernietigt uitspraak Geschillencommissie Energie vanwege ontbreken ambtshalve toetsing, overeenkomst niet schriftelijk aangegaan, DGB veroordeeld tot terugbetaling",
+   "source": "civiel",
+   "first_seen": "2022-02-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: onbetwiste facturen (ECLI:NL:RBAMS:2022:327)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:327",
+   "date": "2022-02-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "onbetwiste facturen",
+   "source": "civiel",
+   "first_seen": "2022-02-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Afwijzing vordering jaarnota energieleverancier. Schending waarheidsplicht (art. 21 Rv) voor wat betreft meterstanden die door de klant… (ECLI:NL:RBGEL:2022:449)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2022:449",
+   "date": "2022-02-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afwijzing vordering jaarnota energieleverancier. Schending waarheidsplicht (art. 21 Rv) voor wat betreft meterstanden die door de klant waren doorgegeven, maar door energieleverancier toch niet werden gehanteerd bij berekening jaarnota.",
+   "source": "civiel",
+   "first_seen": "2022-01-31T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Amsterdam: De kantonrechter heeft nadere informatie nodig over de overgang van de energieovereenkomst van een consument van het failliete Flexenergie… (ECLI:NL:RBAMS:2022:264)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:264",
