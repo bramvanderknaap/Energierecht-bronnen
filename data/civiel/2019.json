@@ -7,10 +7,132 @@
   "2019-04",
   "2019-05",
   "2019-06",
-  "2019-07"
+  "2019-07",
+  "2019-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: schadeloosstelling; art. 40d Ow; omvang complex; windturbines een apart complex binnen het complex?; complexwaarde (ECLI:NL:RBROT:2019:6963)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6963",
+   "date": "2019-08-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "schadeloosstelling; art. 40d Ow; omvang complex; windturbines een apart complex binnen het complex?; complexwaarde",
+   "source": "civiel",
+   "first_seen": "2019-08-30T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windturbine"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartclaim (EPGV). Stroomstoring Schiphol. Beroep op buitengewone omstandigheden verworpen. Naar het oordeel van de kantonrechter… (ECLI:NL:RBNHO:2019:7568)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:7568",
+   "date": "2019-08-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartclaim (EPGV). Stroomstoring Schiphol. Beroep op buitengewone omstandigheden verworpen. Naar het oordeel van de kantonrechter staat onvoldoende vast dat de annulering van de onderhavige vlucht veroorzaakt is door de stroomstoring en de daarop volgende capaciteitsbeperkingen van de luchtverkeersleiding.",
+   "source": "civiel",
+   "first_seen": "2019-09-04T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Verdeling opbrengsten windmolenpark tussen pachter en verpachter in familiesfeer. Uitgangspunt is dat de netto voordelen die uit de… (ECLI:NL:GHARL:2019:6873)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:6873",
+   "date": "2019-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verdeling opbrengsten windmolenpark tussen pachter en verpachter in familiesfeer. Uitgangspunt is dat de netto voordelen die uit de (vrijwillige) plaatsing van een windmolen op de verpachte landerijen voortvloeien, zonder dat partijen daarover nadere afspraken hebben gemaakt, in beginsel in gelijke delen aan de pachter en de verpachter toekomen. Beide partijen hebben immers elkaars medewerking nod",
+   "source": "civiel",
+   "first_seen": "2019-08-27T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windmolen"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Ondernemingskamer; geschillenregeling; hoger beroep; bekrachtiging vonnis eerste aanleg; kostenveroordeling (ECLI:NL:GHAMS:2019:3127)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:3127",
+   "date": "2019-08-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ondernemingskamer; geschillenregeling; hoger beroep; bekrachtiging vonnis eerste aanleg; kostenveroordeling",
+   "source": "civiel",
+   "first_seen": "2019-08-27T00:00:00+00:00",
+   "grond": "tekst",
+   "toelichting": "energieleverancier (5x), energiecontract (2x)"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kabelschade. Abstracte schadebegroting. Proceskosten blijven voor rekening van Liander, omdat zij vooarfgaand aan procedure weigerde voor… (ECLI:NL:RBDHA:2019:8652)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:8652",
+   "date": "2019-08-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kabelschade. Abstracte schadebegroting. Proceskosten blijven voor rekening van Liander, omdat zij vooarfgaand aan procedure weigerde voor de hand liggende vragen te beantwoorden. Vordering deels toegewezen, deels onvoldoende onderbouwd.",
+   "source": "civiel",
+   "first_seen": "2019-08-22T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Spoed kort geding. Samenwerkingsovereenkomst omtrent het plaatsen van zonnepanelen op daken bedrijfsgebouwen. Leidt intrekking van… (ECLI:NL:GHAMS:2019:3085)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:3085",
+   "date": "2019-08-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Spoed kort geding. Samenwerkingsovereenkomst omtrent het plaatsen van zonnepanelen op daken bedrijfsgebouwen. Leidt intrekking van afgegeven subsidiebeschikkingen tot einde van de overeenkomst? Appellanten vorderen nakoming. Vragen van uitleg. Evenals de voorzieningenrechter acht het hof in onvoldoende mate waarschijnlijk dat de bodemrechter, zo het geschil aan hem wordt voorgelegd, tot toewijzing",
+   "source": "civiel",
+   "first_seen": "2019-08-21T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "stimulering duurzame energie"
+  },
+  {
+   "title": "Rechtbank Gelderland: Energie. Kosten verwijderen gasaansluiting. Geen verweer. Bindend advies Geschillencommissie Energie wordt vernietigd (ECLI:NL:RBGEL:2019:3921)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:3921",
+   "date": "2019-08-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energie. Kosten verwijderen gasaansluiting. Geen verweer. Bindend advies Geschillencommissie Energie wordt vernietigd.",
+   "source": "civiel",
+   "first_seen": "2019-09-02T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "gasaansluiting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Aanvang realisatietermijn voor aansluiting, artikel 23 lid 3 Elektriciteitswet (ECLI:NL:RBROT:2019:7304)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:7304",
+   "date": "2019-08-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanvang realisatietermijn voor aansluiting, artikel 23 lid 3 Elektriciteitswet.",
+   "source": "civiel",
+   "first_seen": "2019-09-13T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: ontbreken gespecificeerde nota incassokosten (eindvonnis) (ECLI:NL:RBROT:2019:6441)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6441",
+   "date": "2019-08-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ontbreken gespecificeerde nota incassokosten (eindvonnis)",
+   "source": "civiel",
+   "first_seen": "2019-08-12T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "STEDIN"
+  },
+  {
+   "title": "Rechtbank Gelderland: Er is geen sprake van onverschuldigde betaling of ongerechtvaardigde verrijking in het geval dat de kosten voor het (opnieuw) aansluiten op… (ECLI:NL:RBGEL:2019:4399)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:4399",
+   "date": "2019-08-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Er is geen sprake van onverschuldigde betaling of ongerechtvaardigde verrijking in het geval dat de kosten voor het (opnieuw) aansluiten op het gas- en elektriciteitsnet zijn betaald door eiser in plaats van door de netbeheerder van het gas- en elektriciteitsnet.",
+   "source": "civiel",
+   "first_seen": "2019-10-02T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
+  },
+  {
+   "title": "Rechtbank Den Haag: Leidingschade. Werken volgens Richtlijn Crow 500. Lokaliseren in gehele zoekgebied, ook bij gefaseerd werken (ECLI:NL:RBDHA:2019:9017)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:9017",
+   "date": "2019-08-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Leidingschade. Werken volgens Richtlijn Crow 500. Lokaliseren in gehele zoekgebied, ook bij gefaseerd werken.",
+   "source": "civiel",
+   "first_seen": "2019-08-29T00:00:00+00:00",
+   "grond": "tekst",
+   "toelichting": "netbeheerder (5x)"
+  },
   {
    "title": "Rechtbank Rotterdam: Kort geding, vordering tot nakoming overeenkomst strekkende tot medewerking aan benoeming bindend adviseur afgewezen, aangezien aannemelijk… (ECLI:NL:RBROT:2019:6041)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6041",
