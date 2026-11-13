@@ -1,0 +1,38 @@
+name: Archief civiele uitspraken opbouwen
+
+# Haalt per jaar alle civiele uitspraken op bij rechtspraak.nl en bewaart de relevante in data/civiel/.
+# Dit duurt ongeveer drie uur per jaar, omdat van elke uitspraak de volledige tekst wordt gelezen.
+# De jaren lopen na elkaar, zodat rechtspraak.nl maar één verzoek tegelijk krijgt.
+on:
+  workflow_dispatch:
+    inputs:
+      jaren:
+        description: "Jaren, bijvoorbeeld [2018, 2017]"
+        default: "[2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019]"
+
+permissions:
+  contents: write
+
+concurrency: civiel-archief
+
+jobs:
+  jaar:
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        jaar: ${{ fromJSON(inputs.jaren || '[2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Uitspraken ${{ matrix.jaar }} doorzoeken
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/civiel.py archief ${{ matrix.jaar }} --commit
