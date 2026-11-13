@@ -7,10 +7,161 @@
   "2023-04",
   "2023-05",
   "2023-06",
-  "2023-07"
+  "2023-07",
+  "2023-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: Kort geding. Voorzieningenrechter verbiedt gedaagde (bedrijf) om meer dan 50 Kw aan transportvermogen voor teruglevering te gebruiken op… (ECLI:NL:RBNHO:2023:8930)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:8930",
+   "date": "2023-08-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Voorzieningenrechter verbiedt gedaagde (bedrijf) om meer dan 50 Kw aan transportvermogen voor teruglevering te gebruiken op een specifieke middenspanningskabel. De voorzieningenrechter acht voldoende aannemelijk dat tussen partijen bij aanhangsel d.d. 4 augustus 2021 een gecontracteerd transport vermogen (GTV) van 50 Kw is overeengekomen. Niet gebleken is dat hierna een andere GVT is ",
+   "source": "civiel",
+   "first_seen": "2023-09-07T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Exploitant van warmte-koude-opslag mag geen kosten iin rekening ter compensatie van de stichtingskosten van de WKO-installatie omdat dat… (ECLI:NL:RBNHO:2023:7939)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7939",
+   "date": "2023-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Exploitant van warmte-koude-opslag mag geen kosten iin rekening ter compensatie van de stichtingskosten van de WKO-installatie omdat dat niet is overeengekomen.",
+   "source": "civiel",
+   "first_seen": "2023-08-14T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kort geding - conventie: 230a bedrijfsruimte - ontruiming - achterstand huurpenningen en voorschotten - nakoming waarborgverplichting -… (ECLI:NL:RBMNE:2023:4518)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:4518",
+   "date": "2023-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding - conventie: 230a bedrijfsruimte - ontruiming - achterstand huurpenningen en voorschotten - nakoming waarborgverplichting - boete(rente); reconventie: gebreken huurprijsvermindering - gebreken - schadevergoeding - verrekening",
+   "source": "civiel",
+   "first_seen": "2023-09-03T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Den Haag: Incident m.b.t. bevoegdheid kantonrechter. Kwalificatie agentuurovereenkomst (ECLI:NL:RBDHA:2023:12971)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:12971",
+   "date": "2023-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incident m.b.t. bevoegdheid kantonrechter. Kwalificatie agentuurovereenkomst.",
+   "source": "civiel",
+   "first_seen": "2023-08-31T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Enexis heeft gas en elektriciteit geleverd aan gedaagde in de periodes dat gedaagde geen overeenkomst had afgesloten met een… (ECLI:NL:RBZWB:2023:6282)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6282",
+   "date": "2023-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Enexis heeft gas en elektriciteit geleverd aan gedaagde in de periodes dat gedaagde geen overeenkomst had afgesloten met een energiemaatschappij. De vordering op grond van ongerechtvaardigde verrijking wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2023-09-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Aanbesteding. Geen sprake van niet toegestane wezenlijke wijziging van de opdracht gedurende de aanbestedingsprocedure. Geen… (ECLI:NL:RBGEL:2023:5120)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:5120",
+   "date": "2023-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aanbesteding. Geen sprake van niet toegestane wezenlijke wijziging van de opdracht gedurende de aanbestedingsprocedure. Geen strijd met transparantie- en/of proportionaliteitsbeginsel.",
+   "source": "civiel",
+   "first_seen": "2023-09-11T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Energierekening niet betaald. Ambtshalve toetsen: het contract wordt vernietigd, omdat de energieleverancier de informatieplichten niet… (ECLI:NL:RBROT:2023:7384)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:7384",
+   "date": "2023-08-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energierekening niet betaald. Ambtshalve toetsen: het contract wordt vernietigd, omdat de energieleverancier de informatieplichten niet heeft nageleefd. De consument moet wel een vergoeding betalen voor de geleverde energie.",
+   "source": "civiel",
+   "first_seen": "2023-08-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Vordering Liander afgewezen. Eigenaar woning heeft tijdig aan sommatie in de dagvaarding voldaan om verdere rechtsgang te voorkomen.… (ECLI:NL:RBNHO:2023:7816)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7816",
+   "date": "2023-08-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering Liander afgewezen. Eigenaar woning heeft tijdig aan sommatie in de dagvaarding voldaan om verdere rechtsgang te voorkomen. Liander had moeten intrekken. Kan niet de kosten van dagvaarding voor 'zij die verblijven' verhalen op eigenaar woning.",
+   "source": "civiel",
+   "first_seen": "2023-08-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Vervolg op tussenuitspraak RBNHO:2023:6575. In dat tussenvonnis heeft de voorzieningenrechter overwogen dat het algemeen belang van Liander… (ECLI:NL:RBNHO:2023:7959)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7959",
+   "date": "2023-08-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op tussenuitspraak RBNHO:2023:6575. In dat tussenvonnis heeft de voorzieningenrechter overwogen dat het algemeen belang van Liander in deze kwestie groter is dan dat van eisers. Eisers hebben inmiddels echter genoegzaam aangetoond dat met de aangedragen oplossingen beide belangen kunnen worden gediend. De vordering van eisers is daarom toewijsbaar.",
+   "source": "civiel",
+   "first_seen": "2023-08-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Stroomstoring Schiphol. 29 april 2018. Deels buitengewone omstandigheden en deels niet (ECLI:NL:RBNHO:2023:7892)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7892",
+   "date": "2023-08-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stroomstoring Schiphol. 29 april 2018. Deels buitengewone omstandigheden en deels niet",
+   "source": "civiel",
+   "first_seen": "2023-08-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Na het faillissement van de oude energiemaatschappij is geen overeenkomst tot stand gekomen tussen eiseres als nieuwe energiemaatschappij… (ECLI:NL:RBZWB:2023:5625)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:5625",
+   "date": "2023-08-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Na het faillissement van de oude energiemaatschappij is geen overeenkomst tot stand gekomen tussen eiseres als nieuwe energiemaatschappij en gedaagde. Gedaagde heeft ongevraagd energie geleverd gekregen en hoeft daar niet voor te betalen. De vordering in conventie wordt afgewezen. Gedaagde heeft onterecht het maandelijkse voorschot betaald. In reconventie wordt eiseres ertoe veroordeeld om dit bed",
+   "source": "civiel",
+   "first_seen": "2023-08-10T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Inhuisverzoek beoordelen naar huidige wet- en regelgeving. Kwalificatie oorspronkelijke aansluiting op elektriciteitsnet. Aanbieden van… (ECLI:NL:RBGEL:2023:4664)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4664",
+   "date": "2023-08-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Inhuisverzoek beoordelen naar huidige wet- en regelgeving. Kwalificatie oorspronkelijke aansluiting op elektriciteitsnet. Aanbieden van lager transportvermogen voor oorspronkelijke aansluiting is niet onrechtmatig. Kosten voor de aanleg van de nieuwe aansluiting komen niet voor rekening van de netbeheerder. In rekening brengen kosten voor verwijdering van een deel van het elektriciteitsnet wel onr",
+   "source": "civiel",
+   "first_seen": "2023-08-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: VvE-beheerbedrijf heeft op eigen naam gecontracteerd met energieleverancier. Leverancier hoefde niet te begrijpen dat het beheer namens een… (ECLI:NL:RBNHO:2023:7393)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7393",
+   "date": "2023-08-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "VvE-beheerbedrijf heeft op eigen naam gecontracteerd met energieleverancier. Leverancier hoefde niet te begrijpen dat het beheer namens een VvE contracteerde. Beheerbedrijf komt geen beroep toe op de voor consumenten geldende kortere verjaringstermijn van twee jaar.",
+   "source": "civiel",
+   "first_seen": "2023-07-31T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Incidentele vordering tot stellen prejudiciële vragen aan het HvJEU. Eiseres in incident wordt niet-ontvankelijk verklaard (ECLI:NL:RBGEL:2023:4448)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4448",
+   "date": "2023-08-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incidentele vordering tot stellen prejudiciële vragen aan het HvJEU. Eiseres in incident wordt niet-ontvankelijk verklaard.",
+   "source": "civiel",
+   "first_seen": "2023-08-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Totstandkoming van een overeenkomst tot levering van energie. Onbevoegde vertegenwoordiging (ECLI:NL:GHSHE:2023:2514)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:2514",
+   "date": "2023-08-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Totstandkoming van een overeenkomst tot levering van energie. Onbevoegde vertegenwoordiging.",
+   "source": "civiel",
+   "first_seen": "2023-08-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Veroordeling tot betaling van termijnfacturen, jaarafrekeningen en eindafrekeningen van Vattenfall. Vattenfall mocht de meterstanden… (ECLI:NL:RBZWB:2023:5250)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:5250",
