@@ -1,10 +1,154 @@
 {
  "jaar": 2020,
  "maanden": [
-  "2020-01"
+  "2020-01",
+  "2020-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: Had grondroerder die graafwerkzaamheden ging verrichten, voorafgaand aan de werkzaamheden de hoogspanningskabel in de grond moeten… (ECLI:NL:RBAMS:2020:1629)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:1629",
+   "date": "2020-02-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Had grondroerder die graafwerkzaamheden ging verrichten, voorafgaand aan de werkzaamheden de hoogspanningskabel in de grond moeten lokaliseren? Rechtbank beantwoordt deze vraag bevestigd. Volgens de rechtbank rechtvaardigen de omstandigheden van het geval de concrete invulling van de op de grondroerder rustende zorgplicht. Deze is mogelijk ruimer dan op grond van de Richtlijn Zorgvuldig Graafproce",
+   "source": "civiel",
+   "first_seen": "2020-03-10T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Nieuwe overeenkomst? (ECLI:NL:GHARL:2020:1610)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:1610",
+   "date": "2020-02-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Nieuwe overeenkomst?",
+   "source": "civiel",
+   "first_seen": "2020-02-25T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Liander"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Art. 6:162 BW. Aansprakelijkheid grondroerder voor schade aan laagspanningskabel wegens schending van de op hem rustende lokalisatieplicht… (ECLI:NL:GHAMS:2020:574)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:574",
+   "date": "2020-02-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 6:162 BW. Aansprakelijkheid grondroerder voor schade aan laagspanningskabel wegens schending van de op hem rustende lokalisatieplicht na KLIC-melding zoals die voortvloeit uit de Richtlijn Zorgvuldig Graafproces CROW 250. Zie ECLI:NL:GHAMS:2018:3797.",
+   "source": "civiel",
+   "first_seen": "2020-02-26T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: - Artikel 24 Elektriciteitswet, artikel 51 Elektriciteitswet; - Bekrachtiging van het vonnis van de voorzieningenrechter van de rechtbank… (ECLI:NL:GHARL:2020:1663)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:1663",
+   "date": "2020-02-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "- Artikel 24 Elektriciteitswet, artikel 51 Elektriciteitswet; - Bekrachtiging van het vonnis van de voorzieningenrechter van de rechtbank Gelderland van 16 april 2019 (ECLI:NL:RBGEL:2019:1681); - Het hof is, evenals de voorzieningenrechter, van oordeel dat Liander onvoldoende aannemelijk heeft gemaakt dat zij redelijkerwijs geen capaciteit ter beschikking heeft zoals bedoeld in artikel 24 lid 2 E-",
+   "source": "civiel",
+   "first_seen": "2020-02-26T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Hoge Raad: Schadevergoeding. Zaakschade; abstracte schadeberekening; art. 6:97 BW. Vraag welk tarief netbeheerder bij leidingschade in rekening mag… (ECLI:NL:HR:2020:315)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:315",
+   "date": "2020-02-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schadevergoeding. Zaakschade; abstracte schadeberekening; art. 6:97 BW. Vraag welk tarief netbeheerder bij leidingschade in rekening mag brengen voor storingsherstel. Abstraheren van meerkosten herstel in eigen beheer ook indien storingsherstel praktisch of wettelijk alleen in eigen beheer mogelijk is? Gaswet en Elektriciteitswet 1998. Motivering; ontbreken objectieve aanknopingspunten voor hoogte",
+   "source": "civiel",
+   "first_seen": "2020-02-20T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Bloemkwekerij vordert ontbinding en schade n.a.v. ondeugdelijke koelinstallatie. Gemengde overeenkomst van koop en aanneming. Beroep op… (ECLI:NL:RBROT:2020:1101)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:1101",
+   "date": "2020-02-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bloemkwekerij vordert ontbinding en schade n.a.v. ondeugdelijke koelinstallatie. Gemengde overeenkomst van koop en aanneming. Beroep op verjaring ex artikel 7:761 lid 1 BW. Eiser moet bewijzen dat zij de verjaring heeft gestuit.",
+   "source": "civiel",
+   "first_seen": "2020-02-11T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENGIE"
+  },
+  {
+   "title": "Rechtbank Gelderland: Gelet op het bepaalde in art.6:233 aanhef en onder b jo 6:234 lid 1 en 2 en 6:230c BW ambtshalve nagaan of algemene voorwaarden en… (ECLI:NL:RBGEL:2020:1079)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:1079",
+   "date": "2020-02-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gelet op het bepaalde in art.6:233 aanhef en onder b jo 6:234 lid 1 en 2 en 6:230c BW ambtshalve nagaan of algemene voorwaarden en actievoorwaarde ter hand zijn gesteld en van toepassing zijn en of voldaan is aan artikel 8 RROV. Opzegvergoeding afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-02-18T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Essent"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding over wel of niet voortzetten onderhandelingen over agrarische percelen ten behoeve van een zonnepark. In eerse aanleg is de… (ECLI:NL:GHARL:2020:1332)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:1332",
+   "date": "2020-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding over wel of niet voortzetten onderhandelingen over agrarische percelen ten behoeve van een zonnepark. In eerse aanleg is de vordering afgewezen. In hoger beroep vordert de exploitant van het zonnepark inzage in stukken van de eigenaren van de agrarische percelen (en afschriften van die stukken). Het hof wijst de vordering af bij gebrek aan belang: de gevraagde stukken zijn niet relevan",
+   "source": "civiel",
+   "first_seen": "2020-02-18T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "zonnepark"
+  },
+  {
+   "title": "Rechtbank Overijssel: Consumentenrecht. Ambtshalve toetsing. Een overeenkomst tot levering energie is telefonisch gesloten en daarna schriftelijk bevestigd. Dit… (ECLI:NL:RBOVE:2020:652)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:652",
+   "date": "2020-02-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenrecht. Ambtshalve toetsing. Een overeenkomst tot levering energie is telefonisch gesloten en daarna schriftelijk bevestigd. Dit is in strijd met het in artikel 6:230v lid6 BW genoemde vormvereiste. De overeenkomst is dan ook nietig. De vordering op primaire grondslag wordt afgewezen en ook op de subsidiaire grondslag, ongerechtvaardigde verrijking, omdat dit onvoldoende is onderbouwd.",
+   "source": "civiel",
+   "first_seen": "2020-02-17T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "levering energie"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Totstandkoming overeenkomst. Telefonische acquisitie. Art. 6:217 en 3:35 BW. Vordering uit ongerechtvaardigde verrijking. Stelplicht. Art.… (ECLI:NL:GHAMS:2020:376)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:376",
+   "date": "2020-02-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Totstandkoming overeenkomst. Telefonische acquisitie. Art. 6:217 en 3:35 BW. Vordering uit ongerechtvaardigde verrijking. Stelplicht. Art. 6:212 BW. Zie ECLI:NL:GHAMS:2018:1310.",
+   "source": "civiel",
+   "first_seen": "2020-02-12T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "INNOVA ENERGIE"
+  },
+  {
+   "title": "Rechtbank Den Haag: Energiezaak. Veroordeling van gedaagde partij om te gedogen dat werkzaamheden aan de meter(s) worden verricht. Toestaan om middels… (ECLI:NL:RBDHA:2020:1041)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:1041",
+   "date": "2020-02-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energiezaak. Veroordeling van gedaagde partij om te gedogen dat werkzaamheden aan de meter(s) worden verricht. Toestaan om middels ontruiming werkzaamheden te verrichten, nl. het het onderbreken van de energielevering al dan niet door terugname van meters",
+   "source": "civiel",
+   "first_seen": "2020-02-10T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energielevering"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Kort geding over intrekking shipperlicenties Nederlandse gasmarkt. Aan de orde zijn de vereisten van de Gaswet en Transportcode gas LNB, de… (ECLI:NL:RBNNE:2020:448)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:448",
+   "date": "2020-02-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding over intrekking shipperlicenties Nederlandse gasmarkt. Aan de orde zijn de vereisten van de Gaswet en Transportcode gas LNB, de aan shippers gestelde prudentie-eisen en de werking van het balanceringsregime. Afwijzing vorderingen omdat niet kan worden aangenomen dat de rechter in een eventueel aanhangig te maken bodemprocedure zal oordelen dat shipperlicenties niet rechtsgeldig zijn in",
+   "source": "civiel",
+   "first_seen": "2020-02-06T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Onrechtmatige daad. Kabelschade door graafwerkzaamheden. Bij de beoordeling van de zorgplicht van de grondroerder moet in beginsel worden… (ECLI:NL:GHAMS:2020:245)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:245",
+   "date": "2020-02-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onrechtmatige daad. Kabelschade door graafwerkzaamheden. Bij de beoordeling van de zorgplicht van de grondroerder moet in beginsel worden aangesloten bij de Richtlijn Zorgvuldig Graafproces . Voor de bepaling van het gebied waarin leidingen gelokaliseerd moet worden, het zogenaamde 'zoekgebied', wordt daarin uitgegaan van het zogenaamde “graafprofiel”. Dit is het gebied waarin daadwerkelijk grond ",
+   "source": "civiel",
+   "first_seen": "2020-02-05T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "LIANDER"
+  },
   {
    "title": "Hoge Raad: Verbintenissenrecht. Procesrecht. Betalingsverplichting. Overeenkomst. Uitleg. Onduidelijkheid schriftelijke overeenkomst voor rekening… (ECLI:NL:HR:2020:144)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:144",
