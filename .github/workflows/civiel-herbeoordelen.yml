@@ -4,9 +4,6 @@ name: Selectie civiele uitspraken opnieuw toepassen
 # Gebruik dit nadat de selectie in scripts/civiel.py strenger is gemaakt (duurt ongeveer een kwartier).
 on:
   workflow_dispatch:
-  push:  # TIJDELIJK: eenmalig na de eerste opbouw op de werkbranch; weghalen voor het samenvoegen
-    branches: [claude/project-thread-62i53a]
-    paths: [.github/workflows/civiel-herbeoordelen.yml]
 
 permissions:
   contents: write
