@@ -2,10 +2,121 @@
  "jaar": 2020,
  "maanden": [
   "2020-01",
-  "2020-02"
+  "2020-02",
+  "2020-03"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Opzegging duurovereenkomsten door Gemeente met aangewezen netwerkbeheerder met betrekking tot elektriciteits- en gasleidingnet,… (ECLI:NL:RBZWB:2020:1823)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:1823",
+   "date": "2020-03-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Opzegging duurovereenkomsten door Gemeente met aangewezen netwerkbeheerder met betrekking tot elektriciteits- en gasleidingnet, opzegtermijn, precarioheffing.",
+   "source": "civiel",
+   "first_seen": "2020-04-16T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENEXIS"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Geschil tussen eigenaar/beheerder recreatiepark en een chalet/kaveleigenaar. Welk tarief geldt voor de levering van elektriciteit? Uitleg… (ECLI:NL:GHSHE:2020:1057)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1057",
+   "date": "2020-03-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil tussen eigenaar/beheerder recreatiepark en een chalet/kaveleigenaar. Welk tarief geldt voor de levering van elektriciteit? Uitleg beheerovereenkomst die is gesloten tussen rechtsvoorganger van de parkeigenaar en de VvE. Geobjectiveerde variant Haviltex maatstaf. Beroep parkeigenaar op derdenbescherming ex 3:36 BW, rechtsverwerking en beperkende werking redelijkheid en billijkheid.",
+   "source": "civiel",
+   "first_seen": "2020-03-24T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "levering van elektriciteit"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Toepassing van de Warmtewet binnen het huurrecht. Huur van appartement met warmte-koudeopslag installatie (WKO). De WKO is geen eigendom… (ECLI:NL:GHARL:2020:2490)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:2490",
+   "date": "2020-03-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toepassing van de Warmtewet binnen het huurrecht. Huur van appartement met warmte-koudeopslag installatie (WKO). De WKO is geen eigendom van de verhuurder, maar (door opstalrecht) van de leverancier van de energie. Huurder heeft geen contract met de energieleverancier. Huurder weigert het vast recht voor de WKO te betalen dat de verhuurder bij hem in rekening brengt. In eerste aanleg is de verhuur",
+   "source": "civiel",
+   "first_seen": "2020-03-24T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Aanbesteding. Terechte uitsluiting? Resterend belang bij beoordeling (ECLI:NL:RBOBR:2020:1614)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:1614",
+   "date": "2020-03-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanbesteding. Terechte uitsluiting? Resterend belang bij beoordeling",
+   "source": "civiel",
+   "first_seen": "2020-03-17T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENEXIS"
+  },
+  {
+   "title": "Rechtbank Den Haag: Eindvonnis na tussenvonnis van 30 mei 2018 (ECLI:NL:RBDHA:2018:6517) over de vraag of schade aan de woning van eisers is veroorzaakt door… (ECLI:NL:RBDHA:2020:2120)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:2120",
+   "date": "2020-03-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eindvonnis na tussenvonnis van 30 mei 2018 (ECLI:NL:RBDHA:2018:6517) over de vraag of schade aan de woning van eisers is veroorzaakt door aardbevingen als gevolg van gaswinning. De NAM heeft na het tussenvonnis onderzoek laten verrichten via de methode van Root Cause Analysis. Is het bewijsvermoeden van artikel 6:177a BW van toepassing?",
+   "source": "civiel",
+   "first_seen": "2020-03-10T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "gaswinning"
+  },
+  {
+   "title": "Rechtbank Gelderland: Ex-echtgenoten. Partijen hebben in 2006 een echtscheidingsconvenant gesloten en ook een overeenkomst over de opbrengsten van een… (ECLI:NL:RBGEL:2020:2121)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:2121",
+   "date": "2020-03-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ex-echtgenoten. Partijen hebben in 2006 een echtscheidingsconvenant gesloten en ook een overeenkomst over de opbrengsten van een windmolenpark die als titel aanvullend echtscheidingsconvenant heeft. Is dit nu een nadere verdeling of een schenkingsovereenkomst? Kan de vrouw de man aan de nadere overeenkomst houden?",
+   "source": "civiel",
+   "first_seen": "2020-04-02T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windmolen"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Verzekeringsrecht. CAR-verzekering. Is sprake van schade als gevolg werkzaamheden gedurende de onderhoudsperiode? (ECLI:NL:GHDHA:2020:1342)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:1342",
+   "date": "2020-03-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzekeringsrecht. CAR-verzekering. Is sprake van schade als gevolg werkzaamheden gedurende de onderhoudsperiode?",
+   "source": "civiel",
+   "first_seen": "2020-07-24T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "E.ON"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Tweede tussenvonnis na ambtshalve toetsing. Gebleken is dat Eneco maar liefst 32 maal incassokosten in rekening heeft gebracht de afgelopen… (ECLI:NL:RBNNE:2020:1209)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:1209",
+   "date": "2020-03-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tweede tussenvonnis na ambtshalve toetsing. Gebleken is dat Eneco maar liefst 32 maal incassokosten in rekening heeft gebracht de afgelopen jaren. Eneco wordt nu in de gelegenheid gesteld om de bijbehorende veertiendagenbrieven te overleggen.",
+   "source": "civiel",
+   "first_seen": "2020-03-16T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "eneco"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Ontbinding overeenkomst. Proportionaliteit. Artikel 6:248 lid 2 BW. Eneco ontbindt per direct en tussentijds een meerjarig contract inzake… (ECLI:NL:GHARL:2020:2077)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:2077",
+   "date": "2020-03-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ontbinding overeenkomst. Proportionaliteit. Artikel 6:248 lid 2 BW. Eneco ontbindt per direct en tussentijds een meerjarig contract inzake levering van biomassa (voor haar energiecentrale). Leverancier vordert schadevergoeding. Als het contract zo moet worden uitgelegd dat ontbinding slechts mogelijk is indien deze proportioneel is geldt dat van proportionaliteit sprake is. Dat oordeel is gebaseer",
+   "source": "civiel",
+   "first_seen": "2020-03-10T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "eneco"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: OK; enquête; afwijzing verzoek, toewijzing tegenverzoek (ECLI:NL:GHAMS:2020:610)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:610",
+   "date": "2020-03-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "OK; enquête; afwijzing verzoek, toewijzing tegenverzoek",
+   "source": "civiel",
+   "first_seen": "2020-03-02T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENERGY B.V."
+  },
   {
    "title": "Rechtbank Amsterdam: Had grondroerder die graafwerkzaamheden ging verrichten, voorafgaand aan de werkzaamheden de hoogspanningskabel in de grond moeten… (ECLI:NL:RBAMS:2020:1629)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:1629",
