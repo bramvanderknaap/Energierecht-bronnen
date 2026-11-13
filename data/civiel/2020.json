@@ -3,10 +3,198 @@
  "maanden": [
   "2020-01",
   "2020-02",
-  "2020-03"
+  "2020-03",
+  "2020-04"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vordering in kortgeding tot betaling van een voorschot op de kosten van versterking die voor renovatie van een boerderij op grond van de… (ECLI:NL:GHARL:2020:3377)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:3377",
+   "date": "2020-04-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering in kortgeding tot betaling van een voorschot op de kosten van versterking die voor renovatie van een boerderij op grond van de NPR 9998 nodig is. Spoedeisend belang ontbreekt. De boerderij is opgenomen op de P50-lijst. De staat zal dan ook op enig moment de versterkingskosten vergoeden. Het is nog wachten op het rapport. Er zijn geen feiten en/of omstandigheden gesteld waaruit blijkt dat",
+   "source": "civiel",
+   "first_seen": "2020-04-28T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "mijnbouwwet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Verstekvonnis. Eisende partij heeft niet aannemelijk gemaakt dat tussen partijen een overeenkomst tot stand is gekomen. Vordering afgewezen (ECLI:NL:RBNHO:2020:3161)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:3161",
+   "date": "2020-04-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstekvonnis. Eisende partij heeft niet aannemelijk gemaakt dat tussen partijen een overeenkomst tot stand is gekomen. Vordering afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-04-24T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Eneco"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Verstekvonnis. Overeenkomst gesloten buiten verkoopruimte. Eisende partij heeft na tussenvonnis aangetoond te hebben voldaan aan eisen van… (ECLI:NL:RBNHO:2020:3160)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:3160",
+   "date": "2020-04-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstekvonnis. Overeenkomst gesloten buiten verkoopruimte. Eisende partij heeft na tussenvonnis aangetoond te hebben voldaan aan eisen van artikel 6:230t lid 1 BW.",
+   "source": "civiel",
+   "first_seen": "2020-04-24T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Eneco"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Verstekvonnis. Ambtshalve toetsing. Online gesloten energieovereenkomst. Afwijzing van 25% van de hoofdsom wegens schending… (ECLI:NL:RBNHO:2020:3156)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:3156",
+   "date": "2020-04-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstekvonnis. Ambtshalve toetsing. Online gesloten energieovereenkomst. Afwijzing van 25% van de hoofdsom wegens schending informatieverplichting.",
+   "source": "civiel",
+   "first_seen": "2020-04-23T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Verstekvonnis. Ambtshalve toetsing. Telefonisch energiecontract. Niet is komen vast te staan dat de in artikel 6:230m BW bedoelde… (ECLI:NL:RBNHO:2020:3155)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:3155",
+   "date": "2020-04-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstekvonnis. Ambtshalve toetsing. Telefonisch energiecontract. Niet is komen vast te staan dat de in artikel 6:230m BW bedoelde informatie tijdig aan gedaagde is verstrekt. Afwijzing van 25% van de hoofdsom.",
+   "source": "civiel",
+   "first_seen": "2020-04-23T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Vordering op grond van ongerechtvaardigde verrijking ex artikel 6:212 BW. Gedaagde is energie blijven gebruiken zonder… (ECLI:NL:RBMNE:2020:1952)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:1952",
+   "date": "2020-04-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering op grond van ongerechtvaardigde verrijking ex artikel 6:212 BW. Gedaagde is energie blijven gebruiken zonder energieleveringsovereenkomst en heeft de door netbeheerder geleverde energie niet betaald.",
+   "source": "civiel",
+   "first_seen": "2020-05-26T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energielevering, netbeheerder"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Geschil tussen landeigenaren en exploitant van een windpark over de afspraken in verband met opstalrecht en exploitatie van windturbines.… (ECLI:NL:GHARL:2020:3216)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:3216",
+   "date": "2020-04-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil tussen landeigenaren en exploitant van een windpark over de afspraken in verband met opstalrecht en exploitatie van windturbines. Tussentijds wegneemrecht beperkt? Vragen van uitleg van de overeenkomst (Haviltex); verworpen beroep op exceptio plurium litis consortium.",
+   "source": "civiel",
+   "first_seen": "2020-04-21T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "stimulering duurzame energie"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland, ECLI:NL:RBNNE:2020:1890",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:1890",
+   "date": "2020-04-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "..",
+   "source": "civiel",
+   "first_seen": "2020-05-13T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "NEDERLANDSE AARDOLIE MAATSCHAPPIJ"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: aansprakelijkheid grondroerder voor schade aan kabel wegens schending van de op hem rustende lokaliseerplicht na KLIC-melding (ECLI:NL:RBNHO:2020:4095)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:4095",
+   "date": "2020-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "aansprakelijkheid grondroerder voor schade aan kabel wegens schending van de op hem rustende lokaliseerplicht na KLIC-melding",
+   "source": "civiel",
+   "first_seen": "2020-06-04T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Contradictoir. prijswijziging en flexibiliteitkosten bij energiecontract, aanleiding om overeenkomst te wijzigen? (ECLI:NL:RBOBR:2020:2049)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:2049",
+   "date": "2020-04-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Contradictoir. prijswijziging en flexibiliteitkosten bij energiecontract, aanleiding om overeenkomst te wijzigen?",
+   "source": "civiel",
+   "first_seen": "2020-04-08T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Kabelschade bij graafwerkzaamheden, onderzoeksplicht, KLIC-melding (ECLI:NL:RBNHO:2020:5885)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:5885",
+   "date": "2020-04-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kabelschade bij graafwerkzaamheden, onderzoeksplicht, KLIC-melding.",
+   "source": "civiel",
+   "first_seen": "2020-08-03T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: De overeenkomsten houden geen recht op terugbetaling door Essent van flexibiliteitskosten in. De aanvullende werking van de redelijkheid en… (ECLI:NL:RBOBR:2020:2047)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:2047",
+   "date": "2020-04-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De overeenkomsten houden geen recht op terugbetaling door Essent van flexibiliteitskosten in. De aanvullende werking van de redelijkheid en billijkheid brengt niet met zich dat Essent de in 2011 en 2012 gehanteerde tarieven voor Flexibiliteitsdiensten had moeten aanpassen. Ten aanzien van het beroep op artikel 6:258 BW is de rechtbank van oordeel dat niet aan de stelplicht is voldaan.",
+   "source": "civiel",
+   "first_seen": "2020-04-07T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Graafschade door grondroerder. Onduidelijke informatie netbeheerder. Aansprakelijkheid (ECLI:NL:GHDHA:2020:577)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:577",
+   "date": "2020-04-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Graafschade door grondroerder. Onduidelijke informatie netbeheerder. Aansprakelijkheid.",
+   "source": "civiel",
+   "first_seen": "2020-03-30T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Tussenarrest. In deze zaak staat de vraag centraal of geleverde RM6 installaties aan de overeenkomsten beantwoorden. Appellant stelt dat de… (ECLI:NL:GHAMS:2020:1266)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:1266",
+   "date": "2020-04-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenarrest. In deze zaak staat de vraag centraal of geleverde RM6 installaties aan de overeenkomsten beantwoorden. Appellant stelt dat de installaties non-conform zijn omdat zij te veel SF6 gas lekken en daardoor de levensduur van 30 jaar niet halen. Het meest verstrekkende verweer van geïntimeerde luidt dat, voor zover er al lekkages zijn, deze (uitsluitend) worden veroorzaakt door een wijze va",
+   "source": "civiel",
+   "first_seen": "2020-05-20T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "WESTLAND INFRA"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Toewijzen verzoek moratorium (art. 287b Fw). Schriftelijke behandeling. Corona. Twee verzoeken moratoria, Evides en Essent. Beoogd… (ECLI:NL:RBROT:2020:3252)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:3252",
+   "date": "2020-04-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toewijzen verzoek moratorium (art. 287b Fw). Schriftelijke behandeling. Corona. Twee verzoeken moratoria, Evides en Essent. Beoogd beschermingsbewindvoerder. Maatschappelijk werkster. Haalbaarheid minnelijke regeling reëel. Huidige pandemie en daarmee samenhangende restricties.",
+   "source": "civiel",
+   "first_seen": "2020-04-10T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "essent"
+  },
+  {
+   "title": "Rechtbank Rotterdam: huur woonruimte, huurachterstand, huurverhogingen, eindafrekening energie, artikel 7:260 lid 1 BW, Warmtewet (ECLI:NL:RBROT:2020:3196)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:3196",
+   "date": "2020-04-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "huur woonruimte, huurachterstand, huurverhogingen, eindafrekening energie, artikel 7:260 lid 1 BW, Warmtewet",
+   "source": "civiel",
+   "first_seen": "2020-04-09T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Waardering deskundigenrapport over waarde particulier elektriciteits- en gasnet op bedrijventerrein waarvan de ‘economische eigendom’ door… (ECLI:NL:RBROT:2020:3013)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:3013",
+   "date": "2020-04-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Waardering deskundigenrapport over waarde particulier elektriciteits- en gasnet op bedrijventerrein waarvan de ‘economische eigendom’ door overheidsingrijpen moet worden overgedragen aan Stedin. Elektriciteitswet 1998. Gaswet 2000.",
+   "source": "civiel",
+   "first_seen": "2020-04-07T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Opzegging duurovereenkomsten door Gemeente met aangewezen netwerkbeheerder met betrekking tot elektriciteits- en gasleidingnet,… (ECLI:NL:RBZWB:2020:1823)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:1823",
