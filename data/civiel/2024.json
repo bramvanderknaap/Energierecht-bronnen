@@ -10,10 +10,211 @@
   "2024-07",
   "2024-08",
   "2024-09",
-  "2024-10"
+  "2024-10",
+  "2024-11"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: Verstek. Ambtshalve toetsing. Warmteleveringsovereenkomst Eteck. Prijsbeding is niet transparant, want niet alle beschikbare informatie… (ECLI:NL:RBAMS:2024:7540)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:7540",
+   "date": "2024-11-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Ambtshalve toetsing. Warmteleveringsovereenkomst Eteck. Prijsbeding is niet transparant, want niet alle beschikbare informatie over de prijs wordt voor het sluiten van de overeenkomst verstrekt. Maar niet oneerlijk, want Eteck is monopolist en is gebonden aan de maximumtarieven van de ACM. Vordering tot achterstallig betaling toegewezen, ontbinding en afsluiting afgewezen omdat niet is vo",
+   "source": "civiel",
+   "first_seen": "2024-12-05T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Afsluiten elektriciteits- en gasaansluiting (ECLI:NL:RBROT:2024:12900)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:12900",
+   "date": "2024-11-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afsluiten elektriciteits- en gasaansluiting.",
+   "source": "civiel",
+   "first_seen": "2024-12-18T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Aardbevingszaak. Eisende partij stelt NAM aansprakelijk voor aardbevingsschade. NAM heeft het bewijsvermoeden van artikel 6:177a lid 1 BW… (ECLI:NL:RBNNE:2024:4723)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:4723",
+   "date": "2024-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingszaak. Eisende partij stelt NAM aansprakelijk voor aardbevingsschade. NAM heeft het bewijsvermoeden van artikel 6:177a lid 1 BW vooralsnog niet weerlegd. De rechtbank is voornemens om een deskundigenonderzoek te gelasten naar het causaal verband, de herstelmethode en de herstelkosten.",
+   "source": "civiel",
+   "first_seen": "2024-12-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Aanbestedingstraject plan [naam project] in Utrecht. Uitleg overeenkomst van opdracht. Geen afkoopsom verschuldigd en geen… (ECLI:NL:RBAMS:2024:8953)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:8953",
+   "date": "2024-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanbestedingstraject plan [naam project] in Utrecht. Uitleg overeenkomst van opdracht. Geen afkoopsom verschuldigd en geen schadeverplichting wegens afgebroken onderhandelingen.",
+   "source": "civiel",
+   "first_seen": "2025-11-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Geschil tussen een energiebedrijf en een leverancier over de vraag of de prijs voor de stroom is vastgezet ('geklikt') (ECLI:NL:RBROT:2024:11692)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:11692",
+   "date": "2024-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil tussen een energiebedrijf en een leverancier over de vraag of de prijs voor de stroom is vastgezet ('geklikt').",
+   "source": "civiel",
+   "first_seen": "2024-11-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Vorderingen om netbeheerder te verplichten voor een bepaalde datum aansluitingen én een nieuw AVP-station te realiseren,… (ECLI:NL:RBGEL:2024:8142)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:8142",
+   "date": "2024-11-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Vorderingen om netbeheerder te verplichten voor een bepaalde datum aansluitingen én een nieuw AVP-station te realiseren, afgewezen.",
+   "source": "civiel",
+   "first_seen": "2024-11-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Nakoming energieovereenkomst. Gedaagde betwist totstandkoming van de energieovereenkomst. Totstandkoming energieovereenkomst voldoende… (ECLI:NL:RBROT:2024:11852)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:11852",
+   "date": "2024-11-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Nakoming energieovereenkomst. Gedaagde betwist totstandkoming van de energieovereenkomst. Totstandkoming energieovereenkomst voldoende komen vast te staan. Vordering toegewezen.",
+   "source": "civiel",
+   "first_seen": "2024-11-28T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Tussenvonnis. Eis tot afsluiting gasaansluiting (ECLI:NL:RBROT:2024:13956)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:13956",
+   "date": "2024-11-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Eis tot afsluiting gasaansluiting.",
+   "source": "civiel",
+   "first_seen": "2025-05-23T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: De gemeente heeft bij de ontwikkeling van de wijk Weideveld een overeenkomst gesloten met de rechtsvoorgangster van Eteck over een… (ECLI:NL:RBDHA:2024:18541)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:18541",
+   "date": "2024-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De gemeente heeft bij de ontwikkeling van de wijk Weideveld een overeenkomst gesloten met de rechtsvoorgangster van Eteck over een milieuvriendelijke energievoorziening. De gemeente vindt dat deze overeenkomst onvoldoende wordt nagekomen door Eteck en vordert verklaringen voor recht, nakoming en contractuele boetes. De rechtbank wijst de vorderingen wat betreft de pH-waarde van het systeemwater in",
+   "source": "civiel",
+   "first_seen": "2024-11-11T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; opdracht; verrichten diensten/werkzaamheden (ECLI:NL:RBLIM:2024:8274)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:8274",
+   "date": "2024-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; opdracht; verrichten diensten/werkzaamheden",
+   "source": "civiel",
+   "first_seen": "2024-11-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Aardbevingszaak. Eisende partij stelt NAM aansprakelijk voor aardbevingsschade. NAM heeft het bewijsvermoeden van artikel 6:177a lid 1 BW… (ECLI:NL:RBNNE:2024:4789)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:4789",
+   "date": "2024-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingszaak. Eisende partij stelt NAM aansprakelijk voor aardbevingsschade. NAM heeft het bewijsvermoeden van artikel 6:177a lid 1 BW vooralsnog niet weerlegd. De rechtbank is voornemens om een deskundigenonderzoek te gelasten naar het causaal verband, de herstelmethode en de herstelkosten.",
+   "source": "civiel",
+   "first_seen": "2024-12-06T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Aardbevingszaak. Eisende partij stelt NAM aansprakelijk voor aardbevingsschade. NAM heeft het bewijsvermoeden van artikel 6:177a lid 1 BW… (ECLI:NL:RBNNE:2024:4834)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:4834",
+   "date": "2024-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aardbevingszaak. Eisende partij stelt NAM aansprakelijk voor aardbevingsschade. NAM heeft het bewijsvermoeden van artikel 6:177a lid 1 BW voor wat betreft de schade aan de boerderij niet weerlegd. De rechtbank is voornemens om een deskundigenonderzoek te gelasten naar de herstelmethode en de herstelkosten.",
+   "source": "civiel",
+   "first_seen": "2024-12-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Tussenvonnis. Ambtshalve toetsing. Energieleverancier en consument. Geen schending informatieplicht. Voornemen tot ambtshalve vernieting… (ECLI:NL:RBNHO:2024:12619)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:12619",
+   "date": "2024-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Ambtshalve toetsing. Energieleverancier en consument. Geen schending informatieplicht. Voornemen tot ambtshalve vernieting van de overeenkomst als gevolg van een oneerlijke handelspraktijk.",
+   "source": "civiel",
+   "first_seen": "2024-12-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding. Art. 24 lid 1 Elektriciteitswet; Netcode Elektriciteit. Art. 3:296 BW. Netcongestie en ter beschikking stellen… (ECLI:NL:GHARL:2024:6926)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6926",
+   "date": "2024-11-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Art. 24 lid 1 Elektriciteitswet; Netcode Elektriciteit. Art. 3:296 BW. Netcongestie en ter beschikking stellen transportcapaciteit. Liander niet gehouden Jumbo transportvermogen toe te kennen of harde toezegging te doen wanneer transportcapaciteit aangeboden zal worden. Bevel aan Liander om uiterlijk 18 april 2025 op wijze die met geldende code in overeenstemming is congestierapport t",
+   "source": "civiel",
+   "first_seen": "2024-11-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Voorgenomen verkoop perceel grond aan Liander voor het plaatsen van transformatorstation. Geen schending gelijkheidsbeginsel.… (ECLI:NL:RBGEL:2024:7902)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:7902",
+   "date": "2024-11-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Voorgenomen verkoop perceel grond aan Liander voor het plaatsen van transformatorstation. Geen schending gelijkheidsbeginsel. Eiser beroept zich ten onrechte op Didam-arrest.",
+   "source": "civiel",
+   "first_seen": "2024-11-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Onterechte opzegging energiecontracten. Toewijzing vordering tot schadevergoeding als gevolg daarvan (ECLI:NL:RBAMS:2024:6738)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:6738",
+   "date": "2024-11-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onterechte opzegging energiecontracten. Toewijzing vordering tot schadevergoeding als gevolg daarvan.",
+   "source": "civiel",
+   "first_seen": "2024-11-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Facturen energie- en gasverbruik op basis van geschatte meterstanden terwijl de werkelijke meterstanden aan de energieleverancier zijn… (ECLI:NL:RBZWB:2024:8285)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:8285",
+   "date": "2024-11-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Facturen energie- en gasverbruik op basis van geschatte meterstanden terwijl de werkelijke meterstanden aan de energieleverancier zijn doorgegeven. Afwijzing van de vordering tot betaling van facturen gebaseerd op geschatte meterstanden. Onderlinge marktafspraken tussen energieleveranciers luiden niet tot een andere beslissing. Veroordeling tot betaling van de werkelijke proceskosten vanwege misbr",
+   "source": "civiel",
+   "first_seen": "2024-12-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Consumentenrecht. Ambtshalve toetsing in verstek. Oude warmteleveringsovereenkomst. Gevorderde ontbinding overeenkomst wordt afgewezen… (ECLI:NL:RBMNE:2024:6754)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:6754",
+   "date": "2024-11-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenrecht. Ambtshalve toetsing in verstek. Oude warmteleveringsovereenkomst. Gevorderde ontbinding overeenkomst wordt afgewezen wegens niet-gebleken naleving artikel 5 Warmteregeling.",
+   "source": "civiel",
+   "first_seen": "2024-12-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kosten voor gebruik energie zonder contract met energieleverancier worden afgewezen, want geen ongerechtvaardigde verrijking (ECLI:NL:RBMNE:2024:7347)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:7347",
+   "date": "2024-11-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kosten voor gebruik energie zonder contract met energieleverancier worden afgewezen, want geen ongerechtvaardigde verrijking.",
+   "source": "civiel",
+   "first_seen": "2025-01-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Eiser heeft een aanvraag bij Coteq ingediend voor een nieuwe, zwaardere gasaansluiting. Coteq heeft een offerte gestuurd inclusief… (ECLI:NL:RBOVE:2024:5701)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5701",
+   "date": "2024-11-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser heeft een aanvraag bij Coteq ingediend voor een nieuwe, zwaardere gasaansluiting. Coteq heeft een offerte gestuurd inclusief verwijdering van de oude gasleiding. Eiser heeft die offerte niet voor akkoord getekend. Partijen zijn in discussie geraakt over de vraag of de oude gasleiding verwijderd moet worden en of de verwijderingskosten door eiser moeten worden betaald. Eiser vordert in dit ko",
+   "source": "civiel",
+   "first_seen": "2024-11-04T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Rotterdam: Verzetzaak. De oorspronkelijk eiseres is inmiddels failliet en de curator is niet verschenen in de verzetprocedure. Er is daarom niet… (ECLI:NL:RBROT:2024:10752)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:10752",
