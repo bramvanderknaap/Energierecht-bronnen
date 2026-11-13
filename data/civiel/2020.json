@@ -11,10 +11,99 @@
   "2020-08",
   "2020-09",
   "2020-10",
-  "2020-11"
+  "2020-11",
+  "2020-12"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: energieovereenkomst, ambtshalve toetsing, duurovereenkomst, eindrekening (ECLI:NL:RBNHO:2020:10858)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:10858",
+   "date": "2020-12-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energieovereenkomst, ambtshalve toetsing, duurovereenkomst, eindrekening",
+   "source": "civiel",
+   "first_seen": "2020-12-17T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Opzegging van de warmteleveringsovereenkomst betwist. Gedaagde dient het uit hoofde van de overeenkomst verschuldigde bedrag aan eiseres te… (ECLI:NL:RBROT:2020:11642)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:11642",
+   "date": "2020-12-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Opzegging van de warmteleveringsovereenkomst betwist. Gedaagde dient het uit hoofde van de overeenkomst verschuldigde bedrag aan eiseres te voldoen.",
+   "source": "civiel",
+   "first_seen": "2020-12-15T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "warmtelevering"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Contradictoir. Tussenvonnis. Levering van elektriciteit. Geschil tussen een netbeheerder en een programmaverantwoordelijke over afrekening… (ECLI:NL:RBOBR:2020:6287)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:6287",
+   "date": "2020-12-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Contradictoir. Tussenvonnis. Levering van elektriciteit. Geschil tussen een netbeheerder en een programmaverantwoordelijke over afrekening van elektriciteit. Achteraf is vastgesteld dat meer elektriciteit is afgenomen door een aantal verbruikers dan vooraf als verwachting was opgegeven door de programmaverantwoordelijke. Onbalans in het net moet worden gecompenseerd door het bijkopen van elektrici",
+   "source": "civiel",
+   "first_seen": "2020-12-17T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit, tarievencode"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Appel van ECLI:NL:RBAMS:2019:1174. Koopovereenkomst aandelen Eneco. Uitleg van de overeenkomst. Geen verplichting tot betaling… (ECLI:NL:GHAMS:2020:3329)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:3329",
+   "date": "2020-12-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Appel van ECLI:NL:RBAMS:2019:1174. Koopovereenkomst aandelen Eneco. Uitleg van de overeenkomst. Geen verplichting tot betaling privatiseringvergoeding. Geen aanvullende en/of beperkende werking redelijkheid en billijkheid, in het bijzonder ook geen sprake van handelen van Eneco te kwader trouw.",
+   "source": "civiel",
+   "first_seen": "2020-12-09T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "eneco"
+  },
+  {
+   "title": "Rechtbank Rotterdam: afsluiting elektriciteitsmeter wegens ontbrekende energieleveringsovereenkomst (ECLI:NL:RBROT:2020:11348)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:11348",
+   "date": "2020-12-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "afsluiting elektriciteitsmeter wegens ontbrekende energieleveringsovereenkomst",
+   "source": "civiel",
+   "first_seen": "2020-12-08T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: ontbreken energieleveringsovereenkomst; kosten (ECLI:NL:RBROT:2020:11349)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:11349",
+   "date": "2020-12-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ontbreken energieleveringsovereenkomst; kosten",
+   "source": "civiel",
+   "first_seen": "2020-12-08T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Prijs van monopolist voor het verwijderen en vernieuwen van elektriciteitsmeters. Misbruik in de zin van artikel 24 Mededingingswet?… (ECLI:NL:RBGEL:2020:6280)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:6280",
+   "date": "2020-12-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Prijs van monopolist voor het verwijderen en vernieuwen van elektriciteitsmeters. Misbruik in de zin van artikel 24 Mededingingswet? Stelplicht en bewijslast rusten op de klant. Dat neemt niet weg dat de monopolist voldoende gegevens dient te verschaffen. Tussenvonnis.",
+   "source": "civiel",
+   "first_seen": "2020-11-26T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Enexis"
+  },
+  {
+   "title": "Rechtbank Gelderland: Exoneratiebeding in algemene voorwaarden van netwerkbeheerder voor het verrichten van meetdiensten bij zakelijke opdrachtgevers (ECLI:NL:RBGEL:2020:6726)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:6726",
+   "date": "2020-12-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Exoneratiebeding in algemene voorwaarden van netwerkbeheerder voor het verrichten van meetdiensten bij zakelijke opdrachtgevers.",
+   "source": "civiel",
+   "first_seen": "2020-12-21T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet, informatiecode"
+  },
   {
    "title": "Rechtbank Midden-Nederland: Overeenkomst aangegaan ten behoeve van de ontwikkeling van een windmolenpark en bouw van windturbines nabij woning en op grond van… (ECLI:NL:RBMNE:2020:5181)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:5181",
