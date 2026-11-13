@@ -9,10 +9,201 @@
   "2024-06",
   "2024-07",
   "2024-08",
-  "2024-09"
+  "2024-09",
+  "2024-10"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Verzetzaak. De oorspronkelijk eiseres is inmiddels failliet en de curator is niet verschenen in de verzetprocedure. Er is daarom niet… (ECLI:NL:RBROT:2024:10752)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:10752",
+   "date": "2024-10-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzetzaak. De oorspronkelijk eiseres is inmiddels failliet en de curator is niet verschenen in de verzetprocedure. Er is daarom niet gereageerd op het gevoerde verweer van de oorspronkelijk gedaagde. De vordering van de oorspronkelijk eiseres wordt daarom alsnog afgewezen en het verstekvonnis uit 2012 zal worden vernietigd.",
+   "source": "civiel",
+   "first_seen": "2024-10-29T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Zakelijke rechten; beperkte rechten; appartementsrechten (ECLI:NL:RBLIM:2024:7794)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:7794",
+   "date": "2024-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Zakelijke rechten; beperkte rechten; appartementsrechten",
+   "source": "civiel",
+   "first_seen": "2024-11-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Tussenvonnis. Partijen hebben een (zakelijke) overeenkomst gesloten voor bepaalde tijd voor de levering van gas en elektriciteit. De… (ECLI:NL:RBMNE:2024:6231)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:6231",
+   "date": "2024-10-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Partijen hebben een (zakelijke) overeenkomst gesloten voor bepaalde tijd voor de levering van gas en elektriciteit. De leverancier heeft geen gas en elektriciteit geleverd. De leverancier heeft de overeenkomst opgezegd wegens onvoorziene omstandigheden. De overeenkomst is op tijd bekrachtigd (3:69 BW) door de afnemer. Het bericht waarmee de leverancier de overeenkomst ‘annuleert’ is ",
+   "source": "civiel",
+   "first_seen": "2024-11-12T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Consumentenovereenkomst. Ambtshalve toetsing. Levering van warmte. Eisende partij heeft niet voldaan aan de precontractuele… (ECLI:NL:RBOVE:2024:5791)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5791",
+   "date": "2024-10-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenovereenkomst. Ambtshalve toetsing. Levering van warmte. Eisende partij heeft niet voldaan aan de precontractuele informatieplichten en zij heeft zich het Arrest van Gerechtshof 's-Hertogenbosch ter verweer aangehaald. De eisende partij voert aan dat zij niet in de gelegenheid is gesteld om te voldoen aan de precontractuele informatieplicht. De kantonrechter gaat hier niet in mee. Het li",
+   "source": "civiel",
+   "first_seen": "2024-11-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: in deze procedure speelt de vraag of vorderingen van eiseres ter zake van energieleveringen door Essent kunnen worden toegewezen. Het… (ECLI:NL:GHARL:2024:6736)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6736",
+   "date": "2024-10-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "in deze procedure speelt de vraag of vorderingen van eiseres ter zake van energieleveringen door Essent kunnen worden toegewezen. Het tijdstip van de totstandkoming van de cessie van die vordering aan eiseres wordt door gedaagde ter discussie gesteld. Bovendien, en mede in verband daarmee, zijn de vorderingen volgens haar inmiddels verjaard.",
+   "source": "civiel",
+   "first_seen": "2024-11-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Burengeschil over aansluiting (eigen) nutsvoorzieningen en (blijven) doorleveren van gas, water en elektriciteit en camera's (ECLI:NL:RBGEL:2024:7328)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:7328",
+   "date": "2024-10-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Burengeschil over aansluiting (eigen) nutsvoorzieningen en (blijven) doorleveren van gas, water en elektriciteit en camera's.",
+   "source": "civiel",
+   "first_seen": "2024-10-25T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Incident. Relatief onbevoegd omdat gedaagde is opgeroepen op een andere zittingslocatie dan die staat genoemd in het forumbeding? Onbevoegd… (ECLI:NL:RBOBR:2024:4975)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:4975",
+   "date": "2024-10-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Incident. Relatief onbevoegd omdat gedaagde is opgeroepen op een andere zittingslocatie dan die staat genoemd in het forumbeding? Onbevoegd of niet-ontvankelijk omdat partijen niet eerst gebruik hebben gemaakt van mediation?",
+   "source": "civiel",
+   "first_seen": "2024-10-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kort geding. Vonnis in twee zaken over de vraag of gedaagde energieleveringsovereenkomsten heeft kunnen opzeggen. Gedaagde exploiteert een… (ECLI:NL:RBDHA:2024:17146)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:17146",
+   "date": "2024-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Vonnis in twee zaken over de vraag of gedaagde energieleveringsovereenkomsten heeft kunnen opzeggen. Gedaagde exploiteert een collectief warmtesysteem in een woonwijk. Zij wil die exploitatie beëindigen, vanwege ernstige gebreken in het systeem en heeft daarom de energieleveringsovereenkomsten opgezegd. Gedaagde biedt de bewoners aan te voorzien in een individueel alternatief voor war",
+   "source": "civiel",
+   "first_seen": "2024-10-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Verzetprocedure. Vordering wegens voortijdige opzegging van een energiecontract. Oorspronkelijk gedaagde bestrijdt dat zij een derde heeft… (ECLI:NL:RBNNE:2024:4074)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:4074",
+   "date": "2024-10-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzetprocedure. Vordering wegens voortijdige opzegging van een energiecontract. Oorspronkelijk gedaagde bestrijdt dat zij een derde heeft gemachtigd om namens haar energiecontracten af te sluiten. De kantonrechter wijst de vordering van de oorspronkelijk eiser alsnog af. Gedaagde in het verzet heeft niet duidelijk gemaakt over welke periode de leveringsovereenkomst zou zijn aangegaan en op welke ",
+   "source": "civiel",
+   "first_seen": "2024-10-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: ACM moet bericht over Hollandse Energie Maatschappij verwijderen De Autoriteit Consument & Markt (ACM) moet een bericht op haar website… (ECLI:NL:RBDHA:2024:16926)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:16926",
+   "date": "2024-10-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ACM moet bericht over Hollandse Energie Maatschappij verwijderen De Autoriteit Consument & Markt (ACM) moet een bericht op haar website over Energieleverancier Hollandse Energie Maatschappij (HEM) verwijderen. Dat volgt uit een uitspraak in een kort geding bij de rechtbank Den Haag. Het gaat om het bericht met als titel: 'Advies ACM: Krijg je nog geld terug van energieleverancier HEM? Betaal dan a",
+   "source": "civiel",
+   "first_seen": "2024-10-18T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Energiecontract, wijziging overeenkomst, betaling facturen (ECLI:NL:RBGEL:2024:7173)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2024:7173",
+   "date": "2024-10-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energiecontract, wijziging overeenkomst, betaling facturen",
+   "source": "civiel",
+   "first_seen": "2024-10-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Tussenarrest. Aardbevingsschade. Het hof stelt NAM in de gelegenheid om bij akte te reageren op producties die door appellante in het… (ECLI:NL:GHARL:2024:6998)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6998",
+   "date": "2024-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenarrest. Aardbevingsschade. Het hof stelt NAM in de gelegenheid om bij akte te reageren op producties die door appellante in het geding zijn gebracht ter voorbereiding op de mondelinge behandeling.",
+   "source": "civiel",
+   "first_seen": "2024-11-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Toetsingskader verzoek afschrift in bewijsbeslag genomen stukken in kort geding. Toetsingskaders interne bestuurdersaansprakelijkheid en… (ECLI:NL:GHARL:2024:6381)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6381",
+   "date": "2024-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toetsingskader verzoek afschrift in bewijsbeslag genomen stukken in kort geding. Toetsingskaders interne bestuurdersaansprakelijkheid en tegenstrijdig belang. Linders/Hofstee-doctrine. Transparantievereiste bij belangenverstrengeling. Bestaan rechtsbetrekking op grond van onrechtmatig handelen ex-medewerker/bestuurder in bijna alle gevallen voldoende aannemelijk gemaakt; ook aan overige voorwaarde",
+   "source": "civiel",
+   "first_seen": "2024-10-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Toetsingskader verzoek afschrift in bewijsbeslag genomen stukken in kort geding. Toetsingskaders interne bestuurdersaansprakelijkheid en… (ECLI:NL:GHARL:2024:6310)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6310",
+   "date": "2024-10-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toetsingskader verzoek afschrift in bewijsbeslag genomen stukken in kort geding. Toetsingskaders interne bestuurdersaansprakelijkheid en tegenstrijdig belang. Linders/Hofstee-doctrine. Transparantievereiste bij belangenverstrengeling. Bestaan rechtsbetrekking op grond van onrechtmatig handelen ex-medewerker/bestuurder in bijna alle gevallen voldoende aannemelijk gemaakt; ook aan overige voorwaarde",
+   "source": "civiel",
+   "first_seen": "2024-10-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: De rechtbank heeft in een uitspraak van vandaag alle vorderingen van claimstichting Nuon-claim afgewezen. Stichting Nuon-claim had de… (ECLI:NL:RBAMS:2024:6118)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:6118",
+   "date": "2024-10-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De rechtbank heeft in een uitspraak van vandaag alle vorderingen van claimstichting Nuon-claim afgewezen. Stichting Nuon-claim had de procedure aangespannen tegen Vattenfall (voorheen NUON), zij vond dat Vattenfall bij de levering van elektriciteit ten onrechte bepaalde kosten in rekening bracht aan zakelijke klanten. De rechter is van oordeel dat Vattenfall die kosten in rekening mocht brengen en",
+   "source": "civiel",
+   "first_seen": "2024-10-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: De kantonrechter wijst de vordering tot schadevergoeding toe omdat partij B toerekenbaar tekort is geschoten bij de installatie van een… (ECLI:NL:RBOVE:2024:5220)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5220",
+   "date": "2024-10-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De kantonrechter wijst de vordering tot schadevergoeding toe omdat partij B toerekenbaar tekort is geschoten bij de installatie van een zonne-energiesysteem op de paardenstal van partij A.",
+   "source": "civiel",
+   "first_seen": "2024-10-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Hoge Raad: Art. 81 lid 1 RO. Onrechtmatige daad. Is netbeheerder aansprakelijk voor onjuiste mededeling aan aannemer over afname van investeringen in… (ECLI:NL:HR:2024:1378)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:1378",
+   "date": "2024-10-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 81 lid 1 RO. Onrechtmatige daad. Is netbeheerder aansprakelijk voor onjuiste mededeling aan aannemer over afname van investeringen in netwerk en van vraag naar type werkzaamheden die aannemer uitvoert?",
+   "source": "civiel",
+   "first_seen": "2024-10-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Herstelvonnis, aanvulling betreft proceskostenveroordeling in de hoofdzaak ten gunste van de tussenkomende partij (ECLI:NL:RBNHO:2024:10165)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:10165",
+   "date": "2024-10-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Herstelvonnis, aanvulling betreft proceskostenveroordeling in de hoofdzaak ten gunste van de tussenkomende partij.",
+   "source": "civiel",
+   "first_seen": "2024-10-03T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Gedaagde is geen partij de bij overeenkomst tot levering van energie. Vernietiging leveringsovereenkomst en machtigingsovereenkomst… (ECLI:NL:RBLIM:2024:6811)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:6811",
+   "date": "2024-10-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde is geen partij de bij overeenkomst tot levering van energie. Vernietiging leveringsovereenkomst en machtigingsovereenkomst afgewezen. Volledige proceskostenvergoeding afgewezen. Algemene voorwaarden niet correct ter hand gesteld.",
+   "source": "civiel",
+   "first_seen": "2024-10-01T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Rechtbank Rotterdam: Energielevering, openstaande termijnbedragen (ECLI:NL:RBROT:2024:9763)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9763",
