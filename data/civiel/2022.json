@@ -3,10 +3,101 @@
  "maanden": [
   "2022-01",
   "2022-02",
-  "2022-03"
+  "2022-03",
+  "2022-04"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: Verstek. Geen contact geweest met gedaagde, toch overeenkomst tot levering van warmte, gelet op Waternet arrest. Anders dan eiseres stelt… (ECLI:NL:RBAMS:2022:2100)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2022:2100",
+   "date": "2022-04-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Geen contact geweest met gedaagde, toch overeenkomst tot levering van warmte, gelet op Waternet arrest. Anders dan eiseres stelt wel ambtshalve toetsing van informatieplichten, omdat Warmtewet binnen werkingssfeer van Richtlijn 2005/29/EG valt.",
+   "source": "civiel",
+   "first_seen": "2022-04-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Vordering tot vergoeding van aardbevingschade bestaand in gederfde huurinkomsten (ECLI:NL:GHDHA:2022:1265)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1265",
+   "date": "2022-04-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot vergoeding van aardbevingschade bestaand in gederfde huurinkomsten.",
+   "source": "civiel",
+   "first_seen": "2022-07-07T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Elektriciteitswet. Geen onverschuldigde betaling van netwerkdiensten. Er is een ATO en een aansluiting. Beroep op formele rechtskracht… (ECLI:NL:GHARL:2022:3010)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:3010",
+   "date": "2022-04-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Elektriciteitswet. Geen onverschuldigde betaling van netwerkdiensten. Er is een ATO en een aansluiting. Beroep op formele rechtskracht besluit ACM faalt. Ook zonder aansluiting is ATO niet nietig.",
+   "source": "civiel",
+   "first_seen": "2022-04-19T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Vordering tot betaling van geleverde energie. Niet geprotesteerd en geen bewijs dat er energie van een andere leverancier werd betrokken (ECLI:NL:RBLIM:2022:2909)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:2909",
+   "date": "2022-04-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot betaling van geleverde energie. Niet geprotesteerd en geen bewijs dat er energie van een andere leverancier werd betrokken.",
+   "source": "civiel",
+   "first_seen": "2022-04-13T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Huur, afrekening servicekosten, beoordeling van de in rekening gebrachte posten (ECLI:NL:RBZWB:2022:2402)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:2402",
+   "date": "2022-04-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huur, afrekening servicekosten, beoordeling van de in rekening gebrachte posten",
+   "source": "civiel",
+   "first_seen": "2022-05-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Overeenkomst tot levering van energie - Eiseres vordert vergoeding voor verbruikte energie. Overeenkomst staat vast op grond van eerder… (ECLI:NL:RBROT:2022:3134)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:3134",
+   "date": "2022-04-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering van energie - Eiseres vordert vergoeding voor verbruikte energie. Overeenkomst staat vast op grond van eerder gewezen vonnis tussen partijen. Gedaagde voert verweer, maar dit slaagt niet. Vorderingen worden toegewezen.",
+   "source": "civiel",
+   "first_seen": "2022-04-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Artikel 23 Electriciteitswet. Aansluitingstermijn. Overmacht. Artikel 26a lid 2 Electriciteitswet. Exoneratiebeding. Artt. 6:236 en 237 BW… (ECLI:NL:RBROT:2022:4664)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:4664",
+   "date": "2022-04-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 23 Electriciteitswet. Aansluitingstermijn. Overmacht. Artikel 26a lid 2 Electriciteitswet. Exoneratiebeding. Artt. 6:236 en 237 BW niet rechtsreeks van toepassing. Wel indirecte werking. Vergrijzing zwarte lijst.",
+   "source": "civiel",
+   "first_seen": "2022-06-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Arbeidsrecht, Wwz Afwijking in cao Productie- en Leveringsbedrijven (cao PLB) van artikel 7:668a lid 2 BW (inhoudende dat als een werknemer… (ECLI:NL:GHAMS:2022:1069)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:1069",
+   "date": "2022-04-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Arbeidsrecht, Wwz Afwijking in cao Productie- en Leveringsbedrijven (cao PLB) van artikel 7:668a lid 2 BW (inhoudende dat als een werknemer direct voor de arbeidsovereenkomst al langer dan een half jaar voor de werkgever werkte op basis van één of meer uitzend- en/of detacheringsovereenkomsten, deze meetellen als (slechts) één arbeidsovereenkomst voor bepaalde tijd van een half jaar) is rechtsgeld",
+   "source": "civiel",
+   "first_seen": "2022-04-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Schade bij ontgraven waterleiding. Beoordelingsmaatstaf voor aansprakelijkheid. CROW 500 Richtlijn. Beheersmaatregelen in de onderzoeks- en… (ECLI:NL:GHDHA:2022:422)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:422",
+   "date": "2022-04-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schade bij ontgraven waterleiding. Beoordelingsmaatstaf voor aansprakelijkheid. CROW 500 Richtlijn. Beheersmaatregelen in de onderzoeks- en ontwerpfase. Deugdelijkheid van fixeermaatregelen.",
+   "source": "civiel",
+   "first_seen": "2022-03-22T00:00:00+00:00",
+   "grond": "tekst"
+  },
   {
    "title": "Rechtbank Den Haag: Kort geding. Mondeling vonnis 30p Rv. Meewerken verkoop woning. De man krijgt eerst de gelegenheid om de woning over te nemen (ECLI:NL:RBDHA:2022:2964)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:2964",
