@@ -3,10 +3,131 @@
  "maanden": [
   "2021-01",
   "2021-02",
-  "2021-03"
+  "2021-03",
+  "2021-04"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Noord-Holland: Gebod mee te werken aan het passeren van de notariële akte tbv van het vestigen van een opstalrecht en erfdienstbaarheden ivm windmolens op… (ECLI:NL:RBNHO:2021:3550)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:3550",
+   "date": "2021-04-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gebod mee te werken aan het passeren van de notariële akte tbv van het vestigen van een opstalrecht en erfdienstbaarheden ivm windmolens op perceel gedaagde. Discussie met andere grondeigenaar over gebruik ontsluitingsweg geen grond om niet mee te werken",
+   "source": "civiel",
+   "first_seen": "2021-04-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Bestaan overeenkomst door eiseres niet bewezen. Geen bewijsaanbod gedaan. Geen aanleiding om ambtshalve bewijs op te dragen. Afwijzing… (ECLI:NL:RBROT:2021:3873)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3873",
+   "date": "2021-04-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bestaan overeenkomst door eiseres niet bewezen. Geen bewijsaanbod gedaan. Geen aanleiding om ambtshalve bewijs op te dragen. Afwijzing vordering.",
+   "source": "civiel",
+   "first_seen": "2021-04-30T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Korte samenvatting: Contradictoir. Enexis heeft zonder toestemming van KEM een kabel gelegd in de grond van het perceel waarop KEM een… (ECLI:NL:RBOBR:2021:1816)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:1816",
+   "date": "2021-04-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Korte samenvatting: Contradictoir. Enexis heeft zonder toestemming van KEM een kabel gelegd in de grond van het perceel waarop KEM een opstalrecht heeft. Heeft Enexis hiermee onrechtmatig jegens KEM gehandeld? De rechtbank oordeelt van niet, omdat de kabel zo diep onder de grond ligt dat KEM geen belang heeft zich hiertegen te verzetten (artikel 5:21 lid 2 BW). Omdat de grenzen van het eigendomsre",
+   "source": "civiel",
+   "first_seen": "2021-04-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Overeenkomst tot betaling van kosten van aansluiting en transport van elektriciteit tussen netbeheerder en (naar wordt gesteld) een partij… (ECLI:NL:GHARL:2021:3783)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:3783",
+   "date": "2021-04-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot betaling van kosten van aansluiting en transport van elektriciteit tussen netbeheerder en (naar wordt gesteld) een partij die niet de afnemer is in de zin van de E-wet is niet onverbindend wegens strijd met de E-wet.",
+   "source": "civiel",
+   "first_seen": "2021-04-20T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: kort geding. nakoming. uitleg bepaling inz exclusiviteit in overeenkomst. verbod bestellen onderdelen gascentrale bij derden toegewezen (ECLI:NL:RBAMS:2021:1797)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1797",
+   "date": "2021-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "kort geding. nakoming. uitleg bepaling inz exclusiviteit in overeenkomst. verbod bestellen onderdelen gascentrale bij derden toegewezen",
+   "source": "civiel",
+   "first_seen": "2021-04-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vonnis n.a.v. een WOZ zitting waarbij de eisende partij de vordering tot betaling van de proceskosten bijna volledig heeft ingetrokken… (ECLI:NL:RBROT:2021:3981)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3981",
+   "date": "2021-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vonnis n.a.v. een WOZ zitting waarbij de eisende partij de vordering tot betaling van de proceskosten bijna volledig heeft ingetrokken n.a.v. de omstandigheden van het geval",
+   "source": "civiel",
+   "first_seen": "2021-05-05T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Consument is door de energieleverancier niet gewezen op herroepingsrecht. Mocht hij de overeenkomst nog ontbinden en is hij een vergoeding… (ECLI:NL:RBROT:2021:3878)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3878",
+   "date": "2021-04-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consument is door de energieleverancier niet gewezen op herroepingsrecht. Mocht hij de overeenkomst nog ontbinden en is hij een vergoeding verschuldigd voor geleverde energie?",
+   "source": "civiel",
+   "first_seen": "2021-04-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Verstekzaak, rechtsopvolger na faillissement van Innova Energie vordert eindnota van consument, ambtshalve toetsing aan contractuele en… (ECLI:NL:RBAMS:2021:1837)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:1837",
+   "date": "2021-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstekzaak, rechtsopvolger na faillissement van Innova Energie vordert eindnota van consument, ambtshalve toetsing aan contractuele en precontractuele verplichtingen, overeenkomst noch e-mails overgelegd, faillissement onvoldoende reden, onvoldoende gesteld, vordering afgewezen.",
+   "source": "civiel",
+   "first_seen": "2021-04-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Nakoming medewerking vaststellingsovereenkomst. Dwaling. Project windmolens vergunningen. Unierecht (ECLI:NL:RBMNE:2021:1411)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:1411",
+   "date": "2021-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Nakoming medewerking vaststellingsovereenkomst. Dwaling. Project windmolens vergunningen. Unierecht.",
+   "source": "civiel",
+   "first_seen": "2021-04-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: energieovereenkomst; ambtshalve toetsing; opzegboetes onvoldoende transparant en in verband met cumulatieve werking onevenredig hoog;… (ECLI:NL:RBNNE:2021:1184)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:1184",
+   "date": "2021-04-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energieovereenkomst; ambtshalve toetsing; opzegboetes onvoldoende transparant en in verband met cumulatieve werking onevenredig hoog; vernietiging oneerlijke bedingen",
+   "source": "civiel",
+   "first_seen": "2021-04-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: energieovereenkomst; ambtshalve toetsing; opzegboetes onvoldoende transparant en in verband met cumulatieve werking onevenredig hoog;… (ECLI:NL:RBNNE:2021:1187)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:1187",
+   "date": "2021-04-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energieovereenkomst; ambtshalve toetsing; opzegboetes onvoldoende transparant en in verband met cumulatieve werking onevenredig hoog; vernietiging oneerlijke bedingen",
+   "source": "civiel",
+   "first_seen": "2021-04-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Aanbesteding herstel aardbevingsschade. Eiseres is ontvankelijk in haar vorderingen. Er is geen grond voor herbeoordeling van de… (ECLI:NL:RBDHA:2021:4288)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:4288",
+   "date": "2021-04-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanbesteding herstel aardbevingsschade. Eiseres is ontvankelijk in haar vorderingen. Er is geen grond voor herbeoordeling van de inschrijvingen en evenmin voor een her aanbesteding.",
+   "source": "civiel",
+   "first_seen": "2021-04-26T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Gerechtshof Amsterdam: Tussenarrest. Op grond van art. 31c lid 1 Electriciteitswet dient de salderingsregeling aldus te worden toegepast dat als een bepaald… (ECLI:NL:GHAMS:2021:906)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:906",
