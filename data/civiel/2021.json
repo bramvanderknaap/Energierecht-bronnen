@@ -10,10 +10,171 @@
   "2021-07",
   "2021-08",
   "2021-09",
-  "2021-10"
+  "2021-10",
+  "2021-11"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding. Geschil tussen de eigenaar van de grond waarop een windmolen moet worden geplaatst en de (toekomstige) exploitant van de… (ECLI:NL:GHARL:2021:11070)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:11070",
+   "date": "2021-11-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Geschil tussen de eigenaar van de grond waarop een windmolen moet worden geplaatst en de (toekomstige) exploitant van de windmolen, die deel uitmaakt van een windmolenpark. Vanwege Europese rechtspraak en recente bestuursrechtelijke rechtspraak over de SMB-richtlijn is het de vraag of de verleende (definitieve) vergunningen voor het windpark wel onaantastbaar zijn. Wat betekent dat vo",
+   "source": "civiel",
+   "first_seen": "2021-11-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Energierecht. Overeenkomsten tussen energieleverancier en zakelijke grootverbruiker van gas voor levering van gas in twee latere jaren.… (ECLI:NL:GHSHE:2021:3589)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:3589",
+   "date": "2021-11-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energierecht. Overeenkomsten tussen energieleverancier en zakelijke grootverbruiker van gas voor levering van gas in twee latere jaren. Vraag of energieleverancier de grootverbruiker kan houden aan afgesproken prijs voor bijkomende (flexibiliteits)diensten als inkoopprijs daarvan in de latere jaren is gedaald door effecten van wetswijziging. Aanvullende en beperkende werking van de redelijkheid en",
+   "source": "civiel",
+   "first_seen": "2021-11-30T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Schade aan bovengrondse leidingen. Causaal verband, toerekenbaarheid, eigen schuld (ECLI:NL:GHARL:2021:11020)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:11020",
+   "date": "2021-11-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schade aan bovengrondse leidingen. Causaal verband, toerekenbaarheid, eigen schuld.",
+   "source": "civiel",
+   "first_seen": "2021-11-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Onrechtmatige daad, gevaarzettend handelen. Schade aan een in een sloot gelegen gasleiding. Is sprake van grondroeren in de zin van de… (ECLI:NL:GHDHA:2021:2334)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:2334",
+   "date": "2021-11-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onrechtmatige daad, gevaarzettend handelen. Schade aan een in een sloot gelegen gasleiding. Is sprake van grondroeren in de zin van de WION? Had er als voorzorgsmaatregel een KLIC-melding moeten worden gedaan?",
+   "source": "civiel",
+   "first_seen": "2021-11-18T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: Zaak over zonnepanelensystemen. Sprake van dwaling ten aanzien van terugverdientijd systemen. Recht op schadevergoeding in verband met… (ECLI:NL:RBOVE:2021:4568)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:4568",
+   "date": "2021-11-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Zaak over zonnepanelensystemen. Sprake van dwaling ten aanzien van terugverdientijd systemen. Recht op schadevergoeding in verband met ondeugdelijke installatie.",
+   "source": "civiel",
+   "first_seen": "2021-12-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding betreffende vestigen opstalrecht voor windmolen. Uitleg opstalovereenkomst. Gehoudenheid tot gedurende looptijd vrijhouden van… (ECLI:NL:RBGEL:2021:7231)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:7231",
+   "date": "2021-11-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding betreffende vestigen opstalrecht voor windmolen. Uitleg opstalovereenkomst. Gehoudenheid tot gedurende looptijd vrijhouden van passende locatie voor kraanopstelplaats en de giek vloeit voort uit nadere afspraken en toezegging.",
+   "source": "civiel",
+   "first_seen": "2022-01-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: schade netbeheerder als gevolg van ontbreken energieleveringsovereenkomst (ECLI:NL:RBROT:2021:11120)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:11120",
+   "date": "2021-11-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "schade netbeheerder als gevolg van ontbreken energieleveringsovereenkomst",
+   "source": "civiel",
+   "first_seen": "2021-11-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: schade netbeheerder als gevolg van ontbreken leveringsovereenkomst energie (ECLI:NL:RBROT:2021:11121)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:11121",
+   "date": "2021-11-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "schade netbeheerder als gevolg van ontbreken leveringsovereenkomst energie",
+   "source": "civiel",
+   "first_seen": "2021-11-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: schorsing non concurrentiebeding, vordering wordt afgewezen (ECLI:NL:RBOBR:2021:6093)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:6093",
+   "date": "2021-11-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "schorsing non concurrentiebeding, vordering wordt afgewezen",
+   "source": "civiel",
+   "first_seen": "2021-11-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Verstek. Ambtshalve toetsing. Vordering afgewezen, omdat schermafdrukken dateren van datum na totstandkoming overeenkomst. Hierdoor… (ECLI:NL:RBAMS:2021:6371)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:6371",
+   "date": "2021-11-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Ambtshalve toetsing. Vordering afgewezen, omdat schermafdrukken dateren van datum na totstandkoming overeenkomst. Hierdoor onvoldoende gesteld dat gedaagde het overgelegde bestelproces heeft doorlopen, waardoor niet ambtshalve getoetst kan worden.",
+   "source": "civiel",
+   "first_seen": "2021-11-08T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Betaling restant vordering energieleverancier deels toewijsbaar want voorschotten gedeeltelijke niet betaald; opzeggingsvergoeding niet… (ECLI:NL:RBNHO:2021:9971)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:9971",
+   "date": "2021-11-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Betaling restant vordering energieleverancier deels toewijsbaar want voorschotten gedeeltelijke niet betaald; opzeggingsvergoeding niet toewijsbaar want het staat niet vast dat afnemer heeft opgezegd.",
+   "source": "civiel",
+   "first_seen": "2021-11-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: energie, faillissement, ovk onvoldoende onderbouwd, vordering afgewezen (ECLI:NL:RBNHO:2021:12619)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:12619",
+   "date": "2021-11-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "energie, faillissement, ovk onvoldoende onderbouwd, vordering afgewezen",
+   "source": "civiel",
+   "first_seen": "2022-01-26T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Partijen hebben een vaststellingsovereenkomst gesloten over de beëindiging van de exploitatie van een aantal windmolens. Daarbij is… (ECLI:NL:RBMNE:2021:6946)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:6946",
+   "date": "2021-11-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Partijen hebben een vaststellingsovereenkomst gesloten over de beëindiging van de exploitatie van een aantal windmolens. Daarbij is vastgelegd dat bij niet nakoming van de verplichtingen een boete verschuldigd is. De rechtbank heeft geoordeeld dat Kluutmolen op drie onderdelen van de vaststellingsovereenkomst tekort is geschoten en dat ze daarom de boete verschuldigd is. Voor matiging was geen rui",
+   "source": "civiel",
+   "first_seen": "2023-03-24T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Kort geding verstekvonnis. Toewijzen vordering tot veroordeling energieleverancier tot nakoming leveringsovereenkomst op straffe van… (ECLI:NL:RBMNE:2021:5388)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:5388",
+   "date": "2021-11-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding verstekvonnis. Toewijzen vordering tot veroordeling energieleverancier tot nakoming leveringsovereenkomst op straffe van verbeurte van een dwangsom.",
+   "source": "civiel",
+   "first_seen": "2021-11-05T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Artikel 6:230v lid 6 BW. Telefonisch gesloten overeenkomst tot het leveren van energie op initiatief van de energieleverancier.… (ECLI:NL:RBNNE:2021:5103)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:5103",
+   "date": "2021-11-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 6:230v lid 6 BW. Telefonisch gesloten overeenkomst tot het leveren van energie op initiatief van de energieleverancier. Schriftelijk akkoord van de consument. De energieleverancier moet het schriftelijk akkoord van de consument voldoende inzichtelijk maken en stap voor stap uiteenzetten.",
+   "source": "civiel",
+   "first_seen": "2021-12-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Geschil over eindafrekening energieleverancier (ECLI:NL:RBOVE:2021:4227)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:4227",
+   "date": "2021-11-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil over eindafrekening energieleverancier.",
+   "source": "civiel",
+   "first_seen": "2021-11-11T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
   {
    "title": "Hoge Raad: Onrechtmatige daad. Zorgplicht grondroerder. Schade aan elektriciteitskabel bij aanbrengen funderingspaal. Mocht aannemer, gelet op de… (ECLI:NL:HR:2021:1598)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:1598",
