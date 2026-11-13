@@ -4,10 +4,44 @@
   "2019-01",
   "2019-02",
   "2019-03",
-  "2019-04"
+  "2019-04",
+  "2019-05"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Den Haag: Afwijzing machtiging ex artikel 3:299 Bw jo 558 a Rv tot opnemen meters en onderbreken leverantie. Toewijzing vordering gedogen van de… (ECLI:NL:RBDHA:2019:5288)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:5288",
+   "date": "2019-05-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afwijzing machtiging ex artikel 3:299 Bw jo 558 a Rv tot opnemen meters en onderbreken leverantie. Toewijzing vordering gedogen van de werkzaamheden. Bevel tot afgifte meters indien noodzakelijk. Bevoegdheden deurwaarder.",
+   "source": "civiel",
+   "first_seen": "2019-05-23T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Onrechtmatig handelen van een netbeheerder door onjuiste mededelingen aan een aannemer. De aandeelhouders van de aannemer moeten meer… (ECLI:NL:RBOBR:2019:2763)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2019:2763",
+   "date": "2019-05-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onrechtmatig handelen van een netbeheerder door onjuiste mededelingen aan een aannemer. De aandeelhouders van de aannemer moeten meer informatie geven over het causaal verband tussen onrechtmatig handelen en het faillissement van de aannemer.",
+   "source": "civiel",
+   "first_seen": "2019-05-14T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
+  },
+  {
+   "title": "Rechtbank Den Haag: MKBCOLLECTIEVEN PROJECTS B.V. en NEDERLANDS INKOOP COLLECTIEF B.V. (hierna gemakshalve: MKBC (enkelvoud), werven zakelijke afnemers van… (ECLI:NL:RBDHA:2019:5717)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:5717",
+   "date": "2019-05-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "MKBCOLLECTIEVEN PROJECTS B.V. en NEDERLANDS INKOOP COLLECTIEF B.V. (hierna gemakshalve: MKBC (enkelvoud), werven zakelijke afnemers van energie voor energieleverancier TOTAL GAS AND POWER NEDERLAND B.V. (hierna: TGPNL). Contractueel ontvangt MKBC van TGPNL voor iedere nieuw-geworven afnemer provisie, waarbij zij in eerste instantie recht heeft op 85% van de provisie en 15% als de nieuwe afnemer na",
+   "source": "civiel",
+   "first_seen": "2019-06-05T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
+  },
   {
    "title": "Rechtbank Rotterdam: ontbreken gespecificeerde nota incassokosten (tussenvonnis) (ECLI:NL:RBROT:2019:6440)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6440",
