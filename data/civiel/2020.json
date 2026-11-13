@@ -10,10 +10,154 @@
   "2020-07",
   "2020-08",
   "2020-09",
-  "2020-10"
+  "2020-10",
+  "2020-11"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Midden-Nederland: Overeenkomst aangegaan ten behoeve van de ontwikkeling van een windmolenpark en bouw van windturbines nabij woning en op grond van… (ECLI:NL:RBMNE:2020:5181)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:5181",
+   "date": "2020-11-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst aangegaan ten behoeve van de ontwikkeling van een windmolenpark en bouw van windturbines nabij woning en op grond van particuliere grondeigenaar. Gehouden mee te werken aan de vestiging van een recht van opstal en erfdienstbaarheden en hiertoe te de notariële akten te ondertekenen.",
+   "source": "civiel",
+   "first_seen": "2020-11-27T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windturbine, windmolen"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: afwijzing enquete (ECLI:NL:GHAMS:2020:3484)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:3484",
+   "date": "2020-11-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "afwijzing enquete",
+   "source": "civiel",
+   "first_seen": "2020-12-18T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENERGIE B.V."
+  },
+  {
+   "title": "Rechtbank Den Haag: In deze zaak bestaat geen discussie over de aansprakelijkheid van de verzekeraar jegens de netbeheerder. Wel voert de verzekeraar verweer… (ECLI:NL:RBDHA:2020:13541)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:13541",
+   "date": "2020-11-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In deze zaak bestaat geen discussie over de aansprakelijkheid van de verzekeraar jegens de netbeheerder. Wel voert de verzekeraar verweer tegen een aantal in rekening gebrachte (vaste) bedragen. Dit verweer is verworpen. De verzekeraar heeft namelijk geen inhoudelijk en concreet verweer gevoerd en de genoemde bedragen komen de kantonrechter niet bovenmatig of onjuist voor. Ook het bedrag voor de v",
+   "source": "civiel",
+   "first_seen": "2020-12-29T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Tijdens werkzaamheden heeft gedaagde met een edelmanboor een gasleiding van eiseres beschadigd. Het maken van een gat in de grond met een… (ECLI:NL:RBDHA:2020:13546)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:13546",
+   "date": "2020-11-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tijdens werkzaamheden heeft gedaagde met een edelmanboor een gasleiding van eiseres beschadigd. Het maken van een gat in de grond met een edelmanboor valt onder graafwerkzaamheden in de zin van de WIBON. Gedaagde is aan te merken als grondroerder, omdat hij de feitelijke graafwerkzaamheden heeft verricht. Omdat gedaagde de zorgplicht voortvloeiend uit artikel 2 lid 2 WIBON niet in acht heeft genom",
+   "source": "civiel",
+   "first_seen": "2020-12-29T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: huur niet-geliberaliseerde woonruimte, energielevering door verhuurder overgedragen aan gelieerde vennootschap, afrekening servicekosten ex… (ECLI:NL:RBAMS:2020:6949)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:6949",
+   "date": "2020-11-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "huur niet-geliberaliseerde woonruimte, energielevering door verhuurder overgedragen aan gelieerde vennootschap, afrekening servicekosten ex artikel 7:259 BW of volgens Warmtewet, huurcommissie heeft zich ten onrechte onbevoegd verklaard",
+   "source": "civiel",
+   "first_seen": "2021-01-06T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: geen verplichting afsluiten energieleveringsovereenkomst eigenaar; toch proceskosten (ECLI:NL:RBROT:2020:10749)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10749",
+   "date": "2020-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "geen verplichting afsluiten energieleveringsovereenkomst eigenaar; toch proceskosten",
+   "source": "civiel",
+   "first_seen": "2020-11-25T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: geen verplichting afsluiten energieleveringsovereenkomst eigenaar; toch proceskosten (ECLI:NL:RBROT:2020:10750)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10750",
+   "date": "2020-11-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "geen verplichting afsluiten energieleveringsovereenkomst eigenaar; toch proceskosten",
+   "source": "civiel",
+   "first_seen": "2020-11-25T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vordering netbeheerder, wegens nalaten afsluiten energiecontract. Na vermindering van eis alleen vordering tot betaling van BIK. Deze… (ECLI:NL:RBROT:2020:10355)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10355",
+   "date": "2020-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering netbeheerder, wegens nalaten afsluiten energiecontract. Na vermindering van eis alleen vordering tot betaling van BIK. Deze kosten komen in redelijkheid voor rekening gedaagden, art. 25 Handelsregisterwet",
+   "source": "civiel",
+   "first_seen": "2020-11-16T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energiecontract, netbeheerder"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Uitbesteding inhuur externe arbeidskrachten aan broker. Wervingsactiviteiten ten behoeve van arbeidskracht. Geen afspraken met… (ECLI:NL:RBROT:2020:10373)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10373",
+   "date": "2020-11-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitbesteding inhuur externe arbeidskrachten aan broker. Wervingsactiviteiten ten behoeve van arbeidskracht. Geen afspraken met broker/arbeidskracht over bemiddelingsfee in geval inzet niet meer via deze broker zou verlopen.",
+   "source": "civiel",
+   "first_seen": "2020-11-16T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "STEDIN"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Gevorderde bouwstop voor Windpark Zeewolde afgewezen. Eiseres vordert in dit kort geding een bouwstop totdat in de civiele bodemprocedure… (ECLI:NL:RBMNE:2020:4884)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:4884",
+   "date": "2020-11-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gevorderde bouwstop voor Windpark Zeewolde afgewezen. Eiseres vordert in dit kort geding een bouwstop totdat in de civiele bodemprocedure onherroepelijk over haar vorderingen is beslist. Volgens eiseres hebben de betrokken overheden onrechtmatig gehandeld door bij de beslissing(en) om het windpark door gedaagde te laten realiseren en te exploiteren, niet (in voldoende mate) te voldoen aan de daarv",
+   "source": "civiel",
+   "first_seen": "2020-11-11T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Elektriciteitszaak. In dit kort geding kan niet worden vastgesteld dat de bestaande aansluiting van eiser op het… (ECLI:NL:RBGEL:2020:6255)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:6255",
+   "date": "2020-11-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Elektriciteitszaak. In dit kort geding kan niet worden vastgesteld dat de bestaande aansluiting van eiser op het elektriciteitsnet van Liander kan worden gekwalificeerd en/of gebruikt als exclusieve maatwerk AC6-aansluiting. Vordering tot veroordeling van Liander de daarmee corresponderende aansluit- en transportcapaciteit te contracteren wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-11-26T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, tarievencode"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Ongevraagde levering elektriciteit. Ook geen betalingsverplichting op grond van ongerechtvaardigde verrijking (ECLI:NL:RBROT:2020:10169)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10169",
+   "date": "2020-11-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ongevraagde levering elektriciteit. Ook geen betalingsverplichting op grond van ongerechtvaardigde verrijking.",
+   "source": "civiel",
+   "first_seen": "2020-11-11T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Tussen de netbeheerder en de schadeveroorzaker bestaat discussie over de vraag of de dagvaarding voldoet aan de wettelijke vereisten. De… (ECLI:NL:RBDHA:2020:13548)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:13548",
+   "date": "2020-11-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussen de netbeheerder en de schadeveroorzaker bestaat discussie over de vraag of de dagvaarding voldoet aan de wettelijke vereisten. De kantonrechter beantwoordt deze vraag bevestigend. De vordering is dan ook ontvankelijk. Inhoudelijk bestaat discussie over de vraag of de schadeveroorzaker aansprakelijk is voor de gestelde schade. Ook die vraag wordt bevestigend beantwoord. De schadeveroorzaker ",
+   "source": "civiel",
+   "first_seen": "2020-12-29T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
+  },
   {
    "title": "Rechtbank Noord-Nederland: Netbeheerder brengt de eigenaar van een pand leegstand- en afsluitkosten in rekening omdat er na het vertrek van zijn huurder niet tijdig… (ECLI:NL:RBNNE:2020:3676)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:3676",
