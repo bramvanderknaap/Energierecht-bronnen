@@ -3,10 +3,154 @@
  "maanden": [
   "2019-01",
   "2019-02",
-  "2019-03"
+  "2019-03",
+  "2019-04"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: ontbreken gespecificeerde nota incassokosten (tussenvonnis) (ECLI:NL:RBROT:2019:6440)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6440",
+   "date": "2019-04-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ontbreken gespecificeerde nota incassokosten (tussenvonnis)",
+   "source": "civiel",
+   "first_seen": "2019-08-12T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "STEDIN"
+  },
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Kort Geding. Wind- en zonne-energie installatie. Elmar heeft ingevolge artikel 13 en 14 van de algemene voorwaarden de bevoegdheid om de… (ECLI:NL:OGEAA:2019:239)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2019:239",
+   "date": "2019-04-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort Geding. Wind- en zonne-energie installatie. Elmar heeft ingevolge artikel 13 en 14 van de algemene voorwaarden de bevoegdheid om de stroomlevering (tijdelijk) te onderbreken in de gevallen dat een klant meer stroom aan het elektriciteitsnet levert dan hem op grond van de keuring is toegestaan.",
+   "source": "civiel",
+   "first_seen": "2019-05-02T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomlevering, zonne-energie"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Energiecontract tot stand gekomen door tussenkomst van gevolmachtigde partij. Niet gebleken dat het energiebedrijf op de hoogte was van het… (ECLI:NL:GHAMS:2019:1394)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:1394",
+   "date": "2019-04-23T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energiecontract tot stand gekomen door tussenkomst van gevolmachtigde partij. Niet gebleken dat het energiebedrijf op de hoogte was van het gestelde bedrog. Bovendien is vervolgens daadwerkelijk energie afgenomen. De eventuele vernietiging van de volmacht kan derhalve niet aan het energiebedrijf worden tegengeworpen. Ook de opzeggingsvergoeding/boete wegens vervroegde opzegging is verschuldigd. Bu",
+   "source": "civiel",
+   "first_seen": "2019-04-24T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energiebedrijf, energiecontract"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Nakoming overeenkomst. Partijen verschillen van mening over de vraag wat zij precies zijn overeengekomen. Nadere… (ECLI:NL:RBGEL:2019:2519)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:2519",
+   "date": "2019-04-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Nakoming overeenkomst. Partijen verschillen van mening over de vraag wat zij precies zijn overeengekomen. Nadere bewijslevering noodzakelijk. Daarvoor leent een kort geding zich niet. Beperkte toewijzing van de vordering.",
+   "source": "civiel",
+   "first_seen": "2019-06-06T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ALLIANDER"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Koop van één van de 22 windturbines in een windmolenpark in ontwikkeling. Vraag of de met de moedermaatschappij van verkoper overeengekomen… (ECLI:NL:GHARL:2019:3347)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:3347",
+   "date": "2019-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Koop van één van de 22 windturbines in een windmolenpark in ontwikkeling. Vraag of de met de moedermaatschappij van verkoper overeengekomen bemiddelingsfee verschuldigd is. Onjuiste appellant vermeld in de appeldagvaarding. Verzoek tot wijziging van de aanduiding van deze procespartij.",
+   "source": "civiel",
+   "first_seen": "2019-04-16T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windturbine, windmolen"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Koop van één van de 22 windturbines in een windmolenpark in ontwikkeling. Vraag of de met de moedermaatschappij van verkoper overeengekomen… (ECLI:NL:GHARL:2019:3348)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:3348",
+   "date": "2019-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Koop van één van de 22 windturbines in een windmolenpark in ontwikkeling. Vraag of de met de moedermaatschappij van verkoper overeengekomen bemiddelingsfee verschuldigd is. Onjuiste appellant vermeld in de appeldagvaarding. Verzoek tot wijziging van de aanduiding van deze procespartij.",
+   "source": "civiel",
+   "first_seen": "2019-04-16T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windturbine, windmolen"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Causaal verband tussen schade van netbeheerder en kosten van netbeheerder voor het in stand houden van 24/7 storingsdienst die ook niet… (ECLI:NL:GHDHA:2019:820)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:820",
+   "date": "2019-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Causaal verband tussen schade van netbeheerder en kosten van netbeheerder voor het in stand houden van 24/7 storingsdienst die ook niet door derden veroorzaakte storingen oplost (consignatiekosten). Preprocessuele redelijkheid en billijkheid.",
+   "source": "civiel",
+   "first_seen": "2019-04-17T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Elektriciteitswet. Zuiver contractuele congestie geen weigeringsgrond als bedoeld in art. 24 lid 2. Weigering omdat reeds voor… (ECLI:NL:RBGEL:2019:1681)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2019:1681",
+   "date": "2019-04-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Elektriciteitswet. Zuiver contractuele congestie geen weigeringsgrond als bedoeld in art. 24 lid 2. Weigering omdat reeds voor de volledige capaciteit met anderen is gecontracteerd is discriminatoir. Schaarste zal non-discriminatoir moeten worden verdeeld onder contracten als het kan met congestiemanagement op grond van hoofdstuk 9 Netcode. Mogelijkheid van congestiemanagement door ne",
+   "source": "civiel",
+   "first_seen": "2019-04-18T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
+  },
+  {
+   "title": "Rechtbank Overijssel: Constructie van daken van een biogasinstallatie. Vordering in reconventie tot schadevergoeding toegewezen: sprake van toerekenbare… (ECLI:NL:RBOVE:2019:1270)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:1270",
+   "date": "2019-04-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Constructie van daken van een biogasinstallatie. Vordering in reconventie tot schadevergoeding toegewezen: sprake van toerekenbare tekortkoming aan de zijde van eiseres in conventie. Volgt afwijzing van de vordering in conventie. De rechtbank wijst in deze procedure thans een deelvonnis met bindende eindbeslissingen voor het project X. Zij geeft in dit deelvonnis nog geen beslissing over de overig",
+   "source": "civiel",
+   "first_seen": "2019-04-15T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "biogas"
+  },
+  {
+   "title": "Rechtbank Den Haag: Graafwerk, kabelschade. Schending zorg-/verificatieplicht hoofdaannemer/grondroerder? Rechtsverwerking? Schending klachtplicht? Eigen… (ECLI:NL:RBDHA:2019:4062)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:4062",
+   "date": "2019-04-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Graafwerk, kabelschade. Schending zorg-/verificatieplicht hoofdaannemer/grondroerder? Rechtsverwerking? Schending klachtplicht? Eigen schuld? Wijze van lokaliseren. Betwisting causaal verband omvang schade vs oorzaak.Nadere onderbouwing schade door eiser.",
+   "source": "civiel",
+   "first_seen": "2019-04-24T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Werkzaamheden belastingadviseur/accountant. Resultaatsafhankelijk beloning in strijd met gedragsregels beroepsgroep. Sprake van strijd met… (ECLI:NL:GHDHA:2019:805)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:805",
+   "date": "2019-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Werkzaamheden belastingadviseur/accountant. Resultaatsafhankelijk beloning in strijd met gedragsregels beroepsgroep. Sprake van strijd met openbare orde of goede zeden ex artikel 3:40 BW? Geen dwaling.",
+   "source": "civiel",
+   "first_seen": "2019-04-15T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Greenchoice"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Leidingschade; abstracte schadeberekening (ECLI:NL:GHDHA:2019:699)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:699",
+   "date": "2019-04-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Leidingschade; abstracte schadeberekening",
+   "source": "civiel",
+   "first_seen": "2019-04-01T00:00:00+00:00",
+   "grond": "tekst",
+   "toelichting": "netbeheerder (5x)"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Uitleg overeenkomst betreffende verkoop energiecontracten. Inspanningsverplichting of verplichting die in beginsel verplicht tot een… (ECLI:NL:GHAMS:2019:1112)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:1112",
+   "date": "2019-04-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg overeenkomst betreffende verkoop energiecontracten. Inspanningsverplichting of verplichting die in beginsel verplicht tot een resultaat en waarvan slechts onder bijzondere omstandigheden kan worden afgeweken? HR 19 januari 2007, NJ 2007/575. Belangenafweging in kort geding.",
+   "source": "civiel",
+   "first_seen": "2019-04-03T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
+  },
   {
    "title": "Hoge Raad: Verbintenissenrecht. Opzegging door gemeente van langlopende overeenkomsten met netbeheerder. Is voor opzegging voldoende zwaarwegende… (ECLI:NL:HR:2019:446)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:446",
