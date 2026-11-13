@@ -1,0 +1,64 @@
+{
+ "jaar": 2020,
+ "maanden": [
+  "2020-01"
+ ],
+ "mislukt": [],
+ "items": [
+  {
+   "title": "Hoge Raad: Verbintenissenrecht. Procesrecht. Betalingsverplichting. Overeenkomst. Uitleg. Onduidelijkheid schriftelijke overeenkomst voor rekening… (ECLI:NL:HR:2020:144)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:144",
+   "date": "2020-01-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht. Procesrecht. Betalingsverplichting. Overeenkomst. Uitleg. Onduidelijkheid schriftelijke overeenkomst voor rekening opsteller? Devolutieve werking hoger beroep. Ongerechtvaardigde verrijking? Onrechtmatige daad?",
+   "source": "civiel",
+   "first_seen": "2020-01-29T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Artikel 24 Energiewet. Aanbod voor transportcapaciteit ten onrechte geweigerd door netbeheerder op grond van contractuele congestie. Ten… (ECLI:NL:RBOBR:2020:570)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:570",
+   "date": "2020-01-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Artikel 24 Energiewet. Aanbod voor transportcapaciteit ten onrechte geweigerd door netbeheerder op grond van contractuele congestie. Ten onrechte principe “first come, first served” toegepast. Fysieke congestie onvoldoende aannemelijk geworden.",
+   "source": "civiel",
+   "first_seen": "2020-02-04T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: * (ECLI:NL:RBNNE:2020:3402)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:3402",
+   "date": "2020-01-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "*",
+   "source": "civiel",
+   "first_seen": "2020-10-05T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "NEDERLANDSE AARDOLIE MAATSCHAPPIJ"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Geschil over aansluiting van woningen op het elektriciteitsnet. Vordering tot verklaring voor recht en schadevergoeding wegens… (ECLI:NL:RBROT:2020:438)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:438",
+   "date": "2020-01-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil over aansluiting van woningen op het elektriciteitsnet. Vordering tot verklaring voor recht en schadevergoeding wegens overschrijding termijn 23 lid 3 Elektriciteitswet 1998 (Ewet). Wie zijn de partijen bij de overeenkomsten tot aansluiting? Rechtsgeldigheid cessie vordering. Wanneer is een aansluiting gereed? Geslaagd beroep netbeheerder op uitsluiting aansprakelijkheid voor gevolgschade ",
+   "source": "civiel",
+   "first_seen": "2020-01-22T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Toewijzing vordering netbeheerder tot betaling voor aansluit- en transportdiensten op grond van Aansluit- en transportovereenkomst (ATO).… (ECLI:NL:RBGEL:2020:1395)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2020:1395",
+   "date": "2020-01-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toewijzing vordering netbeheerder tot betaling voor aansluit- en transportdiensten op grond van Aansluit- en transportovereenkomst (ATO). Aansluiting op net? Transformator met toebehoren is geen zelfstandig net, maar hulpmiddel in het net van wederpartij. ATO niet strijdig met Elektriciteitswet 1998.",
+   "source": "civiel",
+   "first_seen": "2020-03-03T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  }
+ ]
+}
