@@ -11,10 +11,241 @@
   "2023-08",
   "2023-09",
   "2023-10",
-  "2023-11"
+  "2023-11",
+  "2023-12"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Informatievorderingen over transportcapaciteit en wachtlijst tegen Stedin gebaseerd op art 16 (en 24) E-wet. Fysieke congestie… (ECLI:NL:RBROT:2023:12651)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12651",
+   "date": "2023-12-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Informatievorderingen over transportcapaciteit en wachtlijst tegen Stedin gebaseerd op art 16 (en 24) E-wet. Fysieke congestie voldoende aannemelijk. Gelet op gegevens die Stedin al verstrekt heeft niet aannemelijk dat sprake is van gegevens die nodig zijn voor efficiënte toegang tot het net en het gebruik ervan. Bovendien heeft Stedin ten aanzien van een deel van de gegevens een gehe",
+   "source": "civiel",
+   "first_seen": "2024-01-15T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Geschil over de uitleg van zakelijke overeenkomsten voor de levering van gas. Welke prijs geldt als meer gas wordt verbruikt dan het vooraf… (ECLI:NL:RBROT:2023:12481)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12481",
+   "date": "2023-12-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil over de uitleg van zakelijke overeenkomsten voor de levering van gas. Welke prijs geldt als meer gas wordt verbruikt dan het vooraf ingeschatte volume? Uitleg van de bepaling dat de gasleverancier \"geen bandbreedte\" hanteert.",
+   "source": "civiel",
+   "first_seen": "2024-01-09T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Klanten hebben als gevolg van een dubbele gasmeter teveel betaald over de periode van 1 januari 2005 tot en met 19 mei 2015. Zij spreken… (ECLI:NL:RBAMS:2023:8444)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:8444",
+   "date": "2023-12-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Klanten hebben als gevolg van een dubbele gasmeter teveel betaald over de periode van 1 januari 2005 tot en met 19 mei 2015. Zij spreken hun huidige energieleverancier aan tot terugbetaling ogv onverschuldigde betaling en tekortkoming. Geen sprake van onverschuldigde betaling; niet de huidige energieleverancier, maar zijn voorgangers hebben de bedragen ontvangen. Geen tekortkoming; de klanten moch",
+   "source": "civiel",
+   "first_seen": "2024-01-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Stedin mocht op grond van artikel 5:21 lid 2 BW (ongeveer) 33 meter onder de grond elektriciteitskabels aanleggen op het perceel van eiser… (ECLI:NL:RBROT:2023:12399)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12399",
+   "date": "2023-12-27T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stedin mocht op grond van artikel 5:21 lid 2 BW (ongeveer) 33 meter onder de grond elektriciteitskabels aanleggen op het perceel van eiser / vordering tot verwijdering kabels afgewezen",
+   "source": "civiel",
+   "first_seen": "2024-01-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Aansluitplicht en transportplicht van art. 23 resp. 24 van de Elektriciteitswet 1998 (E-wet). Redelijke termijn voor nakoming… (ECLI:NL:RBGEL:2023:6995)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6995",
+   "date": "2023-12-20T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansluitplicht en transportplicht van art. 23 resp. 24 van de Elektriciteitswet 1998 (E-wet). Redelijke termijn voor nakoming aansluitplicht door netbeheerder. Is de 18-weken termijn van artikel 23 lid 4 E-wet onverbindend of kan de bepaling buitentoepassing worden verklaard? Gebrek aan transportcapaciteit op het net. Geslaagd beroep art. 24 lid 2 E-wet? Exoneratieclausule.",
+   "source": "civiel",
+   "first_seen": "2023-12-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Kort geding: rechtsgeldig vergaderbesluit VvE om over te gaan op stadsverwarming, inclusief aanleg gemeenschappelijke leidingen deels in… (ECLI:NL:GHDHA:2023:2742)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2742",
+   "date": "2023-12-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding: rechtsgeldig vergaderbesluit VvE om over te gaan op stadsverwarming, inclusief aanleg gemeenschappelijke leidingen deels in privé-appartementen. Splitsingsreglement voorziet daarin.",
+   "source": "civiel",
+   "first_seen": "2024-02-19T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Zeerecht. Beperking van aansprakelijkheid. Een of meer schade-evenementen. Opheffing beslag na fondsstelling, Hoger beroep van… (ECLI:NL:GHDHA:2023:2989)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2989",
+   "date": "2023-12-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Zeerecht. Beperking van aansprakelijkheid. Een of meer schade-evenementen. Opheffing beslag na fondsstelling, Hoger beroep van ECLI:NL:RBROT:2022:4477",
+   "source": "civiel",
+   "first_seen": "2025-07-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Zeerecht. Beperking van aansprakelijkheid van aanvaringen. Een of meerdere schade-evenementen. Hoger beroep van ECLI:NL:RBROT: 2022:3955 (ECLI:NL:GHDHA:2023:2988)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2988",
+   "date": "2023-12-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Zeerecht. Beperking van aansprakelijkheid van aanvaringen. Een of meerdere schade-evenementen. Hoger beroep van ECLI:NL:RBROT: 2022:3955",
+   "source": "civiel",
+   "first_seen": "2025-07-30T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Warmtelevering door middel van een warmte- en koude-installatie. Gedaagde moet voor die warmtelevering betalen. Gedaagde stelt dat hij de… (ECLI:NL:RBROT:2023:11828)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11828",
+   "date": "2023-12-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Warmtelevering door middel van een warmte- en koude-installatie. Gedaagde moet voor die warmtelevering betalen. Gedaagde stelt dat hij de leveringsovereenkomst met eiseres met een e-mail heeft opgezegd, maar dat verweer wordt verworpen. De vergoeding voor buitengerechtelijke incassokosten wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2023-12-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Uitleg bepaling in huurovereenkomst over (verhoging van) servicekosten. Huurder moet afrekeningen betalen; voorschot mocht niet eenzijdig… (ECLI:NL:RBROT:2023:12156)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12156",
+   "date": "2023-12-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg bepaling in huurovereenkomst over (verhoging van) servicekosten. Huurder moet afrekeningen betalen; voorschot mocht niet eenzijdig worden verhoogd. In reconventie wordt verhuurder veroordeeld om een boete te betalen wegens het niet tijdig uitvoeren van werkzaamheden. Geen matiging.",
+   "source": "civiel",
+   "first_seen": "2023-12-21T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Hoge Raad: Onrechtmatige daad. Schade aan kabel bij graafwerkzaamheden? Zorgplicht grondroerder, betekenis richtlijn zorgvuldig grondroeren (CROW 500) (ECLI:NL:HR:2023:1750)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:1750",
+   "date": "2023-12-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Onrechtmatige daad. Schade aan kabel bij graafwerkzaamheden? Zorgplicht grondroerder, betekenis richtlijn zorgvuldig grondroeren (CROW 500).",
+   "source": "civiel",
+   "first_seen": "2023-12-14T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; consumentenkoop (ECLI:NL:RBLIM:2023:7314)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:7314",
+   "date": "2023-12-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Bijzondere overeenkomst; koop en ruil; consumentenkoop",
+   "source": "civiel",
+   "first_seen": "2023-12-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Vernietiging bindend advies, onvoldoende motivering. Geen oordeel kantonrechter over inhoud advies, grenzen van de rechtsstrijd (ECLI:NL:RBLIM:2023:7315)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:7315",
+   "date": "2023-12-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vernietiging bindend advies, onvoldoende motivering. Geen oordeel kantonrechter over inhoud advies, grenzen van de rechtsstrijd.",
+   "source": "civiel",
+   "first_seen": "2023-12-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Limburg: Verbintenissenrecht; verbintenis uit andere bron dan od of ovkmst; ongerechtvaardigde verrijking (ECLI:NL:RBLIM:2023:7319)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:7319",
+   "date": "2023-12-13T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht; verbintenis uit andere bron dan od of ovkmst; ongerechtvaardigde verrijking",
+   "source": "civiel",
+   "first_seen": "2023-12-15T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: In een zaak waarin energiemaatschappij Vattenfall bijna 12.000 euro aan onbetaalde facturen vordert, moet zij aantonen wie het initiatief… (ECLI:NL:RBAMS:2023:8265)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:8265",
+   "date": "2023-12-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In een zaak waarin energiemaatschappij Vattenfall bijna 12.000 euro aan onbetaalde facturen vordert, moet zij aantonen wie het initiatief heeft genomen voor de overeenkomst uit 2018, die per telefoon is gesloten.",
+   "source": "civiel",
+   "first_seen": "2023-12-19T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Doorbelasting energienota's en servicekosten, deskundigenbericht (ECLI:NL:RBROT:2023:11621)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11621",
+   "date": "2023-12-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Doorbelasting energienota's en servicekosten, deskundigenbericht",
+   "source": "civiel",
+   "first_seen": "2023-12-11T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen kleinverbruik. Verzoek om aansluiting onder dwangsom… (ECLI:NL:RBGEL:2023:6637)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6637",
+   "date": "2023-12-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen kleinverbruik. Verzoek om aansluiting onder dwangsom afgewezen. Onvoldoende transportcapaciteit totdat netbeheerder geplande netuitbreiding heeft kunnen realiseren.",
+   "source": "civiel",
+   "first_seen": "2023-12-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen nieuwbouwproject. Verzoek om aansluiting onder dwangsom afgewezen.… (ECLI:NL:RBGEL:2023:6636)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6636",
+   "date": "2023-12-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen nieuwbouwproject. Verzoek om aansluiting onder dwangsom afgewezen. Onvoldoende transportcapaciteit totdat netbeheerder geplande netuitbreiding heeft kunnen realiseren.",
+   "source": "civiel",
+   "first_seen": "2023-12-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Afrekening servicekosten. Vervolg op Huurcommissie 23 juni 2022, zaaknummer 486259. Nutskosten, kosten huismeester, inzagerecht artikel… (ECLI:NL:RBNNE:2023:4917)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4917",
+   "date": "2023-12-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Afrekening servicekosten. Vervolg op Huurcommissie 23 juni 2022, zaaknummer 486259. Nutskosten, kosten huismeester, inzagerecht artikel 7:259 BW.",
+   "source": "civiel",
+   "first_seen": "2023-11-28T00:00:00+00:00",
+   "grond": "tekst"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding… (ECLI:NL:RBROT:2023:11205)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11205",
+   "date": "2023-12-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding hoogspanningsverbinding op en boven landbouwgrond",
+   "source": "civiel",
+   "first_seen": "2023-11-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Belemmeringenwet Privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding… (ECLI:NL:RBROT:2023:11206)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11206",
+   "date": "2023-12-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet Privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding hoogspanningsverbinding op en boven landbouwgrond",
+   "source": "civiel",
+   "first_seen": "2023-11-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding… (ECLI:NL:RBROT:2023:11207)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11207",
+   "date": "2023-12-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding hoogspanningsverbinding op en boven landbouwgrond",
+   "source": "civiel",
+   "first_seen": "2023-11-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Executiegeschil over nakoming vonnis. Elektriciteitszaak (ECLI:NL:RBGEL:2023:6574)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6574",
+   "date": "2023-12-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Executiegeschil over nakoming vonnis. Elektriciteitszaak.",
+   "source": "civiel",
+   "first_seen": "2023-12-04T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; koop anderszins (ECLI:NL:RBLIM:2023:7049)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:7049",
