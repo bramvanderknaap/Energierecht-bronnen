@@ -4,10 +4,131 @@
   "2021-01",
   "2021-02",
   "2021-03",
-  "2021-04"
+  "2021-04",
+  "2021-05"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Gelderland: Kort geding. Aansluitplicht en transportplicht netbeheerder. Fysieke congestie, art. 24 lid 2 Elektriciteitswet. Voldoende aannemelijk dat… (ECLI:NL:RBGEL:2021:2722)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:2722",
+   "date": "2021-05-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aansluitplicht en transportplicht netbeheerder. Fysieke congestie, art. 24 lid 2 Elektriciteitswet. Voldoende aannemelijk dat redelijkerwijs geen transportcapaciteit beschikbaar is voor aanbod tot extra transportvermogen.",
+   "source": "civiel",
+   "first_seen": "2021-06-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Problemen bij de afronding van installatiewerkzaamheden die een nevenaannemer heeft uitgevoerd. Het hof heeft behoefte aan deskundige… (ECLI:NL:GHARL:2021:5023)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:5023",
+   "date": "2021-05-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Problemen bij de afronding van installatiewerkzaamheden die een nevenaannemer heeft uitgevoerd. Het hof heeft behoefte aan deskundige voorlichting.",
+   "source": "civiel",
+   "first_seen": "2021-05-25T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Maatschap met betrekking tot gezamenlijke exploitatie windmolen, van rechtswege ontbonden op grond van artikel 7A:1683 BW. Verdeelsleutel… (ECLI:NL:GHARL:2021:5024)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:5024",
+   "date": "2021-05-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Maatschap met betrekking tot gezamenlijke exploitatie windmolen, van rechtswege ontbonden op grond van artikel 7A:1683 BW. Verdeelsleutel opbrengsten windmolen.",
+   "source": "civiel",
+   "first_seen": "2021-05-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kort geding. Europese aanbesteding. Betreft de uitleg van een in de selectieleidraad vermeld begrip (ECLI:NL:RBDHA:2021:5956)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:5956",
+   "date": "2021-05-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Europese aanbesteding. Betreft de uitleg van een in de selectieleidraad vermeld begrip.",
+   "source": "civiel",
+   "first_seen": "2021-06-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Overeenkomst tot levering van elektriciteit en gas is te beschouwen als een consumentenkoop waardoor rechtsvordering door verloop van twee… (ECLI:NL:RBAMS:2021:2219)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:2219",
+   "date": "2021-05-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering van elektriciteit en gas is te beschouwen als een consumentenkoop waardoor rechtsvordering door verloop van twee jaren verjaart ex art 7:28 BW. Tussen aanmaningen meer dan twee jaar verstreken. Verjaringsverweer slaagt.",
+   "source": "civiel",
+   "first_seen": "2021-05-06T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: 6:162 BW Geen onrechtmatig handelen gemeente, geen schending plicht tot verstrekken van informatie omtrent komst van windmolens in naburige… (ECLI:NL:RBGEL:2021:3730)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:3730",
+   "date": "2021-05-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "6:162 BW Geen onrechtmatig handelen gemeente, geen schending plicht tot verstrekken van informatie omtrent komst van windmolens in naburige gemeente.",
+   "source": "civiel",
+   "first_seen": "2021-07-15T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Tussenvonnis. Betreft levering van energie. De kantonrechter beveelt partijen op grond van artikel 22 Rv om nadere informatie omtrent de… (ECLI:NL:RBOVE:2021:2071)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:2071",
+   "date": "2021-05-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Betreft levering van energie. De kantonrechter beveelt partijen op grond van artikel 22 Rv om nadere informatie omtrent de meterstanden in het geding te brengen.",
+   "source": "civiel",
+   "first_seen": "2021-05-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Niet betaalde facturen van warmteleverancier. Eiseres heeft de leveringsovereenkomst met gedaagde geldig overgenomen van vorige… (ECLI:NL:RBOVE:2021:2075)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:2075",
+   "date": "2021-05-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Niet betaalde facturen van warmteleverancier. Eiseres heeft de leveringsovereenkomst met gedaagde geldig overgenomen van vorige leverancier. Veroordeling tot betaling van de achterstallige facturen, ontbinding van de overeenkomst en afsluiting van de levering en verzegeling van de meter.",
+   "source": "civiel",
+   "first_seen": "2021-05-25T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Overijssel: Schadestaatprocedure. Vaststelling omvang schade door niet tijdige levering windmolens (ECLI:NL:RBOVE:2021:1942)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:1942",
+   "date": "2021-05-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schadestaatprocedure. Vaststelling omvang schade door niet tijdige levering windmolens.",
+   "source": "civiel",
+   "first_seen": "2021-05-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Aansprakelijkheid Stedin voor gestelde gevolgschade en (toekomstige) vertragingsschade als gevolg van late oplevering van de… (ECLI:NL:RBROT:2021:4749)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:4749",
+   "date": "2021-05-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansprakelijkheid Stedin voor gestelde gevolgschade en (toekomstige) vertragingsschade als gevolg van late oplevering van de elektriciteitsaansluitingen. Relativiteitsvereiste. Akte van cessie; toepassing algemene voorwaarden Stedin.",
+   "source": "civiel",
+   "first_seen": "2021-05-31T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Uitleg overeenkomst. Haviltex. Investeerders en ontwikkelaars stappen in windmolenproject. Dat wordt uiteindelijk niet gerealiseerd. Uitleg… (ECLI:NL:GHARL:2021:4557)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:4557",
+   "date": "2021-05-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitleg overeenkomst. Haviltex. Investeerders en ontwikkelaars stappen in windmolenproject. Dat wordt uiteindelijk niet gerealiseerd. Uitleg van de gesloten overeenkomst leidt tot de conclusie dat partijen de kosten moeten dragen op basis van verrekening van de wederzijdse inbreng: het door de investeerders ingebrachte kapitaal en de op geld gewaardeerde uren van de ontwikkelaars.",
+   "source": "civiel",
+   "first_seen": "2021-05-11T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Aanbesteder kan niet worden verplicht de opdracht voor wat betreft perceel 1 aan eiseres te gunnen. Evenmin is er een grond voor de… (ECLI:NL:RBDHA:2021:6184)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:6184",
+   "date": "2021-05-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aanbesteder kan niet worden verplicht de opdracht voor wat betreft perceel 1 aan eiseres te gunnen. Evenmin is er een grond voor de subsidiair gevorderde heraanbesteding.",
+   "source": "civiel",
+   "first_seen": "2021-06-16T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Noord-Holland: Gebod mee te werken aan het passeren van de notariële akte tbv van het vestigen van een opstalrecht en erfdienstbaarheden ivm windmolens op… (ECLI:NL:RBNHO:2021:3550)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:3550",
