@@ -7,10 +7,66 @@
   "2020-04",
   "2020-05",
   "2020-06",
-  "2020-07"
+  "2020-07",
+  "2020-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerechtshof Amsterdam: Spoed kort geding. Plaatsing windturbine waardoor overdraai boven perceel eiser. Voorzieningenrechter wijst door eiser gevorderd verbod om… (ECLI:NL:GHAMS:2020:2252)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2252",
+   "date": "2020-08-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Spoed kort geding. Plaatsing windturbine waardoor overdraai boven perceel eiser. Voorzieningenrechter wijst door eiser gevorderd verbod om inbreuk te maken op zijn eigendomsrecht toe. Hof bekrachtigt.",
+   "source": "civiel",
+   "first_seen": "2020-08-12T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windturbine"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartzaak. Beroep op buitengewone omstandigheden slaagt. De vertraging van de vlucht was het gevolg van een stroomstoring op de… (ECLI:NL:RBNHO:2020:6827)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:6827",
+   "date": "2020-08-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartzaak. Beroep op buitengewone omstandigheden slaagt. De vertraging van de vlucht was het gevolg van een stroomstoring op de luchthaven waardoor het bagagesysteem niet meer functioneerde. Vordering afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-08-31T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Huurrecht. Anticipatie op gewijzigde Warmtewet. Verhuurder mag geen hoger bedrag in rekening brengen dan de daadwerkelijke kosten van… (ECLI:NL:RBNHO:2020:5805)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:5805",
+   "date": "2020-08-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huurrecht. Anticipatie op gewijzigde Warmtewet. Verhuurder mag geen hoger bedrag in rekening brengen dan de daadwerkelijke kosten van verbruik; het corporatiebreed toepassen van één tarief is niet mogelijk. Kosten voor afschrijving en onderhoud van de verwarmingsinstallaties mogen uitsluitend via de kale huur en niet via de servicekosten aan de huurder in rekening worden gebracht.",
+   "source": "civiel",
+   "first_seen": "2020-07-30T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet, warmteregeling"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Netbeheerder vordert van consument kosten voor het verwijderen van de gasaansluiting nadat hij zijn aansluit- en transportovereenkomst voor… (ECLI:NL:RBNNE:2020:2734)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:2734",
+   "date": "2020-08-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Netbeheerder vordert van consument kosten voor het verwijderen van de gasaansluiting nadat hij zijn aansluit- en transportovereenkomst voor gas (ATO) heeft opgezegd. De vordering wordt afgewezen. De consument heeft geen opdracht gegeven om de gasaansluiting te verwijderen en de Algemene Voorwaarden van de Netbeheerder die daarover gaan rechtsgeldig vernietigd omdat deze niet tijdig zijn verstrekt.",
+   "source": "civiel",
+   "first_seen": "2020-08-06T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, tarievencode"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Internationale koopovereenkomst afdekfolie biogasinstallatie; Artikel 39 CISG, tijdig klagen/garantie; bevoegdheid niet-contractspartij om… (ECLI:NL:GHARL:2020:6121)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:6121",
+   "date": "2020-08-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Internationale koopovereenkomst afdekfolie biogasinstallatie; Artikel 39 CISG, tijdig klagen/garantie; bevoegdheid niet-contractspartij om voor eigen rekening als procespartij op te treden; vernietiging overeenkomst vanwege dwaling (normaal gebruik, effect vergistingsversnellers; onvolledige informatie); samenloop vordering uit dwaling (vernietiging) met vordering uit tekortkoming (schadevergoedin",
+   "source": "civiel",
+   "first_seen": "2020-08-04T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "biogas"
+  },
   {
    "title": "Rechtbank Rotterdam: 5:91 lid 4 BW erfpachtzaak - gemeente geen redelijke grond om overdracht te weigeren: de ktr verleent vervangende machtiging (ECLI:NL:RBROT:2020:6826)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:6826",
