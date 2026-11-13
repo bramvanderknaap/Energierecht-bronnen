@@ -7,10 +7,101 @@
   "2021-04",
   "2021-05",
   "2021-06",
-  "2021-07"
+  "2021-07",
+  "2021-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Midden-Nederland: Windmolenpark “Windplanblauw”. Invloed Unierecht en bestuursrechtelijke uitspraak inzake “Windpark Delfzijl” op overeenkomsten tot… (ECLI:NL:RBMNE:2021:4191)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:4191",
+   "date": "2021-08-31T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Windmolenpark “Windplanblauw”. Invloed Unierecht en bestuursrechtelijke uitspraak inzake “Windpark Delfzijl” op overeenkomsten tot meewerken aan het verwijderen van een bestaande windmolen en het realiseren van een nieuwe windmolen.",
+   "source": "civiel",
+   "first_seen": "2021-08-31T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: ambtshalve toetsing verstek, overeenkomst levering energie, meerdere bedingen over boetes bij voortijdige opzegging van de overeenkomst in… (ECLI:NL:RBAMS:2021:4717)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:4717",
+   "date": "2021-08-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ambtshalve toetsing verstek, overeenkomst levering energie, meerdere bedingen over boetes bij voortijdige opzegging van de overeenkomst in verschillende sets voorwaarden, niet transparant, bedingen zijn cumulatief oneerlijk, volgt vernietiging bedingen",
+   "source": "civiel",
+   "first_seen": "2021-09-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Den Haag: Contractenrecht. O.a. uitleg opzeggingsbevoegdheid (ECLI:NL:RBDHA:2021:9663)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:9663",
+   "date": "2021-08-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Contractenrecht. O.a. uitleg opzeggingsbevoegdheid",
+   "source": "civiel",
+   "first_seen": "2021-08-31T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: treffen enquete en voorzieningen (ECLI:NL:GHAMS:2021:2692)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:2692",
+   "date": "2021-08-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "treffen enquete en voorzieningen",
+   "source": "civiel",
+   "first_seen": "2021-09-09T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Schade aan hoogspanningskabels bij plaatsing ondergrondse afvalcontainer. Geen net met een grote waarde in de zin van de WIBON). Benoeming… (ECLI:NL:RBROT:2021:8583)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:8583",
+   "date": "2021-08-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schade aan hoogspanningskabels bij plaatsing ondergrondse afvalcontainer. Geen net met een grote waarde in de zin van de WIBON). Benoeming deskundige omdat partijen de technische tekeningen tegenovergesteld uitleggen. Gelden de Crow-normen of de eigen voorschriften van Stedin?",
+   "source": "civiel",
+   "first_seen": "2021-09-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Overijssel: Eindvonnis na tussenvonnis (ECLI:NL:RBOVE:2021:2071). Gazprom heeft in haar akte gesteld dat zij op basis van de Informatiecode… (ECLI:NL:RBOVE:2021:3418)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:3418",
+   "date": "2021-08-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eindvonnis na tussenvonnis (ECLI:NL:RBOVE:2021:2071). Gazprom heeft in haar akte gesteld dat zij op basis van de Informatiecode elektriciteit en gas in sommige gevallen gas dat door een vorige leverancier is geleverd, in rekening kan en mag brengen. Daarmee heeft Gazprom de grondslag van haar vordering voldoende nader onderbouwd. Het verweer van ADAS is onvoldoende feitelijk onderbouwd en slaagt d",
+   "source": "civiel",
+   "first_seen": "2021-09-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Energielevering. Meterstand. Vordering tot nabetaling van verbruik van elektriciteit, nadat bij vervangen oude meter blijkt dat jarenlang… (ECLI:NL:GHSHE:2021:2527)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:2527",
+   "date": "2021-08-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energielevering. Meterstand. Vordering tot nabetaling van verbruik van elektriciteit, nadat bij vervangen oude meter blijkt dat jarenlang een verkeerde meterstand is opgegeven. Geen verjaring. Geen opeisbaarheid in zin van art. 3:307 BW vóór afrekening. Toepassing art. 3:311 lid 1 BW.",
+   "source": "civiel",
+   "first_seen": "2021-08-10T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Vordering betaling nog openstaande facturen ontbonden energiecontract. Ongedaanmakingsverplichting art. 6:271 BW. Vordering niet betwist.… (ECLI:NL:RBROT:2021:7611)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:7611",
+   "date": "2021-08-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering betaling nog openstaande facturen ontbonden energiecontract. Ongedaanmakingsverplichting art. 6:271 BW. Vordering niet betwist. Toewijsbaar.",
+   "source": "civiel",
+   "first_seen": "2021-08-03T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Inhoudsindicatie volgt (ECLI:NL:RBMNE:2021:6798)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:6798",
+   "date": "2021-08-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Inhoudsindicatie volgt.",
+   "source": "civiel",
+   "first_seen": "2022-11-08T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Rotterdam: Energieleverancier, ambtshalve toetsing, precontractuele informatieplicht (ECLI:NL:RBROT:2021:12954)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:12954",
