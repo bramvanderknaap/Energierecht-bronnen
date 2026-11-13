@@ -6,10 +6,121 @@
   "2019-03",
   "2019-04",
   "2019-05",
-  "2019-06"
+  "2019-06",
+  "2019-07"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Kort geding, vordering tot nakoming overeenkomst strekkende tot medewerking aan benoeming bindend adviseur afgewezen, aangezien aannemelijk… (ECLI:NL:RBROT:2019:6041)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6041",
+   "date": "2019-07-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, vordering tot nakoming overeenkomst strekkende tot medewerking aan benoeming bindend adviseur afgewezen, aangezien aannemelijk is dat het geschil van partijen breder is dan het bereik van de door eiseres bedoelde geschillenregeling.",
+   "source": "civiel",
+   "first_seen": "2019-07-26T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "STEDIN"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Huur. Het aanbrengen van een extra warmte verdeelmeter wordt aangemerkt als dringende werkzaamheid in de zin van artikel 7:220 lid 1 BW (ECLI:NL:RBROT:2019:5828)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:5828",
+   "date": "2019-07-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Huur. Het aanbrengen van een extra warmte verdeelmeter wordt aangemerkt als dringende werkzaamheid in de zin van artikel 7:220 lid 1 BW.",
+   "source": "civiel",
+   "first_seen": "2019-07-18T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Hoge Raad: Prejudiciële vraag (art. 392 Rv). Aardbevingsschade in Groningen. Gronden voor aansprakelijkheid. Verband tussen aansprakelijkheidsgrond en… (ECLI:NL:HR:2019:1278)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:1278",
+   "date": "2019-07-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Prejudiciële vraag (art. 392 Rv). Aardbevingsschade in Groningen. Gronden voor aansprakelijkheid. Verband tussen aansprakelijkheidsgrond en omvang schadevergoedingsverplichting (art. 6:177 BW; art. 6:162 BW; art. 6:98 BW). Exploitant als bedoeld in art. 6:177 lid 2 BW. Aansprakelijkheid overheid. Formele rechtskracht. Bewijsvermoeden van art. 6:177a BW. Schade die voor vergoeding in aanmerking kom",
+   "source": "civiel",
+   "first_seen": "2019-07-18T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "mijnbouwwet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Geschil tussen eigenaar hobbyboerderij en NAM over de kosten van renovatie/herbouw van de in het aardbevingsgebied gelegen boerderij.… (ECLI:NL:GHARL:2019:5849)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:5849",
+   "date": "2019-07-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geschil tussen eigenaar hobbyboerderij en NAM over de kosten van renovatie/herbouw van de in het aardbevingsgebied gelegen boerderij. Toepassing artikel 6:184 BW. Hof acht onderzoek door deskundigen noodzakelijk naar het causaal verband tussen de wijzigingen van de renovatieplannen van de boerderij en de ligging in het aardbevingsgebied en naar de meerkosten van de renovatie/herbouw ten gevolge va",
+   "source": "civiel",
+   "first_seen": "2019-07-16T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "mijnbouwwet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kort geding. Eisers willen op aan eiser sub 1 door het Rijksvastgoedbedrijf in erfpacht uitgegeven gronden een zonnepark realiseren.… (ECLI:NL:RBDHA:2019:7094)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:7094",
+   "date": "2019-07-16T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Eisers willen op aan eiser sub 1 door het Rijksvastgoedbedrijf in erfpacht uitgegeven gronden een zonnepark realiseren. Gronden zijn in erfpacht utigegeven voor landbouwkundge doeleinden. Volgens eisers handelt het Rijjksvastgoedbedrijf onaanvaardbaar door medewerking aan de realisatie te weigeren en zij vorderen veroordeling van het Rijksvastgoedbedrijf tot medewerking. De vorderinge",
+   "source": "civiel",
+   "first_seen": "2019-07-16T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "stimulering duurzame energie"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Toepassing van de Warmtewet binnen het huurrecht. Huur van appartement met warmte-koudeopslag installatie (WKO). De WKO is geen eigendom… (ECLI:NL:GHARL:2019:5624)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:5624",
+   "date": "2019-07-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Toepassing van de Warmtewet binnen het huurrecht. Huur van appartement met warmte-koudeopslag installatie (WKO). De WKO is geen eigendom van de verhuurder, maar (door opstalrecht) van de leverancier van de energie. Huurder heeft geen contract met de energieleverancier. Huurder weigert het vast recht voor de WKO te betalen dat de verhuurder bij hem in rekening brengt. In eerste aanleg is de verhuur",
+   "source": "civiel",
+   "first_seen": "2019-07-09T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet, warmtebesluit, warmteregeling"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Aansprakelijkheid van twee ondernemingen voor brandschade aan twee kabels van een hoogspanningsverbinding van TenneT. De ondernemingen zijn… (ECLI:NL:RBMNE:2019:6769)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6769",
+   "date": "2019-07-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Aansprakelijkheid van twee ondernemingen voor brandschade aan twee kabels van een hoogspanningsverbinding van TenneT. De ondernemingen zijn tekortgeschoten in hun contractuele zorgplicht en hebben onrechtmatig jegens TenneT gehandeld door op hun terrein onder en in de directe nabijheid van de hoogspanningsverbinding een grote hoeveelheid pallets op te slaan. Er is hiermee sprake geweest van gevaar",
+   "source": "civiel",
+   "first_seen": "2023-01-09T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "tennet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: De voorzieningenrechter oordeelt het door Greenpeace gevraagde verbod op de meestook van biomassa door een aantal kolencentrales voorbarig.… (ECLI:NL:RBAMS:2019:4746)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:4746",
+   "date": "2019-07-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De voorzieningenrechter oordeelt het door Greenpeace gevraagde verbod op de meestook van biomassa door een aantal kolencentrales voorbarig. Weigering van de gevraagde voorziening",
+   "source": "civiel",
+   "first_seen": "2019-07-03T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "RWE"
+  },
+  {
+   "title": "Gerecht in Eerste Aanleg van Aruba: Schuldvordering in verband met de levering van elektriciteit. Verwijzen naar de rol om bij akte voldoende onderbouwd te stellen hoe… (ECLI:NL:OGEAA:2019:507)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2019:507",
+   "date": "2019-07-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Schuldvordering in verband met de levering van elektriciteit. Verwijzen naar de rol om bij akte voldoende onderbouwd te stellen hoe gedaagde tot het gevorderde bedrag is gekomen.",
+   "source": "civiel",
+   "first_seen": "2019-08-15T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "levering van elektriciteit"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Verklaringsprocedure. Stelplicht en bewijslast. De derde-beslagene heeft zijn verklaring onvoldoende gestaafd met gegevens en bescheiden en… (ECLI:NL:GHARL:2019:5454)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:5454",
+   "date": "2019-07-02T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verklaringsprocedure. Stelplicht en bewijslast. De derde-beslagene heeft zijn verklaring onvoldoende gestaafd met gegevens en bescheiden en voldoet daarom niet aan artikel 476a lid 2 en 476b lid 2 Rv. De derde-beslagene wordt veroordeeld tot betaling van het bedrag waarvoor het beslag is gelegd.",
+   "source": "civiel",
+   "first_seen": "2019-07-02T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Main Energie"
+  },
   {
    "title": "Rechtbank Midden-Nederland: Samenwerkingsovereenkomst, geen sommatie en geen opschortingsrecht. Overeenkomst mocht niet per direct beëindigd worden. Partijen zijn over… (ECLI:NL:RBMNE:2019:6783)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6783",
