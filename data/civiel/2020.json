@@ -4,10 +4,143 @@
   "2020-01",
   "2020-02",
   "2020-03",
-  "2020-04"
+  "2020-04",
+  "2020-05"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Vordering netbeheerder tot het afsluiten van het gas. Vordering afgewezen, omdat gedaagde inmiddels de gasafsluiting heeft aangevraagd.… (ECLI:NL:RBROT:2020:4712)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:4712",
+   "date": "2020-05-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering netbeheerder tot het afsluiten van het gas. Vordering afgewezen, omdat gedaagde inmiddels de gasafsluiting heeft aangevraagd. Buitengerechtelijke kosten en de proceskosten worden wel toegewezen.",
+   "source": "civiel",
+   "first_seen": "2020-05-29T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "gaswet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: verstek, ambtshalve toetsing overeenkomst buiten verkoopruimte, niet voldaan aan (pre|)contractuele infromatieverplichtingen, verlenging… (ECLI:NL:RBAMS:2020:2663)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:2663",
+   "date": "2020-05-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "verstek, ambtshalve toetsing overeenkomst buiten verkoopruimte, niet voldaan aan (pre|)contractuele infromatieverplichtingen, verlenging wettelijke bedenktijd, geen betalingsverplichting.",
+   "source": "civiel",
+   "first_seen": "2020-05-25T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Eneco"
+  },
+  {
+   "title": "Rechtbank Rotterdam: contractloosheid (ECLI:NL:RBROT:2020:4883)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:4883",
+   "date": "2020-05-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "contractloosheid",
+   "source": "civiel",
+   "first_seen": "2020-06-04T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Verstek ambtshalve toetsen. Energie overeenkomst buiten verkoopruimte (deur tot deur actie). onvoldoende gesteld dat eiser de overeenkomst… (ECLI:NL:RBAMS:2020:2605)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:2605",
+   "date": "2020-05-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek ambtshalve toetsen. Energie overeenkomst buiten verkoopruimte (deur tot deur actie). onvoldoende gesteld dat eiser de overeenkomst aan gedaagde partij op de juiste wijze ogv artikel 6:230t lid 2 BW heeft verstrekt. afwijzen",
+   "source": "civiel",
+   "first_seen": "2020-05-15T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Budget Energie"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Hoger beroep. Geschil over de vervanging van een kabel door de netbeheerder. De netbeheerder handelt niet in strijd met het verleende… (ECLI:NL:GHARL:2020:4050)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:4050",
+   "date": "2020-05-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Hoger beroep. Geschil over de vervanging van een kabel door de netbeheerder. De netbeheerder handelt niet in strijd met het verleende zakelijke recht door de nieuwe kabel niet in hetzelfde tracé te leggen.",
+   "source": "civiel",
+   "first_seen": "2020-05-27T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
+  },
+  {
+   "title": "Rechtbank Overijssel: Samenwerkingsovereenkomst waarbij gedaagde t.b.v. eiseres klanten werft voor de levering van energie. Potentiele klant gaat failliet… (ECLI:NL:RBOVE:2020:4123)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:4123",
+   "date": "2020-05-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Samenwerkingsovereenkomst waarbij gedaagde t.b.v. eiseres klanten werft voor de levering van energie. Potentiele klant gaat failliet voordat contract ingaat en neemt dus ook geen energie af. Gedaagde dient reeds ontvangen vergoeding voor het aanbrengen van de klant op de grond van de onderling afgesloten samenwerkingsovereenkomst aan eiseres terug te betalen.",
+   "source": "civiel",
+   "first_seen": "2020-12-03T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Consumentenzaak. Ambtshalve toetsing. Overeenkomst op afstand (ECLI:NL:RBROT:2020:4699)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:4699",
+   "date": "2020-05-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Consumentenzaak. Ambtshalve toetsing. Overeenkomst op afstand.",
+   "source": "civiel",
+   "first_seen": "2020-05-28T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Oxxio"
+  },
+  {
+   "title": "Rechtbank Amsterdam: verstek ambtshalve toetsen energie overeenkomst op afstand. Onvoldoende gesteld en niet onderbouwd dat aan (pre)contractuele… (ECLI:NL:RBAMS:2020:2604)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2020:2604",
+   "date": "2020-05-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "verstek ambtshalve toetsen energie overeenkomst op afstand. Onvoldoende gesteld en niet onderbouwd dat aan (pre)contractuele informatieverplichtingen is voldaan. Bevestiging overeenkomst ogv art 6:230v lid 7 BW niet overgelegd. Vordering afgewezen.",
+   "source": "civiel",
+   "first_seen": "2020-05-15T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Budget Energie"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Elektriciteitskabel van netbeheerder Enexis raakt beschadigd bij machinale graafwerkzaamheden op particulier perceel. Opdrachtgever heeft… (ECLI:NL:GHSHE:2020:1553)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1553",
+   "date": "2020-05-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Elektriciteitskabel van netbeheerder Enexis raakt beschadigd bij machinale graafwerkzaamheden op particulier perceel. Opdrachtgever heeft geen Klic-melding gedaan en geen proefsleuven gegraven om ligging kabel vast te stellen. Opdrachtgever is aansprakelijk voor de schade. De omstandigheid dat de kabel niet op de gebruikelijke diepte van 60 cm maar op een diepte van 30 a 40 cm lag, brengt niet mee",
+   "source": "civiel",
+   "first_seen": "2020-05-12T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder, enexis"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Elektriciteitswet (E-wet); gereguleerde aansluit- en transporttarieven; aansluit- en transportovereenkomst (ATO) tussen partijen (deels) in… (ECLI:NL:GHARL:2020:3719)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:3719",
+   "date": "2020-05-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Elektriciteitswet (E-wet); gereguleerde aansluit- en transporttarieven; aansluit- en transportovereenkomst (ATO) tussen partijen (deels) in afwijking van geldende regelgeving ten gunste van doorstart van uit failliete boedel overgenomen anodebedrijf, met verplichting tot betaling van een vergoeding overeenkomstig het Tarievenbesluit, mede als het Tarievenblad in een bepaald geval niet zou voorzien",
+   "source": "civiel",
+   "first_seen": "2020-05-13T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
+  {
+   "title": "Gerechtshof 's-Hertogenbosch: Dagvaarding in hoger beroep uitgebracht op een andere naam dan die van de partij in eerste aanleg. Appellante wordt in de gelegenheid… (ECLI:NL:GHSHE:2020:1528)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1528",
+   "date": "2020-05-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Dagvaarding in hoger beroep uitgebracht op een andere naam dan die van de partij in eerste aanleg. Appellante wordt in de gelegenheid gesteld zich hierover uit te laten.",
+   "source": "civiel",
+   "first_seen": "2020-05-12T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "Enexis"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Kort geding. Vergelijkende reclame als bedoeld in artikel 6:194a BW, rectificatie. Een handelaar in energie heeft een e-mail gestuurd aan… (ECLI:NL:RBOBR:2020:2480)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:2480",
+   "date": "2020-05-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Vergelijkende reclame als bedoeld in artikel 6:194a BW, rectificatie. Een handelaar in energie heeft een e-mail gestuurd aan ongeveer 170 winkeliers om hen te waarschuwen voor de handelspraktijken van een concurrent. Deze concurrent had een overeenkomst namens een klant digitaal ondertekend. De betreffende e-mail bevatte gedeeltelijk onjuiste informatie. Er was geen sprake van knippen",
+   "source": "civiel",
+   "first_seen": "2020-05-06T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "ENERGIE B.V."
+  },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Vordering in kortgeding tot betaling van een voorschot op de kosten van versterking die voor renovatie van een boerderij op grond van de… (ECLI:NL:GHARL:2020:3377)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:3377",
