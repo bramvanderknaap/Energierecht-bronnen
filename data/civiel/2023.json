@@ -3,10 +3,181 @@
  "maanden": [
   "2023-01",
   "2023-02",
-  "2023-03"
+  "2023-03",
+  "2023-04"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Wraking. Civiele zaak. Verzoekster ervaart gedrag voorzitter als agressief en intimiderend. Dat daarvan, objectief bezien, sprake was… (ECLI:NL:GHARL:2023:3599)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:3599",
+   "date": "2023-04-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Wraking. Civiele zaak. Verzoekster ervaart gedrag voorzitter als agressief en intimiderend. Dat daarvan, objectief bezien, sprake was blijkt niet uit het proces-verbaal van van de zitting of anderszins. Een voorlopig oordeel mag in een civiele zaak worden gegeven. Uit niets blijkt de afwezigheid van bereidheid bij de voorzitter en de overige leden van de kamer daarop terug te komen. Niet gebleken ",
+   "source": "civiel",
+   "first_seen": "2023-05-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: De kantonrechter neemt aan dat de meterstanden juist zijn en het werkelijk verbruik weergeven, nu er geen ijkrapport in het geding is… (ECLI:NL:RBZWB:2023:3076)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:3076",
+   "date": "2023-04-26T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De kantonrechter neemt aan dat de meterstanden juist zijn en het werkelijk verbruik weergeven, nu er geen ijkrapport in het geding is gebracht waaruit blijkt dat de energiemeter niet goed werkt. De vordering wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2023-05-08T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: In kort geding speelt de vraag of uit een arrest van dit hof volgt dat een participant feitelijk in de positie moet worden gebracht als… (ECLI:NL:GHARL:2023:3551)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:3551",
+   "date": "2023-04-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In kort geding speelt de vraag of uit een arrest van dit hof volgt dat een participant feitelijk in de positie moet worden gebracht als ware zij vanaf het begin lid geweest van een vereniging en of sprake is van gehoudenheid tot afgifte van stukken ex artikel 843a Rv.",
+   "source": "civiel",
+   "first_seen": "2023-04-25T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Vordering tot huurachterstand, ambtshalve toetsing of algemene voorwaarden uit huurovereenkomst oneerlijk zijn, bedingen over… (ECLI:NL:RBAMS:2023:2420)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2420",
+   "date": "2023-04-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tot huurachterstand, ambtshalve toetsing of algemene voorwaarden uit huurovereenkomst oneerlijk zijn, bedingen over huurprijswijziging, rente en incassokosten zijn oneerlijk en worden vernietigd, herberekening huurachterstand. Zie ook ECLI:C:EU:2013:180 RWE en ECLI:EU:C:2012:242.",
+   "source": "civiel",
+   "first_seen": "2023-04-19T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: totstandkoming overeenkomst; volmacht (ECLI:NL:RBROT:2023:3458)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3458",
+   "date": "2023-04-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "totstandkoming overeenkomst; volmacht",
+   "source": "civiel",
+   "first_seen": "2023-04-24T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Een energieleverancier vordert betaling van gefactureerde voorschotten en een eindfactuur. De gevorderde opzegvergoedig is onderbouwd en… (ECLI:NL:RBNHO:2023:3240)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:3240",
+   "date": "2023-04-19T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Een energieleverancier vordert betaling van gefactureerde voorschotten en een eindfactuur. De gevorderde opzegvergoedig is onderbouwd en niet betwist. Het overige deel is ondanks de gemotiveerde betwisting niet onderbouwd en wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2023-04-11T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: grondeigenaar moet op grond van artikel 5:56 BW (ladderrecht) toegang verlenen aan Tennet ten behoeve van; onderhoud elektriciteitsmasten;… (ECLI:NL:RBMNE:2023:2567)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:2567",
+   "date": "2023-04-18T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "grondeigenaar moet op grond van artikel 5:56 BW (ladderrecht) toegang verlenen aan Tennet ten behoeve van; onderhoud elektriciteitsmasten; die maken deel uit van een netwerk A; artikel 5:20 BW lid 2",
+   "source": "civiel",
+   "first_seen": "2023-06-01T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Aanbesteding. Afwijzing. Geen schending transparantiebeginsel. Uitleg subgunningscriterium blijkt uit aanbestedingsstukken.… (ECLI:NL:RBROT:2023:3258)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3258",
+   "date": "2023-04-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aanbesteding. Afwijzing. Geen schending transparantiebeginsel. Uitleg subgunningscriterium blijkt uit aanbestedingsstukken. Recht om te klagen over prijsmodel is verwerkt. Herijkingsclausule niet in strijd met aanbestedingswet.",
+   "source": "civiel",
+   "first_seen": "2023-04-19T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding, aanbesteding. Beoordeling inschrijvingen moet deels opnieuw vanwege de onjuiste en/of te weinig transparante toepassing van de… (ECLI:NL:RBROT:2023:3292)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3292",
+   "date": "2023-04-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, aanbesteding. Beoordeling inschrijvingen moet deels opnieuw vanwege de onjuiste en/of te weinig transparante toepassing van de beoordelingscriteria.",
+   "source": "civiel",
+   "first_seen": "2023-04-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Aanbesteding. Vordering tot herbeoordeling/heraanbesteding afgewezen. Er is geen reden voor herbeoordeling van een… (ECLI:NL:RBROT:2023:3293)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3293",
+   "date": "2023-04-17T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aanbesteding. Vordering tot herbeoordeling/heraanbesteding afgewezen. Er is geen reden voor herbeoordeling van een subgunningscriterium waarvoor een minimumdrempel gold, De inschrijving is daarom niet ten onrechte terzijde gelegd.",
+   "source": "civiel",
+   "first_seen": "2023-04-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: De rechtbank veroordeelt de gedaagde tot het betalen van het gevorderde bedrag aan de eiser. Bij het beëindigen van het energiecontract… (ECLI:NL:RBOVE:2023:2113)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2113",
+   "date": "2023-04-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De rechtbank veroordeelt de gedaagde tot het betalen van het gevorderde bedrag aan de eiser. Bij het beëindigen van het energiecontract heeft de eiser een eindafrekening gemaakt. Volgens gedaagde kan die niet kloppen, omdat het bedrag veel hoger is dan afgelopen jaren. Uit meterstanden is gebleken dat de gedaagde jarenlang te weinig heeft betaald. Met deze eindafrekening wordt dus betaald over daa",
+   "source": "civiel",
+   "first_seen": "2023-06-08T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Energieovereenkomst - onbetaalde facturen (ECLI:NL:RBAMS:2023:2147)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2147",
+   "date": "2023-04-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieovereenkomst - onbetaalde facturen",
+   "source": "civiel",
+   "first_seen": "2023-04-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Gelderland: Vervolg op ECLI:NL:RBGEL:2022:1338. Uitleg afspraken over levering van warmte en koude, afrekening (ECLI:NL:RBGEL:2023:1965)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:1965",
+   "date": "2023-04-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:RBGEL:2022:1338. Uitleg afspraken over levering van warmte en koude, afrekening",
+   "source": "civiel",
+   "first_seen": "2023-04-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Vordering tussen een handelaar en een consument. Ambtshalve toetsing van de (pre)contractuele informatieplichten. Niet is voldaan aan… (ECLI:NL:RBNHO:2023:3698)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:3698",
+   "date": "2023-04-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vordering tussen een handelaar en een consument. Ambtshalve toetsing van de (pre)contractuele informatieplichten. Niet is voldaan aan artikel 6:230v lid 6 BW. De overeenkomst is op grond van artikel 3:39 BW nietig.",
+   "source": "civiel",
+   "first_seen": "2023-04-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Vennoten VOF zijn als beperkt bevoegd in handelsregister van KvK geregistreerd. Precieze omvang van beperking in VOF-overeenkomst; deze is… (ECLI:NL:RBMNE:2023:1812)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:1812",
+   "date": "2023-04-05T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vennoten VOF zijn als beperkt bevoegd in handelsregister van KvK geregistreerd. Precieze omvang van beperking in VOF-overeenkomst; deze is niet bij KvK ingeschreven. Onbevoegde vertegenwoordiging; VOF is niet gebonden aan overeenkomst. Geen toerekening schijn van vertegenwoordigingsbevoegdheid. Afwijzing gevorderde verklaring voor recht (vernietiging overeenkomst) want overeenkomst is t.o.v. VOF o",
+   "source": "civiel",
+   "first_seen": "2023-04-18T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Art. 3c Warmtewet; art. 7:904 lid 1 BW (bindend advies), criteria vernietiging bindend advies. Eiser vordert vernietiging van een bindend… (ECLI:NL:RBNNE:2023:1753)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:1753",
+   "date": "2023-04-04T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Art. 3c Warmtewet; art. 7:904 lid 1 BW (bindend advies), criteria vernietiging bindend advies. Eiser vordert vernietiging van een bindend advies. Gedaagde exploiteert een kleine warmtenet met slechts enkele gebruikers. Gedaagde lijdt sinds 2016 jaarlijks een aanzienlijk exploitatietekort waarvoor nog geen oplossing is. Eiser heeft aan gedaagde te kennen gegeven de leveringsovereenkomst op te wille",
+   "source": "civiel",
+   "first_seen": "2023-05-02T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Den Haag: Kort geding. Aanbesteding. Onderhandelingsprocedure met aankondiging. Anders dan eiser stelt voldoet winnaar aan producteisen en… (ECLI:NL:RBDHA:2023:5781)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:5781",
+   "date": "2023-04-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Aanbesteding. Onderhandelingsprocedure met aankondiging. Anders dan eiser stelt voldoet winnaar aan producteisen en referentie-eis. Recht verwerkt om bezwaar naar voren te brengen dat sprake is van leuren en concurrentievervalsing door aanbestedende dienst.",
+   "source": "civiel",
+   "first_seen": "2023-04-21T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Rotterdam: Rechterswissel. Onbetaalde energierekeningen. Vordering beperkt tot 500 euro. Toewijzing (ECLI:NL:RBROT:2023:3173)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3173",
