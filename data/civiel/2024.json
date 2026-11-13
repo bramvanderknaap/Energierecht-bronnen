@@ -7,10 +7,111 @@
   "2024-04",
   "2024-05",
   "2024-06",
-  "2024-07"
+  "2024-07",
+  "2024-08"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Uitspraak in een Regelrechterzaak over een energiecontract (ECLI:NL:RBROT:2024:9292)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9292",
+   "date": "2024-08-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Uitspraak in een Regelrechterzaak over een energiecontract.",
+   "source": "civiel",
+   "first_seen": "2024-09-22T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Limburg: Kort geding. Eiser is huurder van een bovenwoning. De gasaansluiting bevindt zich op de benedenverdieping. De eigenaar van de… (ECLI:NL:RBLIM:2024:5861)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:5861",
+   "date": "2024-08-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Eiser is huurder van een bovenwoning. De gasaansluiting bevindt zich op de benedenverdieping. De eigenaar van de benedenverdieping heeft in een jaar tijd twee keer de gastoevoer naar de bovenwoning afgesloten. De eigenaar en de statutair bestuurder van de eigenaar worden hoofdelijk veroordeeld om de bovenwoning op gasaansluiting aangesloten te houden op straffe van verbeurte van een d",
+   "source": "civiel",
+   "first_seen": "2024-08-28T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Verstek. Consument heeft woning betrokken en is warmte af gaan nemen zonder schriftelijke/digitale warmteleveringsovereenkomst. Leverancier… (ECLI:NL:RBMNE:2024:5308)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5308",
+   "date": "2024-08-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verstek. Consument heeft woning betrokken en is warmte af gaan nemen zonder schriftelijke/digitale warmteleveringsovereenkomst. Leverancier heeft infoplichten geschonden, maar kantonrechter ziet (net als ECLI:NL:GHSHE:2024:1329, maar met andere motivering) geen aanleiding voor sanctie. Gevorderde ontbinding van overeenkomst wordt afgewezen wegens niet-gebleken naleving Warmteregeling.",
+   "source": "civiel",
+   "first_seen": "2024-09-06T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Attero werkt biogas op tot zogenoemd ‘groen gas’ en voedt dit gas in op het aardgasnetwerk. Een producent van biogas vordert in dit kort… (ECLI:NL:RBNNE:2024:3242)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:3242",
+   "date": "2024-08-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Attero werkt biogas op tot zogenoemd ‘groen gas’ en voedt dit gas in op het aardgasnetwerk. Een producent van biogas vordert in dit kort geding betaling van circa 2,7 miljoen euro van Attero. Volgens de producent had Attero met haar moeten onderhandelen over een betere prijsreferentie en had Attero haar best moeten doen om bij verkoop van het groene gas een hogere prijs te realiseren ten behoeve v",
+   "source": "civiel",
+   "first_seen": "2024-08-21T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Koopovereenkomst voor een woning gesloten onder invloed van dwaling. Door de verkoper was medegedeeld dat nog geen melding is gedaan van… (ECLI:NL:RBNNE:2024:3072)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:3072",
+   "date": "2024-08-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Koopovereenkomst voor een woning gesloten onder invloed van dwaling. Door de verkoper was medegedeeld dat nog geen melding is gedaan van aardbevingsschade, en deze mededeling bleek onjuist. In plaats van de vernietiging uit te spreken wijzigt de rechter de gevolgen van de overeenkomst ter opheffing van het nadeel.",
+   "source": "civiel",
+   "first_seen": "2024-08-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Eiser heeft een aansluiting voor warmte in een pand. Gedaagde staat op dat adres ingeschreven, maar heeft volgens Eiser voor het gebruik… (ECLI:NL:RBMNE:2024:4779)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:4779",
+   "date": "2024-08-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiser heeft een aansluiting voor warmte in een pand. Gedaagde staat op dat adres ingeschreven, maar heeft volgens Eiser voor het gebruik van de aansluiting geen leveringsovereenkomst afgesloten. Eiser wil daarom dat de kantonrechter voor recht verklaart dat zij gerechtigd is om de aansluiting voor warmte af te sluiten. Daarnaast wil Eiser dat Gedaagde wordt veroordeeld tot afgifte van de meter(s) ",
+   "source": "civiel",
+   "first_seen": "2024-08-06T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: WKO-installatie. De vraag is of de verhuurder ook als leverancier moet worden gekwalificeerd. Nadere informatie nodig, zodat verhuurder in… (ECLI:NL:RBZWB:2024:6856)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:6856",
+   "date": "2024-08-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "WKO-installatie. De vraag is of de verhuurder ook als leverancier moet worden gekwalificeerd. Nadere informatie nodig, zodat verhuurder in de gelegenheid wordt gesteld nadere informatie over te leggen.",
+   "source": "civiel",
+   "first_seen": "2024-10-08T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: In the appeal of Meriç against the NCC Judgment dated 29 june 2022 (see: ECLI:NL:RBAMS:2022:3747, Rechtbank Amsterdam, NCC 21/004… (ECLI:NL:GHAMS:2024:2192)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2192",
+   "date": "2024-08-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "In the appeal of Meriç against the NCC Judgment dated 29 june 2022 (see: ECLI:NL:RBAMS:2022:3747, Rechtbank Amsterdam, NCC 21/004 (C/13/667529) (rechtspraak.nl)) the Netherlands Commercial Court in Appeal rules that further evidence is needed to decide whether Lagerwey has the obligation under the Sales Agreement to obtain and provide a so called “type certificate” for the wind turbines. A type ce",
+   "source": "civiel",
+   "first_seen": "2024-08-06T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Rectificatie. Toewijzing. Oud-werknemer publiceert artikelen op website waarin hij zijn voormalig werkgever en collega's… (ECLI:NL:RBROT:2024:7481)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:7481",
+   "date": "2024-08-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Rectificatie. Toewijzing. Oud-werknemer publiceert artikelen op website waarin hij zijn voormalig werkgever en collega's beschuldigt van o.a. fraude, pesten, groepjesvorming en misdragingen. Recht op eerbiediging persoonlijke levenssfeer werknemers weegt in dit geval zwaarder dan recht op vrijheid van meningsuiting.",
+   "source": "civiel",
+   "first_seen": "2024-08-14T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Op vordering van One-Dyas Bv verbiedt de rechtbank Greenpeace met haar protest tegen de plaatsing van een productieplatform in de Noordzee… (ECLI:NL:RBAMS:2024:4820)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2024:4820",
+   "date": "2024-08-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Op vordering van One-Dyas Bv verbiedt de rechtbank Greenpeace met haar protest tegen de plaatsing van een productieplatform in de Noordzee benoorden Schiermonnikoog het transport en de plaatsing van dat platform nog langer te belemmeren. De rechtbank komt tot dit oordeel op grond van een belangenafweging tussen het belang bij vrije meningsuiting en betoging van Greenpeace tegenover het belang van ",
+   "source": "civiel",
+   "first_seen": "2024-08-01T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Rechtbank Noord-Nederland: Aardbevingszaak. Provisionele voorziening. Voorschot op schadevergoeding. Benoeming deskundigen in de hoofdzaak (ECLI:NL:RBNNE:2024:3024)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:3024",
