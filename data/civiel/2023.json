@@ -24,7 +24,8 @@
    "summary": "Kort geding. Informatievorderingen over transportcapaciteit en wachtlijst tegen Stedin gebaseerd op art 16 (en 24) E-wet. Fysieke congestie voldoende aannemelijk. Gelet op gegevens die Stedin al verstrekt heeft niet aannemelijk dat sprake is van gegevens die nodig zijn voor efficiënte toegang tot het net en het gebruik ervan. Bovendien heeft Stedin ten aanzien van een deel van de gegevens een gehe",
    "source": "civiel",
    "first_seen": "2024-01-15T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
   },
   {
    "title": "Rechtbank Rotterdam: Geschil over de uitleg van zakelijke overeenkomsten voor de levering van gas. Welke prijs geldt als meer gas wordt verbruikt dan het vooraf… (ECLI:NL:RBROT:2023:12481)",
@@ -34,7 +35,8 @@
    "summary": "Geschil over de uitleg van zakelijke overeenkomsten voor de levering van gas. Welke prijs geldt als meer gas wordt verbruikt dan het vooraf ingeschatte volume? Uitleg van de bepaling dat de gasleverancier \"geen bandbreedte\" hanteert.",
    "source": "civiel",
    "first_seen": "2024-01-09T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van gas"
   },
   {
    "title": "Rechtbank Amsterdam: Klanten hebben als gevolg van een dubbele gasmeter teveel betaald over de periode van 1 januari 2005 tot en met 19 mei 2015. Zij spreken… (ECLI:NL:RBAMS:2023:8444)",
@@ -44,7 +46,8 @@
    "summary": "Klanten hebben als gevolg van een dubbele gasmeter teveel betaald over de periode van 1 januari 2005 tot en met 19 mei 2015. Zij spreken hun huidige energieleverancier aan tot terugbetaling ogv onverschuldigde betaling en tekortkoming. Geen sprake van onverschuldigde betaling; niet de huidige energieleverancier, maar zijn voorgangers hebben de bedragen ontvangen. Geen tekortkoming; de klanten moch",
    "source": "civiel",
    "first_seen": "2024-01-03T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, netbeheerder"
   },
   {
    "title": "Rechtbank Rotterdam: Stedin mocht op grond van artikel 5:21 lid 2 BW (ongeveer) 33 meter onder de grond elektriciteitskabels aanleggen op het perceel van eiser… (ECLI:NL:RBROT:2023:12399)",
@@ -54,7 +57,8 @@
    "summary": "Stedin mocht op grond van artikel 5:21 lid 2 BW (ongeveer) 33 meter onder de grond elektriciteitskabels aanleggen op het perceel van eiser / vordering tot verwijdering kabels afgewezen",
    "source": "civiel",
    "first_seen": "2024-01-04T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "stedin"
   },
   {
    "title": "Rechtbank Gelderland: Aansluitplicht en transportplicht van art. 23 resp. 24 van de Elektriciteitswet 1998 (E-wet). Redelijke termijn voor nakoming… (ECLI:NL:RBGEL:2023:6995)",
@@ -64,7 +68,8 @@
    "summary": "Aansluitplicht en transportplicht van art. 23 resp. 24 van de Elektriciteitswet 1998 (E-wet). Redelijke termijn voor nakoming aansluitplicht door netbeheerder. Is de 18-weken termijn van artikel 23 lid 4 E-wet onverbindend of kan de bepaling buitentoepassing worden verklaard? Gebrek aan transportcapaciteit op het net. Geslaagd beroep art. 24 lid 2 E-wet? Exoneratieclausule.",
    "source": "civiel",
    "first_seen": "2023-12-21T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, energiewet, netcode elektriciteit"
   },
   {
    "title": "Gerechtshof Den Haag: Kort geding: rechtsgeldig vergaderbesluit VvE om over te gaan op stadsverwarming, inclusief aanleg gemeenschappelijke leidingen deels in… (ECLI:NL:GHDHA:2023:2742)",
@@ -74,17 +79,8 @@
    "summary": "Kort geding: rechtsgeldig vergaderbesluit VvE om over te gaan op stadsverwarming, inclusief aanleg gemeenschappelijke leidingen deels in privé-appartementen. Splitsingsreglement voorziet daarin.",
    "source": "civiel",
    "first_seen": "2024-02-19T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Gerechtshof Den Haag: Zeerecht. Beperking van aansprakelijkheid. Een of meer schade-evenementen. Opheffing beslag na fondsstelling, Hoger beroep van… (ECLI:NL:GHDHA:2023:2989)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2989",
-   "date": "2023-12-19T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Zeerecht. Beperking van aansprakelijkheid. Een of meer schade-evenementen. Opheffing beslag na fondsstelling, Hoger beroep van ECLI:NL:RBROT:2022:4477",
-   "source": "civiel",
-   "first_seen": "2025-07-30T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "stadsverwarming"
   },
   {
    "title": "Gerechtshof Den Haag: Zeerecht. Beperking van aansprakelijkheid van aanvaringen. Een of meerdere schade-evenementen. Hoger beroep van ECLI:NL:RBROT: 2022:3955 (ECLI:NL:GHDHA:2023:2988)",
@@ -94,7 +90,8 @@
    "summary": "Zeerecht. Beperking van aansprakelijkheid van aanvaringen. Een of meerdere schade-evenementen. Hoger beroep van ECLI:NL:RBROT: 2022:3955",
    "source": "civiel",
    "first_seen": "2025-07-30T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "TENNET"
   },
   {
    "title": "Rechtbank Rotterdam: Warmtelevering door middel van een warmte- en koude-installatie. Gedaagde moet voor die warmtelevering betalen. Gedaagde stelt dat hij de… (ECLI:NL:RBROT:2023:11828)",
@@ -104,17 +101,8 @@
    "summary": "Warmtelevering door middel van een warmte- en koude-installatie. Gedaagde moet voor die warmtelevering betalen. Gedaagde stelt dat hij de leveringsovereenkomst met eiseres met een e-mail heeft opgezegd, maar dat verweer wordt verworpen. De vergoeding voor buitengerechtelijke incassokosten wordt afgewezen.",
    "source": "civiel",
    "first_seen": "2023-12-15T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Uitleg bepaling in huurovereenkomst over (verhoging van) servicekosten. Huurder moet afrekeningen betalen; voorschot mocht niet eenzijdig… (ECLI:NL:RBROT:2023:12156)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12156",
-   "date": "2023-12-15T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Uitleg bepaling in huurovereenkomst over (verhoging van) servicekosten. Huurder moet afrekeningen betalen; voorschot mocht niet eenzijdig worden verhoogd. In reconventie wordt verhuurder veroordeeld om een boete te betalen wegens het niet tijdig uitvoeren van werkzaamheden. Geen matiging.",
-   "source": "civiel",
-   "first_seen": "2023-12-21T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "samenvatting",
+   "toelichting": "warmtelevering"
   },
   {
    "title": "Hoge Raad: Onrechtmatige daad. Schade aan kabel bij graafwerkzaamheden? Zorgplicht grondroerder, betekenis richtlijn zorgvuldig grondroeren (CROW 500) (ECLI:NL:HR:2023:1750)",
@@ -124,7 +112,8 @@
    "summary": "Onrechtmatige daad. Schade aan kabel bij graafwerkzaamheden? Zorgplicht grondroerder, betekenis richtlijn zorgvuldig grondroeren (CROW 500).",
    "source": "civiel",
    "first_seen": "2023-12-14T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; consumentenkoop (ECLI:NL:RBLIM:2023:7314)",
@@ -134,7 +123,8 @@
    "summary": "Bijzondere overeenkomst; koop en ruil; consumentenkoop",
    "source": "civiel",
    "first_seen": "2023-12-15T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "INNOVA ENERGIE"
   },
   {
    "title": "Rechtbank Limburg: Vernietiging bindend advies, onvoldoende motivering. Geen oordeel kantonrechter over inhoud advies, grenzen van de rechtsstrijd (ECLI:NL:RBLIM:2023:7315)",
@@ -144,7 +134,8 @@
    "summary": "Vernietiging bindend advies, onvoldoende motivering. Geen oordeel kantonrechter over inhoud advies, grenzen van de rechtsstrijd.",
    "source": "civiel",
    "first_seen": "2023-12-15T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "EASYENERGY"
   },
   {
    "title": "Rechtbank Limburg: Verbintenissenrecht; verbintenis uit andere bron dan od of ovkmst; ongerechtvaardigde verrijking (ECLI:NL:RBLIM:2023:7319)",
@@ -154,7 +145,8 @@
    "summary": "Verbintenissenrecht; verbintenis uit andere bron dan od of ovkmst; ongerechtvaardigde verrijking",
    "source": "civiel",
    "first_seen": "2023-12-15T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENEXIS"
   },
   {
    "title": "Rechtbank Amsterdam: In een zaak waarin energiemaatschappij Vattenfall bijna 12.000 euro aan onbetaalde facturen vordert, moet zij aantonen wie het initiatief… (ECLI:NL:RBAMS:2023:8265)",
@@ -164,17 +156,8 @@
    "summary": "In een zaak waarin energiemaatschappij Vattenfall bijna 12.000 euro aan onbetaalde facturen vordert, moet zij aantonen wie het initiatief heeft genomen voor de overeenkomst uit 2018, die per telefoon is gesloten.",
    "source": "civiel",
    "first_seen": "2023-12-19T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Doorbelasting energienota's en servicekosten, deskundigenbericht (ECLI:NL:RBROT:2023:11621)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11621",
-   "date": "2023-12-08T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Doorbelasting energienota's en servicekosten, deskundigenbericht",
-   "source": "civiel",
-   "first_seen": "2023-12-11T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "samenvatting",
+   "toelichting": "vattenfall"
   },
   {
    "title": "Rechtbank Gelderland: Kort geding. Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen kleinverbruik. Verzoek om aansluiting onder dwangsom… (ECLI:NL:RBGEL:2023:6637)",
@@ -184,7 +167,8 @@
    "summary": "Kort geding. Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen kleinverbruik. Verzoek om aansluiting onder dwangsom afgewezen. Onvoldoende transportcapaciteit totdat netbeheerder geplande netuitbreiding heeft kunnen realiseren.",
    "source": "civiel",
    "first_seen": "2023-12-06T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
   },
   {
    "title": "Rechtbank Gelderland: Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen nieuwbouwproject. Verzoek om aansluiting onder dwangsom afgewezen.… (ECLI:NL:RBGEL:2023:6636)",
@@ -194,17 +178,8 @@
    "summary": "Art. 23 en 24 Elektriciteitswet 1998. Elektriciteitsaansluitingen nieuwbouwproject. Verzoek om aansluiting onder dwangsom afgewezen. Onvoldoende transportcapaciteit totdat netbeheerder geplande netuitbreiding heeft kunnen realiseren.",
    "source": "civiel",
    "first_seen": "2023-12-06T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Noord-Nederland: Afrekening servicekosten. Vervolg op Huurcommissie 23 juni 2022, zaaknummer 486259. Nutskosten, kosten huismeester, inzagerecht artikel… (ECLI:NL:RBNNE:2023:4917)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4917",
-   "date": "2023-12-05T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Afrekening servicekosten. Vervolg op Huurcommissie 23 juni 2022, zaaknummer 486259. Nutskosten, kosten huismeester, inzagerecht artikel 7:259 BW.",
-   "source": "civiel",
-   "first_seen": "2023-11-28T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Rotterdam: Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding… (ECLI:NL:RBROT:2023:11205)",
@@ -214,7 +189,8 @@
    "summary": "Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding hoogspanningsverbinding op en boven landbouwgrond",
    "source": "civiel",
    "first_seen": "2023-11-30T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "tennet"
   },
   {
    "title": "Rechtbank Rotterdam: Belemmeringenwet Privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding… (ECLI:NL:RBROT:2023:11206)",
@@ -224,7 +200,8 @@
    "summary": "Belemmeringenwet Privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding hoogspanningsverbinding op en boven landbouwgrond",
    "source": "civiel",
    "first_seen": "2023-11-30T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "tennet"
   },
   {
    "title": "Rechtbank Rotterdam: Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding… (ECLI:NL:RBROT:2023:11207)",
@@ -234,7 +211,8 @@
    "summary": "Belemmeringenwet privaatrecht. Eindvonnis in drie zaken tegen Tennet. Vaststelling schade door aanleg en instandhouding hoogspanningsverbinding op en boven landbouwgrond",
    "source": "civiel",
    "first_seen": "2023-11-30T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "tennet"
   },
   {
    "title": "Rechtbank Gelderland: Kort geding. Executiegeschil over nakoming vonnis. Elektriciteitszaak (ECLI:NL:RBGEL:2023:6574)",
@@ -244,7 +222,8 @@
    "summary": "Kort geding. Executiegeschil over nakoming vonnis. Elektriciteitszaak.",
    "source": "civiel",
    "first_seen": "2023-12-04T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, energiewet"
   },
   {
    "title": "Rechtbank Limburg: Bijzondere overeenkomst; koop en ruil; koop anderszins (ECLI:NL:RBLIM:2023:7049)",
@@ -254,7 +233,8 @@
    "summary": "Bijzondere overeenkomst; koop en ruil; koop anderszins",
    "source": "civiel",
    "first_seen": "2023-12-04T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENECO"
   },
   {
    "title": "Rechtbank Gelderland: Koper heeft van verkoper ongeveer 44.000 warmteafleversets gekocht die door koper in woningen van haar klanten zijn geplaatst. Koper… (ECLI:NL:RBGEL:2023:6757)",
@@ -264,7 +244,8 @@
    "summary": "Koper heeft van verkoper ongeveer 44.000 warmteafleversets gekocht die door koper in woningen van haar klanten zijn geplaatst. Koper spreekt verkoper aan omdat de sets ondeugdelijk zouden zijn. Verkoper stelt dat er sterke aanwijzingen zijn dat externe factoren (waaronder ondeugdelijke installatie van de warmteafleversets) de oorzak van de klachten zijn geweest. Verkoper vordert ogv art. 843 a Rv ",
    "source": "civiel",
    "first_seen": "2023-12-13T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "VATTENFALL"
   },
   {
    "title": "Gerechtshof 's-Hertogenbosch: opzegging duurovereenkomst (ECLI:NL:GHSHE:2023:3982)",
@@ -274,7 +255,8 @@
    "summary": "opzegging duurovereenkomst",
    "source": "civiel",
    "first_seen": "2023-11-28T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "tekst",
+   "toelichting": "netbeheerder (14x)"
   },
   {
    "title": "Rechtbank Overijssel: Kort geding. Zogenoemd kop-staart vonnis. De dwangom die is opgelegd in een eerder kort geding vonnis wordt verhoogd. Ook op het… (ECLI:NL:RBOVE:2023:4787)",
@@ -284,7 +266,8 @@
    "summary": "Kort geding. Zogenoemd kop-staart vonnis. De dwangom die is opgelegd in een eerder kort geding vonnis wordt verhoogd. Ook op het (ver)hinderen van de werkzaamheden aan de hoogspanningslijn door Tennet wordt nu een dwangsom gezet.",
    "source": "civiel",
    "first_seen": "2023-11-24T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "tennet"
   },
   {
    "title": "Rechtbank Gelderland: Kort geding. Elektriciteitszaak. Art. 23 en 24 E-wet. Verzoek om aansluiting voorzien van benodigd transportvermogen op straffe van… (ECLI:NL:RBGEL:2023:6730)",
@@ -294,7 +277,8 @@
    "summary": "Kort geding. Elektriciteitszaak. Art. 23 en 24 E-wet. Verzoek om aansluiting voorzien van benodigd transportvermogen op straffe van dwangsom afgewezen. Onvoldoende transportcapaciteit totdat netbeheerder de geplande netuitbreiding heeft kunnen realiseren.",
    "source": "civiel",
    "first_seen": "2023-12-12T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
   },
   {
    "title": "Rechtbank Rotterdam: Consumentenkoop. Bestelknop voldoet niet. Vernietiging van de overeenkomst. Vergoeding voor geleverde elektriciteit en gas (ECLI:NL:RBROT:2023:11296)",
@@ -304,7 +288,8 @@
    "summary": "Consumentenkoop. Bestelknop voldoet niet. Vernietiging van de overeenkomst. Vergoeding voor geleverde elektriciteit en gas.",
    "source": "civiel",
    "first_seen": "2023-12-04T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Innova Energie"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: proceskosten (ECLI:NL:RBZWB:2023:8050)",
@@ -314,7 +299,8 @@
    "summary": "proceskosten",
    "source": "civiel",
    "first_seen": "2023-11-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENEXIS"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Verbintenissenrecht. Gedaagde moet facturen voor levering van energie aan eiser betalen. Jaarcontract is stilzwijgend verlengd. Eiser mocht… (ECLI:NL:RBZWB:2023:7991)",
@@ -324,27 +310,8 @@
    "summary": "Verbintenissenrecht. Gedaagde moet facturen voor levering van energie aan eiser betalen. Jaarcontract is stilzwijgend verlengd. Eiser mocht daarna conform haar algemene voorwaarden variabel tarief bij gedaagde in rekening brengen. Niet komt vast te staan dat partijen zijn overeengekomen dat eiser tijdig een scherp verlengingsvoorstel aan gedaagde zou doen.",
    "source": "civiel",
    "first_seen": "2023-11-17T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Gerechtshof Arnhem-Leeuwarden: Aanbesteding. Geen wezenlijke wijziging van de opdracht (ECLI:NL:GHARL:2023:9659)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:9659",
-   "date": "2023-11-14T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Aanbesteding. Geen wezenlijke wijziging van de opdracht.",
-   "source": "civiel",
-   "first_seen": "2023-11-15T00:00:00+00:00",
-   "grond": "partij"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Afwijzing eis tot betaling van schadevergoeding o.g.v. onrechtmatige daad (lekkage in woning) (ECLI:NL:RBROT:2023:12148)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12148",
-   "date": "2023-11-10T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Afwijzing eis tot betaling van schadevergoeding o.g.v. onrechtmatige daad (lekkage in woning).",
-   "source": "civiel",
-   "first_seen": "2023-12-21T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Oplevering zonnepark. Nakoming overeenkomst. Taalkundige betekenis bewoordingen. Artikel 21 Rv (ECLI:NL:RBROT:2023:10829)",
@@ -354,7 +321,8 @@
    "summary": "Kort geding. Oplevering zonnepark. Nakoming overeenkomst. Taalkundige betekenis bewoordingen. Artikel 21 Rv.",
    "source": "civiel",
    "first_seen": "2023-11-20T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "zonnepark"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Energiemaatschappij heeft facturen gestuurd die onbetaald blijven. Ontvangst van facturen, verjaring en stuiting (ECLI:NL:RBZWB:2023:8059)",
@@ -364,7 +332,8 @@
    "summary": "Energiemaatschappij heeft facturen gestuurd die onbetaald blijven. Ontvangst van facturen, verjaring en stuiting.",
    "source": "civiel",
    "first_seen": "2023-11-21T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENGIE"
   },
   {
    "title": "Rechtbank Overijssel: Enexis had in juni 2022 gedaagde attent gemaakt dat hij dient te zorgen voor een overeenkomst met een gasleverancier voor de levering van… (ECLI:NL:RBOVE:2023:4613)",
@@ -374,7 +343,8 @@
    "summary": "Enexis had in juni 2022 gedaagde attent gemaakt dat hij dient te zorgen voor een overeenkomst met een gasleverancier voor de levering van gas in zijn woning. Gedaagde heeft pas tijdens deze procedure weer een gasovereenkomst gesloten. Gedaagde zal daarom worden veroordeeld in de proceskosten.",
    "source": "civiel",
    "first_seen": "2023-11-16T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "gaswet"
   },
   {
    "title": "Rechtbank Noord-Nederland: “Aardbevingszaak. Toepassing en beoordelingskader weerlegging wettelijk bewijsvermoeden (artikel 6:177a BW). De schadevordering van eiser… (ECLI:NL:RBNNE:2023:5395)",
@@ -384,17 +354,8 @@
    "summary": "“Aardbevingszaak. Toepassing en beoordelingskader weerlegging wettelijk bewijsvermoeden (artikel 6:177a BW). De schadevordering van eiser wordt na deskundigenbericht afgewezen. De kosten van de deskundige worden voor rekening van NAM gelaten.”",
    "source": "civiel",
    "first_seen": "2024-01-12T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Incident in renvooiprocedure 'Julietta D'- vordering voeging van belanghebbende in beperkingsprocedure toegewezen - voegingsverbod 642r lid… (ECLI:NL:RBROT:2023:10192)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10192",
-   "date": "2023-11-01T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Incident in renvooiprocedure 'Julietta D'- vordering voeging van belanghebbende in beperkingsprocedure toegewezen - voegingsverbod 642r lid 4 Rv niet van toepassing - geen misbruik van (proces)recht",
-   "source": "civiel",
-   "first_seen": "2023-11-03T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "tijdelijke wet groningen"
   },
   {
    "title": "Rechtbank Overijssel: De rechtbank veroordeelt de gedaagde om toe te laten en de te dulden dat Tennet ten behoeve van de uitvoering van werkzaamheden aan de… (ECLI:NL:RBOVE:2023:4234)",
@@ -404,7 +365,8 @@
    "summary": "De rechtbank veroordeelt de gedaagde om toe te laten en de te dulden dat Tennet ten behoeve van de uitvoering van werkzaamheden aan de hoogspanningsverbinding gebruik maakt van de percelen en verbiedt de gedaage om zonder toestemming van Tennet contact te zoeken met individuele medewerkers van Tennet. Tennet wil werken aan de hoogspanningsverbinding, die deels op de percelen van gedaagde staan. Ge",
    "source": "civiel",
    "first_seen": "2023-10-27T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "tennet"
   },
   {
    "title": "Rechtbank Noord-Holland: Geschil over terugbetalingsverplichting vanwege aanspraak op vergoeding van kosten die op basis van de gesloten overeenkomst slechts deels… (ECLI:NL:RBNHO:2023:10506)",
@@ -414,17 +376,8 @@
    "summary": "Geschil over terugbetalingsverplichting vanwege aanspraak op vergoeding van kosten die op basis van de gesloten overeenkomst slechts deels voor vergoeding in aanmerking komen. Exploitatie zonnepark in Bulgarije. IPR. Van een groot gedeelte van de kosten kan niet worden vastgesteld dat deze voor vergoeding in aanmerking komen.",
    "source": "civiel",
    "first_seen": "2023-10-20T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Noord-Holland: Ambtshalve toetsing, handelaar en consument. De eisende partij heeft voldoende toegelicht en onderbouwd dat voldaan is aan de… (ECLI:NL:RBNHO:2023:10868)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:10868",
-   "date": "2023-10-25T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Ambtshalve toetsing, handelaar en consument. De eisende partij heeft voldoende toegelicht en onderbouwd dat voldaan is aan de (pre)contractuele informatieplichten. Vordering toegewezen.",
-   "source": "civiel",
-   "first_seen": "2023-10-30T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "zonnepark"
   },
   {
    "title": "Rechtbank Gelderland: Vervolg op tussenvonnis van 15 februari 2023. Gedaagde is niet aansprakelijk voor de schade die eiseres lijdt doordat zij geen zonnepanelen… (ECLI:NL:RBGEL:2023:6206)",
@@ -434,7 +387,8 @@
    "summary": "Vervolg op tussenvonnis van 15 februari 2023. Gedaagde is niet aansprakelijk voor de schade die eiseres lijdt doordat zij geen zonnepanelen op haar terrein kan plaatsen vanwege de aanwezigheid van een hoogspanningsverbinding.",
    "source": "civiel",
    "first_seen": "2023-11-13T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "TENNET"
   },
   {
    "title": "Rechtbank Amsterdam: WAMCA Vattenfall; preliminaire fase; oud collectief actierecht in afzonderlijke procedure; beoordeling procesfinanciering;… (ECLI:NL:RBAMS:2023:6683)",
@@ -444,7 +398,8 @@
    "summary": "WAMCA Vattenfall; preliminaire fase; oud collectief actierecht in afzonderlijke procedure; beoordeling procesfinanciering; financieringsovereenkomst; representativiteit; ontvankelijkheid Stichting; benoeming exclusieve belangenbehartiger; aankondiging in landelijk dagblad; opt-out en opt-in; art. 1018d en 1018e Rv; 3:305a BW.",
    "source": "civiel",
    "first_seen": "2023-10-25T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "vattenfall"
   },
   {
    "title": "Rechtbank Midden-Nederland: Aanbestedingsprocedure in het kader van de ontwikkeling van een warmtenet waarbij industriële restwarmte (van een te ontwikkelen… (ECLI:NL:RBMNE:2023:5525)",
@@ -454,7 +409,8 @@
    "summary": "Aanbestedingsprocedure in het kader van de ontwikkeling van een warmtenet waarbij industriële restwarmte (van een te ontwikkelen industriegebied) gebruikt wordt voor de verwarming van woningen (van een te ontwikkelen woonwijk). Inschrijver die op grond van de geschiktheidseisen uitgesloten is van deelname, vordert ongeldigheid van de aanbestedingsprocedure. Inschrijver is belanghebbende ondanks da",
    "source": "civiel",
    "first_seen": "2023-10-20T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "warmtenet"
   },
   {
    "title": "Rechtbank Rotterdam: Schade door brand in biogasinstallatie. Ten tijde van brand geen aanspraak meer op dekking onder de brandverzekering. Deel (45%) is tijdig… (ECLI:NL:RBROT:2023:9629)",
@@ -464,27 +420,8 @@
    "summary": "Schade door brand in biogasinstallatie. Ten tijde van brand geen aanspraak meer op dekking onder de brandverzekering. Deel (45%) is tijdig door een deel van de verzekeraars opgezegd. Het resterende deel is door de beursmakelaar op eigen gezag en zonder gegronde reden opgezegd. De resterende verzekeraars mochten afgaan op die opzegging. Assurantietussenpersoon mede aansprakelijk voor de fout van de",
    "source": "civiel",
    "first_seen": "2023-10-17T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Rotterdam: VvE Beheerder heeft niet de zorg van een goed opdrachtnemer in acht genomen (ECLI:NL:RBROT:2023:10387)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10387",
-   "date": "2023-10-18T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "VvE Beheerder heeft niet de zorg van een goed opdrachtnemer in acht genomen.",
-   "source": "civiel",
-   "first_seen": "2023-11-07T00:00:00+00:00",
-   "grond": "tekst"
-  },
-  {
-   "title": "Rechtbank Amsterdam: Bevoegheidsincident ingesteld in tweede incidentele conclusie. Te laat en dus afgewezen (ECLI:NL:RBAMS:2023:6522)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:6522",
-   "date": "2023-10-18T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Bevoegheidsincident ingesteld in tweede incidentele conclusie. Te laat en dus afgewezen.",
-   "source": "civiel",
-   "first_seen": "2023-10-18T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "biogas"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Uitleg overeenkomst bij bouw windmolens; molenaarswoningen. De molenaars claimen het recht de molens bij hun woningen ’s nachts stil te… (ECLI:NL:GHARL:2023:8722)",
@@ -494,7 +431,8 @@
    "summary": "Uitleg overeenkomst bij bouw windmolens; molenaarswoningen. De molenaars claimen het recht de molens bij hun woningen ’s nachts stil te laten staan, omdat die afspraak ook met een andere molenaar is gemaakt. Volgens hen kunnen zij contractueel aanspraak maken op deze ‘betere afspraak’ met die andere molenaar.",
    "source": "civiel",
    "first_seen": "2023-10-17T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "windmolen"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Vordering transportcapaciteit aan te bieden. Art 24 E-wet. Afwijzing, fysieke congestie van het elektriciteitsnet voldoende… (ECLI:NL:RBROT:2023:9853)",
@@ -504,17 +442,8 @@
    "summary": "Kort geding. Vordering transportcapaciteit aan te bieden. Art 24 E-wet. Afwijzing, fysieke congestie van het elektriciteitsnet voldoende aannemelijk. Belangenafweging leidt niet tot ander oordeel vanwege risico op overbelasting (netintegriteit) terwijl eiseres alternatieven ter beschikking staan ook al zijn die mogelijk duur en niet eenvoudig vorm te geven.",
    "source": "civiel",
    "first_seen": "2023-10-26T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Amsterdam: vrijwaringsincident. toegewezen (ECLI:NL:RBAMS:2023:6217)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:6217",
-   "date": "2023-10-11T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "vrijwaringsincident. toegewezen.",
-   "source": "civiel",
-   "first_seen": "2023-10-09T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Gelderland: Jaarafrekening verbruik gas, Geen consumentenkoop, Voorshands - behoudens tegenbewijs - de conclusie gerechtvaardigd dat de meter het… (ECLI:NL:RBGEL:2023:5607)",
@@ -524,7 +453,8 @@
    "summary": "Jaarafrekening verbruik gas, Geen consumentenkoop, Voorshands - behoudens tegenbewijs - de conclusie gerechtvaardigd dat de meter het verbruik correct heeft gemeten, Gedaagde krijgt gelegenheid om tegenbewijs te leveren, Vordering in reconventie is verjaard.",
    "source": "civiel",
    "first_seen": "2023-10-11T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "VATTENFALL"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: vordering tot nakoming van overeenkomst van aanneming van werk. Vordering toegewezen, maar overeenkomst anders uitgelegd dan eiser beoogde,… (ECLI:NL:RBZWB:2023:7423)",
@@ -534,17 +464,8 @@
    "summary": "vordering tot nakoming van overeenkomst van aanneming van werk. Vordering toegewezen, maar overeenkomst anders uitgelegd dan eiser beoogde, daarom veroordeling van eiser in proceskosten",
    "source": "civiel",
    "first_seen": "2023-10-25T00:00:00+00:00",
-   "grond": "tekst"
-  },
-  {
-   "title": "Rechtbank Midden-Nederland: Vordering tot het verbinden van een dwangsom aan een uitspraak van het gerechtshof, waarin gedaagde partijen zijn veroordeeld tot… (ECLI:NL:RBMNE:2023:5332)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5332",
-   "date": "2023-10-10T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Vordering tot het verbinden van een dwangsom aan een uitspraak van het gerechtshof, waarin gedaagde partijen zijn veroordeeld tot verstrekken van bescheiden aan eiseres op grond van art 843a Rv.",
-   "source": "civiel",
-   "first_seen": "2023-10-10T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "tekst",
+   "toelichting": "energiecontract (5x)"
   },
   {
    "title": "Rechtbank Den Haag: Kort geding. Eiseressen (ondernemers in de agrarische sector) hebben de Staat gedagvaard omdat zij het niet eens zijn met de wijziging… (ECLI:NL:RBDHA:2023:16610)",
@@ -554,17 +475,8 @@
    "summary": "Kort geding. Eiseressen (ondernemers in de agrarische sector) hebben de Staat gedagvaard omdat zij het niet eens zijn met de wijziging (verlaging) van de subsidiebedragen voor monomestvergisting, kort voordat de aanvragen daarvoor konden worden ingediend. Volgens eiseressen heeft de Staat hiermee onrechtmatig jegens hen gehandeld. De voorzieningenrechter verklaart alle eiseressen niet-ontvankelijk",
    "source": "civiel",
    "first_seen": "2023-11-06T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Zeeland-West-Brabant: Herstelvonnis (ECLI:NL:RBZWB:2023:6916)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6916",
-   "date": "2023-10-04T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Herstelvonnis.",
-   "source": "civiel",
-   "first_seen": "2023-10-06T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "stimulering duurzame energie"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Verzetzaak. Geschil over eindnota levering van energie. De vordering van de oorspronkelijk eiser wordt toegewezen. Gedaagde heeft in het… (ECLI:NL:RBZWB:2023:7127)",
@@ -574,7 +486,8 @@
    "summary": "Verzetzaak. Geschil over eindnota levering van energie. De vordering van de oorspronkelijk eiser wordt toegewezen. Gedaagde heeft in het verleden op basis van geschatte meterstanden te weinig betaald en moet nu zijn gasverbruik van de voorgaande periode in een keer afrekenen.",
    "source": "civiel",
    "first_seen": "2023-10-13T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Noord-Holland: Vordering om gedaagde te veroordelen mee te werken aan het laten uitvoeren van werkzaamheden door Liander wordt toegewezen (ECLI:NL:RBNHO:2023:9306)",
@@ -584,7 +497,8 @@
    "summary": "Vordering om gedaagde te veroordelen mee te werken aan het laten uitvoeren van werkzaamheden door Liander wordt toegewezen.",
    "source": "civiel",
    "first_seen": "2023-09-19T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Energie. Ongerechtvaardigde verrijking. Bewijsopdracht slaagt (ECLI:NL:RBZWB:2023:6736)",
@@ -594,7 +508,8 @@
    "summary": "Energie. Ongerechtvaardigde verrijking. Bewijsopdracht slaagt.",
    "source": "civiel",
    "first_seen": "2023-09-28T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENEXIS"
   },
   {
    "title": "Rechtbank Den Haag: Aansluit- en transportplicht netbeheerder, kort geding (ECLI:NL:RBDHA:2023:14517)",
@@ -604,7 +519,8 @@
    "summary": "Aansluit- en transportplicht netbeheerder, kort geding.",
    "source": "civiel",
    "first_seen": "2023-09-27T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
   },
   {
    "title": "Rechtbank Gelderland: Kort geding. Elektriciteitswet. Netcode Elektriciteit. Op grond van de vooraankondiging en het congestierapport voldoende aannemelijk… (ECLI:NL:RBGEL:2023:5258)",
@@ -614,7 +530,8 @@
    "summary": "Kort geding. Elektriciteitswet. Netcode Elektriciteit. Op grond van de vooraankondiging en het congestierapport voldoende aannemelijk gemaakt dat sprake is van fysieke congestie op het elektriciteitsnet. Weigering met redenen omkleed. Vordering tot het doen van aanbod afgewezen. Geen sprake van onrechtmatig handelen als gevolg van wijziging Netcode Elektriciteit. Op grond van het transparantie- en",
    "source": "civiel",
    "first_seen": "2023-09-19T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, energiewet"
   },
   {
    "title": "Rechtbank Rotterdam: Verzekeringsrecht. Machineschadeverzekering. Schade aan windturbines. Dekkingsgeschil. Uitleg polisvoorwaarden. Vraag of schade plotseling… (ECLI:NL:RBROT:2023:9598)",
@@ -624,7 +541,8 @@
    "summary": "Verzekeringsrecht. Machineschadeverzekering. Schade aan windturbines. Dekkingsgeschil. Uitleg polisvoorwaarden. Vraag of schade plotseling en onvoorzien is. Omvang van de schade.",
    "source": "civiel",
    "first_seen": "2023-10-16T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "windturbine"
   },
   {
    "title": "Rechtbank Limburg: Windmolenpark. Jegens wie is vernietiging weigeringsbesluit tot vaststelling bestemmingsplan onrechtmatig? Exoneratiebeding. Ontbreken… (ECLI:NL:RBLIM:2023:5508)",
@@ -634,17 +552,8 @@
    "summary": "Windmolenpark. Jegens wie is vernietiging weigeringsbesluit tot vaststelling bestemmingsplan onrechtmatig? Exoneratiebeding. Ontbreken conditio sine qua non-verband tussen onrechtmatige daad en gestelde schade.",
    "source": "civiel",
    "first_seen": "2023-09-18T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Overijssel: Verdeling van een woning uit een nalatenschap tussen drie erfgenamen – Erflater had woning verhuurd aan kind van één van de erfgenamen –… (ECLI:NL:RBOVE:2023:3731)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:3731",
-   "date": "2023-09-13T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Verdeling van een woning uit een nalatenschap tussen drie erfgenamen – Erflater had woning verhuurd aan kind van één van de erfgenamen – Wat zijn de gevolgen daarvan voor de verdeling? Je kunt niet doen alsof de huurovereenkomst er niet is.",
-   "source": "civiel",
-   "first_seen": "2023-09-22T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Oost-Brabant: Netbeheerder handelt in strijd met art. 23 lid 4 Elektriciteitswet door afnemer niet binnen 18 weken aan te sluiten op het net en is… (ECLI:NL:RBOBR:2023:6120)",
@@ -654,7 +563,8 @@
    "summary": "Netbeheerder handelt in strijd met art. 23 lid 4 Elektriciteitswet door afnemer niet binnen 18 weken aan te sluiten op het net en is aansprakelijk voor de vertragingsschade. Geen geslaagd beroep van de netbeheerder op rechtstreekse werking Elektriciteitsrichtlijn. Ook geen richtlijnconforme uitleg mogelijk, strijd met rechtszekerheid, contra legem. Geen geslaagd beroep van de netbeheerder op overm",
    "source": "civiel",
    "first_seen": "2024-02-08T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Aanbesteding. Deurwaardersdiensten. In geschil is of de aanbestedende dienst de prijzen in de inschrijving terecht als… (ECLI:NL:RBROT:2023:9444)",
@@ -664,7 +574,8 @@
    "summary": "Kort geding. Aanbesteding. Deurwaardersdiensten. In geschil is of de aanbestedende dienst de prijzen in de inschrijving terecht als niet-marktconform en onaanvaardbaar hoog heeft aangemerkt en of zij de inschrijving om die reden terzijde kon leggen.",
    "source": "civiel",
    "first_seen": "2023-10-11T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "STEDIN"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding tegen energieleverancier. Het hof veroordeelt de energieleverancier tot levering van energie tegen overeengekomen vaste… (ECLI:NL:GHARL:2023:7692)",
@@ -674,17 +585,8 @@
    "summary": "Kort geding tegen energieleverancier. Het hof veroordeelt de energieleverancier tot levering van energie tegen overeengekomen vaste tarieven, omdat het hof niet aannemelijk acht dat omtrent die tarieven een andere afspraak – levering tegen dagmarkttarieven - is gemaakt. Geen gerechtvaardigd vertrouwen dat de afnemer daarmee heeft ingestemd.",
    "source": "civiel",
    "first_seen": "2023-09-13T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Gerechtshof 's-Hertogenbosch: verschuldigdheid kosten levering nutsvoorzieningen (bij meerdere huurders in een pand), tegenvordering huurder ivm reparatiekosten in… (ECLI:NL:GHSHE:2023:2930)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:2930",
-   "date": "2023-09-12T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "verschuldigdheid kosten levering nutsvoorzieningen (bij meerdere huurders in een pand), tegenvordering huurder ivm reparatiekosten in verband met gebrek aan een koelinstallatie",
-   "source": "civiel",
-   "first_seen": "2023-09-12T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, levering van energie"
   },
   {
    "title": "Rechtbank Overijssel: Verstek. Ambtshalve toetsing. Consumentenrecht. Overname energielevering na faillissement energieleverancier. De eerste maand na de… (ECLI:NL:RBOVE:2023:3708)",
@@ -694,7 +596,8 @@
    "summary": "Verstek. Ambtshalve toetsing. Consumentenrecht. Overname energielevering na faillissement energieleverancier. De eerste maand na de overname door de nieuwe energieleverancier is de klant verplicht energie af te nemen van deze nieuw leverancier en moet hij daarvoor betalen. Dit ziet op een verplichte verbintenis, maar niet op een verplicht contract. Daarna moet de nieuwe energieleverancier een aanb",
    "source": "civiel",
    "first_seen": "2023-09-20T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, besluit leveringszekerheid"
   },
   {
    "title": "Rechtbank Overijssel: Verstek. Ambtshalve toetsing. Consumentenrecht. Tussenvonnis. Energiecontract na overname energielevering bij een faillissement. Eisende… (ECLI:NL:RBOVE:2023:3709)",
@@ -704,7 +607,8 @@
    "summary": "Verstek. Ambtshalve toetsing. Consumentenrecht. Tussenvonnis. Energiecontract na overname energielevering bij een faillissement. Eisende partij mag zich nader uitlaten over de vraag of de gedaagde het aanbod voor een energiecontract heeft geaccepteerd.",
    "source": "civiel",
    "first_seen": "2023-09-20T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energiecontract, energielevering"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Energielevering via stadsverwarming. Geschil of gedaagde de levering stop kon laten zetten. De kantonrechter is, gelet op de algemene… (ECLI:NL:RBZWB:2023:6270)",
@@ -714,27 +618,8 @@
    "summary": "Energielevering via stadsverwarming. Geschil of gedaagde de levering stop kon laten zetten. De kantonrechter is, gelet op de algemene voorwaarden van eiseres, van oordeel dat dit mogelijk is en het op de weg van eiseres had gelegen daartoe over te gaan. Dit betekent dat een deel van de vordering van eiseres wordt afgewezen.",
    "source": "civiel",
    "first_seen": "2023-09-07T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Gelderland: Partijen hebben geruime tijd met elkaar samengewerkt. In deze zaak gaat het erom of er tussen partijen met betrekking tot een bepaald… (ECLI:NL:RBGEL:2023:5115)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:5115",
-   "date": "2023-09-06T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Partijen hebben geruime tijd met elkaar samengewerkt. In deze zaak gaat het erom of er tussen partijen met betrekking tot een bepaald project een projectbegeleidingsovereenkomst tot stand is gekomen. Eiseres heeft bewijsopdracht gekregen. De rechtbank acht na verhoor van getuigen mede gelet op grond van de omstandigheden van geval het bewijs geleverd. Gedaagde wordt veroordeeld om de gebruikelijke",
-   "source": "civiel",
-   "first_seen": "2023-09-09T00:00:00+00:00",
-   "grond": "partij"
-  },
-  {
-   "title": "Rechtbank Den Haag: Geschil tussen twee kwekers over onbetaalde facturen voor gebruik van nutsvoorzieningen. Is er een minimumafname van warmte overeengekomen? (ECLI:NL:RBDHA:2023:13595)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:13595",
-   "date": "2023-09-06T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Geschil tussen twee kwekers over onbetaalde facturen voor gebruik van nutsvoorzieningen. Is er een minimumafname van warmte overeengekomen?",
-   "source": "civiel",
-   "first_seen": "2023-09-08T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "samenvatting",
+   "toelichting": "energielevering, stadsverwarming"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: herstel naam geopposeerde (ECLI:NL:RBZWB:2023:8782)",
@@ -744,7 +629,8 @@
    "summary": "herstel naam geopposeerde",
    "source": "civiel",
    "first_seen": "2023-12-15T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "INNOVA ENERGIE"
   },
   {
    "title": "Gerechtshof Amsterdam: Samenwerkingsovereenkomst energieleverancier en intermediair. Intermediair krijgt tijdens de samenwerking ook zelf de hoedanigheid van… (ECLI:NL:GHAMS:2023:2454)",
@@ -754,7 +640,8 @@
    "summary": "Samenwerkingsovereenkomst energieleverancier en intermediair. Intermediair krijgt tijdens de samenwerking ook zelf de hoedanigheid van energieleverancier, gevolgd door oversluiting van de klanten naar zichzelf en margeverlies bij de wederpartij. Uitleg overeenkomst (Haviltex). Schending contractuele anticoncurrentiebepalingen. Schadeplichtigheid. Vergelijking werkelijke situatie met fout versus hy",
    "source": "civiel",
    "first_seen": "2023-10-23T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Noord-Holland: Kort geding. Voorzieningenrechter verbiedt gedaagde (bedrijf) om meer dan 50 Kw aan transportvermogen voor teruglevering te gebruiken op… (ECLI:NL:RBNHO:2023:8930)",
@@ -764,7 +651,8 @@
    "summary": "Kort geding. Voorzieningenrechter verbiedt gedaagde (bedrijf) om meer dan 50 Kw aan transportvermogen voor teruglevering te gebruiken op een specifieke middenspanningskabel. De voorzieningenrechter acht voldoende aannemelijk dat tussen partijen bij aanhangsel d.d. 4 augustus 2021 een gecontracteerd transport vermogen (GTV) van 50 Kw is overeengekomen. Niet gebleken is dat hierna een andere GVT is ",
    "source": "civiel",
    "first_seen": "2023-09-07T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Noord-Holland: Exploitant van warmte-koude-opslag mag geen kosten iin rekening ter compensatie van de stichtingskosten van de WKO-installatie omdat dat… (ECLI:NL:RBNHO:2023:7939)",
@@ -774,17 +662,8 @@
    "summary": "Exploitant van warmte-koude-opslag mag geen kosten iin rekening ter compensatie van de stichtingskosten van de WKO-installatie omdat dat niet is overeengekomen.",
    "source": "civiel",
    "first_seen": "2023-08-14T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Midden-Nederland: Kort geding - conventie: 230a bedrijfsruimte - ontruiming - achterstand huurpenningen en voorschotten - nakoming waarborgverplichting -… (ECLI:NL:RBMNE:2023:4518)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:4518",
-   "date": "2023-08-30T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Kort geding - conventie: 230a bedrijfsruimte - ontruiming - achterstand huurpenningen en voorschotten - nakoming waarborgverplichting - boete(rente); reconventie: gebreken huurprijsvermindering - gebreken - schadevergoeding - verrekening",
-   "source": "civiel",
-   "first_seen": "2023-09-03T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "wet",
+   "toelichting": "warmtewet, warmtebesluit"
   },
   {
    "title": "Rechtbank Den Haag: Incident m.b.t. bevoegdheid kantonrechter. Kwalificatie agentuurovereenkomst (ECLI:NL:RBDHA:2023:12971)",
@@ -794,7 +673,8 @@
    "summary": "Incident m.b.t. bevoegdheid kantonrechter. Kwalificatie agentuurovereenkomst.",
    "source": "civiel",
    "first_seen": "2023-08-31T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENERGIE VERGELIJKER B.V."
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Enexis heeft gas en elektriciteit geleverd aan gedaagde in de periodes dat gedaagde geen overeenkomst had afgesloten met een… (ECLI:NL:RBZWB:2023:6282)",
@@ -804,7 +684,8 @@
    "summary": "Enexis heeft gas en elektriciteit geleverd aan gedaagde in de periodes dat gedaagde geen overeenkomst had afgesloten met een energiemaatschappij. De vordering op grond van ongerechtvaardigde verrijking wordt toegewezen.",
    "source": "civiel",
    "first_seen": "2023-09-07T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "enexis"
   },
   {
    "title": "Rechtbank Gelderland: Kort geding. Aanbesteding. Geen sprake van niet toegestane wezenlijke wijziging van de opdracht gedurende de aanbestedingsprocedure. Geen… (ECLI:NL:RBGEL:2023:5120)",
@@ -814,7 +695,8 @@
    "summary": "Kort geding. Aanbesteding. Geen sprake van niet toegestane wezenlijke wijziging van de opdracht gedurende de aanbestedingsprocedure. Geen strijd met transparantie- en/of proportionaliteitsbeginsel.",
    "source": "civiel",
    "first_seen": "2023-09-11T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "TENNET"
   },
   {
    "title": "Rechtbank Rotterdam: Energierekening niet betaald. Ambtshalve toetsen: het contract wordt vernietigd, omdat de energieleverancier de informatieplichten niet… (ECLI:NL:RBROT:2023:7384)",
@@ -824,7 +706,8 @@
    "summary": "Energierekening niet betaald. Ambtshalve toetsen: het contract wordt vernietigd, omdat de energieleverancier de informatieplichten niet heeft nageleefd. De consument moet wel een vergoeding betalen voor de geleverde energie.",
    "source": "civiel",
    "first_seen": "2023-08-21T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, energierekening"
   },
   {
    "title": "Rechtbank Noord-Holland: Vordering Liander afgewezen. Eigenaar woning heeft tijdig aan sommatie in de dagvaarding voldaan om verdere rechtsgang te voorkomen.… (ECLI:NL:RBNHO:2023:7816)",
@@ -834,7 +717,8 @@
    "summary": "Vordering Liander afgewezen. Eigenaar woning heeft tijdig aan sommatie in de dagvaarding voldaan om verdere rechtsgang te voorkomen. Liander had moeten intrekken. Kan niet de kosten van dagvaarding voor 'zij die verblijven' verhalen op eigenaar woning.",
    "source": "civiel",
    "first_seen": "2023-08-08T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Noord-Holland: Vervolg op tussenuitspraak RBNHO:2023:6575. In dat tussenvonnis heeft de voorzieningenrechter overwogen dat het algemeen belang van Liander… (ECLI:NL:RBNHO:2023:7959)",
@@ -844,7 +728,8 @@
    "summary": "Vervolg op tussenuitspraak RBNHO:2023:6575. In dat tussenvonnis heeft de voorzieningenrechter overwogen dat het algemeen belang van Liander in deze kwestie groter is dan dat van eisers. Eisers hebben inmiddels echter genoegzaam aangetoond dat met de aangedragen oplossingen beide belangen kunnen worden gediend. De vordering van eisers is daarom toewijsbaar.",
    "source": "civiel",
    "first_seen": "2023-08-14T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "liander"
   },
   {
    "title": "Rechtbank Noord-Holland: Stroomstoring Schiphol. 29 april 2018. Deels buitengewone omstandigheden en deels niet (ECLI:NL:RBNHO:2023:7892)",
@@ -854,7 +739,8 @@
    "summary": "Stroomstoring Schiphol. 29 april 2018. Deels buitengewone omstandigheden en deels niet",
    "source": "civiel",
    "first_seen": "2023-08-10T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Na het faillissement van de oude energiemaatschappij is geen overeenkomst tot stand gekomen tussen eiseres als nieuwe energiemaatschappij… (ECLI:NL:RBZWB:2023:5625)",
@@ -864,7 +750,8 @@
    "summary": "Na het faillissement van de oude energiemaatschappij is geen overeenkomst tot stand gekomen tussen eiseres als nieuwe energiemaatschappij en gedaagde. Gedaagde heeft ongevraagd energie geleverd gekregen en hoeft daar niet voor te betalen. De vordering in conventie wordt afgewezen. Gedaagde heeft onterecht het maandelijkse voorschot betaald. In reconventie wordt eiseres ertoe veroordeeld om dit bed",
    "source": "civiel",
    "first_seen": "2023-08-10T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, besluit leveringszekerheid"
   },
   {
    "title": "Rechtbank Gelderland: Inhuisverzoek beoordelen naar huidige wet- en regelgeving. Kwalificatie oorspronkelijke aansluiting op elektriciteitsnet. Aanbieden van… (ECLI:NL:RBGEL:2023:4664)",
@@ -874,7 +761,8 @@
    "summary": "Inhuisverzoek beoordelen naar huidige wet- en regelgeving. Kwalificatie oorspronkelijke aansluiting op elektriciteitsnet. Aanbieden van lager transportvermogen voor oorspronkelijke aansluiting is niet onrechtmatig. Kosten voor de aanleg van de nieuwe aansluiting komen niet voor rekening van de netbeheerder. In rekening brengen kosten voor verwijdering van een deel van het elektriciteitsnet wel onr",
    "source": "civiel",
    "first_seen": "2023-08-15T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit, tarievencode"
   },
   {
    "title": "Rechtbank Noord-Holland: VvE-beheerbedrijf heeft op eigen naam gecontracteerd met energieleverancier. Leverancier hoefde niet te begrijpen dat het beheer namens een… (ECLI:NL:RBNHO:2023:7393)",
@@ -884,7 +772,8 @@
    "summary": "VvE-beheerbedrijf heeft op eigen naam gecontracteerd met energieleverancier. Leverancier hoefde niet te begrijpen dat het beheer namens een VvE contracteerde. Beheerbedrijf komt geen beroep toe op de voor consumenten geldende kortere verjaringstermijn van twee jaar.",
    "source": "civiel",
    "first_seen": "2023-07-31T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Gelderland: Incidentele vordering tot stellen prejudiciële vragen aan het HvJEU. Eiseres in incident wordt niet-ontvankelijk verklaard (ECLI:NL:RBGEL:2023:4448)",
@@ -894,7 +783,8 @@
    "summary": "Incidentele vordering tot stellen prejudiciële vragen aan het HvJEU. Eiseres in incident wordt niet-ontvankelijk verklaard.",
    "source": "civiel",
    "first_seen": "2023-08-02T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
   },
   {
    "title": "Gerechtshof 's-Hertogenbosch: Totstandkoming van een overeenkomst tot levering van energie. Onbevoegde vertegenwoordiging (ECLI:NL:GHSHE:2023:2514)",
@@ -904,7 +794,8 @@
    "summary": "Totstandkoming van een overeenkomst tot levering van energie. Onbevoegde vertegenwoordiging.",
    "source": "civiel",
    "first_seen": "2023-08-02T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Veroordeling tot betaling van termijnfacturen, jaarafrekeningen en eindafrekeningen van Vattenfall. Vattenfall mocht de meterstanden… (ECLI:NL:RBZWB:2023:5250)",
@@ -914,7 +805,8 @@
    "summary": "Veroordeling tot betaling van termijnfacturen, jaarafrekeningen en eindafrekeningen van Vattenfall. Vattenfall mocht de meterstanden schatten.",
    "source": "civiel",
    "first_seen": "2023-07-26T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "vattenfall"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Geen overeenkomst met een energieleverancier. Netbeheerder vraagt afsluiting. Vlak voor de procedure is toch een leverancier gevonden,… (ECLI:NL:RBZWB:2023:5291)",
@@ -924,7 +816,8 @@
    "summary": "Geen overeenkomst met een energieleverancier. Netbeheerder vraagt afsluiting. Vlak voor de procedure is toch een leverancier gevonden, zodat enkel proceskostenveroordeling wordt gevraagd. Kosten terecht gemaakt. Er wordt wel een verdeling gemaakt tussen de advertentiekosten (voor de niet verschenen 'verblijvenden') en de kosten voor de repliek op het verweer van de andere gedaagde.",
    "source": "civiel",
    "first_seen": "2023-07-27T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, netbeheerder"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Levering van energie. Gedaagde is van mening dat twee overeenkomsten zijn gesloten en een adreswijziging is doorgegeven in plaats van dat… (ECLI:NL:RBZWB:2023:5289)",
@@ -934,17 +827,8 @@
    "summary": "Levering van energie. Gedaagde is van mening dat twee overeenkomsten zijn gesloten en een adreswijziging is doorgegeven in plaats van dat er drie overeenkomsten zijn gesloten. Hij wil het verbruik op één adres dan ook niet voldoen. Uit de stukken volgt dat er wel drie overeenkomsten zijn gesloten en er ook is verbruikt op het derde adres. Vordering wordt toegewezen.",
    "source": "civiel",
    "first_seen": "2023-07-27T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Zeeland-West-Brabant: verstek. handelsrente afgewezen. Niet gebleken van een handelsovereenkomst (ECLI:NL:RBZWB:2023:5438)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:5438",
-   "date": "2023-07-26T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "verstek. handelsrente afgewezen. Niet gebleken van een handelsovereenkomst",
-   "source": "civiel",
-   "first_seen": "2023-08-01T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Midden-Nederland: Essent heeft de energietarieven met ingang van 7 november 2022 verhoogd op grond van het in de algemene voorwaarden opgenomen… (ECLI:NL:RBMNE:2023:3847)",
@@ -954,7 +838,8 @@
    "summary": "Essent heeft de energietarieven met ingang van 7 november 2022 verhoogd op grond van het in de algemene voorwaarden opgenomen wijzigingsbeding. [eiser] kwalificeert het beding als oneerlijk en heeft vernietiging van het beding gevorderd. De kantonrechter is van oordeel dat het ter discussie gestelde wijzigingsbeding niet kan worden aangemerkt als oneerlijk in de zin van Richtlijn Oneerlijke Beding",
    "source": "civiel",
    "first_seen": "2023-07-26T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energietarie, essent"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: ATO met ander dan afnemer niet in strijd met Elektriciteitswet. Zie ook ECLI:NL:GHARL:2021:3783 en ECLI:NL:HR:2023:452 (ECLI:NL:GHARL:2023:6287)",
@@ -964,7 +849,8 @@
    "summary": "ATO met ander dan afnemer niet in strijd met Elektriciteitswet. Zie ook ECLI:NL:GHARL:2021:3783 en ECLI:NL:HR:2023:452.",
    "source": "civiel",
    "first_seen": "2023-07-25T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, begrippencode"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Vervolg op ECLI:NL:GHARL:2019:5849, ECLI:NL:GHARL:2021:8656 en ECLI:NL:GHARL:2022:9845. Aardbevingsschade. Eindarrest na… (ECLI:NL:GHARL:2023:6339)",
@@ -974,7 +860,8 @@
    "summary": "Vervolg op ECLI:NL:GHARL:2019:5849, ECLI:NL:GHARL:2021:8656 en ECLI:NL:GHARL:2022:9845. Aardbevingsschade. Eindarrest na deskundigenonderzoek en verhoor van deskundigen. Beslissing op diverse schadeposten. Bewijswaardering. Bewijsvermoeden van artikel 6:177a lid 1 BW geldt niet voor andere schade dan fysieke schade aan gebouw.",
    "source": "civiel",
    "first_seen": "2023-07-26T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "aardbevingsschade"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Art. 236 lid 3 Rv. Energieleverancier wil wegens wanbetaling de aansluiting onderbreken en vordert daartoe de gedeeltelijke ontruiming van… (ECLI:NL:RBZWB:2023:5103)",
@@ -984,7 +871,8 @@
    "summary": "Art. 236 lid 3 Rv. Energieleverancier wil wegens wanbetaling de aansluiting onderbreken en vordert daartoe de gedeeltelijke ontruiming van de woning. Een eerder ten gunste van haar gewezen vonnis heeft zij niet ten uitvoer gelegd. Er is nog steeds sprake van een betalingsachterstand. Ruim 5 jaar later procedeert zij opnieuw. Gedaagde voert verweer maar doet geen beroep op gezag van gewijsde.",
    "source": "civiel",
    "first_seen": "2023-07-20T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Gedaagde heeft onvoldoende gemotiveerd weersproken dat hij de achterstallige facturen nog moet betalen. De hoofdsom wordt wel verminderd… (ECLI:NL:RBZWB:2023:5122)",
@@ -994,7 +882,8 @@
    "summary": "Gedaagde heeft onvoldoende gemotiveerd weersproken dat hij de achterstallige facturen nog moet betalen. De hoofdsom wordt wel verminderd met 25%, omdat eiser zijn precontractuele informatieverplichtingen heeft geschonden.",
    "source": "civiel",
    "first_seen": "2023-07-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "BUDGET ENERGIE"
   },
   {
    "title": "Rechtbank Noord-Holland: Vorderingen energieleverancier ivm ontbreken aansluiting afgewezen. Gedaagden hebben aangetoond dat zij niet de hele periode… (ECLI:NL:RBNHO:2023:6739)",
@@ -1004,7 +893,8 @@
    "summary": "Vorderingen energieleverancier ivm ontbreken aansluiting afgewezen. Gedaagden hebben aangetoond dat zij niet de hele periode eigenaar/gebruiker van het pand waren en dat vanaf het moment dat zij het wel waren er een energiecontract was.",
    "source": "civiel",
    "first_seen": "2023-07-18T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Noord-Holland: Luchtvaart. Stroomstoring op luchthaven Schiphol, die heeft geleid tot een defect in het bagagesysteem, is aan te merken als een… (ECLI:NL:RBNHO:2023:8050)",
@@ -1014,17 +904,8 @@
    "summary": "Luchtvaart. Stroomstoring op luchthaven Schiphol, die heeft geleid tot een defect in het bagagesysteem, is aan te merken als een buitengewone omstandigheid.",
    "source": "civiel",
    "first_seen": "2023-08-16T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Gerechtshof Arnhem-Leeuwarden: Eigenaren van recreatiewoningen op het recreatiepark dat Hidden Village vinden dat Hidden Village hen te veel kosten in rekening brengt… (ECLI:NL:GHARL:2023:6108)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:6108",
-   "date": "2023-07-18T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Eigenaren van recreatiewoningen op het recreatiepark dat Hidden Village vinden dat Hidden Village hen te veel kosten in rekening brengt voor elektra en in het bijzonder verzuimt om de heffingskorting in mindering te brengen in de berekening van de kilowattuurprijs. Het hof oordeelt dat Hidden Village de juiste tarieven toepast en dat de berekening van de energiebelasting en heffingskorting redelij",
-   "source": "civiel",
-   "first_seen": "2023-07-18T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Aardbevingsschade. Stelplicht met betrekking tot schade. Weerlegging van wettelijk bewijsvermoeden. De algemene en specifieke bezwaren… (ECLI:NL:GHARL:2023:6101)",
@@ -1034,7 +915,8 @@
    "summary": "Aardbevingsschade. Stelplicht met betrekking tot schade. Weerlegging van wettelijk bewijsvermoeden. De algemene en specifieke bezwaren tegen weerlegging wettelijke bewijsvermoeden worden verworpen. Dat schade ondeugdelijk is hersteld is onvoldoende onderbouwd. Er is nieuwe schade opgetreden waarvan de schade is begroot op € 5.700,-. Dit bedrag wordt toegewezen. Ook wordt toegewezen de overeengekom",
    "source": "civiel",
    "first_seen": "2023-07-18T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "mijnbouwwet"
   },
   {
    "title": "Rechtbank Noord-Holland: Geschil over opheffing van bestaande mogelijkheid tot elektriciteitsaansluiting. Liander moet die elektriciteitsaansluiting in de grond van… (ECLI:NL:RBNHO:2023:6575)",
@@ -1044,7 +926,8 @@
    "summary": "Geschil over opheffing van bestaande mogelijkheid tot elektriciteitsaansluiting. Liander moet die elektriciteitsaansluiting in de grond van een van de eisers vooralsnog in stand laten en eerst een alternatief onderzoeken waarmee aan de belangen van beide partijen kan worden tegemoet gekomen. Tot die tijd mag zij geen onomkeerbare werkzaamheden (laten) verrichten, op straffe van verbeurte van een d",
    "source": "civiel",
    "first_seen": "2023-07-12T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Gelderland: Kantonrechter oordeelt niet over onbevoegdheid huurcommissie. Warmtelevering via WKO. Verhuurder is niet de warmteleverancier (ECLI:NL:RBGEL:2023:4107)",
@@ -1054,7 +937,8 @@
    "summary": "Kantonrechter oordeelt niet over onbevoegdheid huurcommissie. Warmtelevering via WKO. Verhuurder is niet de warmteleverancier.",
    "source": "civiel",
    "first_seen": "2023-07-18T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Rotterdam: Ambtshalve toetsen, tegenspraak. Eiseres kan bestelproces niet meer overleggen. Kantonrechter kan niet vaststellen dat bestelknop juist… (ECLI:NL:RBROT:2023:5846)",
@@ -1064,7 +948,8 @@
    "summary": "Ambtshalve toetsen, tegenspraak. Eiseres kan bestelproces niet meer overleggen. Kantonrechter kan niet vaststellen dat bestelknop juist was. Gedaagde wil dat de overeenkomst vernietigd wordt. Volgt vernietiging van de overeenkomst en afwijzing van de vordering.",
    "source": "civiel",
    "first_seen": "2023-07-06T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Innova Energie"
   },
   {
    "title": "Rechtbank Noord-Holland: Luchtvaart. Stroomstoring Schiphol. 29 april 2018. Deels buitengewone omstandigheden en deels niet (ECLI:NL:RBNHO:2023:6536)",
@@ -1074,7 +959,8 @@
    "summary": "Luchtvaart. Stroomstoring Schiphol. 29 april 2018. Deels buitengewone omstandigheden en deels niet.",
    "source": "civiel",
    "first_seen": "2023-07-12T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
   },
   {
    "title": "Rechtbank Amsterdam: Werkgeversaansprakelijkheid voor klokkenluiders. Artikel 7:611 en 7:658c (oud) BW. Geen eigen schuld als bedoeld in artikel 6:101 BW (ECLI:NL:RBAMS:2023:3969)",
@@ -1084,7 +970,8 @@
    "summary": "Werkgeversaansprakelijkheid voor klokkenluiders. Artikel 7:611 en 7:658c (oud) BW. Geen eigen schuld als bedoeld in artikel 6:101 BW.",
    "source": "civiel",
    "first_seen": "2023-06-27T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Vattenfall"
   },
   {
    "title": "Rechtbank Midden-Nederland: Vernietiging bindend advies Geschillencommissie. Toepassing leidingcomponent door eiseres als correctiefactor (artikel 8a lid 5 Warmtewet)… (ECLI:NL:RBMNE:2023:3070)",
@@ -1094,7 +981,8 @@
    "summary": "Vernietiging bindend advies Geschillencommissie. Toepassing leidingcomponent door eiseres als correctiefactor (artikel 8a lid 5 Warmtewet) is in dit geval toegestaan.",
    "source": "civiel",
    "first_seen": "2023-06-28T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Levering van energie. Vooral onduidelijkheid over de wijze waarop de eindafrekening is berekend (onder creditering van voorschotfacturen).… (ECLI:NL:RBZWB:2023:4638)",
@@ -1104,7 +992,8 @@
    "summary": "Levering van energie. Vooral onduidelijkheid over de wijze waarop de eindafrekening is berekend (onder creditering van voorschotfacturen). Overige verweren niet onderbouwd. Vordering wordt toegewezen.",
    "source": "civiel",
    "first_seen": "2023-07-04T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Midden-Nederland: Gedaagde moet een bedrag van € 613,01 betalen aan eiseres, omdat vaststaat dat gedaagde haar betalingsverplichting met betrekking tot de… (ECLI:NL:RBMNE:2023:7690)",
@@ -1114,7 +1003,8 @@
    "summary": "Gedaagde moet een bedrag van € 613,01 betalen aan eiseres, omdat vaststaat dat gedaagde haar betalingsverplichting met betrekking tot de transportkosten volgens de overeenkomst niet is nagekomen, en dit had wel gemoeten. Gedaagde heeft weliswaar het nieuwbouwproject op 12 juli 2022 opgeleverd aan de VvE, maar zij heeft per die datum niet de transportovereenkomst met eiseres opgezegd. Ook heeft zic",
    "source": "civiel",
    "first_seen": "2024-04-30T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Rotterdam: Ambtshalve toetsen. Niet gebleken dat Nuon heeft voldaan aan precontractuele informatieplichten door overlegging huidig bestelproces… (ECLI:NL:RBROT:2023:4910)",
@@ -1124,27 +1014,8 @@
    "summary": "Ambtshalve toetsen. Niet gebleken dat Nuon heeft voldaan aan precontractuele informatieplichten door overlegging huidig bestelproces Vattenfall. Geen toewijzing op (meer) subsidiaire grondslagen.",
    "source": "civiel",
    "first_seen": "2023-06-13T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Gerechtshof Arnhem-Leeuwarden: Arbeidszaak, Wwz. Opzegverbod OR-lid? Kantonrechter heeft arbeidsovereenkomst terecht ontbonden, maar als werkgeefster slaagt in het… (ECLI:NL:GHARL:2023:5249)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:5249",
-   "date": "2023-06-22T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Arbeidszaak, Wwz. Opzegverbod OR-lid? Kantonrechter heeft arbeidsovereenkomst terecht ontbonden, maar als werkgeefster slaagt in het opgedragen bewijs, dan heeft werknemer ernstig verwijtbaar gehandeld waardoor de transitievergoeding niet verschuldigd is.",
-   "source": "civiel",
-   "first_seen": "2023-06-22T00:00:00+00:00",
-   "grond": "partij"
-  },
-  {
-   "title": "Rechtbank Overijssel: De vraag is of het concurrentiebeding, dat is opgenomen in de arbeidsovereenkomst tussen partijen, voorlopig in stand kan blijven of dient… (ECLI:NL:RBOVE:2023:2366)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2366",
-   "date": "2023-06-22T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "De vraag is of het concurrentiebeding, dat is opgenomen in de arbeidsovereenkomst tussen partijen, voorlopig in stand kan blijven of dient te worden geschorst. De kantonrechter is van oordeel dat de werking van het concurrentiebeding in dit geval moet worden geschorst totdat in een bodemprocedure anders wordt beslist.",
-   "source": "civiel",
-   "first_seen": "2023-06-26T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Midden-Nederland: Kort geding. Executiegeschil nav een vonnis waarin ivm de gestegen energieprijzen een heronderhandelingsplicht is opgelegd over het eerder… (ECLI:NL:RBMNE:2023:3064)",
@@ -1154,7 +1025,8 @@
    "summary": "Kort geding. Executiegeschil nav een vonnis waarin ivm de gestegen energieprijzen een heronderhandelingsplicht is opgelegd over het eerder overeengekomen energietarief.",
    "source": "civiel",
    "first_seen": "2023-06-27T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energietarie"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Faillissement vorige energieleverancier, overname klantenbestand, Besluiten leveringszekerheid, gehanteerde afwijkende voorwaarden en… (ECLI:NL:RBZWB:2023:6406)",
@@ -1164,7 +1036,8 @@
    "summary": "Faillissement vorige energieleverancier, overname klantenbestand, Besluiten leveringszekerheid, gehanteerde afwijkende voorwaarden en tarieven zijn niet overeengekomen en houden geen stand, verschuldigd bedrag in redelijkheid vastgesteld.",
    "source": "civiel",
    "first_seen": "2023-09-12T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, besluit leveringszekerheid"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Verstek, ambtshalve toetsing artikel 6:230v BW. Toepasselijkheid Hof van Justitie van de Europese Unie van 7 april 2022… (ECLI:NL:GHARL:2023:5201)",
@@ -1174,7 +1047,8 @@
    "summary": "Verstek, ambtshalve toetsing artikel 6:230v BW. Toepasselijkheid Hof van Justitie van de Europese Unie van 7 april 2022 (ECLI:EU:C:2022:269); vraag of een met digitale middelen afgesloten energiecontract tussen Innova en een consument op de wettelijk voorgeschreven wijze tot stand is gekomen. Meer specifiek: of Innova ondubbelzinnig heeft duidelijk gemaakt dat dat contract een betalingsverplichtin",
    "source": "civiel",
    "first_seen": "2023-06-21T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
   },
   {
    "title": "Gerechtshof Amsterdam: Contract energielevering voldoet niet aan het vereiste zoals gesteld in art. 6:230v lid 3 BW (ECLI:NL:GHAMS:2023:1371)",
@@ -1184,17 +1058,8 @@
    "summary": "Contract energielevering voldoet niet aan het vereiste zoals gesteld in art. 6:230v lid 3 BW.",
    "source": "civiel",
    "first_seen": "2023-06-13T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Gelderland: Kort geding. Vordering tot afgifte bescheiden ex artikel 843a Rv (ECLI:NL:RBGEL:2023:4322)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4322",
-   "date": "2023-06-13T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Kort geding. Vordering tot afgifte bescheiden ex artikel 843a Rv.",
-   "source": "civiel",
-   "first_seen": "2023-07-27T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "energielevering"
   },
   {
    "title": "Rechtbank Rotterdam: Ambtshalve toetsing. Energiecontract. Screenshots overgelegd van rechtsopvolgend aanbieder, daarmee niet aangetoond dat is voldaan aan… (ECLI:NL:RBROT:2023:4892)",
@@ -1204,7 +1069,8 @@
    "summary": "Ambtshalve toetsing. Energiecontract. Screenshots overgelegd van rechtsopvolgend aanbieder, daarmee niet aangetoond dat is voldaan aan precontractuele informatieverplichtingen + bestelknop. Sanctie: hoofdsom voor slechts 50% toegewezen.",
    "source": "civiel",
    "first_seen": "2023-06-13T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
   },
   {
    "title": "Rechtbank Rotterdam: vordering Stedin afgewezen. Levert een verbruik van 3 kWh energie zonder een overeenkomst met een energieleverancier over een lange periode… (ECLI:NL:RBROT:2023:4844)",
@@ -1214,7 +1080,8 @@
    "summary": "vordering Stedin afgewezen. Levert een verbruik van 3 kWh energie zonder een overeenkomst met een energieleverancier over een lange periode een onrechtmatige daad op?",
    "source": "civiel",
    "first_seen": "2023-06-12T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, stedin"
   },
   {
    "title": "Rechtbank Gelderland: centrale warmtemeter nodig in VvE-gebouw. Uitleg Warmtewet (ECLI:NL:RBGEL:2023:3363)",
@@ -1224,7 +1091,8 @@
    "summary": "centrale warmtemeter nodig in VvE-gebouw. Uitleg Warmtewet",
    "source": "civiel",
    "first_seen": "2023-06-12T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Midden-Nederland: Sanering van windturbines. Eisers willen meedelen in door gedaagden te ontvangen saneringsvergoeding als schadeloosstelling. Beroep op… (ECLI:NL:RBMNE:2023:2542)",
@@ -1234,7 +1102,8 @@
    "summary": "Sanering van windturbines. Eisers willen meedelen in door gedaagden te ontvangen saneringsvergoeding als schadeloosstelling. Beroep op contractuele bepalingen uit de overeenkomst. Vorderingen ongegrond. Te weinig gesteld voor uitleg partijbedoeling.",
    "source": "civiel",
    "first_seen": "2023-05-30T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "windturbine"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Aansprakelijkheid netbeheerder voor brandschade ontstaan door verkeerde zekering in huisaansluitingskast in meterkast. Geen… (ECLI:NL:GHARL:2023:4511)",
@@ -1244,7 +1113,8 @@
    "summary": "Aansprakelijkheid netbeheerder voor brandschade ontstaan door verkeerde zekering in huisaansluitingskast in meterkast. Geen risicoaansprakelijkheid netbeheerder op grond van artikel 6:174 en 6:181 BW, wel toerekenbaar tekortschieten netbeheerder. Beroep op aansprakelijkheidsbeperking in algemene voorwaarden slaagt: klant is gebonden en beperking is niet onredelijk bezwarend.",
    "source": "civiel",
    "first_seen": "2023-05-30T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, tarievencode"
   },
   {
    "title": "Rechtbank Rotterdam: Ambtshalve toetsing. Energiecontract. Screenshots overgelegd van rechtsopvolgend aanbieder, daarmee niet aangetoond dat is voldaan aan… (ECLI:NL:RBROT:2023:4641)",
@@ -1254,7 +1124,8 @@
    "summary": "Ambtshalve toetsing. Energiecontract. Screenshots overgelegd van rechtsopvolgend aanbieder, daarmee niet aangetoond dat is voldaan aan precontractuele informatieverplichtingen. Sanctie: hoofdsom voor slechts 50% toegewezen.",
    "source": "civiel",
    "first_seen": "2023-06-05T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Eisvermindering nadat gedaagde inmiddels een contract heeft afgesloten met een energieleverancier. Veroordeling pk. Omstandigheden van… (ECLI:NL:RBZWB:2023:3772)",
@@ -1264,7 +1135,8 @@
    "summary": "Eisvermindering nadat gedaagde inmiddels een contract heeft afgesloten met een energieleverancier. Veroordeling pk. Omstandigheden van gedaagde blijven voor haar rekening.",
    "source": "civiel",
    "first_seen": "2023-05-31T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Rotterdam: KG. VvE vordert dat VvE-leden hun medewerking verlenen aan de uitvoering van de VvE-besluiten om het appartementencomplex te laten… (ECLI:NL:RBROT:2023:4433)",
@@ -1274,7 +1146,8 @@
    "summary": "KG. VvE vordert dat VvE-leden hun medewerking verlenen aan de uitvoering van de VvE-besluiten om het appartementencomplex te laten aansluiten op stadsverwarming. Het verweer van de leden dat de besluiten nietig (art. 2:14 lid 1 BW) zijn, slaagt niet.",
    "source": "civiel",
    "first_seen": "2023-05-26T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "stadsverwarming"
   },
   {
    "title": "Rechtbank Rotterdam: Ambtshalve toetsing. Sanctie op niet voldoen aan informatieverplichtingen. Consument beroept zich op faillissement. Dagvaarding dateert van… (ECLI:NL:RBROT:2023:4643)",
@@ -1284,7 +1157,8 @@
    "summary": "Ambtshalve toetsing. Sanctie op niet voldoen aan informatieverplichtingen. Consument beroept zich op faillissement. Dagvaarding dateert van na afwikkeling faillissement, dus terecht geen vordering ingediend bij curator.",
    "source": "civiel",
    "first_seen": "2023-06-05T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Gelderland: Vordering tot vergoeding van schade wegens gestelde niet-tijdige verzwaring aansluiting elektriciteitsnet. Vordering afgewezen, omdat niet… (ECLI:NL:RBGEL:2023:2940)",
@@ -1294,7 +1168,8 @@
    "summary": "Vordering tot vergoeding van schade wegens gestelde niet-tijdige verzwaring aansluiting elektriciteitsnet. Vordering afgewezen, omdat niet is voldaan aan de stelplicht wat betreft identiteit contractspartij en schadelijdende partij. Artikel 111 lid 2 onder d Rv.",
    "source": "civiel",
    "first_seen": "2023-05-24T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Rotterdam: Geldvordering. Eiseres is niet nodeloos tot dagvaarden overgegaan. Gedaagde moet daarom de proceskosten betalen (ECLI:NL:RBROT:2023:4690)",
@@ -1304,7 +1179,8 @@
    "summary": "Geldvordering. Eiseres is niet nodeloos tot dagvaarden overgegaan. Gedaagde moet daarom de proceskosten betalen.",
    "source": "civiel",
    "first_seen": "2023-06-06T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Noord-Holland: Verminderde vordering tot veroordeling van gedaagde in de proceskosten wordt afgewezen. Kantonrechter is van oordeel dat gedaagde toen… (ECLI:NL:RBNHO:2023:4151)",
@@ -1314,7 +1190,8 @@
    "summary": "Verminderde vordering tot veroordeling van gedaagde in de proceskosten wordt afgewezen. Kantonrechter is van oordeel dat gedaagde toen duidelijk was geworden wat het probleem was voldoende voortvaren hebben gehandeld.",
    "source": "civiel",
    "first_seen": "2023-05-08T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Liander"
   },
   {
    "title": "Rechtbank Noord-Holland: Luchtvaartclaim. Deels sprake van buitengewone omstandigheden en deels niet. Stroomstoring, pechgeval op de landingsbaan van Alicante en… (ECLI:NL:RBNHO:2023:4500)",
@@ -1324,7 +1201,8 @@
    "summary": "Luchtvaartclaim. Deels sprake van buitengewone omstandigheden en deels niet. Stroomstoring, pechgeval op de landingsbaan van Alicante en staking Franse luchtverkeersleiding. Doorwerking. Redelijke maatregelen. Peskova.",
    "source": "civiel",
    "first_seen": "2023-05-12T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "stroomstoring"
   },
   {
    "title": "Rechtbank Noord-Holland: consument, ambtshalve toetsing, geen duidelijke mededeling gedaan dat de consument met het aanklikken van de bestelknop een… (ECLI:NL:RBNHO:2023:5211)",
@@ -1334,7 +1212,8 @@
    "summary": "consument, ambtshalve toetsing, geen duidelijke mededeling gedaan dat de consument met het aanklikken van de bestelknop een betalingsverplichting aangaat, overeenkomst wordt vernietigd voor wat betreft de betalingsverplichting, vordering afgewezen",
    "source": "civiel",
    "first_seen": "2023-06-06T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Innova Energie"
   },
   {
    "title": "Rechtbank Midden-Nederland: Huurder is investerings- en onderhoudkosten WKO installatie rechtstreeks verschuldigd aan derde partij. Huurder kan vergoeding daarvan… (ECLI:NL:RBMNE:2023:2068)",
@@ -1344,7 +1223,8 @@
    "summary": "Huurder is investerings- en onderhoudkosten WKO installatie rechtstreeks verschuldigd aan derde partij. Huurder kan vergoeding daarvan verlangen door verhuurder. Variant op ECLI:NL:HR:2022:61.",
    "source": "civiel",
    "first_seen": "2023-05-04T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Overijssel: Afwijzing verzoek voorlopige voorziening op grond van artikel 287 lid 4 Faillissementswet. Verzoek schorsing beslag op loon onder… (ECLI:NL:RBOVE:2023:2957)",
@@ -1354,7 +1234,8 @@
    "summary": "Afwijzing verzoek voorlopige voorziening op grond van artikel 287 lid 4 Faillissementswet. Verzoek schorsing beslag op loon onder werkgever. Minnelijk traject is recent gestart, kan op z’n vroegst over drie weken aanbod aan schuldeisers worden gedaan. Artikel 287 lid 4 Faillissementswet heeft tot doel om een spoedeisende beslissing te geven voor de situatie dat het minnelijk traject reeds is bepro",
    "source": "civiel",
    "first_seen": "2023-07-27T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van gas"
   },
   {
    "title": "Rechtbank Overijssel: Partijen hebben een overeenkomst gesloten voor de levering van energie. Eiser vordert betaling van twee termijnbedragen en betaling van de… (ECLI:NL:RBOVE:2023:2728)",
@@ -1364,17 +1245,8 @@
    "summary": "Partijen hebben een overeenkomst gesloten voor de levering van energie. Eiser vordert betaling van twee termijnbedragen en betaling van de eindnota inclusief opzegvergoeding en opzegvergoeding van de vorige energieleverancier van gedaagde. Nergens is uit gebleken dat het contract eerder is opgezegd of is overgenomen door de neef van gedaagde, zoals gedaagde heeft aangevoerd. De vorderingen worden ",
    "source": "civiel",
    "first_seen": "2023-07-14T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Gerechtshof Arnhem-Leeuwarden: Wraking. Civiele zaak. Verzoekster ervaart gedrag voorzitter als agressief en intimiderend. Dat daarvan, objectief bezien, sprake was… (ECLI:NL:GHARL:2023:3599)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:3599",
-   "date": "2023-04-28T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Wraking. Civiele zaak. Verzoekster ervaart gedrag voorzitter als agressief en intimiderend. Dat daarvan, objectief bezien, sprake was blijkt niet uit het proces-verbaal van van de zitting of anderszins. Een voorlopig oordeel mag in een civiele zaak worden gegeven. Uit niets blijkt de afwezigheid van bereidheid bij de voorzitter en de overige leden van de kamer daarop terug te komen. Niet gebleken ",
-   "source": "civiel",
-   "first_seen": "2023-05-01T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, levering van energie"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: De kantonrechter neemt aan dat de meterstanden juist zijn en het werkelijk verbruik weergeven, nu er geen ijkrapport in het geding is… (ECLI:NL:RBZWB:2023:3076)",
@@ -1384,17 +1256,8 @@
    "summary": "De kantonrechter neemt aan dat de meterstanden juist zijn en het werkelijk verbruik weergeven, nu er geen ijkrapport in het geding is gebracht waaruit blijkt dat de energiemeter niet goed werkt. De vordering wordt toegewezen.",
    "source": "civiel",
    "first_seen": "2023-05-08T00:00:00+00:00",
-   "grond": "partij"
-  },
-  {
-   "title": "Gerechtshof Arnhem-Leeuwarden: In kort geding speelt de vraag of uit een arrest van dit hof volgt dat een participant feitelijk in de positie moet worden gebracht als… (ECLI:NL:GHARL:2023:3551)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:3551",
-   "date": "2023-04-25T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "In kort geding speelt de vraag of uit een arrest van dit hof volgt dat een participant feitelijk in de positie moet worden gebracht als ware zij vanaf het begin lid geweest van een vereniging en of sprake is van gehoudenheid tot afgifte van stukken ex artikel 843a Rv.",
-   "source": "civiel",
-   "first_seen": "2023-04-25T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "GREENCHOICE"
   },
   {
    "title": "Rechtbank Amsterdam: Vordering tot huurachterstand, ambtshalve toetsing of algemene voorwaarden uit huurovereenkomst oneerlijk zijn, bedingen over… (ECLI:NL:RBAMS:2023:2420)",
@@ -1404,7 +1267,8 @@
    "summary": "Vordering tot huurachterstand, ambtshalve toetsing of algemene voorwaarden uit huurovereenkomst oneerlijk zijn, bedingen over huurprijswijziging, rente en incassokosten zijn oneerlijk en worden vernietigd, herberekening huurachterstand. Zie ook ECLI:C:EU:2013:180 RWE en ECLI:EU:C:2012:242.",
    "source": "civiel",
    "first_seen": "2023-04-19T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "rwe"
   },
   {
    "title": "Rechtbank Rotterdam: totstandkoming overeenkomst; volmacht (ECLI:NL:RBROT:2023:3458)",
@@ -1414,7 +1278,8 @@
    "summary": "totstandkoming overeenkomst; volmacht",
    "source": "civiel",
    "first_seen": "2023-04-24T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "GREENCHOICE"
   },
   {
    "title": "Rechtbank Noord-Holland: Een energieleverancier vordert betaling van gefactureerde voorschotten en een eindfactuur. De gevorderde opzegvergoedig is onderbouwd en… (ECLI:NL:RBNHO:2023:3240)",
@@ -1424,7 +1289,8 @@
    "summary": "Een energieleverancier vordert betaling van gefactureerde voorschotten en een eindfactuur. De gevorderde opzegvergoedig is onderbouwd en niet betwist. Het overige deel is ondanks de gemotiveerde betwisting niet onderbouwd en wordt afgewezen.",
    "source": "civiel",
    "first_seen": "2023-04-11T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Midden-Nederland: grondeigenaar moet op grond van artikel 5:56 BW (ladderrecht) toegang verlenen aan Tennet ten behoeve van; onderhoud elektriciteitsmasten;… (ECLI:NL:RBMNE:2023:2567)",
@@ -1434,7 +1300,8 @@
    "summary": "grondeigenaar moet op grond van artikel 5:56 BW (ladderrecht) toegang verlenen aan Tennet ten behoeve van; onderhoud elektriciteitsmasten; die maken deel uit van een netwerk A; artikel 5:20 BW lid 2",
    "source": "civiel",
    "first_seen": "2023-06-01T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Aanbesteding. Afwijzing. Geen schending transparantiebeginsel. Uitleg subgunningscriterium blijkt uit aanbestedingsstukken.… (ECLI:NL:RBROT:2023:3258)",
@@ -1444,7 +1311,8 @@
    "summary": "Kort geding. Aanbesteding. Afwijzing. Geen schending transparantiebeginsel. Uitleg subgunningscriterium blijkt uit aanbestedingsstukken. Recht om te klagen over prijsmodel is verwerkt. Herijkingsclausule niet in strijd met aanbestedingswet.",
    "source": "civiel",
    "first_seen": "2023-04-19T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "STEDIN"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding, aanbesteding. Beoordeling inschrijvingen moet deels opnieuw vanwege de onjuiste en/of te weinig transparante toepassing van de… (ECLI:NL:RBROT:2023:3292)",
@@ -1454,7 +1322,8 @@
    "summary": "Kort geding, aanbesteding. Beoordeling inschrijvingen moet deels opnieuw vanwege de onjuiste en/of te weinig transparante toepassing van de beoordelingscriteria.",
    "source": "civiel",
    "first_seen": "2023-04-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "STEDIN"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Aanbesteding. Vordering tot herbeoordeling/heraanbesteding afgewezen. Er is geen reden voor herbeoordeling van een… (ECLI:NL:RBROT:2023:3293)",
@@ -1464,7 +1333,8 @@
    "summary": "Kort geding. Aanbesteding. Vordering tot herbeoordeling/heraanbesteding afgewezen. Er is geen reden voor herbeoordeling van een subgunningscriterium waarvoor een minimumdrempel gold, De inschrijving is daarom niet ten onrechte terzijde gelegd.",
    "source": "civiel",
    "first_seen": "2023-04-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "STEDIN"
   },
   {
    "title": "Rechtbank Overijssel: De rechtbank veroordeelt de gedaagde tot het betalen van het gevorderde bedrag aan de eiser. Bij het beëindigen van het energiecontract… (ECLI:NL:RBOVE:2023:2113)",
@@ -1474,7 +1344,8 @@
    "summary": "De rechtbank veroordeelt de gedaagde tot het betalen van het gevorderde bedrag aan de eiser. Bij het beëindigen van het energiecontract heeft de eiser een eindafrekening gemaakt. Volgens gedaagde kan die niet kloppen, omdat het bedrag veel hoger is dan afgelopen jaren. Uit meterstanden is gebleken dat de gedaagde jarenlang te weinig heeft betaald. Met deze eindafrekening wordt dus betaald over daa",
    "source": "civiel",
    "first_seen": "2023-06-08T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
   },
   {
    "title": "Rechtbank Amsterdam: Energieovereenkomst - onbetaalde facturen (ECLI:NL:RBAMS:2023:2147)",
@@ -1484,7 +1355,8 @@
    "summary": "Energieovereenkomst - onbetaalde facturen",
    "source": "civiel",
    "first_seen": "2023-04-07T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
   },
   {
    "title": "Rechtbank Gelderland: Vervolg op ECLI:NL:RBGEL:2022:1338. Uitleg afspraken over levering van warmte en koude, afrekening (ECLI:NL:RBGEL:2023:1965)",
@@ -1494,17 +1366,8 @@
    "summary": "Vervolg op ECLI:NL:RBGEL:2022:1338. Uitleg afspraken over levering van warmte en koude, afrekening",
    "source": "civiel",
    "first_seen": "2023-04-06T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Noord-Holland: Vordering tussen een handelaar en een consument. Ambtshalve toetsing van de (pre)contractuele informatieplichten. Niet is voldaan aan… (ECLI:NL:RBNHO:2023:3698)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:3698",
-   "date": "2023-04-05T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Vordering tussen een handelaar en een consument. Ambtshalve toetsing van de (pre)contractuele informatieplichten. Niet is voldaan aan artikel 6:230v lid 6 BW. De overeenkomst is op grond van artikel 3:39 BW nietig.",
-   "source": "civiel",
-   "first_seen": "2023-04-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Midden-Nederland: Vennoten VOF zijn als beperkt bevoegd in handelsregister van KvK geregistreerd. Precieze omvang van beperking in VOF-overeenkomst; deze is… (ECLI:NL:RBMNE:2023:1812)",
@@ -1514,7 +1377,8 @@
    "summary": "Vennoten VOF zijn als beperkt bevoegd in handelsregister van KvK geregistreerd. Precieze omvang van beperking in VOF-overeenkomst; deze is niet bij KvK ingeschreven. Onbevoegde vertegenwoordiging; VOF is niet gebonden aan overeenkomst. Geen toerekening schijn van vertegenwoordigingsbevoegdheid. Afwijzing gevorderde verklaring voor recht (vernietiging overeenkomst) want overeenkomst is t.o.v. VOF o",
    "source": "civiel",
    "first_seen": "2023-04-18T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENERGIEBEDRIJF B.V."
   },
   {
    "title": "Rechtbank Noord-Nederland: Art. 3c Warmtewet; art. 7:904 lid 1 BW (bindend advies), criteria vernietiging bindend advies. Eiser vordert vernietiging van een bindend… (ECLI:NL:RBNNE:2023:1753)",
@@ -1524,7 +1388,8 @@
    "summary": "Art. 3c Warmtewet; art. 7:904 lid 1 BW (bindend advies), criteria vernietiging bindend advies. Eiser vordert vernietiging van een bindend advies. Gedaagde exploiteert een kleine warmtenet met slechts enkele gebruikers. Gedaagde lijdt sinds 2016 jaarlijks een aanzienlijk exploitatietekort waarvoor nog geen oplossing is. Eiser heeft aan gedaagde te kennen gegeven de leveringsovereenkomst op te wille",
    "source": "civiel",
    "first_seen": "2023-05-02T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Den Haag: Kort geding. Aanbesteding. Onderhandelingsprocedure met aankondiging. Anders dan eiser stelt voldoet winnaar aan producteisen en… (ECLI:NL:RBDHA:2023:5781)",
@@ -1534,7 +1399,8 @@
    "summary": "Kort geding. Aanbesteding. Onderhandelingsprocedure met aankondiging. Anders dan eiser stelt voldoet winnaar aan producteisen en referentie-eis. Recht verwerkt om bezwaar naar voren te brengen dat sprake is van leuren en concurrentievervalsing door aanbestedende dienst.",
    "source": "civiel",
    "first_seen": "2023-04-21T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Alliander"
   },
   {
    "title": "Rechtbank Rotterdam: Rechterswissel. Onbetaalde energierekeningen. Vordering beperkt tot 500 euro. Toewijzing (ECLI:NL:RBROT:2023:3173)",
@@ -1544,7 +1410,8 @@
    "summary": "Rechterswissel. Onbetaalde energierekeningen. Vordering beperkt tot 500 euro. Toewijzing.",
    "source": "civiel",
    "first_seen": "2023-04-17T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energierekening"
   },
   {
    "title": "Rechtbank Gelderland: Kort Geding: Gecontracteerd transportvermogen elektriciteit. Uitleg ATO. Liander mag aangevraagde verhoging transportvermogen voor levering… (ECLI:NL:RBGEL:2023:1814)",
@@ -1554,7 +1421,8 @@
    "summary": "Kort Geding: Gecontracteerd transportvermogen elektriciteit. Uitleg ATO. Liander mag aangevraagde verhoging transportvermogen voor levering elektriciteit weigeren vanwege fysieke congestie op het net. Art 24 E-wet.",
    "source": "civiel",
    "first_seen": "2023-03-30T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit, tarievencode"
   },
   {
    "title": "Rechtbank Overijssel: Deze zaak gaat over de dreigende stopzetting van de levering van energie aan de panden van eiser door gedaagde sub 1, een onderneming van… (ECLI:NL:RBOVE:2023:1226)",
@@ -1564,7 +1432,8 @@
    "summary": "Deze zaak gaat over de dreigende stopzetting van de levering van energie aan de panden van eiser door gedaagde sub 1, een onderneming van gedaagde sub 2 . Eiser wil dat voorkomen en vordert in dit kort geding – kort gezegd – nakoming van de levering van energie aan zijn vier panden.",
    "source": "civiel",
    "first_seen": "2023-04-05T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Rotterdam: Online energieovereenkomst. Informatieplichten (ECLI:NL:RBROT:2023:3163)",
@@ -1574,7 +1443,8 @@
    "summary": "Online energieovereenkomst. Informatieplichten.",
    "source": "civiel",
    "first_seen": "2023-04-17T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Oost-Brabant: Artikel 23 E-wet/ Artikel 16c E-wet/ artikel 2.39 Netcode. Ten behoeve van het nog te bouwen zonnepark heeft eiseres inmiddels een… (ECLI:NL:RBOBR:2023:1457)",
@@ -1584,7 +1454,8 @@
    "summary": "Artikel 23 E-wet/ Artikel 16c E-wet/ artikel 2.39 Netcode. Ten behoeve van het nog te bouwen zonnepark heeft eiseres inmiddels een aansluiting van 30 MVA op het HS/MS Station Kropswolde (koppelstation) met een bijbehorende transportcapaciteit voor invoeding van 30 MVA. Eiseres zal de aansluiting als zelflegger in eigen beheer aanleggen. Zij heeft gedaagde gevraagd een aanbod te doen voor een aansl",
    "source": "civiel",
    "first_seen": "2023-03-29T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit, tarievencode"
   },
   {
    "title": "Hoge Raad: Overeenkomstenrecht. Energierecht. Terugvordering van bedragen die partij heeft betaald aan netbeheerder op grond van aansluit- en… (ECLI:NL:HR:2023:452)",
@@ -1594,7 +1465,8 @@
    "summary": "Overeenkomstenrecht. Energierecht. Terugvordering van bedragen die partij heeft betaald aan netbeheerder op grond van aansluit- en transportovereenkomst. Afnemer in zin van de Elektriciteitswet 1998. Art. 28 en 29 Elektriciteitswet 1998. Non-discriminatiebeginsel. Art. 3:40 BW.",
    "source": "civiel",
    "first_seen": "2023-03-23T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, begrippencode"
   },
   {
    "title": "Rechtbank Gelderland: Afwijzing verzoek om verwijzing zaak naar kantonrechter (art. 93 sub c Rv). Voorlopig oordeel dat geen sprake is van consumentenkoop (ECLI:NL:RBGEL:2023:1512)",
@@ -1604,7 +1476,8 @@
    "summary": "Afwijzing verzoek om verwijzing zaak naar kantonrechter (art. 93 sub c Rv). Voorlopig oordeel dat geen sprake is van consumentenkoop.",
    "source": "civiel",
    "first_seen": "2023-03-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "VATTENFALL"
   },
   {
    "title": "Rechtbank Noord-Holland: Ongerechtvaardigde verrijking met gedeelte teruggave Essent. Beroep op verrekening afgewezen (ECLI:NL:RBNHO:2023:2861)",
@@ -1614,17 +1487,8 @@
    "summary": "Ongerechtvaardigde verrijking met gedeelte teruggave Essent. Beroep op verrekening afgewezen.",
    "source": "civiel",
    "first_seen": "2023-03-29T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Noord-Holland: Overeenkomst tussen een handelaar en een consument. Ambtshalve toetsing. Er kan niet worden vastgesteld dat is voldaan aan artikel 6:230v… (ECLI:NL:RBNHO:2023:2968)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:2968",
-   "date": "2023-03-22T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Overeenkomst tussen een handelaar en een consument. Ambtshalve toetsing. Er kan niet worden vastgesteld dat is voldaan aan artikel 6:230v lid 6 BW.",
-   "source": "civiel",
-   "first_seen": "2023-03-31T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "essent"
   },
   {
    "title": "Rechtbank Noord-Nederland: Ontruiming boerderij in aardbevingsgebied Groningen. Vaststellingsovereenkomst tussen de Staat en de bewoners is niet door misbruik van… (ECLI:NL:RBNNE:2023:1003)",
@@ -1634,7 +1498,8 @@
    "summary": "Ontruiming boerderij in aardbevingsgebied Groningen. Vaststellingsovereenkomst tussen de Staat en de bewoners is niet door misbruik van omstandigheden tot stand gekomen. Spoedeisend belang bij ontruiming.",
    "source": "civiel",
    "first_seen": "2023-03-16T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "tekst",
+   "toelichting": "gaswinning (5x), mijnbouwschade (2x), aardbevingsschade (1x)"
   },
   {
    "title": "Rechtbank Amsterdam: Een Amsterdamse consument hoeft energieleverancier Engie slechts een deel van het achterstallige bedrag te voldoen, omdat Engie niet alle… (ECLI:NL:RBAMS:2023:1432)",
@@ -1644,7 +1509,8 @@
    "summary": "Een Amsterdamse consument hoeft energieleverancier Engie slechts een deel van het achterstallige bedrag te voldoen, omdat Engie niet alle wettelijke informatieplichten heeft nageleefd toen zij de overeenkomst sloot. Zo is niet gebleken dat aan de consument de prijs en de wijze van opzegging van de overeenkomst is meegedeeld toen de overeenkomst per telefoon werd afgesloten.",
    "source": "civiel",
    "first_seen": "2023-03-15T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, engie"
   },
   {
    "title": "Rechtbank Amsterdam: Een Amsterdamse consument hoeft energieleverancier Gewoon Energie niets te betalen omdat bij het online afsluiten van de… (ECLI:NL:RBAMS:2023:1433)",
@@ -1654,7 +1520,8 @@
    "summary": "Een Amsterdamse consument hoeft energieleverancier Gewoon Energie niets te betalen omdat bij het online afsluiten van de energieovereenkomst de bestelknop niet voldeed. ‘Bestelling plaatsen’ op de website van Gewoon Energie en ‘bevestig je aanvraag’ op de website van Pricewise zijn beide niet duidelijk genoeg om daaruit op te maken dat met een klik op die knop, op dat moment, een verplichting tot ",
    "source": "civiel",
    "first_seen": "2023-03-15T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier, energieovereenkomst"
   },
   {
    "title": "Rechtbank Amsterdam: Liander mag een kleinverbruiker in Amsterdam-Zuidoost afsluiten van energie maar dit mag niet voor 1 april 2023 dan wel later als de… (ECLI:NL:RBAMS:2023:1434)",
@@ -1664,7 +1531,8 @@
    "summary": "Liander mag een kleinverbruiker in Amsterdam-Zuidoost afsluiten van energie maar dit mag niet voor 1 april 2023 dan wel later als de gewijzigde Regeling afsluitbeleid wordt verlengd. Met die regeling wil het kabinet voorkomen dat mensen vanwege tijdelijke betalingsproblemen in de wintermaanden worden afgesloten.",
    "source": "civiel",
    "first_seen": "2023-03-15T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "liander"
   },
   {
    "title": "Rechtbank Noord-Holland: Inbreuk op eigendomsrecht in verband met overdraai windturbine inmiddels gestopt door fixatie windturbine. Geen spoedeisend belang,… (ECLI:NL:RBNHO:2023:6966)",
@@ -1674,7 +1542,8 @@
    "summary": "Inbreuk op eigendomsrecht in verband met overdraai windturbine inmiddels gestopt door fixatie windturbine. Geen spoedeisend belang, rechterlijke uitspraken worden nageleefd. Reële dreiging dat dat in de toekomst niet zal gebeuren, is onvoldoende aannemelijk geworden.",
    "source": "civiel",
    "first_seen": "2023-07-21T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "windturbine"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Overeenkomst tot levering energie, consument, eindafrekening, voldaan aan pre-contractuele informatieverplichtingen, toewijzing vordering (ECLI:NL:RBZWB:2023:1756)",
@@ -1684,7 +1553,8 @@
    "summary": "Overeenkomst tot levering energie, consument, eindafrekening, voldaan aan pre-contractuele informatieverplichtingen, toewijzing vordering.",
    "source": "civiel",
    "first_seen": "2023-03-17T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering energie"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Energiecontract. Informatieverplichtingen. Tekst bestelknop onvoldoende duidelijk dat betalingsverplichting van toepassing is. Daarom… (ECLI:NL:RBZWB:2023:2331)",
@@ -1694,17 +1564,8 @@
    "summary": "Energiecontract. Informatieverplichtingen. Tekst bestelknop onvoldoende duidelijk dat betalingsverplichting van toepassing is. Daarom gedeeltelijke vernietiging. Subsidiaire grondslag: onverschuldigde betaling. Gaat niet op. Anders geen effectieve rechtsbescherming consument.",
    "source": "civiel",
    "first_seen": "2023-04-06T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Ambtshalve toetsen, informatieverplichtingen, rolbeslissing, verstek (ECLI:NL:RBROT:2023:2040)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2040",
-   "date": "2023-03-09T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Ambtshalve toetsen, informatieverplichtingen, rolbeslissing, verstek",
-   "source": "civiel",
-   "first_seen": "2023-03-10T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "energiecontract"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Overeenkomst tot levering van energie. Contante betaling voorschot aan gevolmachtigde? Gedaagde niet ter zitting verschenen,… (ECLI:NL:RBZWB:2023:1481)",
@@ -1714,7 +1575,8 @@
    "summary": "Overeenkomst tot levering van energie. Contante betaling voorschot aan gevolmachtigde? Gedaagde niet ter zitting verschenen, gevolgtrekking. Onvoldoende onderbouwd verweer. Toewijzing vordering.",
    "source": "civiel",
    "first_seen": "2023-03-09T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Overijssel: Consumentenbescherming. Ambtshalve toepassing. Energieovereenkomst. Bestelknop. De energieovereenkomst is online gesloten en de bestelknop… (ECLI:NL:RBOVE:2023:861)",
@@ -1724,17 +1586,8 @@
    "summary": "Consumentenbescherming. Ambtshalve toepassing. Energieovereenkomst. Bestelknop. De energieovereenkomst is online gesloten en de bestelknop is niet goed. De kantonrechter vernietigt de energieovereenkomst. De gevorderde afsluiting, onderbreking levering en terugvordering meters wordt afgewezen. Analoge toepassing (aanvullende) Regeling kleinverbruik. Niet voldaan aan de voorwaarden van de Regeling.",
    "source": "civiel",
    "first_seen": "2023-03-09T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Gelderland: Kort geding. Aanbesteding. Geslaagd beroep op Grossman-arrest. Eiser heeft te laat geklaagd over vermeende gebreken in de… (ECLI:NL:RBGEL:2023:4782)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:4782",
-   "date": "2023-03-07T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Kort geding. Aanbesteding. Geslaagd beroep op Grossman-arrest. Eiser heeft te laat geklaagd over vermeende gebreken in de aanbestedingsprocedure. Geen schending van het level playing field.",
-   "source": "civiel",
-   "first_seen": "2023-08-23T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
   },
   {
    "title": "Rechtbank Amsterdam: Koninkrijk Spanje stelt vorderingen in tegen vennootschappen die een eerdere arbitrage tegen Spanje hebben gewonnen. Vorderingen worden… (ECLI:NL:RBAMS:2023:1542)",
@@ -1744,7 +1597,8 @@
    "summary": "Koninkrijk Spanje stelt vorderingen in tegen vennootschappen die een eerdere arbitrage tegen Spanje hebben gewonnen. Vorderingen worden afgewezen onder meer omdat Spanje treedt buiten de bevoegdheidsregels van het Verdrag van New York.",
    "source": "civiel",
    "first_seen": "2023-03-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "SOLAR ENERGY COÖPERATIEF U.A."
   },
   {
    "title": "Rechtbank Rotterdam: Ambtshalve toetsen, verstekzaak, gedeeltelijke vernietiging (25%) betalingsverplichting consument wegens schending informatieverplichtingen… (ECLI:NL:RBROT:2023:2063)",
@@ -1754,7 +1608,8 @@
    "summary": "Ambtshalve toetsen, verstekzaak, gedeeltelijke vernietiging (25%) betalingsverplichting consument wegens schending informatieverplichtingen (artikel 6:230m sub o en p BW)",
    "source": "civiel",
    "first_seen": "2023-03-13T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Midden-Nederland: Salderingsregeling artikel 31c Ew. Verplichting voor energieleverancier tot jaarlijkse saldering teruggeleverde elektriciteit. Verplichting… (ECLI:NL:RBMNE:2023:788)",
@@ -1764,7 +1619,8 @@
    "summary": "Salderingsregeling artikel 31c Ew. Verplichting voor energieleverancier tot jaarlijkse saldering teruggeleverde elektriciteit. Verplichting tot vergoeden van dezelfde prijs per teruggeleverde kWh als het in rekening gebrachte bedrag per afgenomen kWh.",
    "source": "civiel",
    "first_seen": "2023-02-27T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Rechtbank Amsterdam: Rolbeslissing; WAMCA Vattenfall; overleggen financieringsovereenkomst - deel zwartgelakt (ECLI:NL:RBAMS:2023:6681)",
@@ -1774,7 +1630,8 @@
    "summary": "Rolbeslissing; WAMCA Vattenfall; overleggen financieringsovereenkomst - deel zwartgelakt",
    "source": "civiel",
    "first_seen": "2023-10-25T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "vattenfall"
   },
   {
    "title": "Rechtbank Rotterdam: Energielevering, ambtshalve toetsing informatieverplichtingen (ECLI:NL:RBROT:2023:1600)",
@@ -1784,7 +1641,8 @@
    "summary": "Energielevering, ambtshalve toetsing informatieverplichtingen",
    "source": "civiel",
    "first_seen": "2023-02-27T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Amsterdam: Energieleverancier mag de tarieven voor levering van gas en elektra van een consument niet meer wijzigingen, omdat het wijzigingsbeding in… (ECLI:NL:RBAMS:2023:940)",
@@ -1794,7 +1652,8 @@
    "summary": "Energieleverancier mag de tarieven voor levering van gas en elektra van een consument niet meer wijzigingen, omdat het wijzigingsbeding in de algemene voorwaarden niet eerlijk is.",
    "source": "civiel",
    "first_seen": "2023-02-23T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Gelderland: Kettingbeding met verplichting om gas, water en elektriciteit van Jachthaven af te nemen. Geen vrije keuze energieleverancier. Nietigheid… (ECLI:NL:RBGEL:2023:5776)",
@@ -1804,17 +1663,8 @@
    "summary": "Kettingbeding met verplichting om gas, water en elektriciteit van Jachthaven af te nemen. Geen vrije keuze energieleverancier. Nietigheid in verband met strijd met van bepalingen uit de Elektriciteitswet en de Gaswet. Jachthaven is zowel netbeheerder als leverancier van energie en heeft geen vergunning voor energielevering.",
    "source": "civiel",
    "first_seen": "2023-10-23T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Gerechtshof Arnhem-Leeuwarden: Vervolg op ECLI:NL:GHARL:2022:57 en ECLI:NL:GHARL:2022:10230 (ECLI:NL:GHARL:2023:1605)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:1605",
-   "date": "2023-02-21T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Vervolg op ECLI:NL:GHARL:2022:57 en ECLI:NL:GHARL:2022:10230.",
-   "source": "civiel",
-   "first_seen": "2023-02-23T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, energiewet"
   },
   {
    "title": "Rechtbank Noord-Holland: Geldige overeenkomst tot stand gekomen. Eiseres kan geen beroep doen op opzegboete omdat de productvoorwaarden pas na het tot stand komen… (ECLI:NL:RBNHO:2023:1099)",
@@ -1824,7 +1674,8 @@
    "summary": "Geldige overeenkomst tot stand gekomen. Eiseres kan geen beroep doen op opzegboete omdat de productvoorwaarden pas na het tot stand komen van de overeenkomst waren toegestuurd. Gedaagde moet wel betalen voor geleverde energie. Bik aangepast bedrag.",
    "source": "civiel",
    "first_seen": "2023-02-13T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Energyhouse B.V."
   },
   {
    "title": "Rechtbank Gelderland: Eiseres heeft met gedaagde een overeenkomst gesloten waarbij het gedaagde is toegestaan om een hoogspanningsverbinding aan te leggen op het… (ECLI:NL:RBGEL:2023:6323)",
@@ -1834,7 +1685,8 @@
    "summary": "Eiseres heeft met gedaagde een overeenkomst gesloten waarbij het gedaagde is toegestaan om een hoogspanningsverbinding aan te leggen op het perceel van eiseres. Eiseres stelt schade te lijden doordat zij als gevolg van de aanwezigheid van de hoogspanningsverbinding op haar perceel minder zonnepanelen kan plaatsen dan zij wenst. Of gedaagde daarvoor aansprakelijk is hangt af van uitleg van de overe",
    "source": "civiel",
    "first_seen": "2023-11-21T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "TENNET"
   },
   {
    "title": "Rechtbank Noord-Nederland: Gedaagde heeft in het kader van de Belemmeringenwet Privaatrecht een gasleiding aangelegd in percelen die bij eiseres in gebruik zijn.… (ECLI:NL:RBNNE:2023:545)",
@@ -1844,7 +1696,8 @@
    "summary": "Gedaagde heeft in het kader van de Belemmeringenwet Privaatrecht een gasleiding aangelegd in percelen die bij eiseres in gebruik zijn. Eiseres vindt de door gedaagde aangeboden en betaalde schadevergoeding te laag en vordert een aanvullende schadevergoeding. Eiseres stelt op de onderhavige percelen bospeen te telen, te oogsten en de opbrengst ervan zelf door te verkopen aan derden en voorts dat zi",
    "source": "civiel",
    "first_seen": "2023-02-20T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "GASUNIE"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Deze zaak omvat eigenlijk twee te onderscheiden geschillen. Beide hebben te maken met de verkoop van Rendo Energie aan een buitenlandse… (ECLI:NL:GHARL:2023:1426)",
@@ -1854,7 +1707,8 @@
    "summary": "Deze zaak omvat eigenlijk twee te onderscheiden geschillen. Beide hebben te maken met de verkoop van Rendo Energie aan een buitenlandse koper (Electrabel). Rendo is de groep van vennootschappen binnen welke een aantal in het noorden van Nederland gelegen gemeenten de energievoorziening (gas en licht) voor hun inwoners hadden geregeld. De aandeelhoudersvergadering en de Raad van Comissarissen werde",
    "source": "civiel",
    "first_seen": "2023-02-16T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Rotterdam: vordering tot terugbetaling energiekosten (ECLI:NL:RBROT:2023:1378)",
@@ -1864,7 +1718,8 @@
    "summary": "vordering tot terugbetaling energiekosten",
    "source": "civiel",
    "first_seen": "2023-02-22T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Eneco"
   },
   {
    "title": "Rechtbank Rotterdam: Stedin heeft na vermindering eis schadevergoeding gevorderd, bestaande uit gederfde inkomsten in de vorm van netverlies en het niet kunnen… (ECLI:NL:RBROT:2023:1379)",
@@ -1874,17 +1729,8 @@
    "summary": "Stedin heeft na vermindering eis schadevergoeding gevorderd, bestaande uit gederfde inkomsten in de vorm van netverlies en het niet kunnen incasseren van de aansluit- en transportvergoeding. Vordering toegewezen.",
    "source": "civiel",
    "first_seen": "2023-02-22T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (50%) wegens schending informatieverplichtingen: geen precontractuele… (ECLI:NL:RBROT:2023:2243)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2243",
-   "date": "2023-02-09T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (50%) wegens schending informatieverplichtingen: geen precontractuele informatie overgelegd (artikel 6:230m lid 1 BW) en onjuiste bestelknop (artikel 6:230v lid 3 BW)",
-   "source": "civiel",
-   "first_seen": "2023-03-17T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Rotterdam: Eneco, verstek, ambtshalve toetsen, rolbeslissing: voornemen gedeeltelijke vernietiging wegens schending informatieverplichtingen (artikel… (ECLI:NL:RBROT:2023:2250)",
@@ -1894,17 +1740,8 @@
    "summary": "Eneco, verstek, ambtshalve toetsen, rolbeslissing: voornemen gedeeltelijke vernietiging wegens schending informatieverplichtingen (artikel 6:230v lid 1 jo 230m lid g BW) en onjuiste bestelknop (artikel 6:230v lid 3 BW)",
    "source": "civiel",
    "first_seen": "2023-03-17T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Rotterdam: Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (25%) wegens schending informatieverplichtingen: artikel 6:230m lid 1 onder… (ECLI:NL:RBROT:2023:2251)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2251",
-   "date": "2023-02-09T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (25%) wegens schending informatieverplichtingen: artikel 6:230m lid 1 onder o en p jo. artikel 6:230v lid 7 BW (duurzame gegevensdrager) en onjuiste bestelknop (artikel 6:230v lid 3 BW)",
-   "source": "civiel",
-   "first_seen": "2023-03-17T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "eneco"
   },
   {
    "title": "Rechtbank Overijssel: Ambtshalve toetsing bestelknop energieovereenkomst via website. Gedaagde niet ter zitting verschenen en niet gereageerd op voorlopig… (ECLI:NL:RBOVE:2023:1614)",
@@ -1914,7 +1751,8 @@
    "summary": "Ambtshalve toetsing bestelknop energieovereenkomst via website. Gedaagde niet ter zitting verschenen en niet gereageerd op voorlopig oordeel dat de bestelknop niet voldoet aan artikel 6:230v lid 3 BW (Fuhrmann-arest) en de gevolgen daarvan. Volgt vernietiging van de overeenkomst en afwijzing van de vordering.",
    "source": "civiel",
    "first_seen": "2023-05-04T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Machtiging onderbreking levering warmte en/of jou en/of warmtapwater zonder toestemming afsluiting van de warmtemeter ongedaan gemaakt (ECLI:NL:RBZWB:2023:803)",
@@ -1924,7 +1762,8 @@
    "summary": "Machtiging onderbreking levering warmte en/of jou en/of warmtapwater zonder toestemming afsluiting van de warmtemeter ongedaan gemaakt.",
    "source": "civiel",
    "first_seen": "2023-02-10T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Ennatuurlijk"
   },
   {
    "title": "Rechtbank Rotterdam: Kort geding. Exhibitievordering. Gedeeltelijke toewijzing op grond van 843a Rv. Niet alle bescheiden voldoende bepaald (ECLI:NL:RBROT:2023:1724)",
@@ -1934,7 +1773,8 @@
    "summary": "Kort geding. Exhibitievordering. Gedeeltelijke toewijzing op grond van 843a Rv. Niet alle bescheiden voldoende bepaald.",
    "source": "civiel",
    "first_seen": "2023-03-01T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ZONNEPARK DE WILDERT B.V."
   },
   {
    "title": "Rechtbank Amsterdam: Collectieve actie over in rekening brengen vergoeding door leverancier elektriciteit. Ontvankelijkheid. Toepasselijkheid oude recht of per… (ECLI:NL:RBAMS:2023:403)",
@@ -1944,7 +1784,8 @@
    "summary": "Collectieve actie over in rekening brengen vergoeding door leverancier elektriciteit. Ontvankelijkheid. Toepasselijkheid oude recht of per 1 januari 2020 geldende recht over colectieve acties. Tussenvonnis.",
    "source": "civiel",
    "first_seen": "2023-02-01T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
   },
   {
    "title": "Gerechtshof Amsterdam: Huur niet-geliberaliseerde woonruimte. Energielevering door verhuurder overgedragen aan gelieerde vennootschap, afrekening servicekosten ex… (ECLI:NL:GHAMS:2023:132)",
@@ -1954,7 +1795,8 @@
    "summary": "Huur niet-geliberaliseerde woonruimte. Energielevering door verhuurder overgedragen aan gelieerde vennootschap, afrekening servicekosten ex artikel 7:259 BW of volgens Warmtewet? Appelverbod. Ten aanzien van appellante 1: bekrachtiging. Ten aanzien van appellante 2: verwerping van het hoger beroep omdat zich in dit geval geen doorbrekingsgrond voordoet.",
    "source": "civiel",
    "first_seen": "2023-01-26T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Rotterdam: Vordering netbeheerder afgewezen. Verhuurder kwalificeert niet als afnemer van energie (ECLI:NL:RBROT:2023:455)",
@@ -1964,7 +1806,8 @@
    "summary": "Vordering netbeheerder afgewezen. Verhuurder kwalificeert niet als afnemer van energie.",
    "source": "civiel",
    "first_seen": "2023-01-24T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Hoge Raad: Art. 81 lid 1 RO. Elektriciteitswet. Handelt netbeheerder onrechtmatig door weigering van uitbreiding van energieaansluiting? Begrip… (ECLI:NL:HR:2023:98)",
@@ -1974,7 +1817,8 @@
    "summary": "Art. 81 lid 1 RO. Elektriciteitswet. Handelt netbeheerder onrechtmatig door weigering van uitbreiding van energieaansluiting? Begrip aansluiting (art. 1 Elektriciteitswet). Begrip technische redenen (art. 27 Elektriciteitswet).",
    "source": "civiel",
    "first_seen": "2023-01-26T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder, elektriciteitswet"
   },
   {
    "title": "Rechtbank Midden-Nederland: Onteigening windturbine. Schadeloosstelling (ECLI:NL:RBMNE:2023:238)",
@@ -1984,7 +1828,8 @@
    "summary": "Onteigening windturbine. Schadeloosstelling.",
    "source": "civiel",
    "first_seen": "2023-01-25T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "windturbine"
   },
   {
    "title": "Rechtbank Noord-Holland: Handelaar benadert consument telefonisch, schriftelijkheidsvereiste artikel 6:230v lid 6 BW (ECLI:NL:RBNHO:2023:482)",
@@ -1994,7 +1839,8 @@
    "summary": "Handelaar benadert consument telefonisch, schriftelijkheidsvereiste artikel 6:230v lid 6 BW",
    "source": "civiel",
    "first_seen": "2023-01-24T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Innova Energie"
   },
   {
    "title": "Rechtbank Noord-Holland: Tussenvonnis artikel 6:230v lid 6. Telefonisch gesloten energieovereenkomst. Geen schriftelijk aanbod overgelegd (ECLI:NL:RBNHO:2023:5351)",
@@ -2004,7 +1850,8 @@
    "summary": "Tussenvonnis artikel 6:230v lid 6. Telefonisch gesloten energieovereenkomst. Geen schriftelijk aanbod overgelegd.",
    "source": "civiel",
    "first_seen": "2023-06-12T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieovereenkomst"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: In conventie vordering dat verhuurder jaarrekening warmte niet mag baseren op het gemiddelde warmteverbruik van het appartementencomplex… (ECLI:NL:RBZWB:2023:552)",
@@ -2014,7 +1861,8 @@
    "summary": "In conventie vordering dat verhuurder jaarrekening warmte niet mag baseren op het gemiddelde warmteverbruik van het appartementencomplex afgewezen. In reconventie is huurder veroordeeld om medewerking te verlenen tot het plaatsen van een slimme meter die niet op afstand afleesbaar is.",
    "source": "civiel",
    "first_seen": "2023-01-31T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "warmtewet"
   },
   {
    "title": "Rechtbank Rotterdam: Vordering netbeheerder afgewezen. Verhuurder kwalificeert niet als afnemer van energie. Wel veroordeling in proceskosten, omdat voorafgaand… (ECLI:NL:RBROT:2023:453)",
@@ -2024,27 +1872,8 @@
    "summary": "Vordering netbeheerder afgewezen. Verhuurder kwalificeert niet als afnemer van energie. Wel veroordeling in proceskosten, omdat voorafgaand aan de procedure geen duidelijkheid is verstrekt.",
    "source": "civiel",
    "first_seen": "2023-01-24T00:00:00+00:00",
-   "grond": "wet"
-  },
-  {
-   "title": "Rechtbank Zeeland-West-Brabant: Herstelvonnis nu in het eindvonnis de naam van een van de gedaagden ontbreekt (ECLI:NL:RBZWB:2023:317)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:317",
-   "date": "2023-01-18T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Herstelvonnis nu in het eindvonnis de naam van een van de gedaagden ontbreekt.",
-   "source": "civiel",
-   "first_seen": "2023-01-20T00:00:00+00:00",
-   "grond": "partij"
-  },
-  {
-   "title": "Rechtbank Zeeland-West-Brabant: Vervolg van ECLI:NL:RBZWB:2022:2402 en ECLI:NL:RBZWB:2021:3801 Huur, afrekening servicekosten, verbruikskosten WKO-installatie, afrekening… (ECLI:NL:RBZWB:2023:455)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:455",
-   "date": "2023-01-18T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Vervolg van ECLI:NL:RBZWB:2022:2402 en ECLI:NL:RBZWB:2021:3801 Huur, afrekening servicekosten, verbruikskosten WKO-installatie, afrekening energiebelasting bij meerdere woningen achter één aansluiting.",
-   "source": "civiel",
-   "first_seen": "2023-01-26T00:00:00+00:00",
-   "grond": "tekst"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet"
   },
   {
    "title": "Rechtbank Oost-Brabant: Contradictoire handelszaak. Elektriciteitswet. Berekening van de schade die een zonneparkbeheerder lijdt wegens het niet tijdig aansluiten… (ECLI:NL:RBOBR:2023:253)",
@@ -2054,7 +1883,8 @@
    "summary": "Contradictoire handelszaak. Elektriciteitswet. Berekening van de schade die een zonneparkbeheerder lijdt wegens het niet tijdig aansluiten van het park op het net, door de netbeheerder. Vervolg van zaak ECLI:NL:RBOBR:2022:1032.",
    "source": "civiel",
    "first_seen": "2023-01-19T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder, zonnepark, elektriciteitswet"
   },
   {
    "title": "Rechtbank Noord-Nederland: Geschil tussen leverancier en de gemeente Oldambt over warmtelevering door middel van biomassa-installaties voor gemeentelijke… (ECLI:NL:RBNNE:2023:133)",
@@ -2064,7 +1894,8 @@
    "summary": "Geschil tussen leverancier en de gemeente Oldambt over warmtelevering door middel van biomassa-installaties voor gemeentelijke sportvoorzieningen in Finsterwolde en Winschoten.",
    "source": "civiel",
    "first_seen": "2023-01-18T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "warmtelevering"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Zoutwinning, einde overeenkomst verbonden aan winningsvergunning of winningsplan, uitleg overeenkomst, negatieve en positieve verklaring… (ECLI:NL:GHARL:2023:459)",
@@ -2074,7 +1905,8 @@
    "summary": "Zoutwinning, einde overeenkomst verbonden aan winningsvergunning of winningsplan, uitleg overeenkomst, negatieve en positieve verklaring voor recht.",
    "source": "civiel",
    "first_seen": "2023-01-19T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "mijnbouwwet"
   },
   {
    "title": "Gerechtshof Den Haag: Er is tussen eiser en gedaagde een personeelsbemiddelingsovereenkomst tot stand gekomen (ECLI:NL:GHDHA:2023:656)",
@@ -2084,7 +1916,8 @@
    "summary": "Er is tussen eiser en gedaagde een personeelsbemiddelingsovereenkomst tot stand gekomen.",
    "source": "civiel",
    "first_seen": "2023-04-14T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Stedin"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding. Betalingsgedrag van zakelijke afnemer van gas en elektriciteit geeft leverancier bij gebrek aan contractuele basis daarvoor,… (ECLI:NL:GHARL:2023:488)",
@@ -2094,7 +1927,8 @@
    "summary": "Kort geding. Betalingsgedrag van zakelijke afnemer van gas en elektriciteit geeft leverancier bij gebrek aan contractuele basis daarvoor, niet de bevoegdheid om de leveringsovereenkomst op basis van vaste tarieven om te zetten in één op basis van variabele dagmarktprijzen. Ook argumenten als sterk veranderde energiemarkt, energiecrisis als gevolg van de oorlog in Oekraïne en/of het niet meer aanbi",
    "source": "civiel",
    "first_seen": "2023-01-19T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
   },
   {
    "title": "Rechtbank Noord-Holland: Overeenkomst tussen een handelaar en een consument. Ambtshalve toetsing aan de (pre)contractuele informatieplichten. De eisende partij… (ECLI:NL:RBNHO:2023:474)",
@@ -2104,7 +1938,8 @@
    "summary": "Overeenkomst tussen een handelaar en een consument. Ambtshalve toetsing aan de (pre)contractuele informatieplichten. De eisende partij heeft niet voldaan aan de verplichting van artikel 6:230v lid 3 BW.",
    "source": "civiel",
    "first_seen": "2023-01-24T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "Innova Energie"
   },
   {
    "title": "Rechtbank Amsterdam: Onbetaalde facturen voor de levering van energie. De vordering wordt toegewezen. Er is een overeenkomst gesloten, er is geen sprake van… (ECLI:NL:RBAMS:2023:98)",
@@ -2114,17 +1949,8 @@
    "summary": "Onbetaalde facturen voor de levering van energie. De vordering wordt toegewezen. Er is een overeenkomst gesloten, er is geen sprake van dwaling.",
    "source": "civiel",
    "first_seen": "2023-01-12T00:00:00+00:00",
-   "grond": "samenvatting"
-  },
-  {
-   "title": "Rechtbank Noord-Holland: Ambtshalve toetsing artikelen 6:230m en 6:230v BW (ECLI:NL:RBNHO:2023:537)",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:537",
-   "date": "2023-01-11T00:00:00+00:00",
-   "date_checked": true,
-   "summary": "Ambtshalve toetsing artikelen 6:230m en 6:230v BW.",
-   "source": "civiel",
-   "first_seen": "2023-01-26T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "samenvatting",
+   "toelichting": "levering van energie"
   },
   {
    "title": "Rechtbank Midden-Nederland: Incident. Voorlopige voorzieningen toegewezen. Geen verhoging voorschotbedrag. Stopzetten energie levering niet toegestaan. Niet gebleken… (ECLI:NL:RBMNE:2023:37)",
@@ -2134,7 +1960,8 @@
    "summary": "Incident. Voorlopige voorzieningen toegewezen. Geen verhoging voorschotbedrag. Stopzetten energie levering niet toegestaan. Niet gebleken dat er een grondslag is voor de eenzijdige wijziging van de energie leveringsovereenkomst.",
    "source": "civiel",
    "first_seen": "2023-01-10T00:00:00+00:00",
-   "grond": "partij"
+   "grond": "partij",
+   "toelichting": "ENERGIEBEDRIJF B.V."
   },
   {
    "title": "Rechtbank Limburg: Civiel recht. Vonnis in kort geding. De voorzieningenrechter heeft de vordering van eiser om gedaagde, die netbeheerder is, te gebieden… (ECLI:NL:RBLIM:2023:117)",
@@ -2144,7 +1971,8 @@
    "summary": "Civiel recht. Vonnis in kort geding. De voorzieningenrechter heeft de vordering van eiser om gedaagde, die netbeheerder is, te gebieden niet tot afsluiting van de energievoorziening op zijn adres over te gaan, afgewezen. Eiser heeft in het kort geding niet aangetoond dat hij een overeenkomst met een energieleverancier heeft. De netbeheerder is daarom op grond van artikel 8 lid 1 sub d van de Regel",
    "source": "civiel",
    "first_seen": "2023-01-05T00:00:00+00:00",
-   "grond": "wet"
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, gaswet, warmteregeling"
   },
   {
    "title": "Rechtbank Zeeland-West-Brabant: Overeenkomst levering stroom en gas, voorschotnota's en jaar- en eindnota onbetaald gelaten. Verweer dat Oxxio ondanks verzoek daartoe geen… (ECLI:NL:RBZWB:2023:258)",
@@ -2154,7 +1982,8 @@
    "summary": "Overeenkomst levering stroom en gas, voorschotnota's en jaar- en eindnota onbetaald gelaten. Verweer dat Oxxio ondanks verzoek daartoe geen specificaties heeft verstrekt en ontvangst veertiendagenbrief wordt gepasseerd.",
    "source": "civiel",
    "first_seen": "2023-01-18T00:00:00+00:00",
-   "grond": "samenvatting"
+   "grond": "samenvatting",
+   "toelichting": "oxxio"
   }
  ]
 }
