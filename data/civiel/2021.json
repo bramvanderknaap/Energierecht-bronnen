@@ -8,10 +8,191 @@
   "2021-05",
   "2021-06",
   "2021-07",
-  "2021-08"
+  "2021-08",
+  "2021-09"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Warmtelevering. Eiseres doet ten onrechte geen eisvermindering en geeft ook geen toelichting waarom de vordering bij nader ingediende… (ECLI:NL:RBROT:2021:9388)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:9388",
+   "date": "2021-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Warmtelevering. Eiseres doet ten onrechte geen eisvermindering en geeft ook geen toelichting waarom de vordering bij nader ingediende productie lager uitvalt dan in de dagvaarding. Gevorderde ontbinding afgewezen.",
+   "source": "civiel",
+   "first_seen": "2021-09-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Nakoming afspraken. Uitleg. Artikelen 23 en 24 E-wet (ECLI:NL:RBROT:2021:11479)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:11479",
+   "date": "2021-09-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Nakoming afspraken. Uitleg. Artikelen 23 en 24 E-wet.",
+   "source": "civiel",
+   "first_seen": "2021-11-24T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: WHOA-zaak. Toewijzing verzoek tot homologatie (ECLI:NL:RBMNE:2021:4701)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:4701",
+   "date": "2021-09-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "WHOA-zaak. Toewijzing verzoek tot homologatie.",
+   "source": "civiel",
+   "first_seen": "2021-09-30T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Kort geding. Voorschot op schadevergoeding wegens gaswinning door NAM. Appellanten stellen een forse vordering op NAM te hebben, bestaande… (ECLI:NL:GHARL:2021:9131)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:9131",
+   "date": "2021-09-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Voorschot op schadevergoeding wegens gaswinning door NAM. Appellanten stellen een forse vordering op NAM te hebben, bestaande uit onder andere materiële schade aan hun bedrijfspand. Het hof acht het bestaan van het grootste deel van de vordering niet aannemelijk. Een beperkt deel van het gevorderde voorschot wordt toegewezen.",
+   "source": "civiel",
+   "first_seen": "2021-09-29T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Den Haag: Vraag of een regionale netbeheerder onrechtmatig handelt door te weigeren om een uitbreiding van de aansluiting van een afnemer uit te… (ECLI:NL:GHDHA:2021:1826)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1826",
+   "date": "2021-09-28T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vraag of een regionale netbeheerder onrechtmatig handelt door te weigeren om een uitbreiding van de aansluiting van een afnemer uit te voeren op de wijze zoals de afnemer wenst.",
+   "source": "civiel",
+   "first_seen": "2021-09-30T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Kort geding, verzetzaak Verzet tegen verstekvonnis ongegrond, betekening van zowel dagvaarding als vonnis heeft op juiste wijze plaats… (ECLI:NL:RBOBR:2021:5156)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:5156",
+   "date": "2021-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, verzetzaak Verzet tegen verstekvonnis ongegrond, betekening van zowel dagvaarding als vonnis heeft op juiste wijze plaats gevonden en de vordering tegen opposant is op goede gronden toegewezen.",
+   "source": "civiel",
+   "first_seen": "2021-09-27T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Verbintenissenrecht. Staalfabriek verlangt van beheerder hoogspanningsnet vergoeding van schade als gevolg van een stroomonderbreking.… (ECLI:NL:RBGEL:2021:5028)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2021:5028",
+   "date": "2021-09-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verbintenissenrecht. Staalfabriek verlangt van beheerder hoogspanningsnet vergoeding van schade als gevolg van een stroomonderbreking. Binding aan oordeel in de bestuursrechtelijke procedure. Exoneratie. Aanvulling leemte. De vordering wordt afgewezen.",
+   "source": "civiel",
+   "first_seen": "2021-09-21T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Verzekeringsrecht. Eindvonnis na tussenvonnis ECLI:NL:RBROT:2019:8391). Kon verzekeringnemer vervangende dekking uitnemen omdat hij van… (ECLI:NL:RBROT:2021:10486)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:10486",
+   "date": "2021-09-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Verzekeringsrecht. Eindvonnis na tussenvonnis ECLI:NL:RBROT:2019:8391). Kon verzekeringnemer vervangende dekking uitnemen omdat hij van volgend verzekeraar geen akkoord op de verlenging had gekregen? Duits recht over dekkingskoop.",
+   "source": "civiel",
+   "first_seen": "2021-11-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Overeenkomst tot levering van energie door Ennatuurlijk. Kettingbeding in leveringsakte van de woning die eigenaar verplicht tot afnemen… (ECLI:NL:RBZWB:2021:4615)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:4615",
+   "date": "2021-09-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Overeenkomst tot levering van energie door Ennatuurlijk. Kettingbeding in leveringsakte van de woning die eigenaar verplicht tot afnemen van warmte en warm tapwater. Consument zegt levering op per brief. Ennatuurlijk houdt consument aan algemene leveringsvoorwaarden waarin is bepaald dat bij afsluiting vooraf een vergoeding daarvoor moet worden betaald. Consument weigert vooraf te betalen. De kant",
+   "source": "civiel",
+   "first_seen": "2021-09-16T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Luchtvaartzaak. Beroep van vervoerder op buitengewone omstandigheden slaagt. Stroomstoring op de luchthaven van Amsterdam (ECLI:NL:RBNHO:2021:8472)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:8472",
+   "date": "2021-09-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Luchtvaartzaak. Beroep van vervoerder op buitengewone omstandigheden slaagt. Stroomstoring op de luchthaven van Amsterdam.",
+   "source": "civiel",
+   "first_seen": "2021-09-30T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Midden-Nederland: Inhoudsindicatie volgt (ECLI:NL:RBMNE:2021:6799)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:6799",
+   "date": "2021-09-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Inhoudsindicatie volgt.",
+   "source": "civiel",
+   "first_seen": "2022-11-08T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vervolg op ECLI:NL:GHARL:2019:5849. Aardbevingsschade. Vordering tot vergoeding van deel kosten nieuwbouw boerderij in aardbevingsgebied.… (ECLI:NL:GHARL:2021:8656)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:8656",
+   "date": "2021-09-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:GHARL:2019:5849. Aardbevingsschade. Vordering tot vergoeding van deel kosten nieuwbouw boerderij in aardbevingsgebied. Nadat een deskundigenbericht is uitgebracht gelast het hof een comparitie van partijen (ook met de deskundigen).",
+   "source": "civiel",
+   "first_seen": "2021-09-14T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: (pre)contractuele informatieverplichtingen, energie levering, duurovereenkomst op afstand (ECLI:NL:RBROT:2021:11936)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:11936",
+   "date": "2021-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "(pre)contractuele informatieverplichtingen, energie levering, duurovereenkomst op afstand",
+   "source": "civiel",
+   "first_seen": "2021-12-03T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: ambtshalve toetsen verstek, overeenkomst levering energie, niet geheel voldaan aan de (pre)contractuele informatieverplichtingen, te hoog… (ECLI:NL:RBAMS:2021:4712)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2021:4712",
+   "date": "2021-09-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "ambtshalve toetsen verstek, overeenkomst levering energie, niet geheel voldaan aan de (pre)contractuele informatieverplichtingen, te hoog bedrag aan buitengerechtelijke kosten in rekening gebracht",
+   "source": "civiel",
+   "first_seen": "2021-09-02T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Eisers stellen schade te hebben geleden aan hun woning en aan een woonboerderij vanwege aardbevingen als gevolg van de gaswinning. Voor de… (ECLI:NL:RBNNE:2021:3821)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:3821",
+   "date": "2021-09-08T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eisers stellen schade te hebben geleden aan hun woning en aan een woonboerderij vanwege aardbevingen als gevolg van de gaswinning. Voor de waardedaling van de woning heeft de rechtbank een deskundigenbericht laten opstellen. De rechtbank volgt dit bericht en veroordeelt NAM tot betaling van een voorschot op de waardevermindering. Voor de fysieke schade aan de woonboerderij heeft NAM een zogenoemde",
+   "source": "civiel",
+   "first_seen": "2021-09-07T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: Ontwikkeling van een energieopslagsysteem voor zonnepanelen. Opdracht. Contractsuitleg. Aanvullende opdrachten. Ontbinding.… (ECLI:NL:GHAMS:2021:2807)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:2807",
+   "date": "2021-09-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ontwikkeling van een energieopslagsysteem voor zonnepanelen. Opdracht. Contractsuitleg. Aanvullende opdrachten. Ontbinding. Ingebrekestelling. Verzuim.",
+   "source": "civiel",
+   "first_seen": "2021-09-29T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: het feit dat verschillende tarieven worden gerekend voor verschillende woonwijken die op hetzelfde net zijn aangesloten hoeft niet in… (ECLI:NL:RBZWB:2021:4644)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:4644",
+   "date": "2021-09-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "het feit dat verschillende tarieven worden gerekend voor verschillende woonwijken die op hetzelfde net zijn aangesloten hoeft niet in strijd te zijn met het discriminatieverbod van artikel 2 lid 4 van de Warmtewet. De omstandigheden in het onderhavige geval leiden ertoe dat geen sprake is van een overtreding van het discriminatieverbod.",
+   "source": "civiel",
+   "first_seen": "2021-09-17T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Renvooiprocedure. Roteren damwand na te diep baggeren. Toestand na het baggeren levert voor eiseres geen achteruitgang op ten opzichte van… (ECLI:NL:RBROT:2021:8623)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:8623",
+   "date": "2021-09-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Renvooiprocedure. Roteren damwand na te diep baggeren. Toestand na het baggeren levert voor eiseres geen achteruitgang op ten opzichte van toestand vóór de fout. Causaal verband. Schade.",
+   "source": "civiel",
+   "first_seen": "2021-09-02T00:00:00+00:00",
+   "grond": "partij"
+  },
   {
    "title": "Rechtbank Midden-Nederland: Windmolenpark “Windplanblauw”. Invloed Unierecht en bestuursrechtelijke uitspraak inzake “Windpark Delfzijl” op overeenkomsten tot… (ECLI:NL:RBMNE:2021:4191)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:4191",
