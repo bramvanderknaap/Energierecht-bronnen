@@ -8,10 +8,132 @@
   "2019-05",
   "2019-06",
   "2019-07",
-  "2019-08"
+  "2019-08",
+  "2019-09"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Amsterdam: De bewoners van drie woningen in Amsterdam- centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie… (ECLI:NL:RBAMS:2019:7350)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7350",
+   "date": "2019-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De bewoners van drie woningen in Amsterdam- centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie ook ECLI:NL:RBAMS:2019:7348 en ECLI:NL:RBAMS:2019:7349.",
+   "source": "civiel",
+   "first_seen": "2019-10-04T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder, liander"
+  },
+  {
+   "title": "Rechtbank Amsterdam: De bewoners van drie woningen in Amsterdam-Centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie… (ECLI:NL:RBAMS:2019:7348)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7348",
+   "date": "2019-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De bewoners van drie woningen in Amsterdam-Centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie ook ECLI:NL:RBAMS:2019:7349 en ECLI:NL:RBAMS:2019:7350.",
+   "source": "civiel",
+   "first_seen": "2019-10-04T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder, liander"
+  },
+  {
+   "title": "Rechtbank Amsterdam: De bewoners van drie woningen in Amsterdam- centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie… (ECLI:NL:RBAMS:2019:7349)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:7349",
+   "date": "2019-09-30T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "De bewoners van drie woningen in Amsterdam- centrum zijn bij verstek veroordeeld om netbeheerder Liander toe te laten tot hun woningen. Zie ook ECLI:NL:RBAMS:2019:7348 en ECLI:NL:RBAMS:2019:7350.",
+   "source": "civiel",
+   "first_seen": "2019-10-04T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder, liander"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Voortzetting exploitatie windmolenpark door vijf van de zes maten na beëindiging maatschap niet onrechtmatig. Voortzetting is bij gebreke… (ECLI:NL:RBNHO:2019:8032)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:8032",
+   "date": "2019-09-25T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Voortzetting exploitatie windmolenpark door vijf van de zes maten na beëindiging maatschap niet onrechtmatig. Voortzetting is bij gebreke van een uitstotingsbepaling op grond van de aanvullende werking van de redelijkheid en billijkheid toegestaan.",
+   "source": "civiel",
+   "first_seen": "2019-09-25T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "windmolen"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Straat- en contactverbod. Conflict over vergoeding door Gasunie aan pachter voor het leggen van een gasleiding. Pachter bedreigt… (ECLI:NL:GHARL:2019:7831)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:7831",
+   "date": "2019-09-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Straat- en contactverbod. Conflict over vergoeding door Gasunie aan pachter voor het leggen van een gasleiding. Pachter bedreigt medewerkers Gasunie met de dood en krijgt een straat- en contactverbod opgelegd.",
+   "source": "civiel",
+   "first_seen": "2019-09-25T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "gasunie"
+  },
+  {
+   "title": "Rechtbank Oost-Brabant: Kort geding, vordering tot het aansluiten op een elektriciteitsnetwerk (ECLI:NL:RBOBR:2019:5255)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2019:5255",
+   "date": "2019-09-12T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding, vordering tot het aansluiten op een elektriciteitsnetwerk",
+   "source": "civiel",
+   "first_seen": "2019-09-12T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet, netcode elektriciteit"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Tussenvonnis. Partijen worden in de gelegenheid gesteld zich uit te laten over de vraag of en zo ja welke betekenis het arrest van de Hoge… (ECLI:NL:RBNNE:2019:5234)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:5234",
+   "date": "2019-09-11T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Tussenvonnis. Partijen worden in de gelegenheid gesteld zich uit te laten over de vraag of en zo ja welke betekenis het arrest van de Hoge Raad van 19 juli 2019 (ECLI:NL:HR:2019:1278) heeft voor deze zaak.",
+   "source": "civiel",
+   "first_seen": "2019-12-18T00:00:00+00:00",
+   "grond": "partij",
+   "toelichting": "NEDERLANDSE AARDOLIE MAATSCHAPPIJ"
+  },
+  {
+   "title": "Rechtbank Limburg: Kort geding. Geen schending zorgplicht Enexis en WML (ECLI:NL:RBLIM:2019:8283)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2019:8283",
+   "date": "2019-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Geen schending zorgplicht Enexis en WML",
+   "source": "civiel",
+   "first_seen": "2019-09-12T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "enexis"
+  },
+  {
+   "title": "Gerechtshof Amsterdam: \"Warmtewet. Toepassing correctiefactoren niet toegestaan” (ECLI:NL:GHAMS:2019:3348)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:3348",
+   "date": "2019-09-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "\"Warmtewet. Toepassing correctiefactoren niet toegestaan”",
+   "source": "civiel",
+   "first_seen": "2019-09-16T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "warmtewet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Een klant van energieleverancier Budgetenergie hoeft de cadeaukaart die zij kreeg bij het afsluiten van een nieuw contract niet terug te… (ECLI:NL:RBAMS:2019:6548)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2019:6548",
+   "date": "2019-09-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Een klant van energieleverancier Budgetenergie hoeft de cadeaukaart die zij kreeg bij het afsluiten van een nieuw contract niet terug te betalen. Ook hoeft zij geen opzegvergoeding te betalen.",
+   "source": "civiel",
+   "first_seen": "2019-09-05T00:00:00+00:00",
+   "grond": "samenvatting",
+   "toelichting": "energieleverancier"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Belemmeringenwet Privaatrecht; verzoek tot vernietiging gedoogbeschikking afgewezen. Verzochte onteigening elektriciteitsnetwerk niet… (ECLI:NL:GHARL:2019:7120)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:7120",
+   "date": "2019-09-03T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Belemmeringenwet Privaatrecht; verzoek tot vernietiging gedoogbeschikking afgewezen. Verzochte onteigening elektriciteitsnetwerk niet mogelijk.",
+   "source": "civiel",
+   "first_seen": "2019-09-03T00:00:00+00:00",
+   "grond": "wet",
+   "toelichting": "elektriciteitswet"
+  },
   {
    "title": "Rechtbank Rotterdam: schadeloosstelling; art. 40d Ow; omvang complex; windturbines een apart complex binnen het complex?; complexwaarde (ECLI:NL:RBROT:2019:6963)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6963",
