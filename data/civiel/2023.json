@@ -1,10 +1,181 @@
 {
  "jaar": 2023,
  "maanden": [
-  "2023-01"
+  "2023-01",
+  "2023-02"
  ],
  "mislukt": [],
  "items": [
+  {
+   "title": "Rechtbank Rotterdam: Energielevering, ambtshalve toetsing informatieverplichtingen (ECLI:NL:RBROT:2023:1600)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:1600",
+   "date": "2023-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energielevering, ambtshalve toetsing informatieverplichtingen",
+   "source": "civiel",
+   "first_seen": "2023-02-27T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Energieleverancier mag de tarieven voor levering van gas en elektra van een consument niet meer wijzigingen, omdat het wijzigingsbeding in… (ECLI:NL:RBAMS:2023:940)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:940",
+   "date": "2023-02-24T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Energieleverancier mag de tarieven voor levering van gas en elektra van een consument niet meer wijzigingen, omdat het wijzigingsbeding in de algemene voorwaarden niet eerlijk is.",
+   "source": "civiel",
+   "first_seen": "2023-02-23T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Gelderland: Kettingbeding met verplichting om gas, water en elektriciteit van Jachthaven af te nemen. Geen vrije keuze energieleverancier. Nietigheid… (ECLI:NL:RBGEL:2023:5776)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:5776",
+   "date": "2023-02-22T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kettingbeding met verplichting om gas, water en elektriciteit van Jachthaven af te nemen. Geen vrije keuze energieleverancier. Nietigheid in verband met strijd met van bepalingen uit de Elektriciteitswet en de Gaswet. Jachthaven is zowel netbeheerder als leverancier van energie en heeft geen vergunning voor energielevering.",
+   "source": "civiel",
+   "first_seen": "2023-10-23T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Vervolg op ECLI:NL:GHARL:2022:57 en ECLI:NL:GHARL:2022:10230 (ECLI:NL:GHARL:2023:1605)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:1605",
+   "date": "2023-02-21T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Vervolg op ECLI:NL:GHARL:2022:57 en ECLI:NL:GHARL:2022:10230.",
+   "source": "civiel",
+   "first_seen": "2023-02-23T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Holland: Geldige overeenkomst tot stand gekomen. Eiseres kan geen beroep doen op opzegboete omdat de productvoorwaarden pas na het tot stand komen… (ECLI:NL:RBNHO:2023:1099)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:1099",
+   "date": "2023-02-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Geldige overeenkomst tot stand gekomen. Eiseres kan geen beroep doen op opzegboete omdat de productvoorwaarden pas na het tot stand komen van de overeenkomst waren toegestuurd. Gedaagde moet wel betalen voor geleverde energie. Bik aangepast bedrag.",
+   "source": "civiel",
+   "first_seen": "2023-02-13T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Gelderland: Eiseres heeft met gedaagde een overeenkomst gesloten waarbij het gedaagde is toegestaan om een hoogspanningsverbinding aan te leggen op het… (ECLI:NL:RBGEL:2023:6323)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2023:6323",
+   "date": "2023-02-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eiseres heeft met gedaagde een overeenkomst gesloten waarbij het gedaagde is toegestaan om een hoogspanningsverbinding aan te leggen op het perceel van eiseres. Eiseres stelt schade te lijden doordat zij als gevolg van de aanwezigheid van de hoogspanningsverbinding op haar perceel minder zonnepanelen kan plaatsen dan zij wenst. Of gedaagde daarvoor aansprakelijk is hangt af van uitleg van de overe",
+   "source": "civiel",
+   "first_seen": "2023-11-21T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Noord-Nederland: Gedaagde heeft in het kader van de Belemmeringenwet Privaatrecht een gasleiding aangelegd in percelen die bij eiseres in gebruik zijn.… (ECLI:NL:RBNNE:2023:545)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:545",
+   "date": "2023-02-15T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Gedaagde heeft in het kader van de Belemmeringenwet Privaatrecht een gasleiding aangelegd in percelen die bij eiseres in gebruik zijn. Eiseres vindt de door gedaagde aangeboden en betaalde schadevergoeding te laag en vordert een aanvullende schadevergoeding. Eiseres stelt op de onderhavige percelen bospeen te telen, te oogsten en de opbrengst ervan zelf door te verkopen aan derden en voorts dat zi",
+   "source": "civiel",
+   "first_seen": "2023-02-20T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Gerechtshof Arnhem-Leeuwarden: Deze zaak omvat eigenlijk twee te onderscheiden geschillen. Beide hebben te maken met de verkoop van Rendo Energie aan een buitenlandse… (ECLI:NL:GHARL:2023:1426)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:1426",
+   "date": "2023-02-14T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Deze zaak omvat eigenlijk twee te onderscheiden geschillen. Beide hebben te maken met de verkoop van Rendo Energie aan een buitenlandse koper (Electrabel). Rendo is de groep van vennootschappen binnen welke een aantal in het noorden van Nederland gelegen gemeenten de energievoorziening (gas en licht) voor hun inwoners hadden geregeld. De aandeelhoudersvergadering en de Raad van Comissarissen werde",
+   "source": "civiel",
+   "first_seen": "2023-02-16T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: vordering tot terugbetaling energiekosten (ECLI:NL:RBROT:2023:1378)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:1378",
+   "date": "2023-02-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "vordering tot terugbetaling energiekosten",
+   "source": "civiel",
+   "first_seen": "2023-02-22T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Stedin heeft na vermindering eis schadevergoeding gevorderd, bestaande uit gederfde inkomsten in de vorm van netverlies en het niet kunnen… (ECLI:NL:RBROT:2023:1379)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:1379",
+   "date": "2023-02-10T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Stedin heeft na vermindering eis schadevergoeding gevorderd, bestaande uit gederfde inkomsten in de vorm van netverlies en het niet kunnen incasseren van de aansluit- en transportvergoeding. Vordering toegewezen.",
+   "source": "civiel",
+   "first_seen": "2023-02-22T00:00:00+00:00",
+   "grond": "wet"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (50%) wegens schending informatieverplichtingen: geen precontractuele… (ECLI:NL:RBROT:2023:2243)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2243",
+   "date": "2023-02-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (50%) wegens schending informatieverplichtingen: geen precontractuele informatie overgelegd (artikel 6:230m lid 1 BW) en onjuiste bestelknop (artikel 6:230v lid 3 BW)",
+   "source": "civiel",
+   "first_seen": "2023-03-17T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Eneco, verstek, ambtshalve toetsen, rolbeslissing: voornemen gedeeltelijke vernietiging wegens schending informatieverplichtingen (artikel… (ECLI:NL:RBROT:2023:2250)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2250",
+   "date": "2023-02-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Eneco, verstek, ambtshalve toetsen, rolbeslissing: voornemen gedeeltelijke vernietiging wegens schending informatieverplichtingen (artikel 6:230v lid 1 jo 230m lid g BW) en onjuiste bestelknop (artikel 6:230v lid 3 BW)",
+   "source": "civiel",
+   "first_seen": "2023-03-17T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (25%) wegens schending informatieverplichtingen: artikel 6:230m lid 1 onder… (ECLI:NL:RBROT:2023:2251)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2251",
+   "date": "2023-02-09T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Innova, verstek, ambtshalve toetsen, gedeeltelijke vernietiging (25%) wegens schending informatieverplichtingen: artikel 6:230m lid 1 onder o en p jo. artikel 6:230v lid 7 BW (duurzame gegevensdrager) en onjuiste bestelknop (artikel 6:230v lid 3 BW)",
+   "source": "civiel",
+   "first_seen": "2023-03-17T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Overijssel: Ambtshalve toetsing bestelknop energieovereenkomst via website. Gedaagde niet ter zitting verschenen en niet gereageerd op voorlopig… (ECLI:NL:RBOVE:2023:1614)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:1614",
+   "date": "2023-02-07T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Ambtshalve toetsing bestelknop energieovereenkomst via website. Gedaagde niet ter zitting verschenen en niet gereageerd op voorlopig oordeel dat de bestelknop niet voldoet aan artikel 6:230v lid 3 BW (Fuhrmann-arest) en de gevolgen daarvan. Volgt vernietiging van de overeenkomst en afwijzing van de vordering.",
+   "source": "civiel",
+   "first_seen": "2023-05-04T00:00:00+00:00",
+   "grond": "samenvatting"
+  },
+  {
+   "title": "Rechtbank Zeeland-West-Brabant: Machtiging onderbreking levering warmte en/of jou en/of warmtapwater zonder toestemming afsluiting van de warmtemeter ongedaan gemaakt (ECLI:NL:RBZWB:2023:803)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:803",
+   "date": "2023-02-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Machtiging onderbreking levering warmte en/of jou en/of warmtapwater zonder toestemming afsluiting van de warmtemeter ongedaan gemaakt.",
+   "source": "civiel",
+   "first_seen": "2023-02-10T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Rotterdam: Kort geding. Exhibitievordering. Gedeeltelijke toewijzing op grond van 843a Rv. Niet alle bescheiden voldoende bepaald (ECLI:NL:RBROT:2023:1724)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:1724",
+   "date": "2023-02-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Kort geding. Exhibitievordering. Gedeeltelijke toewijzing op grond van 843a Rv. Niet alle bescheiden voldoende bepaald.",
+   "source": "civiel",
+   "first_seen": "2023-03-01T00:00:00+00:00",
+   "grond": "partij"
+  },
+  {
+   "title": "Rechtbank Amsterdam: Collectieve actie over in rekening brengen vergoeding door leverancier elektriciteit. Ontvankelijkheid. Toepasselijkheid oude recht of per… (ECLI:NL:RBAMS:2023:403)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:403",
+   "date": "2023-02-01T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Collectieve actie over in rekening brengen vergoeding door leverancier elektriciteit. Ontvankelijkheid. Toepasselijkheid oude recht of per 1 januari 2020 geldende recht over colectieve acties. Tussenvonnis.",
+   "source": "civiel",
+   "first_seen": "2023-02-01T00:00:00+00:00",
+   "grond": "wet"
+  },
   {
    "title": "Gerechtshof Amsterdam: Huur niet-geliberaliseerde woonruimte. Energielevering door verhuurder overgedragen aan gelieerde vennootschap, afrekening servicekosten ex… (ECLI:NL:GHAMS:2023:132)",
    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:132",
