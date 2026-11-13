@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-12T14:02:44+00:00",
+ "updated": "2026-11-13T05:48:49+00:00",
  "items": [
+  {
+   "title": "Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026",
+   "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261112-2",
+   "date": "2026-11-12T14:00:00+00:00",
+   "summary": "In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.",
+   "source": "ec",
+   "first_seen": "2026-11-13T05:48:49+00:00",
+   "date_checked": true
+  },
   {
    "title": "Energiemonitor ACM: einde salderingsregeling goed moment om energiecontract te controleren",
    "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-einde-salderingsregeling-goed-moment-om-energiecontract-te-controleren",
@@ -8,6 +17,14 @@
    "summary": "",
    "source": "acm",
    "first_seen": "2026-11-12T14:02:44+00:00"
+  },
+  {
+   "title": "Republiek Polen tegen Europees Parlement en Raad van de Europese Unie (C-771/23)",
+   "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62023CJ0771",
+   "date": "2026-11-12T00:00:00+00:00",
+   "summary": "__[unreferenced:arret-c-ii-ext]__ van 12 november 2026. Beroep tot nietigverklaring – Richtlijn (EU) 2023/1791 – Energie-efficiëntie – Wijziging van verordening (EU) 2023/955 – Rechtsgrondslag van richtlijn 2023/1791 – Bepaling – Inaanmerkingneming van de gevolgen van deze richtlijn – Artikel 192, lid 2, eerste alinea, punt c), VWEU – Artikel 194, lid 2, VWEU – Maatregelen die de keuze van een lidstaat tussen verschillende energiebronnen en de algemene structuur van zijn energievoorziening aanzienlijk beïnvloeden – Evenredigheidsbeginsel – Regelmatigheid van de effectbeoordeling bij richtlijn ",
+   "source": "hvjeu",
+   "first_seen": "2026-11-13T05:48:49+00:00"
   },
   {
    "title": "Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)",
