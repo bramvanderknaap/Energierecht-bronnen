@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-13T05:48:49+00:00",
+ "updated": "2026-11-14T11:53:12+00:00",
  "items": [
+  {
+   "title": "Oil Coordination Group confirms continued supply stability across the EU",
+   "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+   "date": "2026-11-13T17:41:34+00:00",
+   "summary": "Experts from the Commission, EU countries, the International Energy Agency (IEA), the Energy Community and NATO met again today in the Oil Coordination Group to take stock, together with industry representatives, of the current oil market situation.",
+   "source": "ec",
+   "first_seen": "2026-11-14T11:53:12+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "REMIT breach: E-Control fines managing director of balancing service provider for manipulating the electricity market",
+   "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
+   "date": "2026-11-13T14:19:00+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-11-14T11:53:12+00:00"
+  },
+  {
+   "title": "Commission assesses Poland’s 2030 NECP",
+   "url": "https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en",
+   "date": "2026-11-13T11:01:12+00:00",
+   "summary": "The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan",
+   "source": "ec",
+   "first_seen": "2026-11-14T11:53:12+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Hydrogen from electricity is growing in the EU, but not fast enough",
+   "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
+   "date": "2026-11-13T09:52:00+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-11-14T11:53:12+00:00"
+  },
   {
    "title": "Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026",
    "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261112-2",
@@ -33,6 +67,15 @@
    "summary": "This summer was the summer of truth. Devastating floods in Nepal, droughts from Sudan to Central America and, in Europe, one of the worst wildfire seasons on record. At the same time as the climate crisis is unfolding, disruptions of energy supplies through the Strait of Hormuz are shaking global en",
    "source": "ec",
    "first_seen": "2026-11-12T14:02:44+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities",
+   "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en",
+   "date": "2026-11-10T17:01:45+00:00",
+   "summary": "Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.",
+   "source": "ec",
+   "first_seen": "2026-11-14T11:53:12+00:00",
    "date_checked": true
   },
   {
@@ -1478,7 +1521,7 @@
    "title": "Europese Commissie tegen Bondsrepubliek Duitsland (C-242/24)",
    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62024CJ0242",
    "date": "2026-07-09T00:00:00+00:00",
-   "summary": "Arrest van het Hof (Vierde kamer) van 9 juli 2026. Hogere voorziening – Staatssteun – Sector warmte-krachtkoppeling – Hervorming van de steunregeling voor warmte-krachtkoppeling – Besluit van de Europese Commissie waarbij steun verenigbaar met de interne markt wordt verklaard – Begrip ‚staatssteun’ – Met staatsmiddelen bekostigde maatregelen – Voorwaarde inzake het bestaan van een verplichte heffing.",
+   "summary": "Arrest van het Hof (Vierde kamer) van 9 juli 2026. Hogere voorziening – Staatssteun – Sector warmte-krachtkoppeling – Hervorming van de steunregeling voor warmte-krachtkoppeling – Besluit van de Europese Commissie waarbij de steun verenigbaar met de interne markt wordt verklaard – Begrip ‚staatssteun’ – Met staatsmiddelen bekostigde maatregelen – Voorwaarde inzake het bestaan van een verplichte heffing.",
    "source": "hvjeu",
    "first_seen": "2026-10-15T10:04:05+00:00"
   },
@@ -1690,6 +1733,15 @@
    "date_checked": true,
    "source": "civiel",
    "first_seen": "2026-11-12T14:02:44+00:00"
+  },
+  {
+   "title": "Rechtbank Den Haag: Gedaagde is een warmteleverancier die met duurzame warmtebronnen warmte en warm tapwater leverde aan de woningen van eisers. Gedaagde heeft… (ECLI:NL:RBDHA:2026:33004)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:33004",
+   "date": "2026-04-22T00:00:00+00:00",
+   "summary": "Gedaagde is een warmteleverancier die met duurzame warmtebronnen warmte en warm tapwater leverde aan de woningen van eisers. Gedaagde heeft de levering van warmte en warm tapwater beëindigd omdat het collectieve systeem na twintig jaar gebruik technisch was afgeschreven en niet duurzaam kon worden vernieuwd. Het geschil gaat over de vraag of gedaagde schadevergoeding is verschuldigd aan eisers ...",
+   "date_checked": true,
+   "source": "civiel",
+   "first_seen": "2026-11-14T11:53:12+00:00"
   },
   {
    "title": "Save the Date: Consumer Focus Event 2026",
