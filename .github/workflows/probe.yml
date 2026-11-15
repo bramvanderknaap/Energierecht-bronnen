@@ -1,0 +1,11 @@
+name: Verkenning Wintervlam (tijdelijk)
+on:
+  push:
+    branches: [claude/project-thread-62i53a]
+    paths: [scripts/probe_wintervlam.py, .github/workflows/probe.yml]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/probe_wintervlam.py
