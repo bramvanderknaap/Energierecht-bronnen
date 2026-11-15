@@ -6,52 +6,53 @@
   <meta name="color-scheme" content="light">
   <title>Energierecht Bronnen</title>
   <meta name="description" content="Energierecht databank: publicaties en rechtsbronnen van ACM, ACER, Europese Commissie, CEER, Rijksoverheid, CBb, civiele rechter en Hof van Justitie EU, dagelijks bijgewerkt.">
-  <meta name="theme-color" content="#E5EEF4">
+  <meta name="theme-color" content="#193B43">
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
   <link rel="alternate" type="application/rss+xml" title="Energierecht databank" href="data/feed.xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@500;600&family=Source+Sans+3:wght@400;600&display=swap">
+  <link rel="preload" href="assets/fonts/bricolage-grotesque-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <a class="skip" href="#tijdlijn">Direct naar de publicaties</a>
 
-  <div class="sky">
-    <!-- Landschap (zonnepark, windturbines, hoogspanning) wordt door app.js uit assets/ geladen -->
-    <div class="land" id="land" aria-hidden="true"></div>
+  <header class="hero" aria-labelledby="hero-title">
+    <img class="hero-img" src="assets/foto/windturbine.jpg" srcset="assets/foto/windturbine-1200.jpg 1200w, assets/foto/windturbine.jpg 2400w" sizes="100vw" alt="" fetchpriority="high">
 
-    <header class="site-header">
-      <div class="wrap">
-        <a class="brand" href="#publicaties" aria-label="Energierecht Bronnen, naar de publicaties">
-          <svg class="mark" width="30" height="30" viewBox="0 0 34 34" aria-hidden="true" focusable="false"><path class="lg-post" d="M4 4.5V29.5M30 4.5V29.5"/><path class="lg-wire" d="M4 9Q17 15 30 9M4 16Q17 22 30 16M4 23Q17 29 30 23"/><circle class="lg-node" cx="21" cy="18.7" r="2.9"/></svg>
-          <span class="wm">Energierecht Bronnen</span>
-        </a>
-        <nav aria-label="Hoofdmenu">
-          <ul class="nav">
-            <li><a href="#publicaties" data-view="publicaties" aria-current="page">Publicaties</a></li>
-            <li><a href="#bronnen" data-view="bronnen">Bronnen</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+    <div class="topbar">
+      <nav aria-label="Hoofdmenu">
+        <ul class="nav">
+          <li><a href="#publicaties" data-view="publicaties" aria-current="page">Publicaties</a></li>
+          <li><a href="#bronnen" data-view="bronnen">Bronnen</a></li>
+          <li><a href="#op-de-hoogte">Op de hoogte</a></li>
+        </ul>
+      </nav>
+      <a class="wordmark" href="#" aria-label="Energierecht Bronnen, naar boven">
+        <span class="wm-name">energierecht</span>
+        <span class="wm-sub">BRONNEN</span>
+      </a>
+      <a class="rss" href="data/feed.xml">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M5 4.5a14.5 14.5 0 0 1 14.5 14.5M5 10.5A8.5 8.5 0 0 1 13.5 19"/><circle cx="6" cy="18" r="1.4" fill="currentColor" stroke="none"/></svg>
+        <span>RSS-feed</span>
+      </a>
+    </div>
 
-    <section class="hero" aria-labelledby="hero-title">
-      <div class="wrap">
-        <div class="hero-copy">
-          <h1 id="hero-title">Energierecht databank</h1>
-          <p class="lead">Publicaties en rechtsbronnen van ACM, ACER, de Europese Commissie, CEER, de Rijksoverheid, het CBb, de civiele rechter en het Hof van Justitie van de EU. Dagelijks bijgewerkt.</p>
-          <form class="search" id="searchForm" role="search">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.4 15.4L21 21"/></svg>
-            <label class="sr-only" for="zoek">Zoek in titels en samenvattingen</label>
-            <input id="zoek" name="zoek" type="search" autocomplete="off" placeholder="Zoek op trefwoord">
-            <button class="btn-primary" type="submit">Zoeken</button>
-          </form>
-          <p class="updated" id="updated"></p>
-        </div>
-      </div>
-    </section>
-  </div>
+    <div class="hero-copy">
+      <h1 id="hero-title">Energierecht databank</h1>
+      <p class="lead">Publicaties en rechtsbronnen van ACM, ACER, de Europese Commissie, CEER, de Rijksoverheid, het CBb, de civiele rechter en het Hof van Justitie van de EU. Elke ochtend bijgewerkt.</p>
+      <form class="search" id="searchForm" role="search">
+        <label class="sr-only" for="zoek">Zoek in titels en samenvattingen</label>
+        <input id="zoek" name="zoek" type="search" autocomplete="off" placeholder="Zoek op trefwoord">
+        <button class="btn" type="submit">Zoeken</button>
+      </form>
+      <p class="updated" id="updated"></p>
+    </div>
+  </header>
+
+  <section class="intro" aria-labelledby="intro-title">
+    <a class="eyebrow" href="#bronnen">Energierecht Bronnen</a>
+    <h2 id="intro-title">De databank verzamelt <em>dagelijks</em> uitspraken, besluiten en beleid over energierecht uit openbare bronnen.</h2>
+  </section>
 
   <main class="main" id="view-publicaties">
     <div class="wrap">
@@ -60,7 +61,7 @@
           <summary>
             <h2 id="filters-title">Filters</h2>
             <span class="f-state" id="fState"></span>
-            <svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+            <svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
           </summary>
           <form id="filterForm">
             <fieldset class="fgroup">
@@ -104,7 +105,7 @@
         </div>
         <div id="tl"></div>
         <p class="empty" id="empty" hidden>Geen publicaties voor deze filters. Kies een langere periode of een andere bron.</p>
-        <button class="btn-ghost" type="button" id="more" hidden>Meer tonen</button>
+        <div class="more-row"><button class="btn" type="button" id="more" hidden>Meer tonen</button></div>
       </section>
     </div>
   </main>
@@ -112,25 +113,77 @@
   <main class="main bronnen-view" id="view-bronnen" hidden>
     <div class="wrap">
       <h2 id="bronnen-title" tabindex="-1">Bronnen</h2>
-      <p class="intro">De bronnen die de databank elke ochtend doorzoekt, met vaste links naar wet- en regelgeving en besluiten.</p>
+      <p class="b-intro">De bronnen die de databank elke ochtend doorzoekt, met vaste links naar wet- en regelgeving en besluiten.</p>
       <div class="sources" id="sources"></div>
     </div>
   </main>
 
-  <section class="updates" aria-labelledby="updates-title">
-    <div class="wrap">
+  <section class="blocks" aria-label="Over de bronnen">
+    <div class="block">
+      <div class="block-text">
+        <h2>Rechtspraak en toezicht</h2>
+        <p>Uitspraken van het College van Beroep voor het bedrijfsleven, de civiele rechter en het Hof van Justitie van de EU. Daarnaast besluiten en publicaties van de ACM, ACER, CEER en de Europese Commissie.</p>
+      </div>
+      <img class="leaf" src="assets/foto/hoogspanning.jpg" alt="Hoogspanningsmast van onderen gezien" loading="lazy" width="1200" height="1091">
+    </div>
+    <div class="block block-flip">
+      <img class="leaf" src="assets/foto/zonnepark.jpg" alt="Zonnepark van bovenaf" loading="lazy" width="1004" height="913">
+      <div class="block-text">
+        <h2>Wetten en regels</h2>
+        <p>Per bron vaste links naar de Energiewet, de Elektriciteitswet 1998, de Gaswet, de netcodes en de Europese verordeningen en richtlijnen.</p>
+      </div>
+    </div>
+    <p class="center"><a class="btn" href="#bronnen">Alle bronnen</a></p>
+  </section>
+
+  <section class="contact" id="op-de-hoogte" aria-labelledby="updates-title">
+    <img class="contact-img" src="assets/foto/windpark-zee.jpg" srcset="assets/foto/windpark-zee-1200.jpg 1200w, assets/foto/windpark-zee.jpg 2400w" sizes="100vw" alt="" loading="lazy">
+    <div class="card">
       <h2 id="updates-title">Op de hoogte blijven</h2>
-      <!-- Updatemails: zet bij data-aanmeld-url het adres van de aanmeldpagina van de nieuwsbriefdienst.
-           Die dienst maakt de mails zelf uit de RSS-feed (data/feed.xml). Leeg = dit blok blijft verborgen. -->
-      <p id="mailUpdates" data-aanmeld-url="" hidden>Ontvang nieuwe publicaties periodiek per e-mail. <a class="btn-primary" id="aanmeldLink" href="#" target="_blank" rel="noopener">Aanmelden</a></p>
-      <p>Volg nieuwe publicaties met een RSS-lezer: <a href="data/feed.xml">RSS-feed</a>.</p>
+      <dl class="rows">
+        <div class="row">
+          <dt>RSS-feed</dt>
+          <dd>Nieuwe publicaties in een RSS-lezer:<br><a href="data/feed.xml">data/feed.xml</a></dd>
+        </div>
+        <!-- Updatemails: zet bij data-aanmeld-url het adres van de aanmeldpagina van de nieuwsbriefdienst.
+             Die dienst maakt de mails zelf uit de RSS-feed (data/feed.xml). Leeg = deze regel blijft verborgen. -->
+        <div class="row" id="mailUpdates" data-aanmeld-url="" hidden>
+          <dt>E-mail</dt>
+          <dd>Nieuwe publicaties periodiek per e-mail:<br><a id="aanmeldLink" href="#" target="_blank" rel="noopener">Aanmelden</a></dd>
+        </div>
+        <div class="row">
+          <dt>Bronnen</dt>
+          <dd><a href="#bronnen">Overzicht van alle bronnen</a></dd>
+        </div>
+      </dl>
     </div>
   </section>
 
   <footer class="foot">
-    <div class="wrap">
-      <p>Automatisch verzameld uit openbare bronnen. Controleer altijd de originele publicatie.</p>
-      <ul id="footSources"></ul>
+    <div class="foot-wrap">
+      <div class="foot-top">
+        <a class="wordmark" href="#" aria-label="Energierecht Bronnen, naar boven">
+          <span class="wm-name">energierecht</span>
+          <span class="wm-sub">BRONNEN</span>
+        </a>
+        <a class="foot-icon" href="data/feed.xml" aria-label="RSS-feed">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M5 4.5a14.5 14.5 0 0 1 14.5 14.5M5 10.5A8.5 8.5 0 0 1 13.5 19"/><circle cx="6" cy="18" r="1.8" fill="currentColor" stroke="none"/></svg>
+        </a>
+      </div>
+      <div class="foot-cols">
+        <div class="foot-col foot-first">
+          <p>Automatisch verzameld uit openbare bronnen.<br>Controleer altijd de originele publicatie.</p>
+        </div>
+        <div class="foot-col">
+          <h2>Bronnen</h2>
+          <ul id="footSources"></ul>
+        </div>
+        <div class="foot-col">
+          <h2>Over de databank</h2>
+          <p>Elke ochtend bijgewerkt.<br><span id="footUpdated"></span></p>
+          <p class="credits">Foto's via Wikimedia Commons: Richard Kohar, Christine Kühn-Schierholz, A.Savin en Denkrahm. <a href="assets/foto/LICENTIES.txt">Licenties</a></p>
+        </div>
+      </div>
     </div>
   </footer>
 
