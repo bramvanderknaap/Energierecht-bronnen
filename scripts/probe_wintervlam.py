@@ -1,6 +1,5 @@
 """Tijdelijke verkenning (wordt niet samengevoegd): lettertypen, kleuren en vormen van wintervlam.eu."""
 import re, urllib.request
-from collections import Counter
 from urllib.parse import urljoin
 
 H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"}
@@ -12,49 +11,34 @@ def get(url):
 
 
 html = get("https://www.wintervlam.eu/")
-print("HTML", len(html))
-links = re.findall(r'<link[^>]+href="([^"]+)"[^>]*>', html)
-for l in links:
-    if any(k in l for k in ("css", "font", "typekit", "googleapis")):
-        print("LINK", l)
-for s in re.findall(r'<script[^>]+src="([^"]+)"', html)[:30]:
-    if "typekit" in s or "font" in s:
-        print("SCRIPT", s)
-print("--- inline style blocks ---")
 inline = "\n".join(re.findall(r"<style[^>]*>(.*?)</style>", html, re.S))
-print(len(inline))
-css = inline
-for l in links:
-    if ".css" in l or "fonts.googleapis" in l or "typekit" in l:
-        try:
-            c = get(urljoin("https://www.wintervlam.eu/", l))
-            print("CSS", l, len(c))
-            css += "\n" + c
-        except Exception as e:
-            print("CSS FOUT", l, e)
-ff = Counter(m.strip() for m in re.findall(r"font-family\s*:\s*([^;}{]+)", css))
-print("--- font-family ---")
-for k, v in ff.most_common(25):
-    print(v, k[:120])
-print("--- @font-face ---")
-for block in re.findall(r"@font-face\s*{[^}]*}", css)[:30]:
-    print(re.sub(r"\s+", " ", block)[:300])
-print("--- font-weight ---", Counter(re.findall(r"font-weight\s*:\s*([^;}{]+)", css)).most_common(10))
-print("--- letter-spacing ---", Counter(re.findall(r"letter-spacing\s*:\s*([^;}{]+)", css)).most_common(10))
-print("--- border-radius ---", Counter(re.findall(r"border-radius\s*:\s*([^;}{]+)", css)).most_common(15))
-print("--- kleuren hex ---", Counter(c.lower() for c in re.findall(r"#[0-9a-fA-F]{6}\b", css)).most_common(25))
-print("--- hsl ---", Counter(re.findall(r"hsla?\([^)]+\)", css)).most_common(25))
-print("--- custom properties ---")
-for k, v in Counter(re.findall(r"(--[\w-]+)\s*:\s*([^;}{]{1,80})", css)).most_common(80):
-    print(k)
-print("--- tweak / theme json ---")
-for m in re.findall(r'"(?:fontFamily|font-family|headingFont|bodyFont|fontName)"\s*:\s*"([^"]+)"', html)[:20]:
-    print("JSON font", m)
-for m in re.findall(r'(?:heading|body|button|meta|navigation)[A-Za-z-]*Font[A-Za-z-]*["\']?\s*[:=]\s*["\']?([^"\',;}]+)', html)[:30]:
-    print("TWEAK", m)
-print("--- afbeeldingen/video ---")
-for m in sorted(set(re.findall(r'https://[^"\'\s)]+\.(?:jpg|jpeg|png|webp|mp4|svg)', html)))[:30]:
-    print(m)
-print("--- tekst kop ---")
-for m in re.findall(r"<h[1-3][^>]*>(.*?)</h[1-3]>", html, re.S)[:12]:
-    print(re.sub(r"<[^>]+>", "", m).strip()[:100], "|", m[:200])
+print("=== variabelen (inline) ===")
+seen = set()
+pat = re.compile(r"(--(?:black|white|accent|darkAccent|lightAccent|safe\w*|siteBackground\w*|heading[\w-]*|body[\w-]*|meta[\w-]*|normal-text[\w-]*|large-text[\w-]*|small-text[\w-]*|site-navigation[\w-]*|primary-button[\w-]*|secondary-button[\w-]*|tertiary-button[\w-]*|header[\w-]*|site-title[\w-]*|sqs-site[\w-]*|page-padding|sqs-site-gutter|sqs-site-max-width|horizontal[\w-]*)(?:-hsl)?)\s*:\s*([^;}{]+)")
+for k, v in pat.findall(inline):
+    key = (k, v.strip())
+    if key in seen:
+        continue
+    seen.add(key)
+    print(k, ":", v.strip()[:140])
+print("=== context '16px 0' en radius in inline en html ===")
+for m in re.finditer(r"border-radius\s*:\s*([^;}{]+)", inline):
+    s = inline[max(0, m.start() - 160):m.end() + 10].replace("\n", " ")
+    if "0px 0px 0px 0px" not in s:
+        print("...", s[-260:])
+print("=== style-attributen met radius/clip/mask in html ===")
+for m in re.findall(r'style="([^"]*(?:radius|clip|mask)[^"]*)"', html)[:20]:
+    print(m[:300])
+print("=== shape/mask svg paden ===")
+for m in re.findall(r'<clipPath[^>]*>.*?</clipPath>', html, re.S)[:6]:
+    print(re.sub(r"\s+", " ", m)[:500])
+print("=== sectie-achtergronden/kleurthema's ===")
+for m in sorted(set(re.findall(r'data-section-theme="([^"]+)"', html))):
+    print("theme", m)
+for m in re.findall(r'\.(white|white-bold|light|light-bold|bright|bright-inverse|dark|dark-bold|black|black-bold)\s*\{([^}]{0,600})', inline)[:12]:
+    print(m[0], m[1][:600])
+print("=== eyebrow 'Wintervlam' en knoppen in html ===")
+i = html.find(">Wintervlam<")
+print(html[max(0, i - 700):i + 300] if i > 0 else "niet gevonden")
+i = html.find("Alle expertises")
+print(html[max(0, i - 900):i + 100] if i > 0 else "niet gevonden")
