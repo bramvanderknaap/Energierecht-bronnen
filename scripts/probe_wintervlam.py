@@ -72,7 +72,7 @@ def openverse(q):
 def commons(q):
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
         "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
-        "gsrsearch": q + " filetype:bitmap", "gsrlimit": 14, "prop": "imageinfo",
+        "gsrsearch": q + " filetype:bitmap", "gsrlimit": 20, "prop": "imageinfo",
         "iiprop": "url|size|extmetadata", "iiurlwidth": 480})
     out = []
     try:
@@ -129,7 +129,55 @@ def part_b():
         json.dump(alle, f, ensure_ascii=False, indent=1)
 
 
+QUERIES_C = {
+    "t2": ["wind turbine from below", "Windenergieanlage Froschperspektive", "wind turbine looking up", "windturbine Flevoland", "windmolen Noordoostpolder", "wind turbine Netherlands sky"],
+    "m2": ["hoogspanningsmast", "Wintrack hoogspanningsmast", "Hochspannungsmast Froschperspektive", "electricity pylon from below blue sky"],
+    "z2": ["zonnepark", "zonnepark luchtfoto", "Solarpark Luftbild", "solar park Netherlands"],
+}
+
+
+def part_c():
+    import io, time
+    from PIL import Image
+    os.makedirs("probe", exist_ok=True)
+    try:
+        for size in ("img-thumbs/1920w", "img-thumbs/2560w", "img-full"):
+            u = f"https://cdn.stocksnap.io/{size}/DLUEIC3HAJ.jpg"
+            try:
+                d = get(u, BOT, binary=True)
+                im = Image.open(io.BytesIO(d))
+                print("stocksnap", size, im.size, len(d))
+            except Exception as e:
+                print("stocksnap", size, e)
+    except Exception as e:
+        print("stocksnap fout", e)
+    alle = {}
+    for cat, qs in QUERIES_C.items():
+        lijst, n = [], 0
+        for q in qs:
+            time.sleep(1.5)
+            for r in commons(q):
+                if any(x["origineel"] == r["origineel"] for x in lijst):
+                    continue
+                time.sleep(0.4)
+                try:
+                    im = Image.open(io.BytesIO(get(r["thumb"], BOT, binary=True))).convert("RGB")
+                    im.thumbnail((480, 320))
+                    n += 1
+                    r["bestand"] = f"probe/{cat}-{n:02d}.jpg"
+                    im.save(r["bestand"], quality=70)
+                    lijst.append(r)
+                except Exception as e:
+                    print("thumb fout", r["thumb"], e)
+        alle[cat] = lijst
+        print(cat, n, "voorbeelden")
+    with open("probe/fotos2.json", "w") as f:
+        json.dump(alle, f, ensure_ascii=False, indent=1)
+
+
 if __name__ == "__main__":
+    if "c" in sys.argv[1:]:
+        part_c()
     if "a" in sys.argv[1:]:
         part_a()
     if "b" in sys.argv[1:]:
