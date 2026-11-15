@@ -186,20 +186,33 @@ DOWNLOADS = {
 }
 
 
+def thumb_url(url, breed):
+    titel = "File:" + urllib.parse.unquote(url.rsplit("/", 1)[1])
+    api = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
+        "action": "query", "format": "json", "titles": titel, "prop": "imageinfo", "iiprop": "url", "iiurlwidth": breed})
+    pages = json.loads(get(api, BOT))["query"]["pages"]
+    return next(iter(pages.values()))["imageinfo"][0]["thumburl"]
+
+
 def part_d():
     import io, time
     from PIL import Image, ImageOps
     os.makedirs("probe/full", exist_ok=True)
     for naam, (url, breed) in DOWNLOADS.items():
-        time.sleep(2)
-        try:
-            im = ImageOps.exif_transpose(Image.open(io.BytesIO(get(url, BOT, binary=True)))).convert("RGB")
-            if im.width > breed:
-                im = im.resize((breed, round(im.height * breed / im.width)), Image.LANCZOS)
-            im.save(f"probe/full/{naam}.jpg", quality=88, optimize=True, progressive=True)
-            print(naam, im.size)
-        except Exception as e:
-            print("fout", naam, e)
+        if os.path.exists(f"probe/full/{naam}.jpg"):
+            continue
+        for poging in range(5):
+            time.sleep(6 + 20 * poging)
+            try:
+                bron = thumb_url(url, breed)
+                im = ImageOps.exif_transpose(Image.open(io.BytesIO(get(bron, BOT, binary=True)))).convert("RGB")
+                if im.width > breed:
+                    im = im.resize((breed, round(im.height * breed / im.width)), Image.LANCZOS)
+                im.save(f"probe/full/{naam}.jpg", quality=88, optimize=True, progressive=True)
+                print(naam, im.size, bron)
+                break
+            except Exception as e:
+                print("fout", naam, poging, e)
 
 
 if __name__ == "__main__":
