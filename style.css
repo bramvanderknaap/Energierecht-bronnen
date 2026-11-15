@@ -58,8 +58,6 @@ h1,h2,h3{font-family:var(--heading);font-weight:200;letter-spacing:-.05em;line-h
 .nav{display:flex;flex-wrap:wrap;gap:4px 28px;margin:0;padding:12px 0 0;list-style:none}
 .nav a{font-weight:500;font-size:1.1rem;text-decoration:none;color:var(--white);padding:4px 0;border-bottom:1px solid transparent}
 .nav a:hover,.nav a[aria-current="page"]{border-bottom-color:currentColor}
-.rss{justify-self:end;display:inline-flex;align-items:center;gap:8px;margin-top:12px;font-weight:500;font-size:1.1rem;text-decoration:none;color:var(--white);padding:4px 0}
-.rss:hover span{text-decoration:underline;text-underline-offset:4px}
 
 .hero-copy{flex:1;display:flex;flex-direction:column;justify-content:center;max-width:calc(10vw + 760px);padding:clamp(56px,9vh,120px) var(--pad) clamp(72px,12vh,150px) max(16px,10vw)}
 h1{font-size:var(--h1);color:var(--teal);max-width:7em;margin-bottom:.32em}
@@ -211,7 +209,6 @@ h1{font-size:var(--h1);color:var(--teal);max-width:7em;margin-bottom:.32em}
   .topbar .wordmark{order:-1}
   .nav{justify-content:center;padding-top:6px;gap:4px 22px}
   .nav a{font-size:1rem}
-  .rss{display:none}
   .hero{min-height:auto}
   .hero-copy{padding:48px var(--pad) 64px}
   .hero::before{background:linear-gradient(180deg,rgba(25,59,67,.42) 0,rgba(25,59,67,.3) 60%,rgba(25,59,67,.15) 100%)}
