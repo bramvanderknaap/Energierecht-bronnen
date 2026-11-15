@@ -15,6 +15,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlencode, urljoin
 
+import civiel
+
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "sources.json"
 OUTPUT = ROOT / "data" / "items.json"
@@ -192,9 +194,24 @@ def feed_urls(feed, first_run):
     return [f"{feed['url']}&{urlencode({'max': size, 'from': n * size})}" for n in range(pages)]
 
 
+def has_archive(source):
+    """Een bron met een eigen archief (civiel) levert altijd alle items; oude items niet apart bewaren."""
+    return any(f["type"] == "civiel" for f in source.get("feeds", []))
+
+
 def collect(source, first_run=False):
     found, report = [], []
     for feed in source.get("feeds", []):
+        if feed["type"] == "civiel":
+            # Civiele uitspraken: selectie op volledige tekst, bijgehouden in data/civiel/ (zie civiel.py).
+            try:
+                report.append(civiel.update())
+            except Exception as e:
+                report.append(f"  FOUT       {feed['url']}  ({type(e).__name__}: {e})")
+            items = civiel.load_archive()
+            report.append(f"  OK   {len(items):4d}  archief data/civiel/")
+            found.extend(items)
+            continue
         try:
             if feed["type"] == "hvj":
                 time.sleep(3)  # vriendelijk blijven voor de websites
@@ -525,7 +542,7 @@ def main():
         for item in items:
             prev = old.get(item["url"], {})
             item["source"] = source["id"]
-            item["first_seen"] = prev.get("first_seen", now)
+            item["first_seen"] = prev.get("first_seen") or item.get("first_seen") or now
             if prev.get("date_checked"):  # eerder gecontroleerde datum niet overschrijven met de feeddatum
                 item["date"] = prev["date"]
                 item["date_checked"] = True
@@ -538,7 +555,7 @@ def main():
     by_id = {s["id"]: s for s in sources}
     for url, item in old.items():
         source = by_id.get(item.get("source"))
-        if url not in all_items and source and is_relevant(item, source):
+        if url not in all_items and source and is_relevant(item, source) and not has_archive(source):
             all_items[url] = item
 
     apply_sitemap_dates(list(all_items.values()), sources)

@@ -1,0 +1,34 @@
+name: Selectie civiele uitspraken opnieuw toepassen
+
+# Leest de uitspraken die al in data/civiel/ staan opnieuw en past de huidige selectie toe.
+# Gebruik dit nadat de selectie in scripts/civiel.py strenger is gemaakt (duurt ongeveer een kwartier).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: civiel-archief
+
+jobs:
+  herbeoordelen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Selectie opnieuw toepassen
+        run: |
+          for f in data/civiel/[0-9]*.json; do python scripts/civiel.py herbeoordeel "$(basename "$f" .json)"; done
+      - name: Opslaan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/civiel
+          git diff --cached --quiet || git commit -m "Selectie civiele uitspraken opnieuw toegepast"
+          git pull --rebase
+          git push
