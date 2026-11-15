@@ -165,13 +165,23 @@
     state.shown = PAGE;
     render();
   });
-  zoek.addEventListener("input", () => { state.q = zoek.value.trim(); state.shown = PAGE; render(); });
+  // Twee zoekvelden (bovenaan en boven de lijst) die elkaar volgen
+  const zoekLijst = $("zoekLijst");
+  const zoekVelden = [zoek, zoekLijst];
+  const setZoek = (v) => zoekVelden.forEach((f) => { if (f.value !== v) f.value = v; });
+  zoekVelden.forEach((f) => f.addEventListener("input", () => {
+    setZoek(f.value);
+    state.q = f.value.trim();
+    state.shown = PAGE;
+    render();
+  }));
   $("searchForm").addEventListener("submit", (e) => { e.preventDefault(); state.q = zoek.value.trim(); render(); goList(); });
+  $("listSearchForm").addEventListener("submit", (e) => { e.preventDefault(); state.q = zoekLijst.value.trim(); render(); zoekLijst.blur(); });
   $("topics").addEventListener("click", (e) => {
     const c = e.target.closest(".chip");
     if (!c) return;
     state.q = state.q.toLowerCase() === c.dataset.q.toLowerCase() ? "" : c.dataset.q;
-    zoek.value = state.q;
+    setZoek(state.q);
     state.shown = PAGE;
     render();
   });
@@ -180,7 +190,7 @@
     form.reset();
     document.querySelectorAll("#bronList li").forEach((li) => { li.hidden = false; });
     Object.assign(state, { soort: "alle", bron: "alle", periode: "alles", nl: false, q: "", shown: PAGE });
-    zoek.value = "";
+    setZoek("");
     render();
   });
 

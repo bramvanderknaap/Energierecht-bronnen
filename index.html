@@ -99,6 +99,12 @@
           <h2 id="tl-title">Publicaties</h2>
           <p class="count" id="count" aria-live="polite"></p>
         </div>
+        <form class="list-search" id="listSearchForm" role="search">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.4 15.4L21 21"/></svg>
+          <label class="sr-only" for="zoekLijst">Zoek in de publicaties</label>
+          <input id="zoekLijst" type="search" autocomplete="off" placeholder="Zoek in de publicaties">
+          <button class="btn" type="submit">Zoeken</button>
+        </form>
         <div id="tl"></div>
         <p class="empty" id="empty" hidden>Geen publicaties voor deze filters. Kies een langere periode of een andere bron.</p>
         <div class="more-row"><button class="btn" type="button" id="more" hidden>Meer tonen</button></div>
