@@ -175,7 +175,36 @@ def part_c():
         json.dump(alle, f, ensure_ascii=False, indent=1)
 
 
+DOWNLOADS = {
+    "windturbine-a": ("https://upload.wikimedia.org/wikipedia/commons/c/cd/Wind_turbine_looking_up_Wolfe_Island%2C_Ontario%2C_Canada.jpg", 2600),
+    "windturbine-b": ("https://upload.wikimedia.org/wikipedia/commons/b/b4/Wind_park_A6_Flevoland_4.jpg", 2600),
+    "windturbine-c": ("https://upload.wikimedia.org/wikipedia/commons/6/6a/Wind_park_A6_Flevoland_3.jpg", 2600),
+    "hoogspanning-a": ("https://upload.wikimedia.org/wikipedia/commons/2/2c/Slant_view.jpg", 2000),
+    "hoogspanning-b": ("https://upload.wikimedia.org/wikipedia/commons/2/2b/Electrical_Transmission_Tower_-_Norris%2C_Tennessee_-_March_8%2C_2015.jpg", 2000),
+    "zonnepark-a": ("https://upload.wikimedia.org/wikipedia/commons/f/f1/BRBHavel_asv2022-07_img17_Solarpark.jpg", 2000),
+    "windpark-zee": ("https://upload.wikimedia.org/wikipedia/commons/0/04/Afsluitdijk_-_wind_turbines.jpg", 2600),
+}
+
+
+def part_d():
+    import io, time
+    from PIL import Image, ImageOps
+    os.makedirs("probe/full", exist_ok=True)
+    for naam, (url, breed) in DOWNLOADS.items():
+        time.sleep(2)
+        try:
+            im = ImageOps.exif_transpose(Image.open(io.BytesIO(get(url, BOT, binary=True)))).convert("RGB")
+            if im.width > breed:
+                im = im.resize((breed, round(im.height * breed / im.width)), Image.LANCZOS)
+            im.save(f"probe/full/{naam}.jpg", quality=88, optimize=True, progressive=True)
+            print(naam, im.size)
+        except Exception as e:
+            print("fout", naam, e)
+
+
 if __name__ == "__main__":
+    if "d" in sys.argv[1:]:
+        part_d()
     if "c" in sys.argv[1:]:
         part_c()
     if "a" in sys.argv[1:]:

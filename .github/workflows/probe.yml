@@ -13,7 +13,7 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
       - run: python3 -m venv /tmp/v && /tmp/v/bin/pip install -q pillow
-      - run: /tmp/v/bin/python scripts/probe_wintervlam.py c
+      - run: /tmp/v/bin/python scripts/probe_wintervlam.py d
       - name: Voorbeelden vastleggen
         run: |
           git config user.name "github-actions[bot]"
