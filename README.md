@@ -9,7 +9,7 @@ ACM, ACER, de Europese Commissie (DG Energie), CEER, de Rijksoverheid, uitsprake
 - `scripts/fetch.py` – haalt de nieuwste publicaties op en zet ze in `data/items.json`. Maakt ook de RSS-feed `data/feed.xml`.
 - `.github/workflows/update.yml` – laat GitHub dit script elke ochtend automatisch draaien.
 - `index.html`, `style.css`, `app.js` – de website zelf, gepubliceerd via GitHub Pages.
-- `assets/` – de tekeningen van de huisstijl: het landschap met zonnepark, windturbines en 380 kV-lijn (`landschap-breed.svg` voor brede schermen, `landschap-smal.svg` voor telefoons) en het logo.
+- `assets/` – het logo, de lettertypen (Bricolage Grotesque en Inter, zelf gehost in `assets/fonts/`) en de foto's (`assets/foto/`, met makers en licenties in `assets/foto/LICENTIES.txt`). De stijl volgt wintervlam.eu.
 
 ## Arresten van het Hof van Justitie
 

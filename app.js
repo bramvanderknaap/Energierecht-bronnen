@@ -13,21 +13,6 @@
   const daysBetween = (a, b) => Math.round((keyToUTC(a) - keyToUTC(b)) / 86400000);
   const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
-  // ---------- Landschap (decoratief, uit assets/) ----------
-  const land = $("land");
-  const mqNarrow = matchMedia("(max-width: 719.98px)");
-  async function loadLand() {
-    const url = mqNarrow.matches ? "assets/landschap-smal.svg" : "assets/landschap-breed.svg";
-    if (land.dataset.src === url) return;
-    land.dataset.src = url;
-    try {
-      const svg = await (await fetch(url)).text();
-      if (land.dataset.src === url) land.innerHTML = svg;
-    } catch (e) { /* zonder tekening werkt de site gewoon */ }
-  }
-  loadLand();
-  mqNarrow.addEventListener?.("change", loadLand);
-
   // ---------- Gegevens ----------
   let sources, data;
   if (window.EB_DATA) {
@@ -46,7 +31,9 @@
   items.forEach((i) => { i.age = daysBetween(today, i.day); });
 
   if (data.updated) {
-    $("updated").textContent = `Laatst bijgewerkt op ${fmt(data.updated, { day: "numeric", month: "long", year: "numeric" })}`;
+    const bijgewerkt = `Laatst bijgewerkt op ${fmt(data.updated, { day: "numeric", month: "long", year: "numeric" })}`;
+    $("updated").textContent = bijgewerkt;
+    $("footUpdated").textContent = `${bijgewerkt}.`;
   }
 
   // Bronnen met publicaties, in de volgorde van sources.json
@@ -205,7 +192,7 @@
 
   // Filters: open op desktop, inklapbaar op kleine schermen
   const det = $("filters");
-  const mqDesk = matchMedia("(min-width: 901px)");
+  const mqDesk = matchMedia("(min-width: 1001px)");
   const syncDet = () => { det.open = mqDesk.matches; };
   syncDet();
   mqDesk.addEventListener?.("change", syncDet);
@@ -214,7 +201,7 @@
   render();
 
   // ---------- Bronnen ----------
-  $("sources").innerHTML = sources.map((s) => `<article class="card">
+  $("sources").innerHTML = sources.map((s) => `<article class="card-src">
       <div class="card-head"><h3>${esc(s.name)}</h3><span class="badge">${esc(s.region)}</span></div>
       <p class="sub">${esc(s.full_name)}</p>
       <p>${esc(s.description)}</p>
@@ -238,12 +225,20 @@
     const bronnen = location.hash === "#bronnen";
     $("view-publicaties").hidden = bronnen;
     $("view-bronnen").hidden = !bronnen;
-    document.querySelectorAll(".nav a").forEach((a) => {
+    document.querySelectorAll(".nav a[data-view]").forEach((a) => {
       if ((a.dataset.view === "bronnen") === bronnen) a.setAttribute("aria-current", "page");
       else a.removeAttribute("aria-current");
     });
-    if (bronnen) $("bronnen-title").focus({ preventScroll: true });
+    // De kop is hoog: na een klik op Publicaties of Bronnen naar die lijst scrollen
+    const doel = bronnen ? $("bronnen-title") : location.hash === "#publicaties" ? $("tijdlijn") : null;
+    if (doel) {
+      doel.scrollIntoView({ behavior: reduceMotion.matches ? "auto" : "smooth", block: "start" });
+      doel.focus({ preventScroll: true });
+    }
   }
   window.addEventListener("hashchange", route);
+  // Nogmaals op dezelfde link klikken geeft geen hashchange
+  document.querySelectorAll('a[href="#publicaties"], a[href="#bronnen"]').forEach((a) =>
+    a.addEventListener("click", () => { if (location.hash === a.getAttribute("href")) route(); }));
   route();
 })();
