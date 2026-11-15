@@ -124,6 +124,12 @@ h1{font-size:var(--h1);color:var(--teal);max-width:7em;margin-bottom:.32em}
 .list-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 16px;padding-bottom:14px;border-bottom:2px solid var(--teal)}
 .list-head h2{font-size:var(--h2)}
 .count{margin:0 0 0 auto;font-size:.95rem;color:var(--ink-2)}
+.list-search{display:flex;align-items:center;margin-top:20px;background:var(--white);border:1px solid var(--petrol);border-radius:var(--leaf-btn) 0;overflow:hidden}
+.list-search:focus-within{outline:2px solid var(--petrol);outline-offset:3px}
+.list-search > svg{flex:none;margin-left:18px;color:var(--petrol)}
+.list-search input{flex:1;min-width:0;border:0;background:transparent;color:var(--ink);font:inherit;font-size:1rem;padding:16px 12px;outline:none;text-overflow:ellipsis}
+.list-search input::placeholder{color:var(--ink-2)}
+.list-search .btn{padding:0 1.8em;margin:5px;align-self:stretch}
 .day h3{margin:34px 0 0;padding-bottom:8px;font-family:var(--text);font-weight:600;font-size:.9rem;letter-spacing:.08em;color:var(--ink-2);border-bottom:1px solid var(--teal)}
 .items{list-style:none;margin:0;padding:0}
 .item{padding-block:18px;border-bottom:1px solid var(--teal)}
@@ -223,6 +229,8 @@ h1{font-size:var(--h1);color:var(--teal);max-width:7em;margin-bottom:.32em}
 @media (max-width:560px){
   .foot-cols{grid-template-columns:1fr}
   .search .btn{padding:0 1.2em}
+  .list-search .btn{padding:0 1.2em}
+  .list-search > svg{display:none}
   .item h4{font-size:1.05rem}
 }
 @media (prefers-reduced-motion: reduce){
