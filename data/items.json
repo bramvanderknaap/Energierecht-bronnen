@@ -1,6 +1,31 @@
 {
- "updated": "2026-11-15T15:46:02+00:00",
+ "updated": "2026-11-16T13:16:53+00:00",
  "items": [
+  {
+   "title": "Electricity Coordination Group considers EU electricity market prepared for the winter",
+   "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
+   "date": "2026-11-16T08:09:45+00:00",
+   "summary": "The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination Group (ECG) meeting that took place yesterday.",
+   "source": "ec",
+   "first_seen": "2026-11-16T13:16:53+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Geschilbesluit Monnikenwaard en MVT – Liander",
+   "url": "https://www.acm.nl/nl/publicaties/geschilbesluit-monnikenwaard-en-mvt-liander",
+   "date": "2026-11-16T00:00:00+00:00",
+   "summary": "",
+   "source": "acm",
+   "first_seen": "2026-11-16T13:16:53+00:00"
+  },
+  {
+   "title": "Kikker Energie voldoet weer aan vergunningsvoorwaarden na bindende aanwijzing",
+   "url": "https://www.acm.nl/nl/publicaties/kikker-energie-voldoet-weer-aan-vergunningsvoorwaarden-na-bindende-aanwijzing",
+   "date": "2026-11-16T00:00:00+00:00",
+   "summary": "",
+   "source": "acm",
+   "first_seen": "2026-11-16T13:16:53+00:00"
+  },
   {
    "title": "Oil Coordination Group confirms continued supply stability across the EU",
    "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
