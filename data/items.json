@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T13:36:32+00:00",
+ "updated": "2026-11-19T14:03:06+00:00",
  "items": [
+  {
+   "title": "November infringements package: key decisions on energy",
+   "url": "https://energy.ec.europa.eu/news/november-infringements-package-key-decisions-energy-2026-11-19_en",
+   "date": "2026-11-19T11:23:39+00:00",
+   "summary": "In the list of November infringements, there is one energy-related letter of formal notice and one reasoned opinion.",
+   "source": "ec",
+   "first_seen": "2026-11-19T14:03:06+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "EU4Energy Advances Energy Connectivity in the South Caucasus and Türkiye",
+   "url": "https://www.ceer.eu/news/eu4energy-advances-energy-connectivity-in-the-south-caucasus-and-turkiye/",
+   "date": "2026-11-19T10:26:49+00:00",
+   "summary": "",
+   "source": "ceer",
+   "first_seen": "2026-11-19T14:03:06+00:00"
+  },
+  {
+   "title": "EU spending on electricity support measures reaches €12 billion in 2025 as reliance grows",
+   "url": "https://www.acer.europa.eu/news/eu-spending-electricity-support-measures-reaches-eur12-billion-2025-reliance-grows",
+   "date": "2026-11-19T08:57:00+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-11-19T14:03:06+00:00"
+  },
+  {
+   "title": "Woo-besluit over TenneT en netcongestie",
+   "url": "https://www.acm.nl/nl/publicaties/woo-besluit-over-tennet-en-netcongestie",
+   "date": "2026-11-19T00:00:00+00:00",
+   "summary": "",
+   "source": "acm",
+   "first_seen": "2026-11-19T14:03:06+00:00"
+  },
   {
    "title": "Commissioner Jørgensen in Poland to discuss energy and housing priorities",
    "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en",
@@ -17,6 +50,15 @@
    "summary": "The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.",
    "source": "ec",
    "first_seen": "2026-11-18T13:36:32+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2450",
+   "date": "2026-11-17T23:00:00+00:00",
+   "summary": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.",
+   "source": "ec",
+   "first_seen": "2026-11-19T14:03:06+00:00",
    "date_checked": true
   },
   {
@@ -52,6 +94,15 @@
    "summary": "The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.",
    "source": "ec",
    "first_seen": "2026-11-17T14:01:31+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "The Greek Dodecanese islands will be connected to the mainland grid thanks to a €228.9 million EU grant",
+   "url": "https://cinea.ec.europa.eu/news-events/news/greek-dodecanese-islands-will-be-connected-mainland-grid-thanks-eur2289-million-eu-grant-2026-11-16_en",
+   "date": "2026-11-16T13:25:22+00:00",
+   "summary": "The EU is supporting an ambitious energy infrastructure project in Greece that will link its Dodecanese islands to the mainland electricity grid.",
+   "source": "ec",
+   "first_seen": "2026-11-19T14:03:06+00:00",
    "date_checked": true
   },
   {
@@ -2472,6 +2523,17 @@
    "first_seen": "2026-04-29T00:00:00+00:00",
    "grond": "samenvatting",
    "toelichting": "laadpa"
+  },
+  {
+   "title": "Rechtbank Gelderland: Elektromagnetische velden door transformatorhuisje op perceel grenzend aan tuin. Vordering tot verwijdering/verplaatsing. Onrechtmatige… (ECLI:NL:RBGEL:2026:8512)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2026:8512",
+   "date": "2026-04-29T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Elektromagnetische velden door transformatorhuisje op perceel grenzend aan tuin. Vordering tot verwijdering/verplaatsing. Onrechtmatige hinder 5:37 BW en 6:162 BW. Gelet op omstandigheden van het geval (de aard, ernst en duur van de hinder, de daardoor veroorzaakte schade, en de (plaatselijke) omstandigheden) is niet gebleken van een door de netbeheer geschonden (zorgvuldigheids)norm. Het komt nie",
+   "source": "civiel",
+   "first_seen": "2026-11-19T14:04:09+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
   },
   {
    "title": "Gerechtshof Arnhem-Leeuwarden: Benoeming deskundige (ECLI:NL:GHARL:2026:2611)",
