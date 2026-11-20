@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-19T14:03:06+00:00",
+ "updated": "2026-11-20T13:45:30+00:00",
  "items": [
+  {
+   "title": "EU backs global compact to cut energy bills and emissions from buildings",
+   "url": "https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en",
+   "date": "2026-11-20T08:54:12+00:00",
+   "summary": "Today, the European Union has endorsed the Antalya Compact for Energy Efficient Buildings, an initiative to reduce buildings’ energy intensity - energy consumed per m² - by at least 25% by 2035.",
+   "source": "ec",
+   "first_seen": "2026-11-20T13:45:30+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "Co-legislators agree on a targeted amendment to Methane Regulation to ensure supply security amid energy crisis",
+   "url": "https://energy.ec.europa.eu/news/co-legislators-agree-targeted-amendment-methane-regulation-ensure-supply-security-amid-energy-crisis-2026-11-19_en",
+   "date": "2026-11-19T15:08:46+00:00",
+   "summary": "This morning, the European Parliament and Council reached a provisional agreement on the amendment to the EU Methane Regulation to postpone by 2 years the application of certain requirements for natural gas, crude oil and coal importers and EU operators.",
+   "source": "ec",
+   "first_seen": "2026-11-20T13:45:30+00:00",
+   "date_checked": true
+  },
   {
    "title": "November infringements package: key decisions on energy",
    "url": "https://energy.ec.europa.eu/news/november-infringements-package-key-decisions-energy-2026-11-19_en",
@@ -44,21 +62,21 @@
    "date_checked": true
   },
   {
-   "title": "EU endorses Global Electrification Pledge at COP31",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2465",
-   "date": "2026-11-17T23:00:00+00:00",
-   "summary": "The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.",
-   "source": "ec",
-   "first_seen": "2026-11-18T13:36:32+00:00",
-   "date_checked": true
-  },
-  {
    "title": "Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects",
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2450",
    "date": "2026-11-17T23:00:00+00:00",
    "summary": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.",
    "source": "ec",
    "first_seen": "2026-11-19T14:03:06+00:00",
+   "date_checked": true
+  },
+  {
+   "title": "EU endorses Global Electrification Pledge at COP31",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2465",
+   "date": "2026-11-17T23:00:00+00:00",
+   "summary": "The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.",
+   "source": "ec",
+   "first_seen": "2026-11-18T13:36:32+00:00",
    "date_checked": true
   },
   {
@@ -282,6 +300,17 @@
    "summary": "",
    "source": "rijksoverheid",
    "first_seen": "2026-11-07T05:37:01+00:00"
+  },
+  {
+   "title": "Rechtbank Den Haag: Graafschade drinkwaterleiding. Boren met handbediende grondboor is mechanisch grondroeren (art. 1 WIBON). Geen graafmelding en geen… (ECLI:NL:RBDHA:2026:33455)",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:33455",
+   "date": "2026-11-06T00:00:00+00:00",
+   "date_checked": true,
+   "summary": "Graafschade drinkwaterleiding. Boren met handbediende grondboor is mechanisch grondroeren (art. 1 WIBON). Geen graafmelding en geen lokalisatie ingetekende leiding: schending zorgplicht en CROW 500. Causaal verband via omkeringsregel. Geen eigen schuld netbeheerder. Abstract begrote schade onvoldoende betwist, toegewezen.",
+   "source": "civiel",
+   "first_seen": "2026-11-20T13:46:28+00:00",
+   "grond": "samenvatting",
+   "toelichting": "netbeheerder"
   },
   {
    "title": "EU to push for accelerated global climate action at COP31",
