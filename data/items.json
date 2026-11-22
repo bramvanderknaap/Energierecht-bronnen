@@ -1,15 +1,6 @@
 {
- "updated": "2026-11-21T13:11:07+00:00",
+ "updated": "2026-11-22T12:58:17+00:00",
  "items": [
-  {
-   "title": "ACER updates guidance to track cybersecurity performance in EU electricity networks",
-   "url": "https://www.acer.europa.eu/news/acer-updates-guidance-track-cybersecurity-performance-eu-electricity-networks",
-   "date": "2026-11-21T13:11:07+00:00",
-   "summary": "",
-   "source": "acer",
-   "first_seen": "2026-11-21T13:11:07+00:00",
-   "date_estimated": true
-  },
   {
    "title": "Gas Coordination Group confirms EU’s winter preparedness, importance of gas storage through the winter",
    "url": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en",
@@ -18,6 +9,14 @@
    "source": "ec",
    "first_seen": "2026-11-21T13:11:07+00:00",
    "date_checked": true
+  },
+  {
+   "title": "ACER updates guidance to track cybersecurity performance in EU electricity networks",
+   "url": "https://www.acer.europa.eu/news/acer-updates-guidance-track-cybersecurity-performance-eu-electricity-networks",
+   "date": "2026-11-20T15:27:00+00:00",
+   "summary": "",
+   "source": "acer",
+   "first_seen": "2026-11-21T13:11:07+00:00"
   },
   {
    "title": "EU backs global compact to cut energy bills and emissions from buildings",
